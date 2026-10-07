@@ -1,12 +1,25 @@
 (() => {
   const q = document.getElementById('q'), jump = document.getElementById('jump'), count = document.getElementById('count'), none = document.getElementById('none');
   const stages = [...document.querySelectorAll('.stage')];
+  const root = document.documentElement, srcs = document.getElementById('srcs');
+  // the filter reads item names only, plus the source lines while those are switched on
+  const text = li => { if (!li._n) { const c = li.cloneNode(true); li._a = c.textContent.toLowerCase(); c.querySelectorAll('.src').forEach(e => e.remove()); li._n = c.textContent.toLowerCase(); } return root.classList.contains('show-src') ? li._a : li._n; };
+  let rerun = () => {};
+  if (srcs) {
+    const set = on => { root.classList.toggle('show-src', on); srcs.checked = on; rerun(); };
+    let saved = false; try { saved = localStorage.getItem('ieor-src') === '1'; } catch (e) {}
+    set(saved || new URLSearchParams(location.search).get('sources') === '1');
+    srcs.addEventListener('change', () => { set(srcs.checked); try { localStorage.setItem('ieor-src', srcs.checked ? '1' : '0'); } catch (e) {} });
+    const place = it => { const s = it.querySelector('.src'); if (!s || root.classList.contains('show-src')) return; s.style.left = '0px'; const r = it.getBoundingClientRect(), w = s.offsetWidth; if (w) s.style.left = Math.round(Math.min(Math.max(r.left - 10, 8), innerWidth - w - 8) - r.left) + 'px'; };
+    document.addEventListener('pointerover', e => { const it = e.target.closest && e.target.closest('.it.has'); if (it) place(it); });
+    document.addEventListener('click', e => { const it = e.target.closest('.it.has'); for (const o of document.querySelectorAll('.it.open')) if (o !== it) o.classList.remove('open'); if (it && !e.target.closest('.src')) { it.classList.toggle('open'); place(it); } });
+  }
   if (q) {
     const run = () => {
       const t = q.value.trim().toLowerCase(); let shown = 0, hits = 0;
       for (const s of stages) {
         let any = !t;
-        for (const li of s.querySelectorAll('.chips li')) { const h = !!t && li.textContent.toLowerCase().includes(t); li.classList.toggle('hit', h); if (h) { any = true; hits++; } }
+        for (const li of s.querySelectorAll('.chips li')) { const h = !!t && text(li).includes(t); li.classList.toggle('hit', h); if (h) { any = true; hits++; } }
         if (t && !any) any = [...s.querySelectorAll('.prose, h3')].some(e => e.textContent.toLowerCase().includes(t));
         s.hidden = !any; if (any) shown++;
       }
@@ -14,7 +27,7 @@
       count.textContent = t ? `${hits} item${hits === 1 ? '' : 's'} in ${shown} stage${shown === 1 ? '' : 's'}` : '';
       none.hidden = !!shown;
     };
-    q.addEventListener('input', run);
+    q.addEventListener('input', run); rerun = run;
     const p = new URLSearchParams(location.search).get('q'); if (p) { q.value = p; run(); }
   }
   if (jump) jump.addEventListener('change', () => { if (jump.value) { location.hash = jump.value; jump.value = ''; } });

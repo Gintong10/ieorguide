@@ -48,7 +48,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Bundle of Horseshoe Balloons ≤; Champion's Wings / Skyline Wings (with boots); Frog Leg ≤; Harpy Ring; Magiluminescence; Shield of Cthulhu; Terraspark Boots
 - **Offensive:** Sea Spirit Amulet; Craw Carapace; Goopwood Parasite ν; Hexing Talisman; Otherworldly Amplifier; Prismarine Necklace
 - **Defensive:** Brain of Confusion; Chiseled Barrier; Clover Charm; Obsidian Shield; Royal Jelly; Survivalist's Boots; Worm Scarf
-- **Potions:** Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Lifeforce Potion; Regeneration Potion; Bouncing Flame Potion; Conflagration Potion; Frenzy Potion; Inferno Potion; Rage Potion \*; Titan Potion; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
+- **Potions:** Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Lifeforce Potion; Regeneration Potion; Bouncing Flame Potion; Conflagration Potion; Inferno Potion; Rage Potion \*; Titan Potion; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
 
 ### 6. Pre-Wall of Flesh
 
@@ -56,7 +56,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Blink Pack; Bundle of Horseshoe Balloons ≤; Champion's Wings / Skyline Wings (with boots); Frog Leg ≤; Harpy Ring; Magiluminescence; Shield of Cthulhu; Terraspark Boots
 - **Offensive:** Sea Spirit Amulet; Calculator; Craw Carapace; Goopwood Parasite ν; Hexing Talisman; Otherworldly Amplifier; Prismarine Necklace; Vibrancy Module ν
 - **Defensive:** Brain of Confusion; Chiseled Barrier; Clover Charm; Obsidian Shield; Radiant Ooze; Royal Jelly; Survivalist's Boots; Worm Scarf
-- **Potions:** Cherry Pie (Cook's Food); Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Lifeforce Potion; Regeneration Potion; Bouncing Flame Potion; Conflagration Potion; Frenzy Potion; Inferno Potion; Rage Potion \*; Titan Potion; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion; Vigor Potion
+- **Potions:** Cherry Pie (Cook's Food); Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Lifeforce Potion; Regeneration Potion; Bouncing Flame Potion; Conflagration Potion; Inferno Potion; Rage Potion \*; Titan Potion; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion; Vigor Potion
 - **Permanent upgrades:** Otherworld Conduit
 
 ## Hardmode

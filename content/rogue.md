@@ -87,7 +87,7 @@ The "Other mods" lines are read from the pack's installed mod files: thrown weap
 - **Stealth accessories:** Mirage Mirror; Coin of Deceit; Filthy Glove
 - **Buffs:** Shadow Potion; Flask of Cursed Flames / Flask of Ichor
 
-* **Other mods' weapons:** Thorium: Volt Hatchet (96); Lodestone Javelin (85); The Cryo-Fang (82, Borean Strider); Durasteel Throwing Spear ≈ (70); Hell Roller (66, Fallen Beholder); Venom Kunai ≈ (66); Kunai ≈ (60); Hot Pot ≈ (54); Omniwrench ≈ (52); Legion Ornament ≈ (51); Morel Grenade (48); Shadow-Tipped Javelin (48); Captain's Poignard (41); Fungal Popper (41); Eviscerating Claw (39); Palladium Throwing Spear ≈ (36); Cobalt Throwing Spear ≈ (34); Chum ≈ (26)
+* **Other mods' weapons:** Thorium: Volt Hatchet (96); Lodestone Javelin (85); The Cryo-Fang (82, Borean Strider); Durasteel Throwing Spear ≈ (70); Hell Roller (66, Fallen Beholder); Venom Kunai ≈ (66); Kunai ≈ (60); Hot Pot ≈ (54); Omniwrench ≈ (52); Legion Ornament ≈ (51); Morel Grenade (48); Shadow-Tipped Javelin (48); Captain's Poignard (41); Fungal Popper (41); Eviscerating Claw (39); Chum ≈ (26)
 * **Other mods' class armor:** Thorium: Plague Doctor's set
 
 ### 8. Post-Mechanical Boss 1
@@ -110,7 +110,7 @@ The "Other mods" lines are read from the pack's installed mod files: thrown weap
 - **Stealth accessories:** Ruin Medallion; Mirage Mirror; Electrician's Glove
 - **Buffs:** Shadow Potion; Flask of Cursed Flames / Flask of Ichor
 
-* **Other mods' weapons:** Thorium: Stalker's Snippers ≈ (124); Playing Card ≈ (60); Titanium Ricochet ≈ (40); Adamantite Ricochet ≈ (38). Thorium Bosses Reworked: Biter of Souls ≈ (45); Shoulder Blade ≈ (44)
+* **Other mods' weapons:** Thorium: Stalker's Snippers ≈ (124); Playing Card ≈ (60). Thorium Bosses Reworked: Biter of Souls ≈ (45); Shoulder Blade ≈ (44)
 
 ### 10. Pre-Polaris
 

@@ -42,7 +42,7 @@ def load_json(name):
     return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
 
 
-ICONS, BOSSES, STAGE_BOSSES = load_json('icons.json'), load_json('bosses.json'), {}
+ICONS, BOSSES, SOURCES, STAGE_BOSSES = load_json('icons.json'), load_json('bosses.json'), load_json('sources.json'), {}
 PREFIX = ['']
 
 
@@ -53,6 +53,14 @@ def img(e, cls):
 def icon(group, part):
     e = ICONS.get(f'{group}|{clean_part(part)}')
     return img(e, 'ic') if e else ''
+
+
+def part_html(group, part):
+    """One item inside a chip: sprite, name, and (hidden until asked for) where it comes from."""
+    body = icon(group, part) + inline(part, True)
+    src = SOURCES.get(f'{group}|{clean_part(part)}')
+    if not src: return f'<span class="it">{body}</span>'
+    return f'<span class="it has">{body}<span class="src">{"".join(f"<span>{html.escape(l)}</span>" for l in src)}</span></span>'
 
 
 def boss_html(name):
@@ -117,7 +125,7 @@ def chips(seg, group=''):
     items = [x.strip() for x in seg.split('; ') if x.strip()]
     if len(items) == 1 and (len(seg) > 70 or seg[:1].islower() or re.search(r'\. [A-Z]', seg)):
         return f'<span class="prose">{inline(seg, True)}</span>'
-    return '<ul class="chips">' + ''.join('<li>' + ' / '.join(icon(group, p) + inline(p, True) for p in x.split(' / ')) + '</li>' for x in items) + '</ul>'
+    return '<ul class="chips">' + ''.join('<li>' + '<span class="sep"> / </span>'.join(part_html(group, p) for p in x.split(' / ')) + '</li>' for x in items) + '</ul>'
 
 
 def row_body(content):
@@ -205,7 +213,9 @@ def stage_page(slug, title, bl):
     opts = ''.join(f'<option value="{n[1]}">{n[2]} · {html.escape(n[3])}</option>' for n in nav if n[0] == 'stage')
     tools = ('<div class="tools"><input id="q" type="search" placeholder="Filter items, e.g. Daedalus or Lich" aria-label="Filter items">'
              f'<select id="jump" aria-label="Jump to stage"><option value="">Jump to stage…</option>{opts}</select>'
-             '<span id="count" aria-live="polite"></span></div>')
+             '<label class="tog"><input id="srcs" type="checkbox"> Show where to get each item</label>'
+             '<span id="count" aria-live="polite"></span></div>'
+             '<p class="hint">Hover or tap an item to see where it comes from, or switch on the option above to list every source.</p>')
     return (f'<div class="layout"><aside class="side" aria-label="Stages">{"".join(side)}</aside><main>'
             f'<h1>{html.escape(title)}</h1>{"".join(lead)}{tools}{"".join(body)}'
             '<p id="none" hidden>No item on this page matches that filter.</p></main></div>')
@@ -319,6 +329,13 @@ dt{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
 .ic{height:22px;width:auto;max-width:36px;object-fit:contain;image-rendering:pixelated;vertical-align:-5px;margin:0 5px 0 -2px}
 .bi{height:20px;width:auto;max-width:30px;object-fit:contain;image-rendering:pixelated;vertical-align:-4px;margin-right:5px}
 .bosses{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:0 0 10px;font-size:13.5px;color:var(--muted)}.bl{font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--e)}.boss{white-space:normal}.nb{white-space:nowrap}td .bi{height:18px}
+.it.has{position:relative;cursor:help}.src{display:none;position:absolute;left:0;top:calc(100% + 7px);z-index:20;width:max-content;max-width:min(380px,calc(100vw - 24px));padding:9px 12px;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 28px rgba(0,0,0,.22);font-size:13px;line-height:1.4;font-weight:400;cursor:auto}
+.src span{display:block}.src span+span{margin-top:5px;padding-top:5px;border-top:1px solid var(--line)}.it.has:hover>.src,.it.open>.src{display:block}
+.tog{display:flex;align-items:center;gap:7px;font-size:14px;color:var(--ink);white-space:nowrap;cursor:pointer}.tog input{width:16px;height:16px;accent-color:var(--accent);margin:0}
+.hint{font-size:13px;color:var(--muted);margin:8px 0 0}.show-src .hint{display:none}
+.show-src .chips{flex-direction:column;gap:4px}.show-src .chips li{padding:5px 10px}.show-src .it{display:block}.show-src .it+.sep+.it{margin-top:6px}.show-src .sep{display:none}.show-src .it.has{cursor:auto}
+.show-src .src{display:block;position:static;width:auto;max-width:none;padding:1px 0 0;border:0;box-shadow:none;background:none;color:var(--muted);font-size:12.5px}
+.show-src .src span+span{margin-top:1px;padding-top:0;border-top:0}.show-src .grp .chips{flex:1 1 100%}
 .mk{text-decoration:none;color:var(--accent);font-weight:700;cursor:help;margin-left:1px}em{font-style:italic}
 [hidden]{display:none!important}#none{color:var(--muted);padding:30px 0}
 footer{border-top:1px solid var(--line);padding:26px 20px 40px;color:var(--muted);font-size:13px;text-align:center}footer p{max-width:80ch;margin:6px auto}
@@ -331,12 +348,25 @@ main{min-width:0}.chips li,.prose,.note{overflow-wrap:anywhere}
 JS = r'''(() => {
   const q = document.getElementById('q'), jump = document.getElementById('jump'), count = document.getElementById('count'), none = document.getElementById('none');
   const stages = [...document.querySelectorAll('.stage')];
+  const root = document.documentElement, srcs = document.getElementById('srcs');
+  // the filter reads item names only, plus the source lines while those are switched on
+  const text = li => { if (!li._n) { const c = li.cloneNode(true); li._a = c.textContent.toLowerCase(); c.querySelectorAll('.src').forEach(e => e.remove()); li._n = c.textContent.toLowerCase(); } return root.classList.contains('show-src') ? li._a : li._n; };
+  let rerun = () => {};
+  if (srcs) {
+    const set = on => { root.classList.toggle('show-src', on); srcs.checked = on; rerun(); };
+    let saved = false; try { saved = localStorage.getItem('ieor-src') === '1'; } catch (e) {}
+    set(saved || new URLSearchParams(location.search).get('sources') === '1');
+    srcs.addEventListener('change', () => { set(srcs.checked); try { localStorage.setItem('ieor-src', srcs.checked ? '1' : '0'); } catch (e) {} });
+    const place = it => { const s = it.querySelector('.src'); if (!s || root.classList.contains('show-src')) return; s.style.left = '0px'; const r = it.getBoundingClientRect(), w = s.offsetWidth; if (w) s.style.left = Math.round(Math.min(Math.max(r.left - 10, 8), innerWidth - w - 8) - r.left) + 'px'; };
+    document.addEventListener('pointerover', e => { const it = e.target.closest && e.target.closest('.it.has'); if (it) place(it); });
+    document.addEventListener('click', e => { const it = e.target.closest('.it.has'); for (const o of document.querySelectorAll('.it.open')) if (o !== it) o.classList.remove('open'); if (it && !e.target.closest('.src')) { it.classList.toggle('open'); place(it); } });
+  }
   if (q) {
     const run = () => {
       const t = q.value.trim().toLowerCase(); let shown = 0, hits = 0;
       for (const s of stages) {
         let any = !t;
-        for (const li of s.querySelectorAll('.chips li')) { const h = !!t && li.textContent.toLowerCase().includes(t); li.classList.toggle('hit', h); if (h) { any = true; hits++; } }
+        for (const li of s.querySelectorAll('.chips li')) { const h = !!t && text(li).includes(t); li.classList.toggle('hit', h); if (h) { any = true; hits++; } }
         if (t && !any) any = [...s.querySelectorAll('.prose, h3')].some(e => e.textContent.toLowerCase().includes(t));
         s.hidden = !any; if (any) shown++;
       }
@@ -344,7 +374,7 @@ JS = r'''(() => {
       count.textContent = t ? `${hits} item${hits === 1 ? '' : 's'} in ${shown} stage${shown === 1 ? '' : 's'}` : '';
       none.hidden = !!shown;
     };
-    q.addEventListener('input', run);
+    q.addEventListener('input', run); rerun = run;
     const p = new URLSearchParams(location.search).get('q'); if (p) { q.value = p; run(); }
   }
   if (jump) jump.addEventListener('change', () => { if (jump.value) { location.hash = jump.value; jump.value = ''; } });

@@ -10,6 +10,7 @@ Stage-by-stage gear for all seven classes (Melee, Ranged, Magic, Summoner, Rogue
 - `content/` holds one Markdown file per page.
 - `python3 build.py` turns them into the static site in `docs/`, which GitHub Pages serves. No dependencies beyond Python 3.
 - `content/icons.json` and `content/bosses.json` map item and boss names to the sprites in `docs/assets/img/`.
+- `content/sources.json` maps each item name to its "where to get it" lines (recipe, drops, shops), shown on hover or with the "Show where to get each item" switch.
 
 ## Where the lists come from
 

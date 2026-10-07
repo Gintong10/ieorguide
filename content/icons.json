@@ -1594,11 +1594,6 @@
 "h": 64,
 "w": 20
 },
-"Secrets of the Shadows|Continuum Collapse": {
-"f": "i/sots-ContinuumCollapse.png",
-"h": 26,
-"w": 26
-},
 "Secrets of the Shadows|Cruise Caller": {
 "f": "i/sots-CruiseCaller.png",
 "h": 42,
@@ -1889,11 +1884,6 @@
 "h": 24,
 "w": 64
 },
-"Thorium|Adamantite Ricochet": {
-"f": "i/tho-AdamantiteGlaive.png",
-"h": 30,
-"w": 30
-},
 "Thorium|Adamantite Staff": {
 "f": "i/tho-AdamantiteStaff.png",
 "h": 54,
@@ -2154,11 +2144,6 @@
 "h": 44,
 "w": 44
 },
-"Thorium|Cobalt Throwing Spear": {
-"f": "i/tho-CobaltThrowingSpear.png",
-"h": 44,
-"w": 44
-},
 "Thorium|Comet Crossfire": {
 "f": "i/tho-CometCrossfire.png",
 "h": 50,
@@ -2263,11 +2248,6 @@
 "f": "i/tho-DeitysTrefork.png",
 "h": 62,
 "w": 62
-},
-"Thorium|Demon Blood Bow": {
-"f": "i/tho-DemonBloodBow.png",
-"h": 58,
-"w": 22
 },
 "Thorium|Demon Blood Crossbow": {
 "f": "i/tho-DemonBloodCrossBow.png",
@@ -2874,11 +2854,6 @@
 "h": 44,
 "w": 44
 },
-"Thorium|Palladium Throwing Spear": {
-"f": "i/tho-PalladiumThrowingSpear.png",
-"h": 44,
-"w": 44
-},
 "Thorium|Phantom Arm Cannon": {
 "f": "i/tho-PhantomArmCannon.png",
 "h": 18,
@@ -3338,11 +3313,6 @@
 "f": "i/tho-TitanMask.png",
 "h": 24,
 "w": 26
-},
-"Thorium|Titanium Ricochet": {
-"f": "i/tho-TitaniumGlaive.png",
-"h": 34,
-"w": 34
 },
 "Thorium|Titanium Rifle": {
 "f": "i/tho-TitaniumRifle.png",
@@ -5150,9 +5120,9 @@
 "w": 36
 },
 "|Diamond Ring": {
-"f": "i/v-DiamondRing.png",
+"f": "i/tho-DiamondRing.png",
 "h": 20,
-"w": 28
+"w": 26
 },
 "|Diamond Robe": {
 "f": "i/v-DiamondRobe.png",
@@ -5848,11 +5818,6 @@
 "f": "i/cal-FragmentsOfAnotherWorld.png",
 "h": 58,
 "w": 62
-},
-"|Frenzy Potion": {
-"f": "i/tho-FrenzyPotion.png",
-"h": 30,
-"w": 20
 },
 "|Friendly-Fire Staff": {
 "f": "i/tho-FriendlyFireStaff.png",

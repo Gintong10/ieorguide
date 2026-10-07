@@ -1,0 +1,6401 @@
+{
+"All-class|Ancient Shadow armor": [
+"Rare drop from Eaters of Souls in the Corruption"
+],
+"All-class|Astral armor": [
+"Craft at Ancient Manipulator (whole set): Astral Bar ×54"
+],
+"All-class|Clamitas armor": [
+"Craft at Mythril Anvil (whole set): Mollusk Shellmet, Husk of Calamity ×42, Ashes of Calamity ×19, Amidias' Pendant, Mollusk Shelleggings, Mollusk Shellplate, Giant Pearl"
+],
+"All-class|Conduit armor": [
+"Craft at Mythril Anvil (whole set): Martian Conduit Plating ×120"
+],
+"All-class|Crimson armor": [
+"Craft at Anvil (whole set): Crimtane Bar ×60, Tissue Sample ×45"
+],
+"All-class|Crystal Assassin armor": [
+"Drops from Queen Slime"
+],
+"All-class|Darksteel armor": [
+"Craft at Anvil (whole set): Darksteel Ingot ×48"
+],
+"All-class|Demon Blood armor": [
+"Craft at Soul Forge (whole set): Demon Blood Shard ×40"
+],
+"All-class|Demonshade armor": [
+"Craft at Draedon's Forge (whole set): Shadowspec Bar ×45"
+],
+"All-class|Depth Diver's armor": [
+"Craft at Anvil (whole set): Aquaite Bar ×42"
+],
+"All-class|Dragon's armor": [
+"Craft at Mythril Anvil (whole set): Green Dragon Scale ×45"
+],
+"All-class|Durasteel armor": [
+"Sold by Blacksmith"
+],
+"All-class|Flesh armor": [
+"Craft at Anvil (whole set): Unfathomable Flesh ×45"
+],
+"All-class|Frigid armor": [
+"Craft at Anvil (whole set): Frigid Bar ×36"
+],
+"All-class|Gem Tech armor": [
+"Craft at Draedon's Forge (whole set): Exo Prism ×38, Solar Fragment ×14, Vortex Fragment ×14, Nebula Fragment ×14, Stardust Fragment ×14, Meld Blob ×14, Core of Calamity ×6"
+],
+"All-class|Gold armor": [
+"Craft at Anvil (whole set): Gold Bar ×75"
+],
+"All-class|Granite armor": [
+"Craft at Anvil (whole set): Granite Energy Core ×48"
+],
+"All-class|Lead armor": [
+"Craft at Anvil (whole set): Lead Bar ×60"
+],
+"All-class|Mollusk armor": [
+"Craft at Anvil (whole set): Mollusk Husk ×31, Sea Prism ×60"
+],
+"All-class|Omega Blue armor": [
+"Craft at Mythril Anvil (whole set): Reaper Tooth ×12, Depth Cells ×60, Ruinous Soul ×6"
+],
+"All-class|Platinum armor": [
+"Craft at Anvil (whole set): Platinum Bar ×75"
+],
+"All-class|Reaver armor": [
+"Craft at Mythril Anvil (whole set): Perennial Bar ×45"
+],
+"All-class|Shadow armor": [
+"Craft at Anvil (whole set): Demonite Bar ×60, Shadow Scale ×45"
+],
+"All-class|Slippery Shogun armor": [
+"Drops from Goozma",
+"Opened from Treasure Trunk"
+],
+"All-class|Terrarium armor": [
+"Craft at Ancient Manipulator (whole set): Terrarium Core ×36"
+],
+"All-class|Thorium armor": [
+"Craft at Thorium Anvil (whole set): Thorium Bar ×45"
+],
+"All-class|Vespera armor": [
+"Craft at Furnace (whole set): Evostone ×75, Stone Block ×225, Fragment of Earth ×3"
+],
+"Calamity Bard & Healer|Aquaius' Advice": [
+"Craft at Anvil: Aquaite Bar ×9, Sea Remains ×2, Depth Cells ×6, Abyssal Chitin ×3"
+],
+"Calamity Bard & Healer|Arctic Reinforcement": [
+"Drops from Cryogen"
+],
+"Calamity Bard & Healer|Auric Tesla Feathered Headwear": [
+"Craft at Cosmic Anvil: Tarragon Chapeau, Bloodflare Siren Skull, God Slayer Deathsinger's Cowl, Auric Bar ×10"
+],
+"Calamity Bard & Healer|Auric Tesla Valkyrie Visage": [
+"Craft at Cosmic Anvil: Tarragon Paragon Crown, Bloodflare Ritualist Mask, Silva Guardian's Helmet, Auric Bar ×10"
+],
+"Calamity Bard & Healer|Beyond Saving Grace": [
+"Craft at Cosmic Anvil: Celestial Wand, Divine Staff, Cosmilite Bar ×8",
+"Drops from The Devourer of Gods"
+],
+"Calamity Bard & Healer|Big Bang Cymbals": [
+"Craft at Ancient Manipulator: Frostwind Cymbals, Luminite Bar ×5, Life Alloy ×5, Shooting Star Fragment ×5"
+],
+"Calamity Bard & Healer|Birthplace of Stars": [
+"Craft at Ancient Manipulator: Gelatin Therapy, Lost Oasis, Metanova Bar ×5"
+],
+"Calamity Bard & Healer|Blood of Greater Sand Sharks": [
+"Drops from Argus, the Bereft Vassal"
+],
+"Calamity Bard & Healer|Bloodflare Ritualist Mask": [
+"Craft at Ancient Manipulator: Bloodstone Core ×11, Ruinous Soul ×2"
+],
+"Calamity Bard & Healer|Bloodflare Siren Skull": [
+"Craft at Ancient Manipulator: Bloodstone Core ×11, Ruinous Soul ×2"
+],
+"Calamity Bard & Healer|Blooming Saintess Statue": [
+"Craft at Ancient Manipulator: Archangel's Heart, Archdemon's Curse, Uelibloom Bar ×4"
+],
+"Calamity Bard & Healer|Blooming Saintess' Devotion": [
+"Craft at Ancient Manipulator: Pagan's Grasp, Life and Death, Uelibloom Bar ×7"
+],
+"Calamity Bard & Healer|Cherubim Omega": [
+"Craft at Draedon's Forge: Milky Way, Phoenician Beak, Death Adder, Hydrogen Sulfide, Tidal Force, Miracle Matter"
+],
+"Calamity Bard & Healer|Cold Shoulder": [
+"Craft at Mythril Anvil: Cryonic Bar ×12"
+],
+"Calamity Bard & Healer|Cotton Mouth": [
+"Drops from Aquatic Scourge"
+],
+"Calamity Bard & Healer|Daedalus Cowl": [
+"Craft at Mythril Anvil: Cryonic Bar ×12"
+],
+"Calamity Bard & Healer|Daedalus Hat": [
+"Craft at Mythril Anvil: Cryonic Bar ×12"
+],
+"Calamity Bard & Healer|Death Adder": [
+"Drops from Polterghast"
+],
+"Calamity Bard & Healer|Deck the Halls": [
+"Craft at Cosmic Anvil: Jingle Bells, Tambourine, Cosmilite Bar ×8, Endothermic Energy ×20"
+],
+"Calamity Bard & Healer|Disaster": [
+"Exhume Fire Hazard (an enchantment from the Brimstone Witch)"
+],
+"Calamity Bard & Healer|Doomsday Catharsis": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"Calamity Bard & Healer|Dust Devil Drums": [
+"Drops from Argus, the Bereft Vassal"
+],
+"Calamity Bard & Healer|Elemental Bloom": [
+"Craft at Cosmic Anvil: Blooming Saintess Statue, Hexing Talisman, Luminite Bar ×8, Ascendant Spirit Essence ×4"
+],
+"Calamity Bard & Healer|Exorectionist": [
+"Craft at Cosmic Anvil: Mysterious Circuitry ×15, Dubious Plating ×25, Cosmilite Bar ×8, Ascendant Spirit Essence ×2"
+],
+"Calamity Bard & Healer|Feral Keytar": [
+"Craft at Ancient Manipulator: K-GSS: Scuffed Keytar, Ruinous Soul ×2",
+"Drops from Polterghast"
+],
+"Calamity Bard & Healer|Fire Hazard": [
+"Drops from Calamitas Clone"
+],
+"Calamity Bard & Healer|Flight of the Goliath": [
+"Drops from The Plaguebringer Goliath"
+],
+"Calamity Bard & Healer|Gashadokuro": [
+"Exhume Hell's Bell (an enchantment from the Brimstone Witch)"
+],
+"Calamity Bard & Healer|God Slayer Deathsinger's Cowl": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×7, Ascendant Spirit Essence ×2"
+],
+"Calamity Bard & Healer|Harmony of the Old God": [
+"Drops from Goozma",
+"Opened from Treasure Bucket, Treasure Trunk"
+],
+"Calamity Bard & Healer|Hydrogen Sulfide": [
+"Craft at Mythril Anvil: Scoria Bar ×12"
+],
+"Calamity Bard & Healer|Hydrothermic Gas Mask": [
+"Craft at Mythril Anvil: Scoria Bar ×10"
+],
+"Calamity Bard & Healer|Hydrothermic Hat": [
+"Craft at Mythril Anvil: Scoria Bar ×10"
+],
+"Calamity Bard & Healer|Intergelactic Cloche": [
+"Craft at Ancient Manipulator: Statigel Earrings, Metanova Bar ×6"
+],
+"Calamity Bard & Healer|Intergelactic Protector Helm": [
+"Craft at Ancient Manipulator: Statigel Fox Mask, Metanova Bar ×6"
+],
+"Calamity Bard & Healer|Interstellar Shredder": [
+"Drops from Astrum Aureus"
+],
+"Calamity Bard & Healer|Irradiated Kusarigama": [
+"Drops from The Old Duke"
+],
+"Calamity Bard & Healer|K-GSS: Scuffed Keytar": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×15, Dubious Plating ×5, any Mythril Bar ×10, Soul of Might ×20"
+],
+"Calamity Bard & Healer|Milky Way": [
+"Craft at Cosmic Anvil: Syzygy, Cosmilite Bar ×8",
+"Drops from The Devourer of Gods"
+],
+"Calamity Bard & Healer|Noisebringer Goliath": [
+"Craft at Soul Forge: Subwoofer ×4, Plague Cell Canister ×16, Bio Matter ×8 (+1 other recipe)"
+],
+"Calamity Bard & Healer|Oath of Sacrifice": [
+"Exhume Dream Catcher (an enchantment from the Brimstone Witch)"
+],
+"Calamity Bard & Healer|Old Duke's Wisdom": [
+"Drops from The Old Duke"
+],
+"Calamity Bard & Healer|Omni-Speaker": [
+"Craft at Cosmic Anvil: Terrarium Surround Sound, Tree Whisperer Amulet, Luminite Bar ×8, Ascendant Spirit Essence ×4"
+],
+"Calamity Bard & Healer|Omnicide's Law": [
+"Drops from The Plaguebringer Goliath"
+],
+"Calamity Bard & Healer|Phoenician Beak": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"Calamity Bard & Healer|Pledge of Selflessness": [
+"Exhume The Good Book (an enchantment from the Brimstone Witch)"
+],
+"Calamity Bard & Healer|Purgatorium Pandemonium": [
+"Craft at Ancient Manipulator: Life and Death, Ruinous Soul ×2",
+"Drops from Polterghast"
+],
+"Calamity Bard & Healer|S-TSL: Electric Quarterstaff": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×15, Dubious Plating ×5, any Mythril Bar ×10, Soul of Sight ×20"
+],
+"Calamity Bard & Healer|S.A.R.S.": [
+"Drops from The Plaguebringer Goliath"
+],
+"Calamity Bard & Healer|School Nurse": [
+"Drops from Cryogen"
+],
+"Calamity Bard & Healer|Silva Guardian's Helmet": [
+"Craft at Cosmic Anvil: Planty Mush ×30, Effulgent Feather ×8, Ascendant Spirit Essence ×2"
+],
+"Calamity Bard & Healer|Singularity": [
+"Craft at Ancient Manipulator: Duality, Trinity, Metanova Bar ×5"
+],
+"Calamity Bard & Healer|Slag Fury's Intent": [
+"Craft at Anvil: Unholy Core ×7, Soul of Plight ×7"
+],
+"Calamity Bard & Healer|Song of the Ancients": [
+"Craft at Mythril Anvil: Broken Hero Fragment ×3"
+],
+"Calamity Bard & Healer|Song of the Cosmos": [
+"Craft at Cosmic Anvil: Song of the Elements, Holophonor, Auric Bar ×5"
+],
+"Calamity Bard & Healer|Song of the Elements": [
+"Craft at Ancient Manipulator: Song of the Ancients, Luminite Bar ×5, Life Alloy ×5, Shooting Star Fragment ×5"
+],
+"Calamity Bard & Healer|Soul Splicer": [
+"Drops from Ravager"
+],
+"Calamity Bard & Healer|Spooky Month": [
+"Craft at Cosmic Anvil: Cadaver's Cornet, Bone Trumpet, Hot Horn, Cosmilite Bar ×8, Nightmare Fuel ×20"
+],
+"Calamity Bard & Healer|Star Cluster": [
+"Drops from Astral Probe",
+"Opened from Astral Crate"
+],
+"Calamity Bard & Healer|Supercluster": [
+"Craft at Ancient Manipulator: Return to Sludge, Star Cluster, Metanova Bar ×5"
+],
+"Calamity Bard & Healer|Symphonic Fabrications": [
+"Craft at Draedon's Forge: Wulfrum Megaphone, Terrarium Autoharp, Black MIDI, Feral Keytar, Flight of the Goliath, Noisebringer Goliath, Miracle Matter"
+],
+"Calamity Bard & Healer|Syzygy": [
+"Craft at Ancient Manipulator: Luminite Bar ×5, Life Alloy ×5, Celestial Fragment ×5, Terrarium Holy Scythe"
+],
+"Calamity Bard & Healer|Tarragon Chapeau": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×12, Divine Geode ×6"
+],
+"Calamity Bard & Healer|Tarragon Paragon Crown": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×12, Divine Geode ×6"
+],
+"Calamity Bard & Healer|Tectonic Plates": [
+"Craft at Mythril Anvil: Scoria Bar ×10"
+],
+"Calamity Bard & Healer|Tidal Force": [
+"Drops from Anahita, The Leviathan",
+"Opened from Treasure Bag (Leviathan and Anahita)"
+],
+"Calamity Bard & Healer|Times Old Roman": [
+"Drops from Goozma",
+"Opened from Treasure Bucket, Treasure Trunk"
+],
+"Calamity Bard & Healer|Transfiguration": [
+"Craft at Ancient Manipulator: Staff of Sol, Divine Geode ×5, Unholy Essence ×15",
+"Drops from Providence, the Profaned Goddess"
+],
+"Calamity Bard & Healer|Tree Whisperer Amulet": [
+"Craft at Ancient Manipulator: any Instrument Accessories, Uelibloom Bar ×4"
+],
+"Calamity Bard & Healer|Tree Whisperer's Harp": [
+"Craft at Ancient Manipulator: Nocturne, Anahitas Arpeggio, Uelibloom Bar ×7"
+],
+"Calamity Bard & Healer|Trinity": [
+"Drops from Astrum Aureus"
+],
+"Calamity Bard & Healer|Will of the Ragnarök": [
+"Craft at Cosmic Anvil: Lucidity, Slag Fury's Intent, Aquaius' Advice, Omnicide's Law, Auric Bar ×7"
+],
+"Calamity Bard & Healer|Yharim's Jam": [
+"Craft at Cosmic Anvil: Noisebringer Goliath, Auric Bar ×12"
+],
+"Calamity Ranger Expansion|Chewing Gun": [
+"Craft at Work Bench: Gel ×18"
+],
+"Calamity Ranger Expansion|Plaguenade Launcher": [
+"Craft at Plague Infuser: Rocket Launcher, Infected Armor Plating ×8, Plague Cell Canister ×15"
+],
+"Calamity Ranger Expansion|Spectre Rifle": [
+"Craft at Mythril Anvil: Spectre Bar ×7, Essence of Eleum ×3, Ectoplasm ×3"
+],
+"Calamity Whip Addon|Actias Aliena": [
+"Craft at Mythril Anvil: Night Butterfly, Durendal, Living Shard ×12"
+],
+"Calamity Whip Addon|Aurelian Sanctum": [
+"Craft at Draedon's Forge: Gilded Reliquary, any Gold Bar ×40, Gold Dust ×200, Shadowspec Bar ×5"
+],
+"Calamity Whip Addon|Butterfly Effect": [
+"Craft at Mythril Anvil: Actias Aliena, Luminite Bar ×6, Life Alloy ×4, Stardust Fragment ×4"
+],
+"Calamity Whip Addon|Chorus of Execration": [
+"Exhume Mass of Wailing (an enchantment from the Brimstone Witch)"
+],
+"Calamity Whip Addon|Crack of the Universe": [
+"Craft at Cosmic Anvil: Emerald Splash, Cosmilite Bar ×12, Sapphire ×6, Amethyst ×6"
+],
+"Calamity Whip Addon|Destruction Chain": [
+"Craft at Mythril Anvil: Scoria Bar ×10"
+],
+"Calamity Whip Addon|Ectopia": [
+"Craft at Mythril Anvil: Spectre Bar ×12, Ectoplasm ×10"
+],
+"Calamity Whip Addon|Eta Carinae": [
+"Craft at Mythril Anvil: Butterfly Effect, Lumenyl ×10, Ruinous Soul ×3, Exodium Cluster ×12"
+],
+"Calamity Whip Addon|Existence Bonds": [
+"Craft at Mythril Anvil: Primal Bonds, Broken Hero Sword, Ashes of Calamity ×8, Infected Armor Plating ×8"
+],
+"Calamity Whip Addon|Gilded Reliquary": [
+"Craft at Mythril Anvil: Gold Rush, any Gold Bar ×30, Gold Dust ×100, Armored Shell ×2, Twisting Nether ×2, Dark Plasma ×2"
+],
+"Calamity Whip Addon|Glitter Gutter": [
+"Craft at Mythril Anvil: Cryonic Bar ×10, Crystal Shard ×10"
+],
+"Calamity Whip Addon|Gloamshard Conduit": [
+"Craft at Ancient Manipulator: Meld Blob ×17"
+],
+"Calamity Whip Addon|Gold Rush": [
+"Craft at Mythril Anvil: any Gold Bar ×20, Gold Dust ×50, Life Alloy ×4"
+],
+"Calamity Whip Addon|Kusari Gama": [
+"Drops from Possessed Armor"
+],
+"Calamity Whip Addon|Loadout": [
+"Drops from Burrower"
+],
+"Calamity Whip Addon|Mass of Wailing": [
+"Craft at Mythril Anvil: Ashes of Calamity ×13, Unholy Core ×10, Soul of Night ×8",
+"Shimmer transmutation of Chorus of Execration"
+],
+"Calamity Whip Addon|Mechanical Arm": [
+"Craft at Mythril Anvil: Wulfrum Arm, Hallowed Bar ×10, Soul of Fright ×2, Soul of Might ×2, Soul of Sight ×2"
+],
+"Calamity Whip Addon|Mermaid's Tear": [
+"Craft at Mythril Anvil: Existence Bonds, Unfathomable, Pink Pearl, Reaper Tooth ×8, Ruinous Soul ×4"
+],
+"Calamity Whip Addon|Milkyway": [
+"Craft at Draedon's Forge: Necropsia, Satellite, Glitter Gutter, Eta Carinae, Miracle Matter"
+],
+"Calamity Whip Addon|Necropsia": [
+"Craft at Mythril Anvil: Ectopia, Ruinous Soul ×5, Necroplasm ×20"
+],
+"Calamity Whip Addon|Night Butterfly": [
+"Craft at Anvil: Layered Pain, Soul of Night ×14"
+],
+"Calamity Whip Addon|Phase Scourge": [
+"Craft at Mythril Anvil: Orange Phase Whip, Crystal Shard ×40"
+],
+"Calamity Whip Addon|Primal Bonds": [
+"Craft at Mythril Anvil: Ancient Bonds, Soul of Fright ×5"
+],
+"Calamity Whip Addon|Resonant Void": [
+"Craft at Cosmic Anvil: Gloamshard Conduit, any Phase Scourge, Cosmilite Bar ×10, Dark Plasma"
+],
+"Calamity Whip Addon|Rubellus": [
+"Craft at Mythril Anvil: Emerald Splash, Effulgent Feather ×12, Ruby ×10"
+],
+"Calamity Whip Addon|Shield Conduit Mk-II": [
+"Craft at Mythril Anvil: Shield Conduit, Mysterious Circuitry ×10, Dubious Plating ×10, any Mythril Bar ×8, Soul of Sight ×20"
+],
+"Calamity Whip Addon|Shield Conduit Mk-III": [
+"Craft at Mythril Anvil: Shield Conduit Mk-II, Mysterious Circuitry ×15, Dubious Plating ×15, Life Alloy ×5, Infected Armor Plating ×10"
+],
+"Calamity Whip Addon|Shield Conduit Mk-IV": [
+"Craft at Mythril Anvil: Shield Conduit Mk-III, Mysterious Circuitry ×15, Dubious Plating ×15, Uelibloom Bar ×8, Luminite Bar ×4"
+],
+"Calamity Whip Addon|Shield Conduit Mk-V": [
+"Craft at Cosmic Anvil: Shield Conduit Mk-IV, Mysterious Circuitry ×20, Dubious Plating ×20, Cosmilite Bar ×8, Ascendant Spirit Essence ×2"
+],
+"Calamity Whip Addon|Skybreaker Coil": [
+"Craft at Cosmic Anvil: Auric Bar ×7, Teslastaff, Electrosphere Launcher"
+],
+"Calamity Whip Addon|Unfathomable": [
+"Craft at Mythril Anvil: Droptide, Mollusk Husk ×6, Depth Cells ×12, Black Pearl"
+],
+"Catalyst|Astragelgun": [
+"Craft at Ancient Manipulator: Overloaded Blaster, Stellar Cannon, Metanova Bar ×5"
+],
+"Catalyst|Astralpod Staff": [
+"Craft at Ancient Manipulator: Blighted Slime Staff, Abandoned Slime Staff, Metanova Bar ×5"
+],
+"Catalyst|Blossom's Blessing": [
+"Craft at Ancient Manipulator: Snapthorn, Uelibloom Bar ×5"
+],
+"Catalyst|Breath of Glacies": [
+"Drops from Cryogen"
+],
+"Catalyst|Exalted Horizon": [
+"Craft at Ancient Manipulator: Eldritch Tome, Star Shower, Metanova Bar ×5"
+],
+"Catalyst|Interstellar Volution": [
+"Craft at Ancient Manipulator: Gel Dart, Heavenfallen Stardisk, Metanova Bar ×5"
+],
+"Catalyst|Plasmilegion": [
+"Drops from XS-03 Apollo, XF-09 Ares, XM-05 Thanatos",
+"Opened from Treasure Box (Exo Mechs)"
+],
+"Catalyst|Repentance": [
+"Drops from Supreme Witch, Calamitas",
+"Opened from Treasure Coffer (Calamitas)"
+],
+"Catalyst|Resonant Striker": [
+"Drops from Dragonfolly",
+"Opened from Treasure Bag (The Dragonfolly)"
+],
+"Catalyst|Rook of Anarchy": [
+"Drops from Ravager"
+],
+"Catalyst|Sandstone Reins": [
+"Craft at Mythril Anvil: Grand Scale, Firecracker, Shark Fin ×5"
+],
+"Catalyst|Underbite": [
+"Craft at Mythril Anvil: Corroded Fossil ×10, Spinal Tap, Coral Crusher"
+],
+"Catalyst|Unrelenting Torment": [
+"Drops from Polterghast"
+],
+"Catalyst|Voltaic Firestorm": [
+"Drops from Dragonfolly",
+"Opened from Treasure Bag (The Dragonfolly)"
+],
+"Clamity|Auric Kunai": [
+"Craft at Cosmic Anvil: Cosmic Kunai, Executioner's Blade, Lunar Kunai, Auric Bar ×5"
+],
+"Clamity|Ethereal Knives": [
+"Craft at Cosmic Anvil: Jaws of Oblivion, Moonstone Knives, Cosmilite Bar ×8, Darksun Fragment ×8"
+],
+"Clamity|Exo Ball": [
+"Craft at Draedon's Forge: Gods' Paranoia, Metal Monstrosity, Burning Strife, Miracle Matter"
+],
+"Clamity|Hell`s Bells": [
+"Drops from Pyrogen"
+],
+"Clamity|Molten Piercer": [
+"Drops from Pyrogen"
+],
+"Clamity|Obsidigun": [
+"Drops from Pyrogen"
+],
+"Clamity|Planterror Staff": [
+"Craft at Ancient Manipulator: Plantation Staff, Flintlock Pistol, Luminite Bar ×5"
+],
+"Clamity|Rose Bow": [
+"Craft at Ancient Manipulator: Pearlwood Bow, Arch Amaryllis, Ruinous Soul ×5"
+],
+"Clamity|Starfish from the Depth": [
+"Craft at Mythril Anvil: Fishbone Boomerang, Voidstone ×20, Depth Cells ×20"
+],
+"Clamity|Subzero Slicer": [
+"Craft at Cosmic Anvil: Blazing Star, Frostcrush Valari, Trimarang, Endobsidian Bar ×8"
+],
+"Clamity|The Generator": [
+"Drops from Pyrogen"
+],
+"Clamity|Unicron": [
+"Craft at Cosmic Anvil: Omicron, Auric Bar ×5"
+],
+"Clamity|Wither Stormbow": [
+"Craft at Draedon's Forge: Marrow, Rem's Revenge, Shadowspec Bar ×5"
+],
+"Consolaria|Ancient Phantasmal set": [
+"Craft at Demon Altar (whole set): Ancient Hallowed Headgear, Adamantite or Titanium Bar ×32, Soul of Fright ×35, Soul of Blight ×35, Ancient Hallowed Plate Mail, Ancient Hallowed Greaves"
+],
+"Consolaria|Ancient Seraphim set": [
+"Craft at Mythril Anvil (whole set): Adamantite or Titanium Bar ×32, Soul of Flight ×35, Soul of Blight ×35, Ancient Hallowed Plate Mail, Ancient Hallowed Greaves"
+],
+"Consolaria|Ancient Siren set": [
+"Craft at Mythril Anvil (whole set): Adamantite or Titanium Bar ×32, Soul of Blight ×35, Ancient Hallowed Plate Mail, Ancient Hallowed Greaves"
+],
+"Consolaria|Ancient Titan set": [
+"Craft at Demon Altar (whole set): Ancient Hallowed Helmet, Adamantite or Titanium Bar ×32, Soul of Sight ×35, Soul of Blight ×35, Ancient Hallowed Greaves, Ancient Hallowed Plate Mail"
+],
+"Consolaria|Ancient Warlock set": [
+"Craft at Demon Altar (whole set): Ancient Hallowed Hood, Adamantite or Titanium Bar ×32, Soul of Night ×35, Soul of Blight ×35, Ancient Hallowed Plate Mail, Ancient Hallowed Greaves"
+],
+"Consolaria|Dragon's Breath": [
+"Drops from Ocram"
+],
+"Consolaria|Eternity Staff": [
+"Drops from Ocram"
+],
+"Consolaria|Eye of Ocram": [
+"Drops from Ocram"
+],
+"Consolaria|Jade Seal": [
+"Craft at Mythril Anvil: Adamantite or Titanium Bar ×10, Soul of Blight ×15"
+],
+"Consolaria|Phantasmal set": [
+"Craft at Mythril Anvil (whole set): Hallowed Headgear, Adamantite or Titanium Bar ×32, Soul of Fright ×35, Soul of Blight ×35, Hallowed Greaves, Hallowed Plate Mail"
+],
+"Consolaria|Seraphim set": [
+"Craft at Mythril Anvil (whole set): Adamantite or Titanium Bar ×32, Soul of Flight ×35, Soul of Blight ×35, Hallowed Plate Mail, Hallowed Greaves"
+],
+"Consolaria|Siren set": [
+"Craft at Mythril Anvil (whole set): Adamantite or Titanium Bar ×32, Soul of Blight ×35, Hallowed Plate Mail, Hallowed Greaves"
+],
+"Consolaria|Titan set": [
+"Craft at Mythril Anvil (whole set): Hallowed Helmet, Adamantite or Titanium Bar ×32, Soul of Sight ×35, Soul of Blight ×35, Hallowed Greaves, Hallowed Plate Mail"
+],
+"Consolaria|Vulcan Repeater": [
+"Craft at Mythril Anvil: Hallowed Repeater, Adamantite or Titanium Bar ×10, Soul of Blight ×15"
+],
+"Consolaria|Warlock set": [
+"Craft at Mythril Anvil (whole set): Hallowed Hood, Adamantite or Titanium Bar ×32, Soul of Night ×35, Soul of Blight ×35, Hallowed Greaves, Hallowed Plate Mail"
+],
+"Hunt of the Old God|Anti-Mass Accumulator": [
+"Craft at Mythril Anvil: Adamantite Particle Accelerator, Metanova Bar ×6, Exodium Cluster ×30, Mysterious Circuitry ×18, Suspicious Scrap ×3 (+2 other recipes)"
+],
+"Hunt of the Old God|Crystal Gauntlets": [
+"Drops from Goozma",
+"Opened from Treasure Trunk"
+],
+"Hunt of the Old God|Goomoire": [
+"Craft at Cosmic Anvil: Chromatic Mass ×15, Primordial Ancient, Biofusillade, Abyssal Tome, Winter's Fury (+1 other recipe)"
+],
+"Hunt of the Old God|Slime Cane": [
+"Drops from Goozma",
+"Opened from Treasure Trunk"
+],
+"Hunt of the Old God|Sludge Shaker": [
+"Drops from Goozma",
+"Opened from Treasure Trunk"
+],
+"Hunt of the Old God|Trailblazer": [
+"Craft at Cosmic Anvil: Chromatic Mass ×15, Cleansing Blaze, Pristine Fury, Overloaded Blaster, Aurora Blazer (+1 other recipe)"
+],
+"Infernal Arsenal|AirPod Shawty": [
+"Craft at Ancient Manipulator: Luminite Bar ×10, Track Player, Illegal Gun Parts, Shooting Star Fragment ×15"
+],
+"Infernal Arsenal|Arckane Staff": [
+"Craft at Ancient Manipulator: Astral Bar ×8, Ashes of Calamity ×5, Depth Cells ×5, Abyssal Chitin ×3, Infected Armor Plating ×3, Voidstone ×3"
+],
+"Infernal Arsenal|Ballad of Bells": [
+"Craft at Mythril Anvil: Bell, Essence of Eleum ×3, Essence of Havoc ×3, Essence of Sunlight ×3, Ashes of Calamity ×5"
+],
+"Infernal Arsenal|Barren Garden": [
+"Craft at Cosmic Anvil: Verdurant Bloom, Balance Bloom, Samsara Lotus, Divine Lotus, Enchanted Metal ×8, Auric Bar ×8, Endothermic Energy ×20"
+],
+"Infernal Arsenal|Birb Call": [
+"Drops from Dragonfolly",
+"Opened from Treasure Bag (The Dragonfolly)"
+],
+"Infernal Arsenal|Bottle of Souls": [
+"Drops from Wall of Flesh"
+],
+"Infernal Arsenal|Brimstone Harp": [
+"Drops from Brimstone Elemental"
+],
+"Infernal Arsenal|C-GSS Gamma Knife": [
+"Craft at Ancient Manipulator: Mysterious Circuitry ×18, Dubious Plating ×12, Uelibloom Bar ×8, Luminite Bar ×4 (+1 other recipe)"
+],
+"Infernal Arsenal|C-PMA Ripper": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×15, Dubious Plating ×15, Infected Armor Plating ×10, Life Alloy ×5"
+],
+"Infernal Arsenal|Corroded Cane": [
+"Drops from The Old Duke"
+],
+"Infernal Arsenal|Dagger of the Forgotten": [
+"Craft at Soul Forge: Carnwennan, Aureus Cell ×10, Soul of Sight ×5, Soul of Might ×5, Soul of Fright ×5, Soul of Night ×8, Bone ×12, Cursed Flame ×8 (+1 other recipe)"
+],
+"Infernal Arsenal|Death's Whisper": [
+"Drops from The Devourer of Gods"
+],
+"Infernal Arsenal|Eclipse set": [
+"Craft at Mythril Anvil (whole set): Hallowed Bar ×12, Adamantite or Titanium Bar ×36, Soul of Light ×35, Soul of Blight ×35, Aureus Cell ×30, Soul of Sight ×15, Soul of Might ×15, Soul of Fright ×15, Cursed Flame ×24, Hallowed Plate Mail, Hallowed Greaves"
+],
+"Infernal Arsenal|Exorcist's Greatblade": [
+"Craft at Ancient Manipulator: Heretic Breaker, Luminite Bar ×10, Celestial Fragment ×15"
+],
+"Infernal Arsenal|Forever Hungry": [
+"Drops from Wall of Flesh"
+],
+"Infernal Arsenal|Froststeel Gong": [
+"Craft at Cosmic Anvil: Frostwind Cymbals, Steel Drum, Enchanted Metal ×8, Auric Bar ×8, Endothermic Energy ×20"
+],
+"Infernal Arsenal|God's Pitch": [
+"Craft at Cosmic Anvil: Headset, Tune Player Damage, Tune Player Damage Reduction, Tune Player Life Regen, Tune Player Movement Speed, Auric Bar ×5"
+],
+"Infernal Arsenal|I-LSR Infrariff": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×15, Dubious Plating ×15, Infected Armor Plating ×10, Life Alloy ×5"
+],
+"Infernal Arsenal|I-PLS Ocarina": [
+"Craft at Cosmic Anvil: Mysterious Circuitry ×20, Dubious Plating ×20, Cosmilite Bar ×8, Ascendant Spirit Essence ×2"
+],
+"Infernal Arsenal|I-PMA Mechamatone": [
+"Craft at Ancient Manipulator: Mysterious Circuitry ×12, Dubious Plating ×18, Uelibloom Bar ×8, Luminite Bar ×4 (+1 other recipe)"
+],
+"Infernal Arsenal|Intercontinental Ballistic Whistle": [
+"Craft at Anvil: Wooden Whistle, Shadowspec Bar ×5"
+],
+"Infernal Arsenal|List of the Damned": [
+"Drops from Lich",
+"Opened from Lich Treasure Bag"
+],
+"Infernal Arsenal|Luminant Tether": [
+"Craft at Mythril Anvil: Hallowed Bar ×20, Soul of Light ×10, Pixie Dust ×10, Forbidden Fragment"
+],
+"Infernal Arsenal|Miniaturized Requiem Engine": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×10, Ascendant Spirit Essence ×2"
+],
+"Infernal Arsenal|Mystick Staff": [
+"Craft at Draedon's Forge: Arckane Staff, Shadowspec Bar ×5, Cosmilite Bar ×3, Ruinous Soul ×5, Divine Geode ×5, Miracle Matter"
+],
+"Infernal Arsenal|Necrosinger set": [
+"Craft at Mythril Anvil (whole set): Hallowed Bar ×12, Lumenyl ×36, Ruinous Soul ×9, Soul of Blight ×35, Aureus Cell ×30, Soul of Sight ×15, Soul of Might ×15, Soul of Fright ×15, Cursed Flame ×24, Hallowed Plate Mail, Hallowed Greaves"
+],
+"Infernal Arsenal|Necrotic Chorus": [
+"Drops from Ravager"
+],
+"Infernal Arsenal|Ocram's Roar": [
+"Craft at Soul Forge: Aureus Cell ×10, Sulphur Spitter, Soul of Sight ×5, Soul of Might ×5, Soul of Fright ×5, Soul of Night ×8, Bone ×12, Cursed Flame ×8",
+"Drops from Ocram"
+],
+"Infernal Arsenal|Planet Shaper": [
+"Craft at Cosmic Anvil: Yharon Soul Fragment ×4, Exodium Cluster ×15"
+],
+"Infernal Arsenal|Restored Deep Sea Drawl": [
+"Craft at Soul Forge: Deep Sea Drawl, Mouthpiece Shard, Bell Shard, Body Shard"
+],
+"Infernal Arsenal|Star Scepter": [
+"Craft by hand: Lodestone Ingot ×5, Crystal Shard ×15, Soul of Light ×10, Fallen Star ×5"
+],
+"Infernal Arsenal|Starwind Flute": [
+"Drops from Astrum Deus"
+],
+"Infernal Arsenal|Stormbreaker Crossbow": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Soul of Light ×10, Crystal Shard ×8",
+"Drops from Arch Wyvern, Brimstone Elemental"
+],
+"Infernal Arsenal|Sulphuric Shanty": [
+"Drops from Aquatic Scourge"
+],
+"Infernal Arsenal|Sword of a Thousand Truths": [
+"Craft at Cosmic Anvil: Exorcist's Greatblade, Piggy Item ×7, Ascendant Spirit Essence ×3"
+],
+"Infernal Arsenal|The Blight": [
+"Craft at Soul Forge: Aureus Cell ×10, Hallowed Scythe, Soul of Sight ×5, Soul of Might ×5, Soul of Fright ×5, Soul of Night ×8, Bone ×12, Cursed Flame ×8 (+1 other recipe)"
+],
+"Infernal Arsenal|The Parallel": [
+"Drops from Signus"
+],
+"Infernal Arsenal|Thunderbolt Action Sniper Rifle": [
+"Craft at Ancient Manipulator: Sniper Rifle, Sanguite Scales ×15, Armored Shell ×3"
+],
+"Infernal Arsenal|Two Paths": [
+"Craft at Draedon's Forge: Ashes of Annihilation ×10, Reality Slasher, Reality Slasher, Ashes of Annihilation ×10, Shadowspec Bar ×5"
+],
+"Infernal Arsenal|Viral Wisdom": [
+"Drops from The Old Duke"
+],
+"Infernal Eclipse|.454 Casull and The Jackal": [
+"Craft at Cosmic Anvil: Auralis, Handgun, Cosmilite Bar ×8, Bloodstone ×10, Ruinous Soul ×3"
+],
+"Infernal Eclipse|Exo Disintegrator": [
+"Craft at Starlit Forge: Chaos Blaster, Shadowspec Bar ×3, Miracle Matter, Rock"
+],
+"Infernal Eclipse|Nebula Gigabeam": [
+"Craft at Starlit Forge: Chaos Blaster, Primordial Orchid ×5, Rock"
+],
+"Infernal Eclipse|Nova Bomb": [
+"Craft at Draedon's Forge: Miracle Matter, Alloy of Eden, Shadowspec Bar ×3, Dark Plasma ×10, Meld Blob ×15, Voidstone ×10, Rock"
+],
+"Infernum|Arid Battlecry": [
+"Drops from Argus, the Bereft Vassal"
+],
+"Infernum|Dreamtastic": [
+"Craft at Bookcase: Stratus Bookcase, Stratus Bed ×2, Stratus Chandelier, Stratus Piano, Vega, Auric Bar ×5"
+],
+"Infernum|Eye of Madness": [
+"Drops from Primordial Wyrm"
+],
+"Infernum|Illusioner's Reverie": [
+"Drops from Primordial Wyrm"
+],
+"Infernum|Perditus": [
+"Drops from Argus, the Bereft Vassal"
+],
+"Infernum|The Glassmaker": [
+"Drops from Argus, the Bereft Vassal"
+],
+"Infernum|Wanderer's Shell": [
+"Drops from Argus, the Bereft Vassal"
+],
+"Permanent|Arcane Crystal": [
+"Throw a Mana Crystal into Shimmer"
+],
+"Permanent|Inspiration Fragment": [
+"Craft at Demon Altar: Fallen Star, Thorium Bar ×2"
+],
+"Permanent|Inspiration Gem": [
+"Shimmer transmutation of Inspiration Essence, Inspiration Singularity, Inspiration Crystal and 2 more"
+],
+"Permanent|Mana Crystal": [
+"Craft by hand: Fallen Star ×5"
+],
+"Ragnarok|Anahita's Arpeggio": [
+"Opened from Treasure Bag (Leviathan and Anahita)"
+],
+"Ragnarok|Aphelion": [
+"Craft at Draedon's Forge: Miracle Matter, Profaned Scythe, Terrarium Holy Scythe, Reality Slasher, Titan Scythe"
+],
+"Ragnarok|Arpeggiator": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×12, Grand Piano, Bloodstone ×40, Exodium Cluster ×30"
+],
+"Ragnarok|Asterion": [
+"Craft at Mythril Anvil: Exodium Cluster ×12, Lumenyl ×8, Ruinous Soul ×4, Prisma"
+],
+"Ragnarok|Astral Ripper": [
+"Craft at Ancient Manipulator: Astral Bar ×10"
+],
+"Ragnarok|Auric Damru": [
+"Craft at Cosmic Anvil: Auric Bar ×5, Bongos"
+],
+"Ragnarok|Auric Greatscythe": [
+"Craft at Cosmic Anvil: Marble Scythe, The Black Scythe, Auric Bar ×5"
+],
+"Ragnarok|Auric Tesla Frilled Helmet": [
+"Craft at Cosmic Anvil: Soloist's Hat, Inspirator's Helmet, Tarragon Shroud, Bloodflare Spiked Helmet, God Slayer Tricorn Helm, Shadowspec Bar ×12, Auric Bar ×10"
+],
+"Ragnarok|Auric Tesla Irradiant Visage": [
+"Craft at Cosmic Anvil: Dream Weaver's Hood, Dream Weaver's Helmet, Tarragon Cowl, Bloodflare Grim Visage, Silva Wreathed Helmet, Nightfallen Helmet, Shadowspec Bar ×12, Auric Bar ×10"
+],
+"Ragnarok|Belching Saxophone": [
+"Drops from Belching Coral"
+],
+"Ragnarok|Bloodflare Grim Visage": [
+"Craft at Ancient Manipulator: Bloodstone ×25, Blood Orb ×10, Ruinous Soul ×2"
+],
+"Ragnarok|Bloodflare Spiked Helmet": [
+"Craft at Ancient Manipulator: Bloodstone ×25, Blood Orb ×10, Ruinous Soul ×2"
+],
+"Ragnarok|Brimscythe": [
+"Drops from Brimstone Elemental"
+],
+"Ragnarok|Calamity Bell": [
+"Drops from Calamitas Clone"
+],
+"Ragnarok|Cosmic Injector": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×8, Lethal Injection"
+],
+"Ragnarok|Daedalus Headgear": [
+"Craft at Mythril Anvil: Cryonic Bar ×12, Essence of Eleum"
+],
+"Ragnarok|Daedalus Visage": [
+"Craft at Mythril Anvil: Cryonic Bar ×12, Essence of Eleum"
+],
+"Ragnarok|Devourer of Sines": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×12"
+],
+"Ragnarok|Dragon Force": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"Ragnarok|Drum Stick": [
+"Craft at Mythril Anvil: Drum Mallet, Perennial Bar ×8"
+],
+"Ragnarok|Ectambourine": [
+"Opened from Treasure Bag (Polterghast)"
+],
+"Ragnarok|Elemental Reaper": [
+"Craft at Ancient Manipulator: Terra Scythe, Luminite Bar ×5, Life Alloy ×5, Celestial Fragment ×10"
+],
+"Ragnarok|Elysian Song": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×12"
+],
+"Ragnarok|Emblazoned Drum Stick": [
+"Craft at Ancient Manipulator: Drum Stick, Uelibloom Bar ×8"
+],
+"Ragnarok|Face Melter": [
+"Craft at Cosmic Anvil: The Axe, Stellar Tune, Cosmilite Bar ×8, Nightmare Fuel ×20"
+],
+"Ragnarok|Glacial Harvester": [
+"Sold by Archmage"
+],
+"Ragnarok|God Slayer's Reap": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×12"
+],
+"Ragnarok|Grasp of Void": [
+"Craft at Ancient Manipulator: Ruinous Soul ×6, Dark Plasma ×6, Pagan's Grasp"
+],
+"Ragnarok|Intergelactic Ramhelm": [
+"Craft at Ancient Manipulator: Statigel Headpiece, Metanova Bar ×6"
+],
+"Ragnarok|Intergelactic Robohelm": [
+"Craft at Ancient Manipulator: Statigel Hat, Metanova Bar ×6"
+],
+"Ragnarok|Irradiant Infinity": [
+"Craft at Cosmic Anvil: Ruinous Soul ×15, Necroplasm ×15, Cosmilite Bar ×5"
+],
+"Ragnarok|Korobeiniki": [
+"Craft at Cosmic Anvil: Auric Bar ×12, Mysterious Circuitry ×12, Dubious Plating ×12, Ascendant Spirit Essence ×12"
+],
+"Ragnarok|Lamentation": [
+"Drops from Supreme Witch, Calamitas",
+"Opened from Treasure Coffer (Calamitas)"
+],
+"Ragnarok|Leviathan Heart": [
+"Drops from The Leviathan",
+"Opened from Treasure Bag (Leviathan and Anahita)"
+],
+"Ragnarok|Lucent Gemini": [
+"Craft at Mythril Anvil: Exodium Cluster ×12, Lumenyl ×8, Ruinous Soul ×4, Astral Ripper"
+],
+"Ragnarok|Nightfallen set": [
+"Craft at Ancient Manipulator (whole set): Lumenyl ×22, Exodium Cluster ×450, Ruinous Soul ×22"
+],
+"Ragnarok|Nightmare Freezer": [
+"Craft at Cosmic Anvil: Endothermic Energy ×10, Nightmare Fuel ×10"
+],
+"Ragnarok|Phantasmal Edge": [
+"Drops from Polterghast"
+],
+"Ragnarok|Profaned Bell": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×10, Divine Geode ×4",
+"Drops from Providence, the Profaned Goddess"
+],
+"Ragnarok|Profaned Scythe": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×10, Divine Geode ×4"
+],
+"Ragnarok|Profanity Filter": [
+"Craft at Profaned Crucible: Auto Tuner, Unholy Essence ×10"
+],
+"Ragnarok|Radio Mic": [
+"Craft at Ancient Manipulator: Idol's Microphone, Ruinous Soul ×2, Dark Plasma"
+],
+"Ragnarok|Redglass Monocle": [
+"Craft at Mythril Anvil: Ruinous Soul ×2, Twisting Nether, Ruby ×10, Hellstone Bar ×10"
+],
+"Ragnarok|Scoria Dualscythe": [
+"Craft at Mythril Anvil: Scoria Bar ×10"
+],
+"Ragnarok|Sigil of a Cruel World": [
+"Craft at Mythril Anvil: Avenger Emblem, Band Kit, Scoria Bar ×5, Ashes of Calamity ×15"
+],
+"Ragnarok|Silva Wreathed Helmet": [
+"Craft at Cosmic Anvil: Planty Mush ×30, Effulgent Feather ×8, Ascendant Spirit Essence ×2"
+],
+"Ragnarok|Siren Scale": [
+"Drops from The Leviathan",
+"Opened from Treasure Bag (Leviathan and Anahita)"
+],
+"Ragnarok|Splattercannon": [
+"Drops from Ravager"
+],
+"Ragnarok|Steampipes": [
+"Craft at Mythril Anvil: Scoria Bar ×12, Bagpipe"
+],
+"Ragnarok|Stellar Riff": [
+"Drops from Astrum Aureus"
+],
+"Ragnarok|Tarragon Cowl": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×12, Divine Geode ×6"
+],
+"Ragnarok|Tarragon Shroud": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×12, Divine Geode ×6"
+],
+"Ragnarok|The Executioner: Mark 05": [
+"Opened from Treasure Box (Exo Mechs)"
+],
+"Ragnarok|Toxic Waves": [
+"Drops from The Old Duke"
+],
+"Ragnarok|Unbreakable Combat Ukulele": [
+"Craft at Ancient Manipulator: Armored Shell ×12, Ukulele, Ruinous Soul ×8, Exodium Cluster ×30"
+],
+"Ragnarok|Universal Headset": [
+"Craft at Cosmic Anvil: Sigil of a Cruel World, Headset, Ascendant Spirit Essence ×4"
+],
+"Ragnarok|Verdurant Bloom": [
+"Craft at Ancient Manipulator: Uelibloom Bar ×12, Balance Bloom"
+],
+"Ragnarok|Virusprayer": [
+"Drops from Mauler, The Old Duke"
+],
+"SOTS Bard & Healer|4-Dimensional Tuner": [
+"Craft at Ancient Manipulator: Hypersonic Tuner, Fan Donations, Ocean Essence, Death Essence, Inferno Essence"
+],
+"SOTS Bard & Healer|Abso-Lute": [
+"Craft at Mythril Anvil: Absolute Alloy ×11, Clairvoyage (+1 other recipe)"
+],
+"SOTS Bard & Healer|Bladed Snowflake": [
+"Craft at Mythril Anvil: Absolute Alloy"
+],
+"SOTS Bard & Healer|Hypersonic Tuner": [
+"Craft at Mythril Anvil: Subsonic Tuner, Phase Bar ×16, Dissolving Brilliance"
+],
+"SOTS Bard & Healer|Infrasonic Tuner": [
+"Craft at Mythril Anvil: Subsonic Tuner, Cursed Cassette, Leaking Ink Pipe, Sanguite Scales ×8"
+],
+"SOTS Bard & Healer|Phase Karambit": [
+"Craft at Mythril Anvil: Phase Bar ×15"
+],
+"SOTS Bard & Healer|Ring of Rest": [
+"Craft at Thorium Anvil: Inspiration Shard, Fragment of Inferno ×2, Soul of Plight ×5"
+],
+"SOTS Bard & Healer|Serpent Charmer of Sage": [
+"Craft at Mythril Anvil: Steam Flute, Sanguite Scales ×15"
+],
+"SOTS Bard & Healer|Serpent Fang Scythe": [
+"Craft at Mythril Anvil: Sanguite Scales ×15"
+],
+"SOTS Bard & Healer|Serpent's Tongue": [
+"Craft at Mythril Anvil: Demon Tongue, Harvester's Scythe, Sanguite Scales ×8"
+],
+"SOTS Bard & Healer|Serpentbite": [
+"Craft at Mythril Anvil: Sanguite Scales ×15"
+],
+"SOTS Bard & Healer|Turbo Slicer": [
+"Craft at Mythril Anvil: Absolute Alloy ×10, Ice Shaver, Aquaite Scythe"
+],
+"SOTS Bard & Healer|Twilight Ascendance": [
+"Craft at Mythril Anvil: Twilight Staff, Phase Bar ×32, Dissolving Brilliance"
+],
+"SOTS Bard & Healer|Ultrasonic Bass Booster": [
+"Craft at Mythril Anvil: Midnight Bass Booster, Sonar Cannon, Phase Bar ×32, Dissolving Brilliance"
+],
+"Secrets of the Shadows|Accretion Disc": [
+"Craft at Mythril Anvil: Cataclysm Disc, Echo Disc, Coconut Gun, Skip Soul ×30, Skip Shard ×15, Soul of Plight ×5, Ectoplasm ×5"
+],
+"Secrets of the Shadows|Apocalypse": [
+"Craft at Mythril Anvil: Sanguite Scales ×15, Green Jellyfish Staff"
+],
+"Secrets of the Shadows|Azure Bombardment": [
+"Craft at Mythril Anvil: Absolute Alloy ×10, Shard Staff, Storm Spell"
+],
+"Secrets of the Shadows|Biomass Bloom": [
+"Craft at Mythril Anvil: Biomass Blast, Orichalcum Bar ×12, Soul of Light ×12, Soul of Night ×12, Emerald (+1 other recipe)"
+],
+"Secrets of the Shadows|Blaspha": [
+"Craft at Mythril Anvil: Sniper Rifle, Tactical Shotgun, Doomstick, Dissolving Nether"
+],
+"Secrets of the Shadows|Brachial Lance": [
+"Craft at Mythril Anvil: Frigid Javelin, Cursed Spear Storm, Geostorm, Ruby Keystone, Cursed Matter ×5, Soul of Night ×5, Soul of Might ×5"
+],
+"Secrets of the Shadows|Cataclysm Spheres": [
+"Craft at Mythril Anvil: Sanguite Scales ×10, Arclight Orbs"
+],
+"Secrets of the Shadows|Chaos Chamber": [
+"Craft at Mythril Anvil: Phase Bar ×15, Venus Magnum, Ghoul Blaster"
+],
+"Secrets of the Shadows|Chaos Spirit Staff": [
+"Craft at Mythril Anvil: Dissolving Brilliance, Phase Bar ×10, Soul of Light ×5"
+],
+"Secrets of the Shadows|Compound Bow": [
+"Craft at Mythril Anvil: Pitati Longbow, Ancient Steel Longbow, Spore Sprayer, Absolute Alloy ×12"
+],
+"Secrets of the Shadows|Cruise Caller": [
+"Craft at Mythril Anvil: Dissolving Aurora, Absolute Alloy ×12, Helicopter Parts ×2"
+],
+"Secrets of the Shadows|Dance of Death": [
+"Craft at Mythril Anvil: Sanguite Scales ×15, Tome of the Reaper, Shifting Sands"
+],
+"Secrets of the Shadows|Doomstick": [
+"Craft at Mythril Anvil: Boomstick, Fragment of Inferno ×4, Soul of Flight ×20, Illegal Gun Parts"
+],
+"Secrets of the Shadows|Ethereal Scepter": [
+"Craft at Mythril Anvil: Phase Bar ×18"
+],
+"Secrets of the Shadows|Evil Spirit Staff": [
+"Craft at Mythril Anvil: Dissolving Umbra, Cursed Blade, Spectre Bar ×10, Demonite or Crimtane Bar ×10, Soul of Sight ×5"
+],
+"Secrets of the Shadows|Green Jellyfish Staff": [
+"Craft at Mythril Anvil: Purple Jellyfish Staff, Soul of Light ×15, Soul of Sight ×15"
+],
+"Secrets of the Shadows|Hyperice Cluster Cannon": [
+"Craft at Mythril Anvil: Absolute Alloy ×16, Cryo Cannon, Snowball Cannon"
+],
+"Secrets of the Shadows|Hyperlight Geyser": [
+"Craft at Mythril Anvil: Photon Geyser, Phase Bar ×24, Dissolving Brilliance (+1 other recipe)"
+],
+"Secrets of the Shadows|Icicle Impale": [
+"Craft at Mythril Anvil: Hyperice Cluster Cannon, Helicopter Parts, Dissolving Aurora"
+],
+"Secrets of the Shadows|Incinerator Glove": [
+"Drops from Inferno Construct"
+],
+"Secrets of the Shadows|Inferno Spirit Staff": [
+"Craft at Mythril Anvil: Dissolving Nether, Hellstone Bar ×10, Soul of Fright ×5"
+],
+"Secrets of the Shadows|Lemegeton": [
+"Craft at Mythril Anvil: Sanguite Scales ×10, Book of Virtues"
+],
+"Secrets of the Shadows|Pathogen Regurgitator": [
+"Corruption Chest in the Dungeon (locked biome chest)"
+],
+"Secrets of the Shadows|Phase Cannon": [
+"Drops from Otherworldly Construct"
+],
+"Secrets of the Shadows|Plasma Accelerator": [
+"Craft at Mythril Anvil: Sharanga, Dissolving Aether, Dissolving Nether, Ectoplasm ×5"
+],
+"Secrets of the Shadows|Purple Jellyfish Staff": [
+"Craft at Mythril Anvil: Pink Jellyfish Staff, Blue Jellyfish Staff, Dissolving Aether, Cursed Matter ×5, Soul of Night ×12, Amethyst"
+],
+"Secrets of the Shadows|Rebar Rifle": [
+"Crimson Chest in the Dungeon (locked biome chest)"
+],
+"Secrets of the Shadows|Revolution": [
+"Craft at Mythril Anvil: Solar Tablet Fragment ×20, Lihzahrd Power Cell"
+],
+"Secrets of the Shadows|Rose Bow": [
+"Craft at Mythril Anvil: Terminal Cluster, Primordial Cluster, Glaze Bow, Spectre Spirit Storm, Starshot Crossbow, Chlorophyte Shotbow, Phase Bar ×6"
+],
+"Secrets of the Shadows|Spectre Spirit Storm": [
+"Craft at Mythril Anvil: Spirit Tracer, Daedalus Stormbow, Spectre Bar ×10, Dissolving Deluge"
+],
+"Secrets of the Shadows|Starcaller Staff": [
+"Hallowed Chest in the Dungeon (locked biome chest)"
+],
+"Secrets of the Shadows|Stellar Serpent Launcher": [
+"Craft at Mythril Anvil: Phase Bar ×24, Piranha Gun, Snake Bow"
+],
+"Secrets of the Shadows|Stellar Shot": [
+"Craft at Mythril Anvil: Phase Bar ×24, Perfect Star, Laser Machinegun, Razorpine"
+],
+"Secrets of the Shadows|Street Cleaner": [
+"Drops from Bridgeburner, Evil Construct"
+],
+"Secrets of the Shadows|Supernova Scatter": [
+"Craft at Mythril Anvil: Solar Tablet Fragment ×20, Lihzahrd Power Cell"
+],
+"Secrets of the Shadows|Supernova Storm": [
+"Craft at Mythril Anvil: Phase Bar ×18, Azure Bombardment"
+],
+"Secrets of the Shadows|Tangle Staff": [
+"Jungle Chest in the Dungeon (locked biome chest)"
+],
+"Secrets of the Shadows|Thundershock Shortbow": [
+"Drops from Twilight Scouter"
+],
+"Secrets of the Shadows|Tidal Spirit Staff": [
+"Craft at Mythril Anvil: Dissolving Deluge, any Iron Bar ×10, Soul of Might ×5"
+],
+"Secrets of the Shadows|Tome of the Reaper": [
+"Craft at Mythril Anvil: Demon Scythe, Soul of Fright ×10, Dissolving Umbra"
+],
+"Secrets of the Shadows|Torch Gun Mk2": [
+"Craft at Hardlight Fabricator: Phase Cannon, Coconut Gun, Torch Gun, Dissolving Nether, Twilight Alloy ×20"
+],
+"Secrets of the Shadows|Train Gun": [
+"Sold by Traveling Merchant"
+],
+"Secrets of the Shadows|Voidspace Aura Staff": [
+"Craft at Mythril Anvil: Sanguite Scales ×15, Ancient Steel Lantern"
+],
+"Thorium Bosses Reworked|Biter of Souls": [
+"Drops from Corrupt Mimic"
+],
+"Thorium Bosses Reworked|Chiron's Cure": [
+"Drops from Hallowed Mimic"
+],
+"Thorium Bosses Reworked|Deep Sea Odyssey": [
+"Drops from Forgotten One Released"
+],
+"Thorium Bosses Reworked|Duke Fish": [
+"Drops from Submerged Mimic"
+],
+"Thorium Bosses Reworked|Eater Piper": [
+"Drops from Corrupt Mimic"
+],
+"Thorium Bosses Reworked|Fan Donations": [
+"Craft at Tinkerer's Workshop: Pick-Shaped Pebble, Loudener, Concussive Instrument, Impulse Amplifier, Fan Letter, Waxy Rosin, Bloom Weave ×5 (+1 other recipe)"
+],
+"Thorium Bosses Reworked|Flute of Curses": [
+"Drops from Crimson Mimic"
+],
+"Thorium Bosses Reworked|Flying Flute": [
+"Drops from Hallowed Mimic"
+],
+"Thorium Bosses Reworked|Handheld Rocket": [
+"Drops from Hell Bringer Mimic"
+],
+"Thorium Bosses Reworked|Heart of the Beholder": [
+"Craft at Mythril Anvil: Life Gem, Dark Heart, Void Heart"
+],
+"Thorium Bosses Reworked|King Trumpet": [
+"Drops from Mycelium Mimic"
+],
+"Thorium Bosses Reworked|Lodestone Magnet Mace": [
+"Craft at Anvil: Lodestone Ingot ×8"
+],
+"Thorium Bosses Reworked|Sealed Contract": [
+"Craft at Tinkerer's Workshop: Executioner's Contract, Lunate Charm"
+],
+"Thorium Bosses Reworked|Shoulder Blade": [
+"Drops from Crimson Mimic"
+],
+"Thorium Bosses Reworked|Soul Snatcher": [
+"Drops from Lich",
+"Opened from Lich Treasure Bag"
+],
+"Thorium Bosses Reworked|Soul of Helheim": [
+"Craft at Crucible of the Cosmos: Sierra Chimera, Valkyrien Sky Stone, Crystallized Finality"
+],
+"Thorium Bosses Reworked|Spitting Shroom Staff": [
+"Drops from Mycelium Mimic"
+],
+"Thorium Bosses Reworked|Terrarium Soul Scourge": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"Thorium Bosses Reworked|Titan Hat": [
+"Craft at Soul Forge: Titanic Bar ×12"
+],
+"Thorium Bosses Reworked|Titan Visage": [
+"Craft at Soul Forge: Titanic Bar ×12"
+],
+"Thorium Bosses Reworked|Titan armor with the Titan Hood": [
+"Craft at Soul Forge: Titanic Bar ×12"
+],
+"Thorium Bosses Reworked|Titan armor with the Titan Visor": [
+"Craft at Soul Forge: Titanic Bar ×12"
+],
+"Thorium Bosses Reworked|Valadium Heavy Scythe": [
+"Craft at Mythril Anvil: Valadium Ingot ×8"
+],
+"Thorium Bosses Reworked|Valkyrien Sky Stone": [
+"Craft at Mythril Anvil: Star Scout Reticle, Bannerof War, Bandof Cratons"
+],
+"Thorium|Adamantite Carbine": [
+"Craft at Mythril Anvil: Adamantite Bar ×12"
+],
+"Thorium|Adamantite Staff": [
+"Craft at Mythril Anvil: Adamantite Bar ×12"
+],
+"Thorium|Aeon Staff": [
+"Sold by Spiritualist"
+],
+"Thorium|Almanac of Agony": [
+"Craft at Ancient Manipulator: Inferno Essence ×3"
+],
+"Thorium|Ancient Flame": [
+"Drops from Lunatic Cultist"
+],
+"Thorium|Ancient Frost": [
+"Drops from Lunatic Cultist"
+],
+"Thorium|Ancient Light": [
+"Opened from Lunatic Cultist Treasure Bag"
+],
+"Thorium|Ancient Spark": [
+"Drops from Lunatic Cultist"
+],
+"Thorium|Angel's End": [
+"Drops from Moon Lord's Core"
+],
+"Thorium|Archangel's Heart": [
+"Craft at Tinkerer's Workshop: Cleric Emblem, Crystal Arcanite, Seraphim Idol, Soul of Might ×5, Soul of Sight ×5, Soul of Fright ×5"
+],
+"Thorium|Archdemon's Curse": [
+"Craft at Tinkerer's Workshop: Cleric Emblem, Dark Glaze, Seraphim Idol, Soul of Might ×5, Soul of Sight ×5, Soul of Fright ×5"
+],
+"Thorium|Armor Bane": [
+"Sold by Weapon Master"
+],
+"Thorium|Ascension Statuette": [
+"Sold by Spiritualist"
+],
+"Thorium|Assassin's set": [
+"Craft at Ancient Manipulator (whole set): Death Essence ×10, Auric Bar ×3"
+],
+"Thorium|Aura Staff": [
+"Craft at Anvil: Soul of Light ×10, Crystal Shard ×6, Light Shard"
+],
+"Thorium|Auto Tuner": [
+"Sold by Steampunker"
+],
+"Thorium|Axe Blade": [
+"Craft at Anvil: Forbidden Fragment, Pharaoh's Breath ×3"
+],
+"Thorium|Bard Emblem": [
+"Drops from Wall of Flesh",
+"Shimmer transmutation of Cleric Emblem"
+],
+"Thorium|Barrier Generator": [
+"Craft at Soul Forge: Strange Plating ×12"
+],
+"Thorium|Bass Booster": [
+"Craft at Soul Forge: Strange Plating ×12, Music Box"
+],
+"Thorium|Beetle Blaster": [
+"Craft at Mythril Anvil: Chain Gun, Beetle Husk ×6"
+],
+"Thorium|Beholder Staff": [
+"Drops from Fallen Beholder"
+],
+"Thorium|Biotech set": [
+"Craft at Mythril Anvil (whole set): Hallowed Bar ×36, Life-Powered Energy Cell ×6"
+],
+"Thorium|Blackhole Cannon": [
+"Craft at Mythril Anvil: Strange Plating ×12, Soul of Night ×15, Soul of Fright ×5, Soul of Might ×5, Soul of Sight ×5, Void Heart"
+],
+"Thorium|Blob-horn Coral Staff": [
+"Craft at Anvil: Abyssal Chitin ×8, Pink Gel ×10"
+],
+"Thorium|Blood Belcher": [
+"Craft at Anvil: Unfathomable Flesh ×9"
+],
+"Thorium|Blood Clot Staff": [
+"Craft at Anvil: Unfathomable Flesh ×9"
+],
+"Thorium|Bloody Pagan Staff": [
+"Craft at Mythril Anvil: Hallowed Bar ×20, Cursed Cloth ×20, Sun Stone"
+],
+"Thorium|Borean Fang Staff": [
+"Drops from Borean Strider Base"
+],
+"Thorium|Bow of Light": [
+"Opened from The Primordials Treasure Bag"
+],
+"Thorium|Brinefang": [
+"Drops from Duke Fishron"
+],
+"Thorium|Bubble-Bulwark Wand": [
+"Craft at Mythril Anvil: Holy Knight's Alloy ×8"
+],
+"Thorium|Bud Bomb": [
+"Drops from Plantera",
+"Sold by Druid"
+],
+"Thorium|Buffalo Launcher": [
+"Craft at Mythril Anvil: Rocket Launcher, Bone ×25, Feather ×10"
+],
+"Thorium|Bullet Storm": [
+"Sold by Weapon Master"
+],
+"Thorium|Captain's Poignard": [
+"Drops from Pirate Captain",
+"Sold by Pirate"
+],
+"Thorium|Carnwennan": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"Thorium|Cat's Eye Great Staff": [
+"Craft at Ancient Manipulator: Rainbow Rod, Nebula Fragment ×10, Topaz ×5"
+],
+"Thorium|Celestial Carrier": [
+"Craft at Ancient Manipulator: Celestial Fragment ×14, Luminite Bar ×10"
+],
+"Thorium|Celestial Wand": [
+"Craft at Ancient Manipulator: Celestial Fragment ×18"
+],
+"Thorium|Celestial set": [
+"Craft at Ancient Manipulator (whole set): Celestial Fragment ×45, Luminite Bar ×36"
+],
+"Thorium|Cell Reconstructor": [
+"Drops from Martian Officer"
+],
+"Thorium|Charged Splasher": [
+"Craft at Mythril Anvil: Paintball Gun, Illegal Gun Parts, Cog ×8"
+],
+"Thorium|Charon's Beacon": [
+"Drops from Mourning Wood"
+],
+"Thorium|Chi Lantern": [
+"Sold by Traveling Merchant"
+],
+"Thorium|Chlorophyte Staff": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×12"
+],
+"Thorium|Chromatic Fury": [
+"Sold by Princess"
+],
+"Thorium|Chum": [
+"Sold by Diverman"
+],
+"Thorium|Cinder String": [
+"Craft at Anvil: Hellstone Bar ×10, Soul of Plight ×10"
+],
+"Thorium|Cleric Emblem": [
+"Drops from Wall of Flesh",
+"Shimmer transmutation of Ninja Emblem"
+],
+"Thorium|Clockwork Bomb": [
+"Craft at Mythril Anvil: Grenade ×20, Cog ×5"
+],
+"Thorium|Cobalt Revolver": [
+"Craft at Anvil: Cobalt Bar ×10"
+],
+"Thorium|Cobalt Staff": [
+"Craft at Anvil: Cobalt Bar ×8"
+],
+"Thorium|Comet Crossfire": [
+"Craft at Anvil: Meteorite Bar ×20, Soul of Night ×8"
+],
+"Thorium|Conductor's Baton": [
+"Sold by Merchant"
+],
+"Thorium|Corrodling Staff": [
+"Drops from Dungeon Slime"
+],
+"Thorium|Corruptling Staff": [
+"Craft at Anvil: Dark Shard, Rotten Chunk ×10, Soul of Night ×6"
+],
+"Thorium|Cosmic Dagger": [
+"Drops from Martian Saucer"
+],
+"Thorium|Crimson Hound Staff": [
+"Craft at Anvil: Dark Shard, Vertebra ×10, Soul of Night ×6"
+],
+"Thorium|Cryomancer's set": [
+"Craft at Mythril Anvil (whole set): Permafrost ×66"
+],
+"Thorium|Cryotherapy": [
+"Drops from Ice Queen"
+],
+"Thorium|Crystal Wish": [
+"Craft at Mythril Anvil: Purified Shards ×8, Crystal Geode ×8"
+],
+"Thorium|Cupid's String": [
+"Craft at Mythril Anvil: Bronze Alloy Fragments ×8, Life Quartz ×10, Light Shard"
+],
+"Thorium|Cyber Punk set": [
+"Craft at Soul Forge (whole set): Strange Plating ×12, Hallowed Bar ×24"
+],
+"Thorium|Cyclone": [
+"Craft at Bookcase: Spell Tome, Cloud ×20, Soul of Flight ×10"
+],
+"Thorium|DMR": [
+"Craft at Mythril Anvil: Sniper Rifle, Handgun, Spectre Bar ×10"
+],
+"Thorium|Dark Effigy": [
+"Drops from Mourning Wood"
+],
+"Thorium|Dark Flame": [
+"Craft at Bookcase: Spell Tome, Soul of Night ×12, Chlorophyte Bar ×12"
+],
+"Thorium|Dark Glaze": [
+"Craft at Tinkerer's Workshop: Dark Intent, Crystal Honey"
+],
+"Thorium|Dark Grip": [
+"Craft at Soul Forge: Dark Matter ×10"
+],
+"Thorium|Dark Intent": [
+"Craft at Tinkerer's Workshop: Soul of Night ×8, Dark Shard ×2"
+],
+"Thorium|Decaying Sorrow": [
+"Craft at Mythril Anvil: Shadowflame Bow, Soul of Night ×8, Cursed Cloth ×8"
+],
+"Thorium|Defender's Wand": [
+"Craft at Mythril Anvil: Eternia Crystal, Defender Medal ×10, Sentinel's Wand"
+],
+"Thorium|Deity's Trefork": [
+"Craft at Ancient Manipulator: Ocean Essence ×3"
+],
+"Thorium|Demon Blood Crossbow": [
+"Craft at Soul Forge: Demon Blood Shard ×7"
+],
+"Thorium|Demon Blood Staff": [
+"Craft at Soul Forge: Demon Blood Shard ×8"
+],
+"Thorium|Demon Tongue": [
+"Drops from Demon, Red Devil, Voodoo Demon"
+],
+"Thorium|Destroyer's Rage": [
+"Craft at Soul Forge: Strange Plating ×12"
+],
+"Thorium|Devil Dagger": [
+"Drops from Hell Bringer Mimic"
+],
+"Thorium|Devil's Claw": [
+"Craft at Ancient Manipulator: Inferno Essence ×3"
+],
+"Thorium|Digital Tuner": [
+"Craft at Tinkerer's Workshop: Bard Emblem, Vibration Tuner",
+"Shimmer transmutation of Guitar Pick Claw"
+],
+"Thorium|Diss Track": [
+"Craft at Mythril Anvil: Mix Tape, Cursed Cloth ×12"
+],
+"Thorium|Divine Lotus": [
+"Sold by Traveling Merchant",
+"Shimmer transmutation of Samsara Lotus"
+],
+"Thorium|Divine Staff": [
+"Craft at Ancient Manipulator: Celestial Fragment ×18"
+],
+"Thorium|Dragon Fang": [
+"Drops from Betsy"
+],
+"Thorium|Dragon Heart Wand": [
+"Drops from Betsy"
+],
+"Thorium|Dragon's Breath": [
+"Craft at Bookcase: Spell Tome, Green Dragon Scale ×9"
+],
+"Thorium|Dragon's Gaze": [
+"Craft at Mythril Anvil: Green Dragon Scale ×9"
+],
+"Thorium|Dread Blaster": [
+"Craft at Soul Forge: Dread Soul ×8"
+],
+"Thorium|Dread Launcher": [
+"Craft at Soul Forge: Dread Soul ×8"
+],
+"Thorium|Dream Catcher": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"Thorium|Dream Megaphone": [
+"Sold by Cyborg"
+],
+"Thorium|Dream Weaver's set": [
+"Craft at Ancient Manipulator (whole set): Inferno Essence ×3, Death Essence ×3, Ocean Essence ×3, Auric Bar ×3"
+],
+"Thorium|Durasteel Repeater": [
+"Sold by Blacksmith"
+],
+"Thorium|Durasteel Throwing Spear": [
+"Sold by Blacksmith"
+],
+"Thorium|Dutchman's Avarice": [
+"Drops from Flying Dutchman"
+],
+"Thorium|Dynasty War Fan": [
+"Craft at Anvil: Dynasty Wood ×8, Soul of Light ×4, Soul of Night ×4"
+],
+"Thorium|Electro-Rebounder": [
+"Drops from Martian Walker"
+],
+"Thorium|Ember Staff": [
+"Craft at Ancient Manipulator: Inferno Essence ×3"
+],
+"Thorium|Emperor's Will": [
+"Craft at Ancient Manipulator: Illegal Gun Parts, Stardust Fragment ×12, Hallowed Bar ×12, Cowboy Hat"
+],
+"Thorium|Epic Mouthpiece": [
+"Craft at Tinkerer's Workshop: Bard Emblem, Mouthpiece",
+"Shimmer transmutation of Digital Tuner"
+],
+"Thorium|Equalizer": [
+"Craft at Tinkerer's Workshop: Pacifist Necklace, Aloe Leaf, Honey Heart"
+],
+"Thorium|Erupting Flare": [
+"Craft at Mythril Anvil: Solar Pebble ×12, Solar Tablet Fragment ×8"
+],
+"Thorium|Eviscerating Claw": [
+"Craft at Anvil: Blood Cell"
+],
+"Thorium|Eye of Odin": [
+"Craft at Soul Forge: Thorium Bar ×14, Concentrated Thorium ×5, Soul of Light ×2, Soul of Night ×2"
+],
+"Thorium|Fallen Paladin's set": [
+"Craft at Mythril Anvil (whole set): Holy Knight's Alloy ×15"
+],
+"Thorium|Fire Axe": [
+"Drops from Psycho"
+],
+"Thorium|Flan Platter": [
+"Sold by Cook"
+],
+"Thorium|Flesh Bow": [
+"Craft at Anvil: Unfathomable Flesh ×9"
+],
+"Thorium|Forgotten Cross Necklace": [
+"Craft at Tinkerer's Workshop: Cross Necklace, The Lost Cross"
+],
+"Thorium|Freeze Ray": [
+"Drops from Borean Strider Base"
+],
+"Thorium|Frost Plague Staff": [
+"Drops from Chilled Spitter, Freezer"
+],
+"Thorium|Full Score": [
+"Craft at Work Bench: Music Notes, Ancient Cloth ×6"
+],
+"Thorium|Fungal Cane": [
+"Drops from Mycelium Mimic"
+],
+"Thorium|Fungal Popper": [
+"Craft at Anvil: Cerulean Morel ×3"
+],
+"Thorium|Geomancer's Brush": [
+"Craft at Mythril Anvil: Dynasty Wood ×20, Cloth ×8, Soul of Light ×8"
+],
+"Thorium|Glacial Sting": [
+"Drops from Borean Strider Base"
+],
+"Thorium|Glittering Scepter": [
+"Craft at Anvil: Crystal Geode ×9"
+],
+"Thorium|God Killer": [
+"Reward for the Tracker's contract \"Destroy All Monsters\" (Mothron)"
+],
+"Thorium|Guitar Pick Claw": [
+"Craft at Tinkerer's Workshop: Bard Emblem, Guitar Pick",
+"Shimmer transmutation of Straight Mute"
+],
+"Thorium|Hadron Collider": [
+"Craft at Soul Forge: Strange Plating ×12, Soul of Fright ×3, Soul of Sight ×3"
+],
+"Thorium|Hail Bomber": [
+"Drops from Snow Balla, Snow Singa"
+],
+"Thorium|Hallowed Chapeau": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"Thorium|Hallowed Staff": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"Thorium|Hallowed armor with the Hallowed Guise": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"Thorium|Hand Cannon": [
+"Drops from Flying Dutchman"
+],
+"Thorium|Headset": [
+"Sold by Mechanic"
+],
+"Thorium|Heart Rate Monitor": [
+"Sold by Traveling Merchant"
+],
+"Thorium|Heaven's Gate": [
+"Craft at Mythril Anvil: Forbidden Fragment ×2, Pharaoh's Breath ×8"
+],
+"Thorium|Hell Roller": [
+"Drops from Fallen Beholder"
+],
+"Thorium|Holy Staff": [
+"Craft at Mythril Anvil: Hallowed Bar ×18, Purified Shards ×15"
+],
+"Thorium|Hot Pot": [
+"Drops from Underworld Pot"
+],
+"Thorium|Hydro Pump": [
+"Sold by Diverman"
+],
+"Thorium|Hydromancer's Catalyst": [
+"Drops from Submerged Mimic"
+],
+"Thorium|Ice Fairy Staff": [
+"Drops from Blizzard Bat, Snow Elemental"
+],
+"Thorium|Icy Gaze": [
+"Reward for the Tracker's contract \"Ice Breaker\""
+],
+"Thorium|Illumite Barrager": [
+"Craft at Soul Forge: Illumite Ingot ×8"
+],
+"Thorium|Illumite Blaster": [
+"Craft at Soul Forge: Illumite Ingot ×9"
+],
+"Thorium|Illumite Shotbow": [
+"Craft at Soul Forge: Illumite Ingot ×8"
+],
+"Thorium|Illumite set": [
+"Craft at Soul Forge (whole set): Illumite Ingot ×48"
+],
+"Thorium|Inspirator's Helmet": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence, Auric Bar"
+],
+"Thorium|Joyeuse": [
+"Craft at Anvil: Hallowed Charm ×12"
+],
+"Thorium|Karmic Holder": [
+"Craft at Tinkerer's Workshop: Forbidden Fragment ×2, Pharaoh's Breath ×6, Pearlsand Block ×25"
+],
+"Thorium|Kinetic Knife": [
+"Sold by Weapon Master"
+],
+"Thorium|Kunai": [
+"Sold by Desert Acolyte"
+],
+"Thorium|Lady's Light": [
+"Craft at Anvil: Pixie Dust ×25, Crystal Shard ×8, Soul of Light ×4, Unicorn Horn ×2"
+],
+"Thorium|Launch Jumper": [
+"Drops from Skeleton Commando"
+],
+"Thorium|Legion Ornament": [
+"Drops from Snow Balla"
+],
+"Thorium|Liberation": [
+"Craft at Anvil: Forbidden Fragment ×2, Pharaoh's Breath ×6, Purified Shards ×8"
+],
+"Thorium|Life Binder's set": [
+"Craft at Mythril Anvil (whole set): Chlorophyte Bar ×36, Bio Matter ×6"
+],
+"Thorium|Life Bloom set": [
+"Craft at Mythril Anvil (whole set): Chlorophyte Bar ×30, Bio Matter ×6"
+],
+"Thorium|Life Essence Apparatus": [
+"Craft at Mythril Anvil: Strange Plating ×6, Life-Powered Energy Cell"
+],
+"Thorium|Life Pulse Staff": [
+"Sold by Spiritualist"
+],
+"Thorium|Light-Burst Wand": [
+"Craft at Anvil: Pearlwood ×20, Soul of Light ×5"
+],
+"Thorium|Lightning Staff": [
+"Craft at Mythril Anvil: Magnet Sphere, Ectoplasm ×5, Wood ×20"
+],
+"Thorium|Lihzahrd Kunai": [
+"Craft at Mythril Anvil: Solar Pebble ×2, Solar Tablet Fragment"
+],
+"Thorium|Little Red": [
+"Craft at Soul Forge: Strange Plating ×12, Steam Battery ×10, Adamantite Bar ×8, Petal ×8 (+1 other recipe)"
+],
+"Thorium|Lodestone Bow": [
+"Craft at Anvil: Lodestone Ingot ×8"
+],
+"Thorium|Lodestone Javelin": [
+"Craft at Anvil: Lodestone Ingot ×2"
+],
+"Thorium|Lodestone Slugger": [
+"Craft at Anvil: Lodestone Ingot ×8"
+],
+"Thorium|Lodestone Staff": [
+"Craft at Anvil: Lodestone Ingot ×8"
+],
+"Thorium|Maestro's set": [
+"Craft at Mythril Anvil (whole set): Dark Matter ×18, Silk ×26"
+],
+"Thorium|Marching Band set": [
+"Craft at Anvil (whole set): Silk ×24, Soul of Light ×24"
+],
+"Thorium|Martyr's Chalice": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Ectoplasm ×4, Crystal Shard ×15"
+],
+"Thorium|Master's Libram": [
+"Craft at Mythril Anvil: Spell Tome, Ichor ×10, Crystal Shard ×12, Guide Voodoo Doll, Bone ×10, Water Candle (+1 other recipe)"
+],
+"Thorium|Micro Launcher": [
+"Sold by Cyborg"
+],
+"Thorium|Mineral Launcher": [
+"Craft at Mythril Anvil: Extractinator, Illegal Gun Parts, Cog ×8"
+],
+"Thorium|Mist Weaver": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×16, Bio Matter ×2"
+],
+"Thorium|Molecular Stabilizer": [
+"Drops from Martian Saucer"
+],
+"Thorium|Moonlight Staff": [
+"Drops from Lycan"
+],
+"Thorium|Morel Grenade": [
+"Craft at Anvil: Cerulean Morel ×2"
+],
+"Thorium|Musician's Handbook": [
+"Sold by Merchant"
+],
+"Thorium|Mythril Pelter": [
+"Craft at Mythril Anvil: Mythril Bar ×10"
+],
+"Thorium|Mythril Staff": [
+"Craft at Mythril Anvil: Mythril Bar ×10"
+],
+"Thorium|Naga's Recurve": [
+"Craft at Anvil: Abyssal Chitin ×9"
+],
+"Thorium|Naga-Skin set": [
+"Craft at Anvil (whole set): Abyssal Chitin ×36"
+],
+"Thorium|Nebula's Reflection": [
+"Craft at Ancient Manipulator: Glass ×10, Crystal Shard ×12, Nebula Fragment ×16"
+],
+"Thorium|Necrotic Staff": [
+"Craft at Anvil: Blood Cell ×7"
+],
+"Thorium|Night Staff": [
+"Craft at Anvil: Soul of Night ×6, Shadewood ×16 (+1 other recipe)"
+],
+"Thorium|Nirvana Statuette": [
+"Craft at Tinkerer's Workshop: Purified Shards ×10, Ascension Statuette, Rebirth Statuette"
+],
+"Thorium|Nova Rifle": [
+"Craft at Mythril Anvil: Sniper Rifle, Sniper Scope, Spectre Bar ×10"
+],
+"Thorium|Null-Zone Staff": [
+"Craft at Anvil: any Silver Bar ×10, Purified Shards ×5, Crystal Shard ×8, Light Shard"
+],
+"Thorium|Obliterator": [
+"Drops from Fallen Beholder"
+],
+"Thorium|Ogre Snot-Gun": [
+"Opened from Ogre Treasure Bag"
+],
+"Thorium|Old God's Vision": [
+"Drops from Forgotten One"
+],
+"Thorium|Omega Blaster": [
+"Craft at Mythril Anvil: any Adamantite Bar ×8, Meteorite Bar ×14, Strange Alien Tech"
+],
+"Thorium|Omni-Bow": [
+"Craft at Ancient Manipulator: Death Essence ×3"
+],
+"Thorium|Omni-Cannon": [
+"Craft at Ancient Manipulator: Death Essence ×3"
+],
+"Thorium|Omniwrench": [
+"Craft at Mythril Anvil: Red Wrench, Wire ×10, Dark Shard ×2"
+],
+"Thorium|Orichalcum Popper": [
+"Craft at Mythril Anvil: Orichalcum Bar ×12"
+],
+"Thorium|Orichalcum Staff": [
+"Craft at Mythril Anvil: Orichalcum Bar ×12"
+],
+"Thorium|Ornate set": [
+"Craft at Mythril Anvil (whole set): Bloom Weave ×30"
+],
+"Thorium|P.L.G. 8999": [
+"Sold by Cyborg"
+],
+"Thorium|Palladium SMG": [
+"Craft at Anvil: Palladium Bar ×12"
+],
+"Thorium|Palladium Staff": [
+"Craft at Anvil: Palladium Bar ×12"
+],
+"Thorium|Phantom Arm Cannon": [
+"Craft at Mythril Anvil: Spectre Bar ×12, Dark Matter ×8"
+],
+"Thorium|Phantom Wand": [
+"Drops from Lich"
+],
+"Thorium|Pharaoh's Slab": [
+"Desert Chest in the Dungeon (locked biome chest)"
+],
+"Thorium|Plague Doctor's set": [
+"Craft at Anvil (whole set): Silk ×42, Soul of Night ×10, Soul of Light ×10"
+],
+"Thorium|Plasma Staff": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Life-Powered Energy Cell"
+],
+"Thorium|Playing Card": [
+"Sold by Party Girl"
+],
+"Thorium|Pocket Guardian": [
+"Craft at Mythril Anvil: Strange Plating ×6, Life-Powered Energy Cell"
+],
+"Thorium|Prism Staff": [
+"Drops from Spectrumite"
+],
+"Thorium|Promethean Staff": [
+"Craft at Ancient Manipulator: Inferno Essence ×3"
+],
+"Thorium|Proximity Mine": [
+"Drops from Skeleton Sniper, Tactical Skeleton"
+],
+"Thorium|Prydwen": [
+"Craft at Tinkerer's Workshop: Blacksmith's Barrier, Purified Shards ×15, Hallowed Bar ×10"
+],
+"Thorium|Pyroclast Staff": [
+"Drops from Fallen Beholder"
+],
+"Thorium|Pyromancer's set": [
+"Craft at Ancient Manipulator (whole set): Inferno Essence ×10, Auric Bar ×3"
+],
+"Thorium|Ra's Whisper": [
+"Craft at Anvil: Forbidden Fragment ×2, Pharaoh's Breath ×6, Purified Shards ×5"
+],
+"Thorium|Razorlash": [
+"Craft at Bookcase: Spell Tome, Soul of Flight ×20, Chlorophyte Bar ×12"
+],
+"Thorium|Rebirth Statuette": [
+"Sold by Spiritualist"
+],
+"Thorium|Recuperate": [
+"Sold by Spiritualist"
+],
+"Thorium|Reject's Blowpipe": [
+"Drops from Lihzahrd Mimic"
+],
+"Thorium|Revivify": [
+"Craft at Mythril Anvil: Spell Tome, Solar Pebble ×10, Purified Shards ×10, Hallowed Bar ×10"
+],
+"Thorium|Rhapsodist's set": [
+"Craft at Ancient Manipulator (whole set): Inferno Essence ×3, Death Essence ×3, Ocean Essence ×3, Auric Bar ×3"
+],
+"Thorium|Rift Tearer": [
+"Craft at Mythril Anvil: Void Heart, Hallowed Bar ×14, Soul of Night ×8"
+],
+"Thorium|Rocket Fist": [
+"Craft at Anvil: Hellstone Bar ×10, Soul of Plight ×10"
+],
+"Thorium|Rude Wand": [
+"Craft at Mythril Anvil: Hallowed Bar ×18, Nanites ×10, Silk ×6"
+],
+"Thorium|Sacred Charge": [
+"Craft at Anvil: Hallowed Charm ×8, Purified Shards ×6"
+],
+"Thorium|Sacred set": [
+"Craft at Anvil (whole set): Hallowed Charm ×30, Purified Shards ×24"
+],
+"Thorium|Saving Grace": [
+"Craft at Tinkerer's Workshop: Forgotten Cross Necklace, Verdant Ornament"
+],
+"Thorium|Sea Foam Scepter": [
+"Craft at Anvil: Abyssal Chitin ×8"
+],
+"Thorium|Seraphim Idol": [
+"Craft at Tinkerer's Workshop: Purified Shards ×10, Pixie Dust ×12, Feather ×6"
+],
+"Thorium|Serpent's Bubble Wand": [
+"Craft at Anvil: Abyssal Chitin ×10"
+],
+"Thorium|Shade Kunai": [
+"Craft at Soul Forge: Kunai ×150, Dark Matter ×3"
+],
+"Thorium|Shade Kusarigama": [
+"Craft at Soul Forge: Dark Matter ×10"
+],
+"Thorium|Shade Master's set": [
+"Craft at Soul Forge (whole set): Dark Matter ×36"
+],
+"Thorium|Shade Shuriken": [
+"Craft at Soul Forge: Shuriken ×150, Dark Matter ×2"
+],
+"Thorium|Shadow Orb Staff": [
+"Craft at Ancient Manipulator: Darksteel Ingot ×8, Dark Matter ×6, Stardust Fragment ×10, Nebula Fragment ×10"
+],
+"Thorium|Shadow-Flare Bow": [
+"Craft at Mythril Anvil: Shadowbeam Staff, Pulse Bow"
+],
+"Thorium|Shadow-Purge Caltrop": [
+"Drops from Goblin Archer, Goblin Thief, Goblin Warrior"
+],
+"Thorium|Shadow-Tipped Javelin": [
+"Drops from Goblin Warlock"
+],
+"Thorium|Shockbuster": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Cog ×10, any Wood ×20"
+],
+"Thorium|Shooting Star Turbo Tuba": [
+"Craft at Ancient Manipulator: Shooting Star Fragment ×14, Luminite Bar ×10"
+],
+"Thorium|Shooting Star set": [
+"Craft at Ancient Manipulator (whole set): Shooting Star Fragment ×45, Luminite Bar ×36"
+],
+"Thorium|Shroomachine Gun": [
+"Craft at Mythril Anvil: Shroomite Bar ×12"
+],
+"Thorium|Shu's Wrath": [
+"Craft at Mythril Anvil: Forbidden Fragment ×2, Pharaoh's Breath ×8"
+],
+"Thorium|Snack-o'-Lantern": [
+"Drops from Pumpking"
+],
+"Thorium|Snarky Gun": [
+"Sold by Zoologist"
+],
+"Thorium|Snow White": [
+"Craft at Soul Forge: Strange Plating ×12, Steam Battery ×10, Adamantite Bar ×8, Icy Shard ×8 (+1 other recipe)"
+],
+"Thorium|Soft Serve Sunderer": [
+"Drops from Ice Queen"
+],
+"Thorium|Soloist's Hat": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence, Auric Bar"
+],
+"Thorium|Soul Bomb": [
+"Drops from Lich",
+"Sold by Confused Zombie"
+],
+"Thorium|Soul Cleaver": [
+"Drops from Lich"
+],
+"Thorium|Soul Guard": [
+"Craft at Tinkerer's Workshop: Spirit Droplet ×5, Grave Goods, Turn Undead"
+],
+"Thorium|Soulslasher": [
+"Craft at Work Bench: Kunai ×150, Ectoplasm ×2"
+],
+"Thorium|Spark Taser": [
+"Craft at Soul Forge: Strange Plating ×12"
+],
+"Thorium|Spine Buster": [
+"Drops from Coldling, Frozen Gross"
+],
+"Thorium|Spirit Breaker": [
+"Craft at Mythril Anvil: Flamethrower, Bone ×25, Spectre Bar ×8"
+],
+"Thorium|Staff of Sol": [
+"Craft at Mythril Anvil: Solar Pebble ×10, Solar Tablet Fragment ×8"
+],
+"Thorium|Stalagmite": [
+"Craft at Bookcase: Spell Tome, Hellstone Bar ×8, Soul of Plight ×8"
+],
+"Thorium|Stalker's Snippers": [
+"Drops from Scissor Stalker"
+],
+"Thorium|Star Eater": [
+"Craft at Ancient Manipulator: White Dwarf Fragment ×18"
+],
+"Thorium|Static Prod": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Cog ×10, any Wood ×10"
+],
+"Thorium|Steamgunner Controller": [
+"Sold by Steampunker"
+],
+"Thorium|Stellar Rod": [
+"Craft at Anvil: Pearlwood ×20, Fallen Star ×10, Soul of Light ×5, Soul of Night ×5"
+],
+"Thorium|Stellar System": [
+"Craft at Mythril Anvil: Meteorite Bar ×20, Forbidden Fragment ×2, Frost Core ×2"
+],
+"Thorium|Straight Mute": [
+"Craft at Tinkerer's Workshop: Bard Emblem, Plunger Mute",
+"Shimmer transmutation of Epic Mouthpiece"
+],
+"Thorium|Sunray Staff": [
+"Drops from Le Fantôme"
+],
+"Thorium|Super Plasma Cannon": [
+"Drops from Martian Saucer"
+],
+"Thorium|Supersonic Bomber": [
+"Sold by Cyborg"
+],
+"Thorium|Swamp Rot": [
+"Drops from Swamp Thing"
+],
+"Thorium|Teleologic Imposition": [
+"Craft at Ancient Manipulator: Glass ×20, Concentrated Thorium ×8, Nebula Fragment ×8"
+],
+"Thorium|Terra Knife": [
+"Craft at Mythril Anvil: True Carnwennan, True Embowelment, Living Shard ×12 (+1 other recipe)"
+],
+"Thorium|Terrarium Bomber": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"Thorium|Terrarium Enigma Staff": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"Thorium|Terrarium Longbow": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"Thorium|Terrarium Pulse Rifle": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"Thorium|Terrarium Ripple Knife": [
+"Craft at Ancient Manipulator: Terrarium Core ×8"
+],
+"Thorium|Terrarium Sage Staff": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"Thorium|Terrarium Surround Sound": [
+"Craft at Ancient Manipulator: Devil's Subwoofer, Terrarium Core ×8"
+],
+"Thorium|Tesla Defibrillator": [
+"Drops from Frankenstein"
+],
+"Thorium|Teslanator": [
+"Sold by Steampunker"
+],
+"Thorium|The Black Bow": [
+"Reward for the Tracker's contract \"Tracker's End\" (Bone Lee)"
+],
+"Thorium|The Black Cane": [
+"Reward for the Tracker's contract \"Tracker's End\" (Bone Lee)"
+],
+"Thorium|The Black Dagger": [
+"Reward for the Tracker's contract \"Tracker's End\" (Bone Lee)"
+],
+"Thorium|The Black Staff": [
+"Reward for the Tracker's contract \"Tracker's End\" (Bone Lee)"
+],
+"Thorium|The Cryo-Fang": [
+"Drops from Borean Strider Base"
+],
+"Thorium|The Incubator": [
+"Drops from Forgotten One"
+],
+"Thorium|The Javelin": [
+"Craft at Ancient Manipulator: Death Essence ×3"
+],
+"Thorium|The Massacre": [
+"Craft at Ancient Manipulator: Rocket Launcher, Dark Matter ×8, Strange Alien Tech ×2"
+],
+"Thorium|Tidal Wave": [
+"Craft at Ancient Manipulator: Ocean Essence ×3"
+],
+"Thorium|Time Gate": [
+"Craft at Bookcase: Spell Tome, Dark Matter ×8, Forbidden Fragment ×2"
+],
+"Thorium|Titan Bow": [
+"Craft at Soul Forge: Titanic Bar ×8"
+],
+"Thorium|Titan Javelin": [
+"Craft at Soul Forge: Titanic Bar ×2"
+],
+"Thorium|Titan armor with the Titan Headgear": [
+"Craft at Soul Forge: Titanic Bar ×12"
+],
+"Thorium|Titan armor with the Titan Mask": [
+"Craft at Soul Forge: Titanic Bar ×12"
+],
+"Thorium|Titanium Rifle": [
+"Craft at Mythril Anvil: Titanium Bar ×13"
+],
+"Thorium|Titanium Staff": [
+"Craft at Mythril Anvil: Titanium Bar ×13"
+],
+"Thorium|Tommy Gun": [
+"Drops from Snowman Gangsta"
+],
+"Thorium|Tranquilizer Gun": [
+"Drops from Lycan"
+],
+"Thorium|Trench Spitter": [
+"Drops from Forgotten One"
+],
+"Thorium|Trigun": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"Thorium|True Carnwennan": [
+"Craft at Mythril Anvil: Carnwennan"
+],
+"Thorium|True Embowelment": [
+"Craft at Mythril Anvil: Embowelment, Broken Hero Fragment ×2"
+],
+"Thorium|True Light's Anguish": [
+"Craft at Mythril Anvil: Light's Anguish, Broken Hero Fragment ×2"
+],
+"Thorium|Turn Undead": [
+"Craft at Tinkerer's Workshop: Fear Monger, Ancient Aegis"
+],
+"Thorium|Twin's Ire": [
+"Craft at Soul Forge: Strange Plating ×12"
+],
+"Thorium|Twinkle": [
+"Craft at Work Bench: Pixie Dust ×50, Soul of Light ×8"
+],
+"Thorium|Umbra Blaster": [
+"Craft at Soul Forge: Onyx Blaster, Dark Matter ×10"
+],
+"Thorium|Unbound Fantasy": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"Thorium|Useless Staff": [
+"Craft at Mythril Anvil: any Mythril Bar ×14, Soul of Light ×12, Aquaite Bar ×12"
+],
+"Thorium|Valadium Blaster": [
+"Craft at Mythril Anvil: Valadium Ingot ×8"
+],
+"Thorium|Valadium Bow": [
+"Craft at Mythril Anvil: Valadium Ingot ×8"
+],
+"Thorium|Valadium Staff": [
+"Craft at Mythril Anvil: Valadium Ingot ×8"
+],
+"Thorium|Valhalla's Descent": [
+"Drops from Betsy"
+],
+"Thorium|Valkyrie Blade": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Soul of Fright ×6, Soul of Sight ×6, Soul of Might ×6, Soul of Night ×6, Soul of Light ×6"
+],
+"Thorium|Vega Phaser": [
+"Drops from Martian Scout"
+],
+"Thorium|Venom Kunai": [
+"Craft at Work Bench: Kunai ×150, Spider Fang ×2"
+],
+"Thorium|Verdant Ornament": [
+"Drops from Plantera"
+],
+"Thorium|Vile Spitter": [
+"Drops from Vile Floater"
+],
+"Thorium|Void Lance": [
+"Craft at Mythril Anvil: Void Heart, Soul of Night ×5, Shadewood ×65 (+1 other recipe)"
+],
+"Thorium|Void Planter": [
+"Drops from Fallen Beholder"
+],
+"Thorium|Volt Hatchet": [
+"Craft at Anvil: Abyssal Chitin ×8, Empowered Granite ×3, Aquaite Bar ×10",
+"Drops from Volt Eel"
+],
+"Thorium|Volt Module": [
+"Drops from Martian Engineer"
+],
+"Thorium|Warlock set": [
+"Sold by Spiritualist"
+],
+"Thorium|Whispering Dagger": [
+"Craft at Mythril Anvil: Void Heart, Hallowed Bar ×15, Unholy Shards ×15, Soul of Night ×10"
+],
+"Thorium|Whispering set": [
+"Drops from Forgotten One"
+],
+"Thorium|White Dwarf Cutter": [
+"Craft at Ancient Manipulator: White Dwarf Fragment ×2"
+],
+"Thorium|White Dwarf set": [
+"Craft at Ancient Manipulator (whole set): White Dwarf Fragment ×45, Luminite Bar ×36"
+],
+"Thorium|White Knight set": [
+"Craft at Anvil (whole set): Hallowed Charm ×42"
+],
+"Thorium|Witchblade": [
+"Drops from Pumpking"
+],
+"Thorium|Wither Staff": [
+"Drops from Lich"
+],
+"Thorium|Wondrous Wand": [
+"Craft at Soul Forge: Strange Plating ×12, Soul of Plight ×8, Frost Core, Cursed Flame ×15, Soul of Night ×10 (+1 other recipe)"
+],
+"Thorium|Wyrm Decimator": [
+"Craft at Ancient Manipulator: Death Essence ×3"
+],
+"|24-Carat Tuba": [
+"Drops from Flying Dutchman"
+],
+"|Abyss Blade": [
+"Craft at Mythril Anvil: Depth Crusher, Voidstone ×20, Depth Cells ×20"
+],
+"|Abyssal Mirror": [
+"Craft at Mythril Anvil: Mirage Mirror, Ink Bomb, Depth Cells ×20, Lumenyl ×15"
+],
+"|Abyssal Tome": [
+"Drops from The Slime God"
+],
+"|Ace's High": [
+"Craft at Cosmic Anvil: Revolver, Claret Cannon, Fantasy Talisman, Auric Bar ×5"
+],
+"|Acid Belcher": [
+"Chests in the Abandoned Village (a Secrets of the Shadows structure)"
+],
+"|Acorn Bag": [
+"Craft at Work Bench: any Wood ×20, Fragment of Nature ×4, Acorn ×10"
+],
+"|Acoustic Guitar": [
+"Craft at Anvil: Pearlwood ×16, Unicorn Horn, Pixie Dust ×8"
+],
+"|Adamantite Klaxon": [
+"Craft at Mythril Anvil: Adamantite Bar ×12"
+],
+"|Adamantite Throwing Axe": [
+"Craft at Mythril Anvil: Adamantite Bar ×10"
+],
+"|Adamantite armor": [
+"Craft at Mythril Anvil (whole set): Adamantite Bar ×54"
+],
+"|Aegis Blade": [
+"Drops from Golem"
+],
+"|Aerial Bane": [
+"Drops from Betsy (Old One's Army, final tier)"
+],
+"|Aerospec armor": [
+"Craft at Anvil (whole set): Aerialite Bar ×45, Feather ×5"
+],
+"|Aestheticus": [
+"Craft at Anvil: Aerialite Bar ×5, Sea Prism ×10, Fallen Star ×5"
+],
+"|Aetherflux Cannon": [
+"Craft at Cosmic Anvil: Nano Purge, Auric Bar ×5, Uelibloom Bar ×12, Divine Geode ×8"
+],
+"|Alchemical Decanter": [
+"Craft at Mythril Anvil: Bottled Water, Honey Comb, Bee Wax ×8, Plague Cell Canister ×15",
+"Drops from Queen Bee"
+],
+"|Alchemist's Charm": [
+"Craft at Tinkerer's Workshop: Charm of Myths, Lihzahrd Tail, Glow Jelly, Ectoplasm ×10"
+],
+"|Ale": [
+"Craft at Keg: Mug"
+],
+"|Alula Australis": [
+"Drops from Astrum Aureus"
+],
+"|Amalgamated Brain": [
+"Craft at Anvil: Rotten Brain, Brain of Confusion, Soul of Night ×3"
+],
+"|Amber Ring": [
+"Craft at Anvil: any Iron Bar, Amber, Fallen Star"
+],
+"|Ambrosial Ampoule": [
+"Craft at Ancient Manipulator: Living Dew, Radiant Ooze, Life Alloy ×3, Solar Fragment ×6"
+],
+"|Amethyst Ring": [
+"Craft at Anvil: any Iron Bar, Amethyst, Fallen Star"
+],
+"|Ammo Box": [
+"Sold by Arms Dealer (Hardmode)"
+],
+"|Ammo Reservation Potion": [
+"Craft at Placed Bottle: Bottled Water, Double Cod, Moonglow"
+],
+"|Ancient Harp": [
+"Craft at Anvil: Cursed Matter ×7, Keystone Shard ×10"
+],
+"|Ancient Ice Chunk": [
+"Drops from Ice Clasper"
+],
+"|Ancient Steel Lantern": [
+"Craft at Anvil: Ancient Steel Bar ×12, Charred Wood ×12, Campfire"
+],
+"|Angel Treads": [
+"Craft at Mythril Anvil: Terraspark Boots, Harpy Ring, Essence of Sunlight ×5, Soul of Fright, Soul of Might, Soul of Sight"
+],
+"|Angel Wings": [
+"Craft at Mythril Anvil: Feather ×10, Soul of Flight ×20, Soul of Light ×15"
+],
+"|Angelic Alliance": [
+"Craft at Draedon's Forge: any Hallowed Helmet, any Hallowed Platemail, any Hallowed Greaves, Paladin's Shield, True Excalibur, Cross Necklace, Shadowspec Bar ×5"
+],
+"|Angelic Shotgun": [
+"Craft at Mythril Anvil: Sunplate Block ×75, Divine Geode ×15, Essence of Sunlight ×7"
+],
+"|Animosity": [
+"Drops from Calamitas Clone"
+],
+"|Ankh Shield": [
+"Craft at Tinkerer's Workshop: Obsidian Shield, Ankh Charm"
+],
+"|Antlion Maraca": [
+"Craft at Work Bench: Antlion Mandible ×2, Sand Block ×15"
+],
+"|Antlion Staff": [
+"Craft at Work Bench: Antlion Mandible ×4, Sand Block ×20"
+],
+"|Apoctosis Array": [
+"Craft at Ancient Manipulator: Ion Blaster, Solar Fragment ×12"
+],
+"|Apollyon": [
+"Craft at Mythril Anvil: Abaddon, Eye of the Golem, Unholy Core ×4, Core of Calamity ×2"
+],
+"|Apotheosis": [
+"Craft at Draedon's Forge: Spell Tome, Cosmic Discharge, Void Eater Marionette ×2, Maw of Infinity ×2, Shadowspec Bar ×5, Cosmilite Bar ×33, Ascendant Spirit Essence ×11"
+],
+"|Apprentice armor": [
+"Sold by the Tavernkeep for Defender Medals (after any mechanical boss)"
+],
+"|Aqua Pelter": [
+"Craft at Anvil: Aquaite Bar ×14, Depth Scales ×6"
+],
+"|Aqua Scepter": [
+"Locked Gold Chests in the Dungeon"
+],
+"|Aquaite Knife": [
+"Craft at Anvil: Aquaite Bar ×2, Depth Scales"
+],
+"|Aquamarine Ring": [
+"Craft at Anvil: any Iron Bar, Aquamarine, Fallen Star"
+],
+"|Aquamarine Staff": [
+"Craft at Anvil: Amethyst Staff, Pearl Shard ×3, Sea Prism ×5, Navystone ×25 (+1 other recipe)"
+],
+"|Aquashard Shotgun": [
+"Craft at Anvil: Boomstick, Aerialite Bar ×2, Sea Prism ×10"
+],
+"|Arc Staff Mk2": [
+"Craft at Hardlight Fabricator: Gold Arc Staff, Twilight Alloy ×16"
+],
+"|Arcane Flower": [
+"Craft at Tinkerer's Workshop: Mana Flower, Putrid Scent"
+],
+"|Archerfish": [
+"Craft at Anvil: Bone ×15, Minishark, Sulphuric Scale ×5, any Gold Bar ×10",
+"Opened from Hydrothermal Crate",
+"Fishing catch"
+],
+"|Archery Potion": [
+"Craft at Placed Bottle: Bottled Water, Daybloom, Lens"
+],
+"|Arclight Orbs": [
+"Craft at Hardlight Fabricator: Spore Bombs, Hardlight Alloy ×12"
+],
+"|Arctic Spear Tip": [
+"Craft at Mythril Anvil: Crystal Spear Tip, Cryonic Bar ×6"
+],
+"|Ares' Exoskeleton": [
+"Opened from Treasure Box (Exo Mechs)"
+],
+"|Ark of the Cosmos": [
+"Craft at Cosmic Anvil: Galaxia, Ark of the Elements, Auric Bar ×5"
+],
+"|Ark of the Elements": [
+"Craft at Mythril Anvil: Ark of the Ancients, Luminite Bar ×5, Life Alloy ×5, Solar Fragment ×5"
+],
+"|Armageddon": [
+"Craft at Mythril Anvil: Cursed Gauntlet, Phase Bar ×20"
+],
+"|Arsenal Staff": [
+"Craft at Anvil: Darksteel Ingot ×12, Spirit Droplet ×10"
+],
+"|Artery": [
+"Craft at Anvil: Crimtane Bar ×12"
+],
+"|Artillery Potion": [
+"Craft at Placed Bottle: Bottled Water, Blinkroot, Flaming Crack-Gut"
+],
+"|Ascendant Insignia": [
+"Craft at Mythril Anvil: Soaring Insignia, Effulgent Feather ×5, Divine Geode ×5, Soul of Flight ×10"
+],
+"|Asgard's Valor": [
+"Craft at Mythril Anvil: Ornate Shield, Hallowed Bar ×5, Core of Calamity"
+],
+"|Asgardian Aegis": [
+"Craft at Cosmic Anvil: Asgard's Valor, Elysian Aegis, Cosmilite Bar ×10, Ascendant Spirit Essence ×4"
+],
+"|Assassin Potion": [
+"Craft at Placed Bottle: Bottled Water, Deathweed, Fireblossom"
+],
+"|Astral armor": [
+"Craft at Ancient Manipulator (whole set): Astral Bar ×54"
+],
+"|Astral's End": [
+"Craft at Ancient Manipulator: Gelitic Blade, Titan Arm, Metanova Bar ×5"
+],
+"|Astro armor": [
+"Craft at Anvil (whole set): Meteorite Bar ×45"
+],
+"|Auric Tesla armor": [
+"Craft at Cosmic Anvil (whole set): God Slayer Helmet, Bloodflare Demon Helm, Tarragon Visage, Auric Bar ×45, God Slayer Chestplate, Bloodflare Body Armor, Tarragon Breastplate, God Slayer Leggings, Bloodflare Cuisses, Tarragon Leggings, Flying Carpet"
+],
+"|Auto Clicker": [
+"Drops from Mutagen Treasure Slime"
+],
+"|Avalanche": [
+"Drops from Cryogen"
+],
+"|B-GSS: Nidhogg": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×18, Dubious Plating ×12, Life Alloy ×5, Infected Armor Plating ×10"
+],
+"|Badge of Bravery": [
+"Craft at Mythril Anvil: Warrior Emblem, Uelibloom Bar ×12"
+],
+"|Bag of Ammunition Gathering": [
+"Sold by Archaeologist"
+],
+"|Bag of Charms": [
+"Craft at Tinkerer's Workshop: Cursed Icosahedron, Soul Charm, Phase Bar ×10"
+],
+"|Bagpipe": [
+"Craft at Anvil: Blood Cell ×8"
+],
+"|Balance Bloom": [
+"Craft at Mythril Anvil: Petal ×18, Light Shard, Dark Shard"
+],
+"|Ball O' Fugu": [
+"Craft at Anvil: Bone ×15, Urchin Stinger, Sulphuric Scale ×5, Abyss Gravel ×10",
+"Opened from Hydrothermal Crate",
+"Fishing catch"
+],
+"|Ball O' Hurt": [
+"Shadow Orbs in the Corruption",
+"Craft at Anvil: The Rotted Fork"
+],
+"|Ballista Rod": [
+"Sold by the Tavernkeep for Defender Medals"
+],
+"|Band Kit": [
+"Craft at Tinkerer's Workshop: High Quality Reed, Cork Grease, Pad o' Paper"
+],
+"|Band of Starpower": [
+"Shadow Orbs in the Corruption (or transmute a Panic Necklace in Shimmer)"
+],
+"|Banshee Hook": [
+"Drops from Polterghast"
+],
+"|Baritone Saxophone": [
+"Sold by Steampunker"
+],
+"|Baroclaw": [
+"Craft at Mythril Anvil: Craw Carapace, Depth Cells ×20"
+],
+"|Barracuda Gun": [
+"Craft at Mythril Anvil: Piranha Gun, Luminite Bar ×5, Shark Fin ×2"
+],
+"|Bassoon": [
+"Craft at Soul Forge: Dark Matter ×6, Darksteel Ingot ×8"
+],
+"|Bat Scepter": [
+"Drops from Pumpking (Pumpkin Moon)"
+],
+"|Bat Scythe": [
+"Drops from Viscount"
+],
+"|Bee armor": [
+"Craft at Anvil (whole set): Bee Wax ×30"
+],
+"|Belladonna Spirit Staff": [
+"Craft at Anvil: Vine ×4, Jungle Spores ×5, Stinger ×8, Rich Mahogany ×25"
+],
+"|Bellerose": [
+"Craft at Anvil: any Gold Bar ×16, Obsidian ×20, Umbrella"
+],
+"|Berserker's Glove": [
+"Craft at Tinkerer's Workshop: Power Glove, Flesh Knuckles"
+],
+"|Betsy's Bellow": [
+"Drops from Betsy"
+],
+"|Betsy's Wings": [
+"Drops from Betsy",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Bewitching Table": [
+"Sold by Witch Doctor (Npc Is Present)"
+],
+"|Biome Blade": [
+"Craft at Mythril Anvil: Broken Biome Blade, Soul of Fright, Soul of Might, Soul of Sight, Pixie Dust ×2, Starblight Soot ×10"
+],
+"|Black Anurian": [
+"Craft at Anvil: Bone ×15, Abyss Gravel ×10, Sulphuric Scale ×5",
+"Opened from Hydrothermal Crate",
+"Fishing catch"
+],
+"|Blacksmith's Barrier": [
+"Sold by Blacksmith"
+],
+"|Blade of Grass": [
+"Craft at Anvil: Stinger ×12, Jungle Spores ×15, Vine ×3"
+],
+"|Bladecrest Oathsword": [
+"Drops from Demon, Voodoo Demon"
+],
+"|Bladedge Railbow": [
+"Craft at Mythril Anvil: Perennial Bar ×10"
+],
+"|Blazing Star": [
+"Craft at Mythril Anvil: Glaive, Hellstone Bar ×5, Essence of Havoc ×10"
+],
+"|Blink Pack": [
+"Craft at Hardlight Fabricator: Fragment of Chaos ×5, Twilight Alloy ×12"
+],
+"|Blood Boiler": [
+"Craft at Mythril Anvil: Bloodstone ×25, Blood Orb ×10"
+],
+"|Blood Harvest": [
+"Craft at Demon Altar: The Blender, Bone Reaper, Bountiful Harvest, Molten Thresher"
+],
+"|Blood Pact": [
+"Opened from Treasure Bag (Ravager)"
+],
+"|Blood Rain Bow": [
+"Drops from Wandering Eye Fish, Zombie Merman"
+],
+"|Blood Thorn": [
+"Drops from Hemogoblin Shark"
+],
+"|Blood Transfusion": [
+"Craft at Bookcase: Spell Tome, Blood Cell ×6"
+],
+"|Bloodfire Arrows": [
+"Craft at Mythril Anvil: Bloodstone, Blood Orb",
+"Sold by Ammo Dealer"
+],
+"|Bloodfire Bullets": [
+"Craft at Mythril Anvil: Bloodstone, Blood Orb",
+"Sold by Ammo Dealer"
+],
+"|Bloodflare armor": [
+"Craft at Mythril Anvil (whole set): Bloodstone ×110, Blood Orb ×45, Ruinous Soul ×9"
+],
+"|Bloodstained Coin": [
+"Craft at Anvil: Vertebra ×5, Ancient Steel Bar ×8, Fragment of Evil ×4"
+],
+"|Bloodstained Glove": [
+"Drops from The Perforator Hive",
+"Opened from Treasure Bag (The Perforators)"
+],
+"|Bloody High Claw": [
+"Craft at Mythril Anvil: Fetid Baghnakhs, any Adamantite Bar ×10, Soul of Night ×20, Soul of Fright ×5"
+],
+"|Bloody Worm Scarf": [
+"Craft at Anvil: Bloody Worm Tooth, Worm Scarf, Soul of Night ×3"
+],
+"|Bloody Worm Tooth": [
+"Craft at Tinkerer's Workshop: Rotten Brain",
+"Opened from Treasure Bag (The Perforators)"
+],
+"|Blooming Bell": [
+"Craft at Arcane Armor Fabricator: Petal ×8"
+],
+"|Blooming Shuriken": [
+"Craft at Arcane Armor Fabricator: Petal ×2"
+],
+"|Blooming armor": [
+"Craft at Arcane Armor Fabricator (whole set): Petal ×30, Jungle Spores ×14"
+],
+"|Blossom Flux": [
+"Drops from Plantera"
+],
+"|Blue Horseshoe Balloon": [
+"Craft at Tinkerer's Workshop: Cloud in a Balloon, Lucky Horseshoe"
+],
+"|Blue Jellyfish Staff": [
+"Craft at Anvil: Sapphire ×15, Fragment of Tide ×4",
+"Drops from Blue Jellyfish, Green Jellyfish",
+"Fishing catch"
+],
+"|Blunder Booster": [
+"Craft at Mythril Anvil: Plagued Fuel Pack, Effulgent Feather ×8"
+],
+"|Bone Baton": [
+"Craft at Anvil: Bone ×30, Soul of Plight ×10"
+],
+"|Bone Clapper": [
+"Sold by Archaeologist"
+],
+"|Bone Grip": [
+"Craft at Tinkerer's Workshop: Padded Grip, Sturdy Fossil ×10"
+],
+"|Bone Reaper": [
+"Opened from Golden Lock Box"
+],
+"|Bone Trumpet": [
+"Craft at Anvil: Darksteel Ingot ×10, Bone ×15"
+],
+"|Bongos": [
+"Craft at Work Bench: Cloth ×8, Hellstone Bar ×12"
+],
+"|Book of Skulls": [
+"Drops from Skeletron"
+],
+"|Book of Virtues": [
+"Drops from Lesser Wisp"
+],
+"|Boomstick": [
+"Ivy Chests in the Underground Jungle (also Jungle Crates)"
+],
+"|Borealis Bomber": [
+"Drops from Astrum Aureus"
+],
+"|Botanic Piercer": [
+"Craft at Mythril Anvil: Chlorophyte Partisan, Dark Lance, Gungnir, Living Shard ×12"
+],
+"|Botanical Symbiote": [
+"Drops from Flowering Slime"
+],
+"|Boulder Probe Staff": [
+"Drops from Granite Energy Storm"
+],
+"|Bouncing Eyeball": [
+"Drops from Wandering Eye Fish, Zombie Merman"
+],
+"|Bouncing Flame Potion": [
+"Craft at Placed Bottle: Bottled Water, Daybloom, Flaming Crack-Gut"
+],
+"|Bounding Potion": [
+"Craft at Placed Bottle: Bottled Water, Pink Gel, Moonglow (+1 other recipe)"
+],
+"|Bountiful Harvest": [
+"Craft at Anvil: Jungle Spores ×10, Stinger ×4, Vine ×2"
+],
+"|Brain of Confusion": [
+"Craft at Tinkerer's Workshop: Worm Scarf",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Brass Cap": [
+"Craft at Anvil: Bronze Alloy Fragments ×10"
+],
+"|Brass Whip": [
+"Drops from Mutagen Treasure Slime"
+],
+"|Brimflame armor": [
+"Craft at Mythril Anvil (whole set): Unholy Core ×30, Ashes of Calamity ×18"
+],
+"|Brimlash": [
+"Craft at Mythril Anvil: Unholy Core ×8, Ashes of Calamity ×8",
+"Drops from Clamitas, Supreme Clam"
+],
+"|Brimrose Staff": [
+"Craft at Mythril Anvil: Unholy Core ×8"
+],
+"|Brimstone Sword": [
+"Craft at Mythril Anvil: Unholy Core ×8"
+],
+"|Brittle Star Staff": [
+"Drops from Desert Scourge"
+],
+"|Broken Biome Blade": [
+"Craft at Anvil: any Wooden Sword, Aerialite Bar ×10, Hellstone Bar ×10, Dirt Block ×50, any Stone Block ×50"
+],
+"|Bronze Throwing Axe": [
+"Craft at Anvil: Bronze Alloy Fragments ×2"
+],
+"|Bronze Tuning Fork": [
+"Craft at Anvil: Bronze Alloy Fragments ×8"
+],
+"|Bronze armor": [
+"Craft at Anvil (whole set): Bronze Alloy Fragments ×48"
+],
+"|Bubble Gun": [
+"Drops from Duke Fishron"
+],
+"|Bubonic Rounds": [
+"Craft at Mythril Anvil: Musket Ball ×150, Plague Cell Canister",
+"Sold by Ammo Dealer"
+],
+"|Buccaneer's Blunderbuss": [
+"Drops from Queen Jellyfish"
+],
+"|Buisine": [
+"Craft at Mythril Anvil: Holy Knight's Alloy ×8"
+],
+"|Bulwark of the Ancients": [
+"Craft at Tinkerer's Workshop: Olympian Aegis, Chiseled Barrier, Ankh Shield, Terminal Cluster"
+],
+"|Bundle of Horseshoe Balloons": [
+"Craft at Tinkerer's Workshop: Bundle of Balloons, Lucky Horseshoe (+4 other recipes)"
+],
+"|Burger": [
+"Drops from Eater of Souls, Crimera"
+],
+"|Burning Revelation": [
+"Drops from Providence, the Profaned Goddess"
+],
+"|Burnt Sienna": [
+"Drops from Tomb Crawler"
+],
+"|Butcher's Bloodmaker": [
+"Craft at Anvil: Crimtane Bar ×10, Tissue Sample ×5"
+],
+"|Butterfly Staff": [
+"Craft at Anvil: any Gold Bar ×8, Gold Butterfly"
+],
+"|Buzzkill": [
+"Craft at Mythril Anvil: Illegal Gun Parts, Cog ×15, Soul of Fright ×10"
+],
+"|C-TSL Defibrillator": [
+"Craft at Anvil: Mysterious Circuitry ×5, Dubious Plating ×4, Aerialite Bar ×3, Sea Prism ×6"
+],
+"|Cactus Needle": [
+"Craft at Work Bench: Cactus ×5"
+],
+"|Cadaver's Cornet": [
+"Drops from Lich"
+],
+"|Cadaverous Carrion": [
+"Drops from The Old Duke"
+],
+"|Calamity": [
+"Opened from Treasure Coffer (Calamitas)"
+],
+"|Calaveras": [
+"Craft at Anvil: Bone ×20, Spirit Droplet ×8"
+],
+"|Calcium Potion": [
+"Craft at Placed Bottle: Bottled Water, Ancient Bone Dust (+1 other recipe)",
+"Sold by Skeleton Merchant"
+],
+"|Calculator": [
+"Craft at Hardlight Fabricator: Primordial Cluster, Hardlight Alloy ×10"
+],
+"|Call of Cthulhu": [
+"Craft at Ancient Manipulator: Siren's Lyre, Abyssal Shadow ×3"
+],
+"|Canteen": [
+"Sold by Desert Acolyte"
+],
+"|Cape of the Survivor": [
+"Craft at Mythril Anvil: Cursed Cloth ×18, Darksteel Ingot ×10"
+],
+"|Cataclysm Disc": [
+"Craft at Hardlight Fabricator: Gold Chakram, Twilight Alloy ×12"
+],
+"|Caustic Croaker Staff": [
+"Drops from Nuclear Toad"
+],
+"|Celestial Emblem": [
+"Craft at Tinkerer's Workshop: Celestial Magnet, Avenger Emblem"
+],
+"|Celestial Reaper": [
+"Sold by Bandit"
+],
+"|Celestial Starboard": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Celestus": [
+"Craft at Draedon's Forge: Rebounding Rainbow, Molten Amputator, Subduction Slicer, Enchanted Axe, Miracle Matter"
+],
+"|Cello": [
+"Drops from Fallen Beholder"
+],
+"|Chain Guillotines": [
+"Craft at Anvil: Fetid Baghnakhs"
+],
+"|Chalice of the Blood God": [
+"Craft at Cosmic Anvil: Blood Pact, Charm of Myths, Bloodstone ×12, Blood Orb ×5, Ascendant Spirit Essence ×4"
+],
+"|Challenger's Ring": [
+"Craft at Tinkerer's Workshop: Belphegor's Ring, Accuser's Ring, Mammon's Ring, Leviathan's Ring, Beelzebub's Ring, Light-Bringer's Ring, Asmodeus's Ring, Primordial Cluster"
+],
+"|Champion's Bomber Staff": [
+"Drops from Buried Champion"
+],
+"|Champion's God Hand": [
+"Drops from Buried Champion"
+],
+"|Champion's Swift Blade": [
+"Drops from Buried Champion"
+],
+"|Champion's Trifecta-Shot": [
+"Drops from Buried Champion"
+],
+"|Champion's Wings": [
+"Opened from Buried Champion Treasure Bag"
+],
+"|Chaos Conduit": [
+"Sold by Archaeologist"
+],
+"|Charged Blaster Cannon": [
+"Rare drop from Martian Madness enemies"
+],
+"|Charm of Myths": [
+"Craft at Tinkerer's Workshop: Band of Regeneration, Philosopher's Stone"
+],
+"|Cherry Pie": [
+"Sold by Cook"
+],
+"|Chicken Cannon": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"|Chiseled Barrier": [
+"Craft at Tinkerer's Workshop: Marble Defender, Arcane Aqueduct, Tiny Planet"
+],
+"|Chlorophyte Arrows": [
+"Craft at Mythril Anvil: Chlorophyte Bar"
+],
+"|Chlorophyte Bullets": [
+"Craft at Mythril Anvil: Musket Ball ×60, Chlorophyte Bar"
+],
+"|Chlorophyte Shotbow": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×12"
+],
+"|Chlorophyte armor": [
+"Craft at Mythril Anvil (whole set): Chlorophyte Bar ×54"
+],
+"|Christmas Cheer": [
+"Drops from Blood Butcherer"
+],
+"|Chrono Ocarina": [
+"Craft at Anvil: Living Leaf, Hellstone Bar, Aquaite Bar, Soul of Night, Forbidden Fragment, Soul of Light"
+],
+"|Chronomancer's Scythe": [
+"Craft at Mythril Anvil: Ice Sickle, Fast Clock, Luminite Bar ×10, Essence of Eleum ×6"
+],
+"|Cinder Arrows": [
+"Craft at Mythril Anvil: Hellfire Arrow ×250, Unholy Core",
+"Sold by Ammo Dealer"
+],
+"|Cinders of Lament": [
+"Exhume Entropy's Vigil (an enchantment from the Brimstone Witch)"
+],
+"|Clamitas Crusher": [
+"Craft at Mythril Anvil: Clam Crusher, Husk of Calamity ×12, Ashes of Calamity ×6"
+],
+"|Clamitas armor": [
+"Craft at Mythril Anvil (whole set): Mollusk Shellmet, Husk of Calamity ×42, Ashes of Calamity ×19, Amidias' Pendant, Mollusk Shelleggings, Mollusk Shellplate, Giant Pearl"
+],
+"|Claret Cannon": [
+"Craft at Mythril Anvil: Bloodstone ×25, Blood Orb ×10"
+],
+"|Clarinet": [
+"Craft at Soul Forge: Dark Matter ×6, Darksteel Ingot ×6"
+],
+"|Cleansing Blaze": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×10"
+],
+"|Clockwork Bow": [
+"Craft at Mythril Anvil: Luminite Bar ×5, Cog ×50"
+],
+"|Cloud in a Balloon": [
+"Craft at Tinkerer's Workshop: Cloud in a Bottle, Shiny Red Balloon"
+],
+"|Cloud in a Bottle": [
+"Craft at Anvil: Bottle, Cloud ×30, Feather ×2"
+],
+"|Clover Charm": [
+"Craft at Work Bench: Wood ×20, Fragment of Nature ×4, Sky Blue Flower"
+],
+"|Cluster Rocket I": [
+"Sold by Cyborg (Downed Martians)"
+],
+"|Cnidarian": [
+"Craft at Anvil: Sea Remains ×2"
+],
+"|Cobalt Gong": [
+"Craft at Anvil: Cobalt Bar ×12"
+],
+"|Cobalt Kunai": [
+"Craft at Anvil: Cobalt Bar ×10"
+],
+"|Cobalt armor": [
+"Craft at Anvil (whole set): Cobalt Bar ×45"
+],
+"|Coconut Gun": [
+"Sold by Archaeologist"
+],
+"|Code Corrupter": [
+"Craft at Hardlight Fabricator: Hardlight Alloy ×16"
+],
+"|Coin of Deceit": [
+"Craft at Anvil: any Copper Bar ×12, any Evil Bar ×8"
+],
+"|Concert Tickets": [
+"Sold by Party Girl"
+],
+"|Concertina": [
+"Drops from Sea-Shanty Singer"
+],
+"|Concussive Instrument": [
+"Craft at Anvil: any Wood ×5, any Iron Bar ×5"
+],
+"|Conduit armor": [
+"Craft at Mythril Anvil (whole set): Martian Conduit Plating ×120"
+],
+"|Conflagration Potion": [
+"Craft at Placed Bottle: Bottled Water, Fireblossom, Magma Gill",
+"Opened from Scarlet Crate, Sinister Crate"
+],
+"|Congealed Duo-Whip": [
+"Drops from The Slime God"
+],
+"|Consecrated Water": [
+"Craft at Mythril Anvil: Holy Water ×100, any Adamantite Bar ×5, Crystal Shard ×10, Soul of Light ×7"
+],
+"|Contagion": [
+"Craft at Draedon's Forge: Riftburst, Shadowspec Bar ×5, Plague Cell Canister ×20"
+],
+"|Cool Whip": [
+"Craft at Mythril Anvil: Soul of Light ×8, Soul of Night ×8, Frost Core"
+],
+"|Coral Crossbow": [
+"Craft at Anvil: Coral ×7"
+],
+"|Coral Crusher": [
+"Sold by Sea King"
+],
+"|Coral Polearm": [
+"Craft at Anvil: Coral ×9"
+],
+"|Coral Purifier": [
+"Craft at Anvil: Coral ×7"
+],
+"|Coral armor": [
+"Craft at Anvil (whole set): Coral ×24"
+],
+"|Corpus Avertor": [
+"Drops from Ravager"
+],
+"|Corrosive Flux": [
+"Craft at Anvil: Acidwood ×30, Sulphuric Scale ×12"
+],
+"|Corvid Harbinger Staff": [
+"Craft at Cosmic Anvil: Raven Staff, Cosmilite Bar ×8, Nightmare Fuel ×20"
+],
+"|Cosmic Flux Staff": [
+"Drops from Lunatic Cultist"
+],
+"|Cosmic Immaterializer": [
+"Craft at Draedon's Forge: Legion of Celestia, Ethereal Subjugator, Cosmilamp, Calamari's Lament, Miracle Matter"
+],
+"|Cosmic Kunai": [
+"Drops from Signus"
+],
+"|Counter Scarf": [
+"Sold by Clothier"
+],
+"|Cranium Smasher": [
+"Drops from Ravager"
+],
+"|Craw Carapace": [
+"Drops from Crawdad"
+],
+"|Creativity Potion": [
+"Craft at Placed Bottle: Bottled Water, Waterleaf, Cactus Fruit"
+],
+"|Creeping Vine Staff": [
+"Craft at Anvil: Jungle Spores ×12, Vine ×4, Stinger ×2"
+],
+"|Crescent Staff": [
+"Craft at Hardlight Fabricator: Illuminant Staff, Platinum Soul Staff, Starlight Alloy ×8"
+],
+"|Crest of Dasuver": [
+"Craft at Tinkerer's Workshop: Shield of Desecar, Shield of Stekpla"
+],
+"|Crier's armor": [
+"Craft at Work Bench (whole set): Cloth ×36"
+],
+"|Crimson Rod": [
+"Crimson Hearts in the Crimson",
+"Craft at Anvil: Vilethorn"
+],
+"|Crown Jewel": [
+"Drops from King Slime"
+],
+"|Crushing Ego": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×10, Elumplate ×25, Exodium Cluster ×25"
+],
+"|Crushsaw Crasher": [
+"Drops from Catastrophic Construct, Cataclysmic Construct"
+],
+"|Cryogenic Staff": [
+"Sold by Archmage"
+],
+"|Crystal Arcanite": [
+"Craft at Tinkerer's Workshop: Purified Shards ×10, Life Gem, Mana Bauble"
+],
+"|Crystal Assassin armor": [
+"Drops from Queen Slime"
+],
+"|Crystal Honey": [
+"Craft at Tinkerer's Workshop: Purified Shards ×10, Life Gem, Honey Block ×15"
+],
+"|Crystal Hydraulophone": [
+"Craft at Anvil: Pearl Shard ×4, Sea Prism ×8, Navystone ×4"
+],
+"|Crystal Piercer": [
+"Craft at Mythril Anvil: Cryonic Bar ×12"
+],
+"|Crystalline": [
+"Craft at Anvil: Wulfrum Knife, Diamond ×3, Fallen Star ×3"
+],
+"|Cursed Ankh Staff": [
+"Craft at Anvil: Cursed Matter ×8, Keystone Shard ×10"
+],
+"|Cursed Arrow": [
+"Craft at Mythril Anvil: Wooden Arrow ×150, Cursed Flame"
+],
+"|Cursed Arrows": [
+"Craft at Mythril Anvil: Wooden Arrow ×150, Cursed Flame"
+],
+"|Cursed Blade": [
+"Craft at Anvil: Cursed Matter ×8, Keystone Shard ×10"
+],
+"|Cursed Bullet": [
+"Craft at Mythril Anvil: Musket Ball ×150, Cursed Flame"
+],
+"|Cursed Bullets": [
+"Craft at Mythril Anvil: Musket Ball ×150, Cursed Flame"
+],
+"|Cursed Dagger": [
+"Drops from Clinger"
+],
+"|Cursed Darts": [
+"Craft by hand: Cursed Flame"
+],
+"|Cursed Flail-Core": [
+"Craft at Mythril Anvil: Iron Flail-Core, Cursed Flame ×25"
+],
+"|Cursed Gauntlet": [
+"Craft at Mythril Anvil: Sandstone Warhammer, Spirit Glove, Cursed Matter ×4, Keystone Shard ×8, Soul of Night ×15"
+],
+"|Cursed Hammer": [
+"Reward for the Tracker's contract \"Enchanted Engagement\""
+],
+"|Cursed Icosahedron": [
+"Craft at Tinkerer's Workshop: Borealis Icosahedron, Hellfire Icosahedron, Dissolving Umbra, Cursed Flame ×10"
+],
+"|Cursed Impale": [
+"Craft at Anvil: Cursed Matter ×7, Keystone Shard ×10"
+],
+"|Cursed Spear Storm": [
+"Craft at Anvil: Cursed Matter ×6, Keystone Shard ×10"
+],
+"|Cursed armor": [
+"Craft at Anvil: Cursed Matter ×8, Keystone Shard ×20"
+],
+"|Daawnlight Spirit Origin": [
+"Craft at Mythril Anvil: Deadshot Brooch, Mysterious Circuitry ×15, Dubious Plating ×15, Luminite Bar ×10, Vortex Fragment ×5"
+],
+"|Daedalus Golem Staff": [
+"Craft at Mythril Anvil: Cryonic Bar ×12"
+],
+"|Daedalus Stormbow": [
+"Drops from Hallowed Mimics"
+],
+"|Daedalus armor": [
+"Craft at Mythril Anvil (whole set): Cryonic Bar ×54"
+],
+"|Dank Staff": [
+"Drops from The Hive Mind"
+],
+"|Dao of Pow": [
+"Craft at Mythril Anvil: Dark Shard, Light Shard, Soul of Night ×7, Soul of Light ×7"
+],
+"|Dark Contagion": [
+"Craft at Bookcase: Unholy Shards ×10, Purified Gel ×5, Deathweed ×2"
+],
+"|Dark Gift": [
+"Opened from Dark Mage Treasure Bag"
+],
+"|Dark Harvest": [
+"Drops from Pumpking (Pumpkin Moon)"
+],
+"|Dark Lance": [
+"Shadow Chests in the Underworld (also Obsidian Lock Boxes)"
+],
+"|Dark Matter Sheath": [
+"Craft at Ancient Manipulator: Silencing Sheath, Ruin Medallion, Meld Blob ×14"
+],
+"|Dark Spark": [
+"Craft at Mythril Anvil: Last Prism, Dark Plasma ×10, Ruinous Soul ×20, Divine Geode ×30"
+],
+"|Dark Sun Ring": [
+"Craft at Cosmic Anvil: Uelibloom Bar ×10, Darksun Fragment ×20"
+],
+"|Dark Wave": [
+"Craft at Anvil: Demonite Bar ×8"
+],
+"|Darklight Greatsword": [
+"Craft at Mythril Anvil: Cryonic Bar ×12, Soul of Light, Soul of Night"
+],
+"|Dart Pistol": [
+"Craft at Anvil: Dart Rifle"
+],
+"|Dart Pouch": [
+"Sold by Witch Doctor"
+],
+"|Dart Rifle": [
+"Craft at Anvil: Dart Pistol"
+],
+"|Dead Sun's Wind": [
+"Craft at Ancient Manipulator: Meld Blob ×18"
+],
+"|Deadshot Brooch": [
+"Craft at Mythril Anvil: Ranger Emblem, Core of Calamity ×2"
+],
+"|Death Valley Duster": [
+"Craft at Bookcase: Spell Tome, Sturdy Fossil ×25, Ancient Cloth ×2"
+],
+"|Death's Ascension": [
+"Craft at Mythril Anvil: Death Sickle, Ruinous Soul ×4, Soul of Night ×15, Twisting Nether ×3"
+],
+"|Deathstare Rod": [
+"Drops from Eye of Cthulhu"
+],
+"|Decoy": [
+"Craft at Work Bench: Blank Technique Scroll, Living Leaf ×10"
+],
+"|Deep Diver": [
+"Craft at Anvil: Sea Prism ×25, Mollusk Husk ×5, any Cobalt Bar ×10"
+],
+"|Deep Sea Drawl": [
+"Craft at Anvil: Abyss Gravel ×10, Planty Mush ×5, Bone ×3",
+"Opened from Hydrothermal Crate, Sulphurous Crate"
+],
+"|Deep Sea Dumbbell": [
+"Drops from Reaper Shark"
+],
+"|Deep Staff": [
+"Opened from Scarlet Crate, Sinister Crate"
+],
+"|Deep Wounder": [
+"Sold by Bandit"
+],
+"|Deepsea Staff": [
+"Drops from Aquatic Scourge"
+],
+"|Defective Sphere": [
+"Drops from Deadly Sphere"
+],
+"|Deific Amulet": [
+"Craft at Tinkerer's Workshop: Star Veil, Sweetheart Necklace, Astral Bar ×10 (+1 other recipe)"
+],
+"|Demon Blood Ripper": [
+"Craft at Soul Forge: Demon Blood Shard ×8"
+],
+"|Demon Blood armor": [
+"Craft at Soul Forge (whole set): Demon Blood Shard ×40"
+],
+"|Demon Bow": [
+"Craft at Anvil: Demonite Bar ×8"
+],
+"|Demon Heart": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Demon Scythe": [
+"Drops from Demon, Voodoo Demon"
+],
+"|Demon Wings": [
+"Craft at Mythril Anvil: Feather ×10, Soul of Flight ×20, Soul of Night ×15"
+],
+"|Demonshade armor": [
+"Craft at Draedon's Forge (whole set): Shadowspec Bar ×45"
+],
+"|Depth Crusher": [
+"Drops from Viperfish"
+],
+"|Desecrated Water": [
+"Craft at Mythril Anvil: Unholy or Blood Water ×100, any Adamantite Bar ×5, Cursed Flame or Ichor ×5, Soul of Night ×7"
+],
+"|Desert Prowler armor": [
+"Craft at Loom (whole set): Stormlion Mandible ×6, Silk ×23"
+],
+"|Desert Scorcher": [
+"Drops from Desert Scourge"
+],
+"|Desert Tiger Staff": [
+"Desert Chest in the Dungeon (needs a Desert Key; opens after Plantera)"
+],
+"|Destroyer Emblem": [
+"Craft at Tinkerer's Workshop: Avenger Emblem, Eye of the Golem"
+],
+"|Devil's Subwoofer": [
+"Craft at Tinkerer's Workshop: Subwoofer, Hellstone Bar ×12"
+],
+"|Diamond Ring": [
+"Craft at Anvil: any Iron Bar, Diamond, Fallen Star"
+],
+"|Diamond Robe": [
+"Craft at Loom: Robe, Diamond ×10"
+],
+"|Diamond Staff": [
+"Craft at Anvil: Platinum Bar ×10, Diamond ×8"
+],
+"|Diamond of the Deep": [
+"Craft at Mythril Anvil: Sea Spirit Amulet, Scoria Bar ×5, Abyss Gravel ×20, Pyre Mantle ×20, Voidstone ×20, Depth Cells ×20, Lumenyl ×15"
+],
+"|Digital Daito": [
+"Craft at Hardlight Fabricator: Terragrim, Hardlight Alloy ×20, Primordial Cluster, Tainted Keystone"
+],
+"|Dimension-Tearing Disk": [
+"Drops from The Devourer of Gods"
+],
+"|Distress Caller": [
+"Drops from Star Scouter"
+],
+"|Doomsday Device": [
+"Drops from Brain Scrambler, Gigazapper, Gray Grunt, Martian Officer and 2 more"
+],
+"|Dormant Brimseeker": [
+"Drops from Brimstone Elemental"
+],
+"|Draconic Magma Staff": [
+"Craft at Mythril Anvil: Bone ×30, Soul of Plight ×10"
+],
+"|Dracula Fang": [
+"Drops from Viscount",
+"Sold by Confused Zombie"
+],
+"|Draedon's Heart": [
+"Opened from Treasure Box (Exo Mechs)"
+],
+"|Dragon armor": [
+"Craft at Mythril Anvil (whole set): Green Dragon Scale ×45"
+],
+"|Dragon's Breath": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"|Dragon's Wail": [
+"Craft at Mythril Anvil: Green Dragon Scale ×9"
+],
+"|Dragon's armor": [
+"Craft at Mythril Anvil (whole set): Green Dragon Scale ×45"
+],
+"|Dragonblood Disgorger": [
+"Craft at Mythril Anvil: Bloodstone ×25, Blood Orb ×10"
+],
+"|Dread Fork": [
+"Craft at Soul Forge: Dread Soul ×8"
+],
+"|Dread Tearer": [
+"Craft at Soul Forge: Dread Soul ×8"
+],
+"|Dread armor": [
+"Craft at Soul Forge (whole set): Dread Soul ×40"
+],
+"|Dreadmine Staff": [
+"Craft at Mythril Anvil: Voidstone ×30, Depth Cells ×30"
+],
+"|Dreaming Lamp": [
+"Sold by Archaeologist"
+],
+"|Drenched Dirk": [
+"Craft at Anvil: Aquaite Bar ×10, Depth Scales ×6"
+],
+"|Dry Mouth": [
+"Drops from Desert Scourge"
+],
+"|Dual Stylophone": [
+"Craft at Anvil: Vibrant Alloy ×6"
+],
+"|Duality": [
+"Craft at Solidifier: Purified Gel ×15, Blighted Gel ×15"
+],
+"|Duke's Decapitator": [
+"Drops from Duke Fishron"
+],
+"|Duke's Regal Carnyx": [
+"Drops from Duke Fishron"
+],
+"|Dune Splicer": [
+"Desert Chest in the Dungeon (locked biome chest)"
+],
+"|Durasteel armor": [
+"Sold by Blacksmith"
+],
+"|Durendal": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"|Duststorm in a Bottle": [
+"Craft at Mythril Anvil: Lemon 'nade, Ancient Cloth ×2, Grand Scale"
+],
+"|Dynamic Pursuer": [
+"Craft at Cosmic Anvil: Dimension-Tearing Disk, P-LSR: Aerial Tracker, Auric Bar ×5"
+],
+"|Dynamo Stem Cells": [
+"Opened from Treasure Bag (The Dragonfolly)"
+],
+"|Dynasty Guzheng": [
+"Craft at Anvil: Dynasty Wood ×20, Fallen Star ×3"
+],
+"|Earth": [
+"Craft at Draedon's Forge: Grand Guardian, Stellar Striker, Shadowspec Bar ×5, Life Alloy ×5"
+],
+"|Earth Conduit": [
+"Sold by Archaeologist"
+],
+"|Earth Grinder": [
+"Craft at Anvil: Frigid Bar ×16",
+"Drops from Excavator Arm",
+"Opened from Treasure Bag (The Excavator)"
+],
+"|Earthen Spirit Staff": [
+"Craft at Anvil: Dissolving Earth, Meteorite Bar ×20"
+],
+"|Earworm Potion": [
+"Craft at Placed Bottle: Bottled Water, Worm, Opal"
+],
+"|Ebon armor": [
+"Craft at Work Bench (whole set): Silk ×12, Unholy Shards ×32"
+],
+"|Eclipse": [
+"Craft at Mythril Anvil: Hellbreaker, Goopwood Collapse, Crab Claw, Cursed Matter ×5, Soul of Night ×10, Soul of Light ×10, Amethyst"
+],
+"|Eclipse Fang": [
+"Drops from Lunatic Cultist"
+],
+"|Eclipse Mirror": [
+"Craft at Cosmic Anvil: Abyssal Mirror, Dark Matter Sheath, Darksun Fragment ×20",
+"Drops from Ceaseless Void"
+],
+"|Ectoheart": [
+"Opened from Treasure Bag (Polterghast)"
+],
+"|Edge of Imagination": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"|Eel-rod": [
+"Sold by Diverman"
+],
+"|Egg Cannon": [
+"Drops from Lepus"
+],
+"|Eggnog": [
+"Opened from Presents (dropped by enemies during the Christmas season)"
+],
+"|Eighth Plague Staff": [
+"Sold by Desert Acolyte"
+],
+"|Electrician's Glove": [
+"Craft at Mythril Anvil: Filthy Glove, Wire ×100, any Mythril Bar ×5 (+3 other recipes)"
+],
+"|Electrosphere Launcher": [
+"Drops from Martian Saucer (Martian Madness)"
+],
+"|Elemental Amulet": [
+"Drops from Mutagen Treasure Slime"
+],
+"|Elemental Gauntlet": [
+"Craft at Cosmic Anvil: Fire Gauntlet, Ascendant Spirit Essence ×4",
+"Drops from Storm Weaver"
+],
+"|Elemental armor": [
+"Craft at Mythril Anvil (whole set): Phase Bar ×45, Fragment of Chaos ×30, Twilight Assassin Circlet, Twilight Assassin Leggings, Twilight Assassin Chestplate, Blink Pack"
+],
+"|Elysian Aegis": [
+"Drops from Providence, the Profaned Goddess"
+],
+"|Elysian Wings": [
+"Drops from Providence, the Profaned Goddess"
+],
+"|Embowelment": [
+"Craft at Demon Altar: Crimtane Tomahawk ×500, Naiad's Shiv, Pod Bomb ×500, Infernal Kris"
+],
+"|Emerald Ring": [
+"Craft at Anvil: any Iron Bar, Emerald, Fallen Star"
+],
+"|Empress Wings": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Empyrean armor": [
+"Craft at Ancient Manipulator (whole set): Meld Blob ×45, Luminite Bar ×36"
+],
+"|Enchanted Axe": [
+"Craft at Anvil: Iron Francisca, Fallen Star ×5, Pearl Shard ×10, Bone ×30 (+1 other recipe)"
+],
+"|Enchanted Knife": [
+"Craft at Anvil: Throwing Knife ×750, Fallen Star ×5, Emerald, any Gold Bar ×5",
+"Opened from Iron Crate, Mythril Crate"
+],
+"|Endless Musket Pouch": [
+"Craft at Crystal Ball: Musket Ball ×3996"
+],
+"|Endogenesis": [
+"Craft at Draedon's Forge: Cryogenic Staff, Blizzard Staff, Shadowspec Bar ×5, Endothermic Energy ×100, Essence of Eleum ×15"
+],
+"|Endurance Potion": [
+"Craft at Placed Bottle: Bottled Water, Armored Cavefish, Blinkroot"
+],
+"|Energy Projector": [
+"Drops from Granite Energy Storm"
+],
+"|Energy Storm Bolter": [
+"Drops from Granite Energy Storm"
+],
+"|Energy Storm Partisan": [
+"Drops from Granite Energy Storm"
+],
+"|Epidemic Shredder": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×20, Nanites ×150, Plague Cell Canister ×15"
+],
+"|Equanimity": [
+"Craft at Anvil: Fishbone Boomerang, Dark Shard, Light Shard, Soul of Light ×7, Soul of Night ×7"
+],
+"|Eternal Night": [
+"Opened from Obsidian Lock Box"
+],
+"|Eternity": [
+"Craft at Draedon's Forge: Heresy, Shadowspec Bar ×5, Dark Plasma ×20, Unicorn Horn ×5"
+],
+"|Ethereal Subjugator": [
+"Drops from Polterghast"
+],
+"|Ethereal Talisman": [
+"Craft at Cosmic Anvil: Sigil of Calamitas, any Mana Flower, Ascendant Spirit Essence ×4 (+1 other recipe)",
+"Drops from Signus"
+],
+"|Evasion Scarf": [
+"Craft at Mythril Anvil: Counter Scarf, Soul of Light ×5, Soul of Night ×5, Silk ×15"
+],
+"|Everest": [
+"Craft at Cosmic Anvil: Hellfire Flamberge, Endobsidian Bar ×8"
+],
+"|Evergreen Gin": [
+"Craft at Keg: Bottle ×10, Vine ×3, Starblight Soot ×10"
+],
+"|Evil Conduit": [
+"Sold by Archaeologist"
+],
+"|Excalibur": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"|Executioner's Blade": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×10"
+],
+"|Exo Sights": [
+"Craft at Draedon's Forge: Bag of Charms, Focus Reticle, Beholder's Gaze, Exo Prism ×8"
+],
+"|Exodus Wings": [
+"Craft at Ancient Manipulator: Soul of Flight ×20, Meld Blob ×14, Luminite Bar ×10"
+],
+"|Exotic Polarizer": [
+"Craft at Mythril Anvil: Dissolving Aether, Dissolving Brilliance, Dissolving Umbra, Ancient Steel Bar ×5, Phase Bar ×5"
+],
+"|Exploding Bullet": [
+"Craft at Work Bench: Empty Bullet ×50, Explosive Powder"
+],
+"|Exploding Bullets": [
+"Craft at Work Bench: Empty Bullet ×50, Explosive Powder"
+],
+"|Explosive Knife": [
+"Craft at Anvil: Throwing Knife ×15, Grenade ×15, Ancient Steel Bar"
+],
+"|Eye of Chaos": [
+"Craft at Tinkerer's Workshop: Snake Eyes, Chaos Badge, Eye of the Golem"
+],
+"|Eye of Magnus": [
+"Craft at Ancient Manipulator: Lunic Eye, Nebula Fragment ×12",
+"Drops from Wall of Flesh"
+],
+"|Eye of Night": [
+"Craft at Demon Altar: Vile Feeder, Staff of Necrosteocytes, Belladonna Spirit Staff, Imp Staff, Purified Gel ×10 (+1 other recipe)"
+],
+"|Eye of Nova": [
+"Craft at Draedon's Forge: Eye of Magnus, Celesticus, Miracle Matter"
+],
+"|Eye of the Golem": [
+"Drops from Golem",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Fairy Boots": [
+"Craft at Tinkerer's Workshop: Spectre Boots, Flower Boots"
+],
+"|Fairy Wings": [
+"Craft at Mythril Anvil: Soul of Flight ×20, Pixie Dust ×99"
+],
+"|Fallen Paladin's Hammer": [
+"Craft at Mythril Anvil: Paladin's Hammer, Pwnagehammer, Scoria Bar ×8, Ashes of Calamity ×8"
+],
+"|Falling Twilight": [
+"Craft at Demon Altar: Downward Spiral, Bone Reaper, Bountiful Harvest, Molten Thresher"
+],
+"|Fan Letter": [
+"Opened from Crimson Crate, Hematic Crate"
+],
+"|Fantasy Talisman": [
+"Craft at Mythril Anvil: Solar Veil ×10, Silk ×10, Ectoplasm ×5"
+],
+"|Fathom Swarmer armor": [
+"Craft at Mythril Anvil (whole set): Sea Remains ×27, Planty Mush ×150, Depth Cells ×45"
+],
+"|Fearmonger armor": [
+"Craft at Cosmic Anvil (whole set): Spooky Helmet, Cosmilite Bar ×30, Ascendant Spirit Essence ×7, Soul of Fright ×30, Spooky Leggings, Spooky Breastplate"
+],
+"|Feather Storm": [
+"Drops from Turkor the Ungrateful"
+],
+"|Feral Claws": [
+"Ivy Chests in the Underground Jungle (also Jungle Crates)"
+],
+"|Fetid Emesis": [
+"Drops from The Old Duke"
+],
+"|Filthy Glove": [
+"Drops from The Hive Mind"
+],
+"|Fire Gauntlet": [
+"Craft at Tinkerer's Workshop: Magma Stone, Mechanical Glove"
+],
+"|Firecracker": [
+"Drops from Wall of Flesh"
+],
+"|Fishbone": [
+"Aquatic Depths Chest in the Dungeon (locked biome chest)"
+],
+"|Fishron Wings": [
+"Drops from Duke Fishron",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Fizzle Star": [
+"Drops from Mutagen Treasure Slime"
+],
+"|Flairon": [
+"Drops from Duke Fishron"
+],
+"|Flak Toxicannon": [
+"Drops from Flak Crab"
+],
+"|Flamarang": [
+"Craft at Anvil: Hellstone Bar ×10, Enchanted Boomerang"
+],
+"|Flamelash": [
+"Shadow Chests in the Underworld (also Obsidian Lock Boxes)"
+],
+"|Flamsteed Ring": [
+"Craft at Draedon's Forge: Maw of Infinity, Cosmic Viper Engine, Vortex Booster, Shadowspec Bar ×5, Cosmilite Bar ×40"
+],
+"|Flare Bolt": [
+"Craft at Bookcase: Hellstone Bar ×10, Fireblossom ×5, Ruby"
+],
+"|Flarewing Bow": [
+"Craft at Anvil: Hellwing Bow, Essence of Sunlight ×5, Living Fire Block ×50, Obsidian ×10"
+],
+"|Flash Round": [
+"Craft at Anvil: any Copper Bar, Glass",
+"Sold by Ammo Dealer"
+],
+"|Flashspark Boots": [
+"Craft at Tinkerer's Workshop: Terraspark Boots, Absolute Alloy ×12"
+],
+"|Flask of Brimstone": [
+"Craft at Imbuing Station: Bottled Water, Ashes of Calamity"
+],
+"|Flask of Crumbling": [
+"Craft at Imbuing Station: Bottled Water, Essence of Sunlight ×2"
+],
+"|Flask of Cursed Flames": [
+"Craft at Imbuing Station: Bottled Water, Cursed Flame ×2"
+],
+"|Flask of Holy Flames": [
+"Craft at Imbuing Station: Bottled Water, Unholy Essence"
+],
+"|Flask of Ichor": [
+"Craft at Imbuing Station: Bottled Water, Ichor ×2"
+],
+"|Flask of Poison": [
+"Craft at Imbuing Station: Bottled Water, Stinger"
+],
+"|Flask of Venom": [
+"Craft at Imbuing Station: Bottled Water, Vial of Venom ×5"
+],
+"|Fledgling Wings": [
+"Skyware Chests on Floating Islands (also Sky Crates)"
+],
+"|Flesh Horn": [
+"Craft at Anvil: Unfathomable Flesh ×8"
+],
+"|Flesh armor": [
+"Craft at Anvil (whole set): Unfathomable Flesh ×45"
+],
+"|Flight armor": [
+"Craft at Arcane Armor Fabricator (whole set): Feather ×20"
+],
+"|Flowers of Mortality": [
+"Craft at Mythril Anvil: Wither Blossoms Staff, Luminite Bar ×5, Life Alloy ×5, Stardust Fragment ×5"
+],
+"|Flurrystorm Cannon": [
+"Craft at Anvil: Snowball Cannon, Illegal Gun Parts, Aerialite Bar ×10, Bone ×10, Pearl Shard ×10 (+1 other recipe)"
+],
+"|Focus Crystal": [
+"Craft at Tinkerer's Workshop: Polished Coin, Otherworldly Amplifier, Dissolving Nether, Fragment of Inferno ×5, Soul of Plight ×5"
+],
+"|Focus Reticle": [
+"Craft at Tinkerer's Workshop: Focus Crystal, Eye of Chaos, Sanguite Scales ×10"
+],
+"|Forbidden Maelstrom": [
+"Craft at Anvil: Cursed Matter ×8, Keystone Shard ×10"
+],
+"|Forest Ocarina": [
+"Opened from Jungle Crate, Bramble Crate"
+],
+"|Forsaken Saber": [
+"Craft at Mythril Anvil: any Adamantite Bar ×5, Forbidden Fragment ×2"
+],
+"|Fortress Crasher": [
+"Drops from Excavator Arm",
+"Opened from Treasure Bag (The Excavator)"
+],
+"|Fossil armor": [
+"Craft at Anvil (whole set): Sturdy Fossil ×60"
+],
+"|Fractured Ark": [
+"Craft at Anvil: Enchanted Sword, Purified Gel ×10, any Copper Bar ×10 (+1 other recipe)"
+],
+"|Fragments of Another World": [
+"Craft at Mythril Anvil: Necroplasm ×5, Navyplate ×25, Exodium Cluster ×25"
+],
+"|Friendly-Fire Staff": [
+"Craft at Mythril Anvil: Spectre Bar ×10, Purified Shards ×15"
+],
+"|Frigid Javelin": [
+"Craft at Anvil: Frigid Bar ×12"
+],
+"|Frigidflash Bolt": [
+"Craft at Bookcase: Frost Bolt, Flare Bolt, Essence of Havoc ×5, Essence of Eleum ×5"
+],
+"|Frog Leg": [
+"Craft at Anvil: Frog ×6"
+],
+"|Frost Artifact armor": [
+"Craft at Mythril Anvil (whole set): Frost Helmet, Absolute Alloy ×48, Frost Leggings, Frost Breastplate"
+],
+"|Frost Blossom Staff": [
+"Craft at Anvil: any Ice Block ×50, Boreal Wood ×10, Shiverthorn ×5"
+],
+"|Frost armor": [
+"Craft at Mythril Anvil (whole set): Titanium Bar ×46, Frost Core ×3"
+],
+"|Frostburn Arrow": [
+"Craft by hand: Wooden Arrow ×10, Ice Torch"
+],
+"|Frostwind Cymbals": [
+"Craft at Anvil: Soul of Light ×6, Soul of Night ×6, Frost Core"
+],
+"|Frozen Wings": [
+"Craft at Mythril Anvil: Soul of Flight ×20, Ice Feather"
+],
+"|Fuel Cell Bundle": [
+"Drops from The Plaguebringer Goliath"
+],
+"|Funggat": [
+"Drops from Mycelium Mimic"
+],
+"|Fungicide": [
+"Drops from Crabulon"
+],
+"|G-GSS: Scrap Guitar": [
+"Craft at Anvil: Mysterious Circuitry ×5, Dubious Plating ×7, Aerialite Bar ×9, Sea Prism ×7"
+],
+"|Galactus Blade": [
+"Craft at Mythril Anvil: Star Wrath, Life Alloy ×5, Divine Geode ×10"
+],
+"|Galaxy Smasher": [
+"Craft at Cosmic Anvil: Stellar Contempt, Cosmilite Bar ×10"
+],
+"|Galeforce": [
+"Craft at Anvil: Aerialite Bar ×10"
+],
+"|Galileo Gladius": [
+"Craft at Mythril Anvil: Gladius, Lumenyl ×8, Ruinous Soul ×4, Exodium Cluster ×20"
+],
+"|Gauntlet of Annihilation": [
+"Craft at Cosmic Anvil: Nebula Blaze, Phosphorescent Gauntlet, Cosmilite Bar ×10"
+],
+"|Gauss Flinger": [
+"Drops from Star Scouter"
+],
+"|Gel Dart": [
+"Craft at Solidifier: Purified Gel ×14, Blighted Gel ×14"
+],
+"|Gel Glove": [
+"Drops from King Slime"
+],
+"|Gelatin Therapy": [
+"Craft at Solidifier: Purified Gel ×15, Blighted Gel ×15",
+"Drops from The Slime God"
+],
+"|Gelitic Blade": [
+"Craft at Solidifier: Purified Gel ×14, Blighted Gel ×14"
+],
+"|Gem Tech armor": [
+"Craft at Draedon's Forge (whole set): Exo Prism ×38, Solar Fragment ×14, Vortex Fragment ×14, Nebula Fragment ×14, Stardust Fragment ×14, Meld Blob ×14, Core of Calamity ×6"
+],
+"|Genesis": [
+"Craft at Mythril Anvil: Laser Rifle, Luminite Bar ×5, Life Alloy ×5"
+],
+"|Geode Saxophone": [
+"Craft at Anvil: Crystal Geode ×8"
+],
+"|Geostorm": [
+"Craft at Anvil: Vibrant Alloy ×8"
+],
+"|Ghastly French Horn": [
+"Craft at Mythril Anvil: Spectre Bar ×12"
+],
+"|Ghoul Blaster": [
+"Craft at Mythril Anvil: Phoenix Blaster, Royal Magnum, Cursed Matter ×4, Keystone Shard ×8, Soul Residue ×12, Soul of Night ×15"
+],
+"|Gilded Blade Wings": [
+"Craft at Tinkerer's Workshop: Machina Booster, Spirit Insignia"
+],
+"|Gilded Dagger": [
+"Craft at Anvil: Gold Bar ×12"
+],
+"|Gladiator armor": [
+"Drops from Hoplites in Marble Caves"
+],
+"|Gladiator's Locket": [
+"Craft at Anvil: Gold Watch, Gladius ×2",
+"Sold by Shady Salesman"
+],
+"|Gleaming Dagger": [
+"Craft at Anvil: Platinum Bar ×12"
+],
+"|Gleaming Magnolia": [
+"Craft at Mythril Anvil: Mana Rose, Hallowed Bar ×5 (+1 other recipe)"
+],
+"|Gloom Switch": [
+"Craft at Anvil: Demonite Bar ×10, Shadow Scale ×5"
+],
+"|Glove of Precision": [
+"Sold by Bandit"
+],
+"|Glow Jelly": [
+"Craft at Tinkerer's Workshop: Royal Jelly, Glow Spores"
+],
+"|Glow Spores": [
+"Drops from Glowmoth"
+],
+"|Glow Whip": [
+"Craft at Anvil: any Silver Bar ×12, Glow Nylon ×30"
+],
+"|Goblet of Entrails": [
+"Drops from Void Treasure Slime"
+],
+"|Goblin War Spear": [
+"Craft at Arcane Armor Fabricator: Yew Wood ×10"
+],
+"|God Slayer Slugs": [
+"Craft at Cosmic Anvil: Luminite Bullet ×999, Cosmilite Bar",
+"Sold by Ammo Dealer"
+],
+"|God Slayer armor": [
+"Craft at Cosmic Anvil (whole set): Cosmilite Bar ×45, Ascendant Spirit Essence ×9"
+],
+"|Gold Arc Staff": [
+"Craft at Anvil: Gold Bar ×15"
+],
+"|Gold Bugle Horn": [
+"Craft at Anvil: Gold Bar ×8"
+],
+"|Gold Glaive": [
+"Craft at Anvil: Gold Bar ×15"
+],
+"|Goldplume Spear": [
+"Craft at Anvil: Aerialite Bar ×10"
+],
+"|Goobow": [
+"Craft at Solidifier: Purified Gel ×14, Blighted Gel ×14"
+],
+"|Goopwood Helix": [
+"Craft at Anvil: Corrosive Gel ×24, Goopwood ×24",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Goopwood Parasite": [
+"Craft at Anvil: Corrosive Gel ×32, Goopwood ×16",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Goopwood Reap": [
+"Craft at Anvil: Corrosive Gel ×32, Goopwood ×28",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Goopwood Scepter": [
+"Craft at Anvil: Corrosive Gel ×32, Goopwood ×28",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Goopwood Split": [
+"Craft at Anvil: Corrosive Gel ×28, Goopwood ×24",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Goopwood Staff": [
+"Craft at Anvil: Corrosive Gel ×32, Goopwood ×16",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Goopwood Wiggle": [
+"Craft at Anvil: Corrosive Gel ×30, Goopwood ×24",
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Gorgon's Eye": [
+"Craft at Anvil: Bronze Alloy Fragments ×8"
+],
+"|Grand Dad": [
+"Drops from Eidolon Wyrm, Primordial Wyrm"
+],
+"|Grand Gelatin": [
+"Craft at Anvil: Cleansing Jelly, Life Jelly, Vital Jelly, Soul of Light ×2, Soul of Night ×2"
+],
+"|Grand Guardian": [
+"Craft at Ancient Manipulator: Majestic Guard, Nebula Fragment ×12"
+],
+"|Grand Piano": [
+"Craft at Anvil: Smooth Coal ×10, any Silver Bar ×8"
+],
+"|Grand Thunder Whip": [
+"Drops from The Grand Thunder Bird",
+"Opened from The Grand Thunder Bird Treasure Bag"
+],
+"|Granite Boom Box": [
+"Craft at Anvil: Granite Energy Core ×8"
+],
+"|Granite Crossbow": [
+"Craft at Anvil: Granite Energy Core ×8"
+],
+"|Granite Reflector": [
+"Craft at Anvil: Granite Energy Core ×8"
+],
+"|Granite Throwing Axe": [
+"Craft at Anvil: Granite Energy Core ×2"
+],
+"|Gravity Normalizer Potion": [
+"Craft at Alchemy Table: Bottled Water, Aldebaran Alewife, Aureus Cell (+1 other recipe)"
+],
+"|Gray Zapinator": [
+"Sold by the Traveling Merchant (random stock)"
+],
+"|Greater Healing Potion": [
+"Craft at Placed Bottle: Bottled Water ×3, Pixie Dust ×3, Crystal Shard"
+],
+"|Greatsword of Judgement": [
+"Craft at Ancient Manipulator: Luminite Bar ×7, Aetherium Block ×10, Core of Calamity"
+],
+"|Greedful Gurdy": [
+"Drops from Flying Dutchman"
+],
+"|Guardian Greatsword": [
+"Drops from Excavator Arm",
+"Opened from Treasure Bag (The Excavator)"
+],
+"|Guilty Pleasure": [
+"Craft at Mythril Anvil: Acoustic Guitar, Soul of Plight ×8, Soul of Sight ×8"
+],
+"|Guitar Pick": [
+"Craft at Arcane Armor Fabricator: Smooth Coal ×10, any Silver Bar ×6"
+],
+"|Gungnir": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"|Gunk Shot": [
+"Craft at Solidifier: Purified Gel ×14, Blighted Gel ×14"
+],
+"|Hadal Mantle": [
+"Craft at Mythril Anvil: Soul of Flight ×20, Scoria Bar ×10"
+],
+"|Hadal Stew": [
+"Craft at Cooking Pot: Abyss Gravel ×3, Coastal Demonfish ×2, Bowl (+1 other recipe)"
+],
+"|Hailstorm Bullets": [
+"Craft at Mythril Anvil: Musket Ball ×333, Essence of Eleum, Ectoplasm",
+"Sold by Ammo Dealer"
+],
+"|Halibut Cannon": [
+"Drops from Primordial Wyrm"
+],
+"|Halley's Inferno": [
+"Craft at Mythril Anvil: Elf Melter, Lumenyl ×8, Ruinous Soul ×4, Exodium Cluster ×20"
+],
+"|Hallow-Point Rounds": [
+"Craft at Work Bench: Empty Bullet ×100, Hallowed Bar"
+],
+"|Hallowed Blessing": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"|Hallowed Megaphone": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"|Hallowed Rune": [
+"Craft at Mythril Anvil: Spirit Glyph, Hallowed Bar ×18, Soul of Fright ×5, Soul of Might ×5, Soul of Sight ×5"
+],
+"|Hallowed Scythe": [
+"Craft at Mythril Anvil: Hallowed Bar ×12"
+],
+"|Hallowed armor": [
+"Craft at Mythril Anvil (whole set): Hallowed Bar ×54"
+],
+"|Hardened Honeycomb": [
+"Drops from Queen Bee"
+],
+"|Hardlight Glaive": [
+"Craft at Hardlight Fabricator: Cursed Impale, Imperial Pike, Gold Glaive, Hardlight Alloy ×12"
+],
+"|Harp-Y": [
+"Craft at Anvil: Aerialite Bar ×9, Sunplate Block ×3"
+],
+"|Harpy Pelter": [
+"Craft at Arcane Armor Fabricator: Feather ×7"
+],
+"|Harpy Ring": [
+"Craft at Anvil: Aerialite Bar ×5, Feather ×5"
+],
+"|Harvester's Scythe": [
+"Craft at Anvil: Vibrant Alloy ×4"
+],
+"|Haunting Bass Drum": [
+"Drops from Pumpking"
+],
+"|Healing Potion": [
+"Craft at Placed Bottle: Lesser Healing Potion ×2, Glowing Mushroom",
+"Opened from Pyramid Crate",
+"Sold by Merchant (Hardmode), Skeleton Merchant (Hardmode, Moon Phases Odd)"
+],
+"|Heart Wand": [
+"Craft at Anvil: any Gold Bar ×8, Life Quartz ×6"
+],
+"|Heart of Darkness": [
+"Sold by Shady Salesman",
+"Shimmer transmutation of Stress Pills"
+],
+"|Heart of the Elements": [
+"Craft at Ancient Manipulator: Elemental in a Bottle, Oasis Elemental in a Bottle, Pearl of Enthrallment, Eye of the Storm, Rose Stone, Stardust Fragment ×6",
+"Drops from Brimstone Elemental"
+],
+"|Heartreach Potion": [
+"Craft at Placed Bottle: Bottled Water, Crimson Tigerfish, Daybloom"
+],
+"|Heartstriker": [
+"Fishing in the Jungle (very rare catch)"
+],
+"|Heavenly Cloud Scepter": [
+"Sold by Spiritualist"
+],
+"|Hell's Bell": [
+"Craft at Anvil: Bell, Hellstone Bar ×8, Soul of Plight ×8"
+],
+"|Hellborn": [
+"Drops from Brimstone Elemental"
+],
+"|Hellfire Arrow": [
+"Craft at Anvil: Wooden Arrow ×100, Hellstone Bar",
+"Sold by Demolitionist (Hardmode)"
+],
+"|Hellfire Minigun": [
+"Craft at Anvil: Minishark, Illegal Gun Parts, Hellstone Bar ×15"
+],
+"|Hellwing Staff": [
+"Craft at Anvil: Hellstone Bar ×10, Ash Wood ×10"
+],
+"|Hematemesis": [
+"Drops from Ravager"
+],
+"|Heretic Breaker": [
+"Craft at Anvil: any Gold Bar ×8, Purified Shards ×8"
+],
+"|Hermes Boots": [
+"Craft at Loom: Silk ×10, Swiftness Potion ×5"
+],
+"|Herring Staff": [
+"Opened from Hydrothermal Crate",
+"Fishing catch"
+],
+"|Hexing Talisman": [
+"Craft at Tinkerer's Workshop: Nightshade Flower, Magma Locket"
+],
+"|Hidden Blade": [
+"Drops from King Slime"
+],
+"|High Quality Reed": [
+"Craft at Sawmill: Dynasty Wood ×10"
+],
+"|High Tide": [
+"Opened from Golden Lock Box"
+],
+"|Hit Scanner": [
+"Drops from Star Scouter"
+],
+"|Hive Pack": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Hive Pod": [
+"Drops from Astraglomerate"
+],
+"|Holophonor": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"|Holy Arrows": [
+"Craft at Mythril Anvil: Wooden Arrow ×200, Pixie Dust ×3, Unicorn Horn"
+],
+"|Holy Fire": [
+"Craft at Bookcase: Spell Tome, Purified Shards ×5, Cursed Flame ×10"
+],
+"|Holy Fire Bullets": [
+"Craft at Mythril Anvil: Exploding Bullet ×333, Unholy Essence",
+"Sold by Ammo Dealer"
+],
+"|Holy Hammer": [
+"Craft at Mythril Anvil: Holy Knight's Alloy ×6, The Good Book"
+],
+"|Honey Dew": [
+"Craft at Anvil: Bottled Honey ×10, Bee Wax ×3, Jungle Spores ×6"
+],
+"|Honeyfin": [
+"Fishing in honey"
+],
+"|Hornet Staff": [
+"Craft at Anvil: Bee Wax ×14"
+],
+"|Hot Horn": [
+"Craft at Anvil: Hellstone Bar ×15"
+],
+"|Houndius Shootius": [
+"Drops from Deerclops"
+],
+"|Hydra": [
+"Craft at Mythril Anvil: Quad-Barrel Shotgun, Nanites ×25, Vial of Venom ×25"
+],
+"|Hydration Potion": [
+"Craft at Placed Bottle: Bottled Water, Marine Kelp, Waterleaf"
+],
+"|Hydrokinetic Antennae": [
+"Drops from Phantaray"
+],
+"|Hydrothermic armor": [
+"Craft at Mythril Anvil (whole set): Scoria Bar ×55"
+],
+"|Hyperdeath Rift Scepter": [
+"Drops from The Devourer of Gods"
+],
+"|Hyperdrive": [
+"Craft at Tinkerer's Workshop: Phase Bar ×20, Circuit Board, Vibrancy Module"
+],
+"|Ice Cube": [
+"Craft at Work Bench: Icy Shard ×7"
+],
+"|Ice Shaver": [
+"Craft at Work Bench: Icy Shard ×8"
+],
+"|Ice Star": [
+"Sold by Archmage"
+],
+"|Ichor Arrow": [
+"Craft at Mythril Anvil: Wooden Arrow ×150, Ichor"
+],
+"|Ichor Arrows": [
+"Craft at Mythril Anvil: Wooden Arrow ×150, Ichor"
+],
+"|Ichor Bullet": [
+"Craft at Mythril Anvil: Musket Ball ×150, Ichor"
+],
+"|Ichor Bullets": [
+"Craft at Mythril Anvil: Musket Ball ×150, Ichor"
+],
+"|Ichor Darts": [
+"Craft by hand: Ichor"
+],
+"|Ichor Spear": [
+"Drops from Ichor Sticker"
+],
+"|Icy Piccolo": [
+"Craft at Work Bench: Icy Shard ×8"
+],
+"|Idol's Microphone": [
+"Craft at Soul Forge: Microphone, Illumite Ingot ×8, Soul of Light ×8"
+],
+"|Igneous Exaltation": [
+"Craft at Mythril Anvil: Unholy Core ×8, Essence of Havoc ×8",
+"Drops from Clamitas, Supreme Clam"
+],
+"|Illuminant Axe": [
+"Drops from Glowmoth"
+],
+"|Illuminant Bow": [
+"Drops from Glowmoth"
+],
+"|Illuminant Staff": [
+"Drops from Glowmoth"
+],
+"|Illumite Blade": [
+"Craft at Soul Forge: Illumite Ingot ×7"
+],
+"|Illumite Scythe": [
+"Craft at Soul Forge: Illumite Ingot ×8"
+],
+"|Imp Staff": [
+"Craft at Anvil: Hellstone Bar ×17"
+],
+"|Infected Jewel": [
+"Craft at Mythril Anvil: Crown Jewel, Aureus Cell ×10, Starblight Soot ×25"
+],
+"|Infected Remote": [
+"Drops from The Plaguebringer Goliath"
+],
+"|Infernal Animator": [
+"Craft at Anvil: Hellstone Bar ×15"
+],
+"|Infernal Blood": [
+"Opened from Treasure Bag (Ravager)"
+],
+"|Infernal Kris": [
+"Craft at Anvil: Hellstone Bar ×10, Ash Wood ×10"
+],
+"|Inferno Conduit": [
+"Sold by Archaeologist"
+],
+"|Inferno Potion": [
+"Craft at Placed Bottle: Bottled Water, Flarefin Koi, Obsidifish ×2, Fireblossom"
+],
+"|Inferno Staff": [
+"Craft at Anvil: Hellstone Bar ×15"
+],
+"|Infinity Pouch": [
+"Send a Bag of Ammunition Gathering through the Archaeologist's wormhole"
+],
+"|Influx Waver": [
+"Drops from Martian Saucer (Martian Madness)"
+],
+"|Inner Flame": [
+"Craft at Tinkerer's Workshop: Bone ×30, Spirit Droplet ×15"
+],
+"|Intergelactic armor": [
+"Craft at Ancient Manipulator (whole set): Statigel Mask, Metanova Bar ×25, Statigel Armor, Statigel Greaves"
+],
+"|Ion Blaster": [
+"Craft at Mythril Anvil: any Adamantite Bar ×10, Soul of Light ×5"
+],
+"|Iridescent Staff": [
+"Craft at Anvil: Aquaite Bar ×10, White Pearl, Pixie Dust ×15"
+],
+"|Iridescent armor": [
+"Craft at Arcane Armor Fabricator (whole set): any Gold Bar ×36, White Pearl ×3, Purified Shards ×18"
+],
+"|Iron Francisca": [
+"Craft at Anvil: Iron Bar ×7"
+],
+"|Ironskin Potion": [
+"Craft at Placed Bottle: Bottled Water, Daybloom, Iron Ore (+1 other recipe)"
+],
+"|Irradiated Chain-Reactor": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×16, Soul of Night ×6, Fragment of Evil ×6"
+],
+"|Jaws of Oblivion": [
+"Craft at Mythril Anvil: Leviathan Teeth, Reaper Tooth ×6, Lumenyl ×15, Ruinous Soul ×2"
+],
+"|Jelly Slicer": [
+"Craft at Anvil: Purified Gel ×12"
+],
+"|Jelly-Charged Battery": [
+"Craft at Anvil: Wulfrum Battery, Voltaic Jelly, Purified Gel ×10, Stormlion Mandible ×2"
+],
+"|Jellyfish Jam": [
+"Drops from Queen Jellyfish"
+],
+"|Jester's Arrow": [
+"Craft by hand: Wooden Arrow ×10, Fallen Star"
+],
+"|Jester's armor": [
+"Craft at Arcane Armor Fabricator (whole set): Silk ×15"
+],
+"|Jetstream Sheath": [
+"Craft at Mythril Anvil: Leather Sheath, Strange Plating ×12"
+],
+"|Jingle Bells": [
+"Drops from Santa-NK1"
+],
+"|Jungle armor": [
+"Craft at Anvil (whole set): Jungle Spores ×32, Stinger ×10, Vine ×2"
+],
+"|Kaleidoscope": [
+"Drops from Empress of Light"
+],
+"|Kazoo": [
+"Sold by Party Girl"
+],
+"|Kelp Whip": [
+"Sold by Archaeologist"
+],
+"|Kineto-scythe": [
+"Drops from Martian Saucer"
+],
+"|King Blade": [
+"Craft at Mythril Anvil: Absolute Alloy ×20, Abyssal Fury, Shatter Blade, Tooth Ache, Broken Hero Sword (+1 other recipe)"
+],
+"|King of Constellations, Tenryū": [
+"Craft at Bookcase: Stardust Dragon Staff, Dark Shard, Light Shard, Twisting Nether ×3"
+],
+"|Kylie": [
+"Opened from Wooden Crate, Pearlwood Crate"
+],
+"|Lasting Pliers": [
+"Craft by hand: Legendary Helmet, Legendary Chainmail, Legendary Greaves",
+"Drops from Cobbler"
+],
+"|Laudanum": [
+"Drops from Horrible Hog"
+],
+"|Lead Tomahawk": [
+"Craft at Anvil: Lead Bar ×7"
+],
+"|Leather Sheath": [
+"Craft at Anvil: Leather ×3, any Silver Bar ×4"
+],
+"|Leather Whip": [
+"Craft at Loom: Leather ×8",
+"Sold by Zoologist (Bestiary Filled Percent)"
+],
+"|Leeching Sheath": [
+"Craft at Anvil: Leather Sheath, Blood Cell ×8"
+],
+"|Legion of Celestia": [
+"Craft at Mythril Anvil: Plantation Staff, Blade Staff, Luminite Bar ×5, Life Alloy ×5, Stardust Fragment ×5"
+],
+"|Lesser Healing Potion": [
+"Craft at Placed Bottle: Mushroom, Gel ×2, Bottle ×2",
+"Sold by Merchant, Skeleton Merchant (Moon Phases Odd)"
+],
+"|Lethal Injection": [
+"Sold by Cyborg"
+],
+"|Leviathan Ambergris": [
+"Opened from Treasure Bag (Leviathan and Anahita)"
+],
+"|Leviathan Teeth": [
+"Opened from Treasure Bag (Leviathan and Anahita)"
+],
+"|Li'l Devil's Wand": [
+"Sold by Spiritualist"
+],
+"|Life Crystal": [
+"Craft at Anvil: any Stone Block ×5, Ruby ×2, Healing Potion",
+"Drops from Famish Vine, Phantaray"
+],
+"|Life Disperser": [
+"Sold by Druid"
+],
+"|Life Fruit": [
+"Craft at Mythril Anvil: Planty Mush ×10, Living Shard"
+],
+"|Life Gem": [
+"Craft at Anvil: Life Quartz ×15",
+"Drops from Life Crystal Mimic"
+],
+"|Life Surge Staff": [
+"Craft at Mythril Anvil: Strange Plating ×6, Life-Powered Energy Cell"
+],
+"|Life and Death": [
+"Drops from Moon Lord's Core"
+],
+"|Life's Gift": [
+"Craft at Anvil: Jungle Spores ×12, Vine ×4"
+],
+"|Lifeforce Potion": [
+"Craft at Placed Bottle: Bottled Water, Prismite, Moonglow, Shiverthorn, Waterleaf"
+],
+"|Light Bringer's Warhammer": [
+"Craft at Mythril Anvil: Holy Knight's Alloy ×8"
+],
+"|Light's Anguish": [
+"Craft at Demon Altar: Demonite Tomahawk ×500, Naiad's Shiv, Pod Bomb ×500, Infernal Kris"
+],
+"|Light's Lament": [
+"Opened from Obsidian Lock Box"
+],
+"|Lightning Boots": [
+"Craft at Tinkerer's Workshop: Spectre Boots, Anklet of the Wind, Aglet"
+],
+"|Lightning Claves": [
+"Opened from Oasis Crate, Mirage Crate"
+],
+"|Lightspeed": [
+"Craft at Mythril Anvil: Starlight, Lucrecia, Luminite Bar ×5, Life Alloy ×5, Solar Fragment ×5"
+],
+"|Lilies of Finality": [
+"Harvest the Lilies of Finality plant, which grows in the Brimstone Crags after Yharon"
+],
+"|Lionfish": [
+"Drops from Lionfish",
+"Opened from Hydrothermal Crate",
+"Fishing catch"
+],
+"|Living Dew": [
+"Craft at Mythril Anvil: Honey Dew, Living Shard ×6, Essence of Sunlight ×5"
+],
+"|Living Wood Acorn": [
+"Craft at Work Bench: Fallen Star ×3, Living Leaf ×10, Wood ×10"
+],
+"|Living Wood Sap": [
+"Living Wood Chests inside Living Trees, or from Living Leaf bushes"
+],
+"|Living Wood armor": [
+"Craft at Work Bench (whole set): Living Leaf ×24, Wood ×45"
+],
+"|Lodestone Radio": [
+"Craft at Anvil: Lodestone Ingot ×9"
+],
+"|Lost Oasis": [
+"Craft at Anvil: Pearl Shard ×5, Sea Prism ×5, Navystone ×10"
+],
+"|Loudener": [
+"Craft at Anvil: Copper Bar ×5, Tin Bar ×5, Bronze Alloy Fragments ×5"
+],
+"|Lucidity": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"|Lucrecia": [
+"Craft at Mythril Anvil: Life Alloy ×5, Fallen Star ×10, Soul of Light ×5, Soul of Night ×5"
+],
+"|Luminite Arrows": [
+"Craft at Ancient Manipulator: Luminite Bar"
+],
+"|Luminite Bullets": [
+"Craft at Ancient Manipulator: Luminite Bar"
+],
+"|Lunar Kunai": [
+"Craft at Ancient Manipulator: Luminite Bar ×5"
+],
+"|Lunar Portal Staff": [
+"Drops from Moon Lord"
+],
+"|Lunarian Bow": [
+"Craft at Demon Altar: Demon Bow, The Bee's Knees, Molten Fury, Purified Gel ×10 (+1 other recipe)"
+],
+"|Lunic Corps armor": [
+"Craft at Ancient Manipulator (whole set): Night Vision Helmet, Astral Bar ×25, Chlorophyte Bar ×25, Glass ×20, Rover Drive"
+],
+"|Lunic Eye": [
+"Craft at Anvil: any Cobalt Bar ×10, Starblight Soot ×20"
+],
+"|Lustrous Baton": [
+"Craft at Anvil: Pearlstone Block ×35, Crystal Shard ×10, Soul of Night ×5"
+],
+"|Luxor's Gift": [
+"Craft at Anvil: Geode, Ruby, Sapphire, Amber, Emerald, Amethyst",
+"Sold by Shady Salesman"
+],
+"|Lycanroc": [
+"Craft at Anvil: Phoenix Blaster, Crackshot Colt, Twilight Alloy ×10, Meteorite Bar ×10, Strange Alien Motherboard, Mysterious Circuitry ×10, Purified Gel ×5"
+],
+"|MOAB": [
+"Craft at Mythril Anvil: Frog Leg, Bundle of Horseshoe Balloons, Jetpack, Soul of Fright, Soul of Might, Soul of Sight"
+],
+"|Machina Booster": [
+"Craft at Mythril Anvil: Twilight Gyroscope, Dissolving Aether, Starlight Alloy ×20, Soul of Flight ×20 (+1 other recipe)"
+],
+"|Magic Hat": [
+"Sold by the Traveling Merchant (random stock)"
+],
+"|Magic Power Potion": [
+"Craft at Placed Bottle: Bottled Water, Moonglow, Deathweed, Fallen Star"
+],
+"|Magic Quiver": [
+"Drops from Skeleton Archer"
+],
+"|Magick Staff": [
+"Craft at Work Bench: Siphon, Ignite, Dissolve, Poison, Stun, Freeze, Confuse, Charm, Pierce"
+],
+"|Magiluminescence": [
+"Craft at Anvil: Demonite Bar ×12, Topaz ×5 (+1 other recipe)"
+],
+"|Magma Concentrator": [
+"Drops from Excavator Arm",
+"Opened from Treasure Bag (The Excavator)"
+],
+"|Magma Stone": [
+"Drops from Hellbat, Lava Bat"
+],
+"|Magna Cannon": [
+"Craft at Anvil: Granite Block ×25, Meteorite Bar ×12, Diamond ×3, Sapphire ×5"
+],
+"|Magneto Grip": [
+"Craft at Tinkerer's Workshop: Bone Grip, Wire ×25"
+],
+"|Majestic Guard": [
+"Craft at Mythril Anvil: Gold Broadsword, any Mythril Bar ×15, Essence of Sunlight ×3, Essence of Havoc ×3, Essence of Eleum ×3 (+1 other recipe)"
+],
+"|Malaise": [
+"Craft at Anvil: Demonite Bar ×12"
+],
+"|Mana Bauble": [
+"Craft at Work Bench: Fallen Star ×3"
+],
+"|Mana Flower": [
+"Craft at Tinkerer's Workshop: Nature's Gift, Mana Potion"
+],
+"|Mana Polarizer": [
+"Opened from Treasure Bag (The Slime God)"
+],
+"|Mana Potion": [
+"Craft at Placed Bottle: Lesser Mana Potion ×2, Glowing Mushroom",
+"Opened from Pyramid Crate",
+"Sold by Merchant (Hardmode)"
+],
+"|Mana Regeneration Band": [
+"Craft at Tinkerer's Workshop: Band of Starpower, Band of Regeneration"
+],
+"|Mana Regeneration Potion": [
+"Craft at Placed Bottle: Bottled Water, Moonglow, Daybloom, Fallen Star"
+],
+"|Mantis Grip": [
+"Drops from Nature Construct"
+],
+"|Mantle of the Protector": [
+"Craft at Tinkerer's Workshop: Silk ×8, Cross Necklace"
+],
+"|Marble Scythe": [
+"Craft at Anvil: Enchanted Marble ×3, Bronze Alloy Fragments ×8, Spirit Droplet ×10"
+],
+"|Marching Boots": [
+"Sold by Cobbler"
+],
+"|Marine Wine Glass": [
+"Craft at Anvil: Aquaite Bar ×8"
+],
+"|Marrow": [
+"Drops from Skeleton Archer"
+],
+"|Mechanical Glove": [
+"Craft at Tinkerer's Workshop: Power Glove, Avenger Emblem"
+],
+"|Megalodon": [
+"Craft at Mythril Anvil: Megashark, Archerfish, Depth Cells ×15, Planty Mush ×10"
+],
+"|Megashark": [
+"Craft at Mythril Anvil: Minishark, Illegal Gun Parts, Shark Fin ×5, Soul of Might ×20"
+],
+"|Metal Monstrosity": [
+"Craft at Anvil: Spiky Ball ×500, Spike ×80"
+],
+"|Metastasis": [
+"Exhume Void Eater Marionette (an enchantment from the Brimstone Witch)"
+],
+"|Meteor Fist": [
+"Craft at Anvil: Meteorite Bar ×10"
+],
+"|Meteor Staff": [
+"Craft at Mythril Anvil: Meteorite Bar ×20, Pixie Dust ×10, Soul of Light ×10"
+],
+"|Meteor Stomp": [
+"Craft at Work Bench: Blank Technique Scroll, Meteorite Bar ×8"
+],
+"|Meteor armor": [
+"Craft at Anvil (whole set): Meteorite Bar ×45"
+],
+"|Meteorite Cluster Bomb": [
+"Craft at Anvil: Meteorite Bar ×2"
+],
+"|Microphone": [
+"Sold by Mechanic"
+],
+"|Midnight Bass Booster": [
+"Craft at Soul Forge: Strange Plating ×12, Subwoofer"
+],
+"|Midnight Prism": [
+"Craft at Tinkerer's Workshop: Prismarine Necklace, Witch's Heart"
+],
+"|Midnight Staff": [
+"Craft at Anvil: Soul of Night ×10, Crystal Shard ×6, Dark Shard"
+],
+"|Midnight Sun Beacon": [
+"Craft at Cosmic Anvil: Xeno Staff, Auric Bar ×5, Darksun Fragment ×15"
+],
+"|Mind Melter": [
+"Craft at Mythril Anvil: Hallowed Bar ×10, Unholy Shards ×12, Soul of Fright ×6"
+],
+"|Mini Nuke I": [
+"Craft at Ancient Manipulator: Rocket III ×333, Luminite Bar (+1 other recipe)"
+],
+"|Minishark": [
+"Sold by Arms Dealer"
+],
+"|Miracle Fruit": [
+"Craft at Mythril Anvil: Life Fruit, Life Alloy ×5, Living Shard ×12"
+],
+"|Mirage Mirror": [
+"Craft at Tinkerer's Workshop: Magic Mirror, Black Lens, Bone ×50 (+1 other recipe)"
+],
+"|Mirror Blade": [
+"Drops from Ceaseless Void"
+],
+"|Mirror of Kalandra": [
+"Craft by hand: Magic Mirror, Cosmilite Bar ×8, Divine Geode ×10 (+1 other recipe)"
+],
+"|Mix Tape": [
+"Opened from Scarlet Crate, Sinister Crate"
+],
+"|Mjölnir": [
+"Craft by hand: Family Heirloom, Dormant Hammer, Auric Bar ×5"
+],
+"|Mollusk armor": [
+"Craft at Anvil (whole set): Mollusk Husk ×31, Sea Prism ×60"
+],
+"|Molten Amputator": [
+"Drops from Providence, the Profaned Goddess"
+],
+"|Molten Thresher": [
+"Craft at Anvil: Hellstone Bar ×15"
+],
+"|Molten armor": [
+"Craft at Anvil (whole set): Hellstone Bar ×45"
+],
+"|Monk armor": [
+"Sold by the Tavernkeep for Defender Medals (after any mechanical boss)"
+],
+"|Monsoon": [
+"Craft at Mythril Anvil: Tsunami, Flarewing Bow, Reaper Tooth ×6, Depth Cells ×10"
+],
+"|Monstrous Knives": [
+"Craft at Anvil: Throwing Knife ×50, Life Crystal, Lesser Healing Potion ×5"
+],
+"|Moon Walkers": [
+"Craft at Ancient Manipulator: Angel Treads, Soul of Flight ×20, Luminite Bar ×10"
+],
+"|Moonlight": [
+"Craft at Anvil: Bone ×25, Spirit Droplet ×8"
+],
+"|Morning Dew": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×10, Bio Matter ×2"
+],
+"|Morning Star": [
+"Rare drop from Armored Bones enemies in the Dungeon (after Plantera)"
+],
+"|Mortar Staff": [
+"Drops from Molten Mortar"
+],
+"|Mothwing Dagger": [
+"Craft at Arcane Armor Fabricator: Thorium Dagger ×500, Obsidian ×20, Glowing Mushroom ×50",
+"Drops from Glowmoth"
+],
+"|Mouthpiece": [
+"Craft at Arcane Armor Fabricator: Smooth Coal ×10, any Silver Bar ×6"
+],
+"|Murasama": [
+"Chest in Draedon's Underworld lab"
+],
+"|Music Notes": [
+"Craft at Work Bench: Cloth ×3, Black Ink"
+],
+"|Musket": [
+"Shadow Orbs in the Corruption",
+"Craft at Anvil: The Undertaker"
+],
+"|Musket Ball": [
+"Sold by Arms Dealer"
+],
+"|Mutated Truffle": [
+"Drops from The Old Duke"
+],
+"|Mycoroot": [
+"Drops from Crabulon"
+],
+"|Myrindael": [
+"Drops from Argus, the Bereft Vassal"
+],
+"|Mystic Robe": [
+"Sold by the Traveling Merchant (random stock)"
+],
+"|Mythril Melodica": [
+"Craft at Mythril Anvil: Mythril Bar ×10"
+],
+"|Mythril armor": [
+"Craft at Mythril Anvil (whole set): Mythril Bar ×45"
+],
+"|Nano Purge": [
+"Craft at Mythril Anvil: Laser Machinegun, Uelibloom Bar ×10, Nanites ×100"
+],
+"|Nanotech": [
+"Craft at Cosmic Anvil: Rogue Emblem, Vampiric Talisman, Electrician's Glove, Luminite Bar ×8, Ascendant Spirit Essence ×4",
+"Drops from Signus"
+],
+"|Nasty Cholla": [
+"Craft at Work Bench: Cactus ×8"
+],
+"|Nature Conduit": [
+"Sold by Archaeologist"
+],
+"|Nature Spirit Staff": [
+"Craft at Anvil: Dissolving Nature, any Silver Bar ×12, Jungle Spores ×4"
+],
+"|Nebula Arcanum": [
+"Craft at Ancient Manipulator: Nebula Fragment ×18"
+],
+"|Nebula Blaze": [
+"Craft at Ancient Manipulator: Nebula Fragment ×18"
+],
+"|Nebula Mantle": [
+"Craft at Ancient Manipulator: Nebula Fragment ×14, Luminite Bar ×10"
+],
+"|Nebula armor": [
+"Craft at Ancient Manipulator (whole set): Nebula Fragment ×45, Luminite Bar ×36"
+],
+"|Necro armor": [
+"Craft at Work Bench (whole set): Bone ×150, Cobweb ×135"
+],
+"|Necromancer's Heart": [
+"Sold by Confused Zombie"
+],
+"|Needler": [
+"Drops from Moss Hornet"
+],
+"|Night Illuminator": [
+"Drops from Glowmoth"
+],
+"|Night's Edge": [
+"Craft at Demon Altar: Light's Bane, Muramasa, Blade of Grass, Volcano (+1 other recipe)"
+],
+"|Night's Ray": [
+"Craft at Demon Altar: Vilethorn, Magic Missile, Wand of Frosting, Amber Staff, Purified Gel ×10 (+3 other recipes)"
+],
+"|Nimbus Rod": [
+"Drops from Angry Nimbus"
+],
+"|Noble's armor": [
+"Craft at Anvil (whole set): Cloth ×36, Hellstone Bar ×30"
+],
+"|Nocturne": [
+"Opened from Obsidian Lock Box"
+],
+"|Novice Cleric's armor": [
+"Craft at Work Bench (whole set): Silk ×12, Purified Shards ×12"
+],
+"|Nuclear Fuel Rod": [
+"Drops from Cragmaw Mire"
+],
+"|Nuclear Fury": [
+"Craft at Bookcase: Razorblade Typhoon, Poseidon, Luminite Bar ×5"
+],
+"|Nucleogenesis": [
+"Craft at Cosmic Anvil: Star-Tainted Generator, Statis' Curse, Ascendant Spirit Essence ×4",
+"Drops from Ceaseless Void"
+],
+"|Nucleosynthesis": [
+"Craft at Mythril Anvil: Photosynthesis, Luminite Bar ×5, Life Alloy ×5, Nebula Fragment ×5"
+],
+"|Nullification Pistol": [
+"Drops from Brain Scrambler, Gigazapper, Gray Grunt, Martian Walker and 2 more"
+],
+"|Nurse's Purse": [
+"Drops from Nurse",
+"Sold by Arms Dealer"
+],
+"|Obsidian Eruption": [
+"Craft at Anvil: Meteorite Bar ×12, Obsidian ×36, Fragment of Inferno, Fragment of Otherworld"
+],
+"|Obsidian Scale": [
+"Craft at Tinkerer's Workshop: Blacksmith's Barrier, Obsidian Skull, Molten Scale"
+],
+"|Obsidian Shield": [
+"Craft at Tinkerer's Workshop: Cobalt Shield, Obsidian Skull"
+],
+"|Obsidian armor": [
+"Craft at Hellforge + Tinkerer's Workshop (whole set): Silk ×20, Obsidian ×40, Shadow Scale ×15, Water Walking Boots, Obsidian Skull"
+],
+"|Occult Skull Crown": [
+"Craft at Mythril Anvil: Heart of Darkness, Laudanum, Stress Pills, Twisting Nether ×3",
+"Drops from Brain of Cthulhu"
+],
+"|Ocean's Judgement": [
+"Craft at Ancient Manipulator: Ocean Essence ×3"
+],
+"|Old Lord Claymore": [
+"Drops from Cursed Inferno"
+],
+"|Olympian Aegis": [
+"Craft at Tinkerer's Workshop: Granite Protector, Spirit Shield, Crest of Dasuver"
+],
+"|Olympic Torch": [
+"Craft at Anvil: Torch, Marble Block ×20, Spirit Droplet ×5, any Gold Bar ×8",
+"Drops from Hoplite"
+],
+"|Omega Blue armor": [
+"Craft at Mythril Anvil (whole set): Reaper Tooth ×12, Depth Cells ×60, Ruinous Soul ×6"
+],
+"|Omega Healing Potion": [
+"Craft at Placed Bottle: Supreme Healing Potion ×20, Ascendant Spirit Essence",
+"Drops from The Devourer of Gods, Dragonfolly"
+],
+"|Omen": [
+"Craft at Anvil: any Gold Bar ×10, Unholy Shards ×10, Hellstone Bar ×4"
+],
+"|Omicron": [
+"Craft at Cosmic Anvil: Genesis, Wingman, Cosmilite Bar ×8, Endothermic Energy ×20"
+],
+"|Omniblade": [
+"Craft at Mythril Anvil: Katana, Life Alloy ×5, Core of Calamity ×2"
+],
+"|One-man Quartet": [
+"Sold by Steampunker"
+],
+"|Oneirophobia": [
+"Drops from Dream Eater"
+],
+"|Ontological Despoiler": [
+"Craft at Mythril Anvil: Arc Nova Diffuser, Nullification Pistol, Illegal Gun Parts, Dark Plasma ×3"
+],
+"|Onyxia": [
+"Craft at Cosmic Anvil: Onyx Chain Blaster, Cosmilite Bar ×8, Darksun Fragment ×8"
+],
+"|Opal Ring": [
+"Craft at Anvil: any Iron Bar, Opal, Fallen Star"
+],
+"|Orderbringer": [
+"Craft at Cosmic Anvil: Greatsword of Judgement, Auric Bar ×5, Life Alloy ×5"
+],
+"|Organ": [
+"Craft at Soul Forge: Dark Matter ×10, Darksteel Ingot ×12, Ectoplasm ×8"
+],
+"|Orichalcum Slide Whistle": [
+"Craft at Mythril Anvil: Orichalcum Bar ×12"
+],
+"|Orichalcum armor": [
+"Craft at Mythril Anvil (whole set): Orichalcum Bar ×54"
+],
+"|Ornate Shield": [
+"Craft at Mythril Anvil: Cryonic Bar ×12, Crystal Shard ×20"
+],
+"|Orthocera Shell": [
+"Drops from Orthocera"
+],
+"|Otherworld Conduit": [
+"Sold by Archaeologist"
+],
+"|Otherworldly Amplifier": [
+"Craft at Anvil: Amber ×5, Fragment of Otherworld ×4"
+],
+"|Otherworldly Spirit Staff": [
+"Craft at Hardlight Fabricator: Dissolving Aether, Fragment of Otherworld ×30, Hardlight Alloy ×10"
+],
+"|Overloaded Blaster": [
+"Drops from The Slime God"
+],
+"|P-LSR: Aerial Tracker": [
+"Craft at Anvil: Mysterious Circuitry ×5, Dubious Plating ×7, Aerialite Bar ×4, Sea Prism ×7"
+],
+"|Pagan's Grasp": [
+"Drops from Mourning Wood"
+],
+"|Palladium Cowbell": [
+"Craft at Anvil: Palladium Bar ×12"
+],
+"|Palladium Javelin": [
+"Craft at Anvil: Palladium Bar ×10"
+],
+"|Palladium armor": [
+"Craft at Anvil (whole set): Palladium Bar ×54"
+],
+"|Palm Cross": [
+"Craft at Work Bench: any Copper Bar ×5, Fallen Star, Chain ×2"
+],
+"|Panflute": [
+"Craft at Anvil: Rich Mahogany ×15, Jungle Spores ×8, Stinger ×4"
+],
+"|Papyrus Scarab": [
+"Craft at Tinkerer's Workshop: Necromantic Scroll, Hercules Beetle"
+],
+"|Particle Whip": [
+"Drops from Star Scouter"
+],
+"|Patch Leather armor": [
+"Craft at Anvil (whole set): Snakeskin ×72, Rotten Chunk or Vertebra ×24"
+],
+"|Peanut Butter": [
+"Drops from Putrid Pinky"
+],
+"|Pearlwood Bow": [
+"Craft at Work Bench: Pearlwood ×10"
+],
+"|Perdition": [
+"Drops from Supreme Witch, Calamitas",
+"Opened from Treasure Coffer (Calamitas)"
+],
+"|Permafrost Conduit": [
+"Sold by Archaeologist"
+],
+"|Permafrost Spirit Staff": [
+"Craft at Anvil: Dissolving Aurora, any Silver Bar ×12, Frigid Bar ×8"
+],
+"|Permafrost's Concoction": [
+"Sold by Archmage"
+],
+"|Pew-matic Horn": [
+"Drops from Deerclops"
+],
+"|Phantasmal Fury": [
+"Craft at Mythril Anvil: Spectre Staff, Ruinous Soul ×2, Dark Plasma"
+],
+"|Phantasmal Ruin": [
+"Craft at Mythril Anvil: Spectre Bar ×15, Bone ×35"
+],
+"|Phantom Phoenix": [
+"Sold by the Tavernkeep for Defender Medals (after any mechanical boss)"
+],
+"|Photon Geyser": [
+"Sold by Archaeologist"
+],
+"|Photosynthesis Potion": [
+"Craft at Alchemy Table: Bottled Water, Daybloom ×3, Essence of Sunlight (+1 other recipe)"
+],
+"|Photoviscerator": [
+"Craft at Draedon's Forge: Chromatic Eruption, Halley's Inferno, Dead Sun's Wind, Miracle Matter"
+],
+"|Pick-Shaped Pebble": [
+"Craft at Anvil: Stone Block ×5"
+],
+"|Pill Popper": [
+"Craft at Mythril Anvil: Cog ×15, Illegal Gun Parts, Solar Tablet Fragment ×5, Pill ×100"
+],
+"|Pink Jellyfish Staff": [
+"Craft at Anvil: Amethyst ×15, Fragment of Tide ×4",
+"Drops from Pink Jellyfish",
+"Fishing catch"
+],
+"|Pistol Shrimp": [
+"Craft at Anvil: Shrimp ×10, Topaz ×5, Fragment of Tide ×4",
+"Fishing catch"
+],
+"|Plague Reaper armor": [
+"Craft at Mythril Anvil (whole set): Necro Helmet, Plague Cell Canister ×65, Nanites ×47, Necro Greaves, Necro Breastplate"
+],
+"|Plague Staff": [
+"Drops from The Plaguebringer Goliath"
+],
+"|Plague Tainted SMG": [
+"Craft at Mythril Anvil: Black Hawk Remote, Uzi, Helstorm, Infected Armor Plating ×5"
+],
+"|Plaguebringer armor": [
+"Drops from The Plaguebringer Goliath"
+],
+"|Plaguenade": [
+"Craft at Mythril Anvil: Beenade ×100, Plague Cell Canister ×15"
+],
+"|Planebreaker's Pouch": [
+"Craft at Cosmic Anvil: any Quiver, Deadshot Brooch, Ascendant Spirit Essence ×4 (+1 other recipe)",
+"Drops from Storm Weaver"
+],
+"|Planetary Annihilation": [
+"Craft at Mythril Anvil: Vernal Bolter, Daedalus Stormbow, Luminite Bar ×5, Life Alloy ×5, Vortex Fragment ×5"
+],
+"|Plantation Staff": [
+"Craft at Mythril Anvil: Eye of Night, Living Shard ×12"
+],
+"|Plasma Caster": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×18, Dubious Plating ×12, Uelibloom Bar ×8, Luminite Bar ×4"
+],
+"|Plasma Generator": [
+"Craft at Mythril Anvil: Solar Pebble ×14, Solar Tablet Fragment ×8"
+],
+"|Plasma Grenade": [
+"Craft at Cosmic Anvil: Mysterious Circuitry ×15, Dubious Plating ×25, Cosmilite Bar ×8, Ascendant Spirit Essence ×2"
+],
+"|Platform Generator": [
+"Craft at Hardlight Fabricator: Dissolving Aether, Hardlight Alloy ×8"
+],
+"|Platinum Bugle Horn": [
+"Craft at Anvil: Platinum Bar ×8"
+],
+"|Platinum Scythe": [
+"Craft at Anvil: Platinum Bar ×15"
+],
+"|Platinum Soul Staff": [
+"Craft at Anvil: Platinum Bar ×15"
+],
+"|Plunger Mute": [
+"Craft at Arcane Armor Fabricator: Smooth Coal ×10, any Silver Bar ×6"
+],
+"|Pocket Energy Storm": [
+"Drops from Granite Energy Storm"
+],
+"|Pod Bomb": [
+"Craft at Anvil: Vine, Jungle Spores ×3"
+],
+"|Pog Shark": [
+"Drops from Phantaray"
+],
+"|Poison Prickler": [
+"Craft at Anvil: The Giga Needle, Jungle Spores ×10"
+],
+"|Polaris Parrotfish": [
+"Fishing catch"
+],
+"|Polyp Launcher": [
+"Sold by Sea King"
+],
+"|Portable Wintergatan": [
+"Craft at Mythril Anvil: Pearlwood ×30, Hallowed Bar ×12"
+],
+"|Poseidon": [
+"Drops from Giant Clam"
+],
+"|Power Glove": [
+"Craft at Tinkerer's Workshop: Titan Glove, Feral Claws"
+],
+"|Prehistoric Arachnid": [
+"Craft at Tinkerer's Workshop: Living Wood Sap, Incubated Egg"
+],
+"|Prideful Hunter's Planar Ripper": [
+"Craft at Mythril Anvil: P90, Uzi, Luminite Bar ×5, Vortex Fragment ×10"
+],
+"|Prime's Roar": [
+"Craft at Soul Forge: Strange Plating ×12"
+],
+"|Primordial Ancient": [
+"Craft at Bookcase: Primordial Earth, Cosmilite Bar ×8, Endothermic Energy ×20"
+],
+"|Primordial Earth": [
+"Craft at Bookcase: Death Valley Duster, Amber ×5, Ectoplasm ×5"
+],
+"|Prism Break": [
+"Craft at Anvil: Aerialite Bar ×4, Sea Prism ×7, Prism Shard ×15"
+],
+"|Prisma": [
+"Craft at Anvil: Pearl Shard ×8, Sea Prism ×10, Navystone ×12"
+],
+"|Prismalline": [
+"Craft at Anvil: Crystalline, Mollusk Husk ×5, Sea Prism ×5"
+],
+"|Prismarine Necklace": [
+"Craft at Tinkerer's Workshop: Heart of the Sea, Shark Tooth Necklace"
+],
+"|Prismatic armor": [
+"Craft at Mythril Anvil (whole set): Armored Shell ×9, Exodium Cluster ×15, Divine Geode ×18, Nanites ×900"
+],
+"|Profaned Partisan": [
+"Craft at Mythril Anvil: Spear of Paleolith, Unholy Essence ×25"
+],
+"|Profaned Soul Artifact": [
+"Craft at Mythril Anvil: Divine Geode ×5, Havocplate ×25, Exodium Cluster ×25"
+],
+"|Profaned Soul Crystal": [
+"Craft at Profaned Crucible: Profaned Soul Artifact, Shadowspec Bar ×5, Divine Geode ×50, Unholy Essence ×100",
+"Drops from Providence, the Profaned Goddess"
+],
+"|Pulse Bow": [
+"Craft at Mythril Anvil: Shroomite Bar ×16"
+],
+"|Pulverizer": [
+"Craft at Mythril Anvil: Bone Clapper, Mantis Grip, Hallowed Bar ×10, Soul of Fright ×10"
+],
+"|Pumpler": [
+"Craft at Anvil: Illegal Gun Parts, Pumpkin ×30, Pumpkin Seed ×5"
+],
+"|Pungi": [
+"Craft at Mythril Anvil: Solar Pebble ×12, Solar Tablet Fragment ×10"
+],
+"|Purge Guzzler": [
+"Drops from Providence, the Profaned Goddess"
+],
+"|Purified Water": [
+"Craft at Placed Bottle: Bottled Water ×5, Purified Shards ×2"
+],
+"|Purple Haze": [
+"Craft at Keg: Bottle ×10, Plum",
+"Drops from Empress of Light"
+],
+"|Putrid Coin": [
+"Craft at Anvil: Rotten Chunk ×5, Ancient Steel Bar ×8, Fragment of Evil ×4"
+],
+"|Putrid Eye": [
+"Opened from Treasure Bag (Putrid Pinky)"
+],
+"|Putrid Scent": [
+"Craft at Tinkerer's Workshop: Flesh Knuckles"
+],
+"|Pwnagehammer": [
+"Craft at Mythril Anvil: Pwnhammer, Hallowed Bar ×7, Soul of Fright ×3, Soul of Might ×3, Soul of Sight ×3"
+],
+"|Pygmy Necklace": [
+"Sold by Witch Doctor (Time Night)"
+],
+"|Pyrocide": [
+"Craft at Mythril Anvil: Solar Tablet Fragment ×20, Lihzahrd Power Cell"
+],
+"|Queen Spider Staff": [
+"Craft at Anvil: Spider Fang ×24"
+],
+"|Quiver of Nihility": [
+"Craft at Mythril Anvil: any Quiver, Vortex Fragment ×5, Dark Plasma ×3"
+],
+"|R-GSS: Vulcan": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×12, Dubious Plating ×8, any Mythril Bar ×10, Soul of Might ×20"
+],
+"|Radiance": [
+"Craft at Cosmic Anvil: Ambrosial Ampoule, Infected Jewel, Auric Bar ×5, Ascendant Spirit Essence ×4"
+],
+"|Radiant Ooze": [
+"Craft at Anvil: Blighted Gel ×45, Purified Gel ×15"
+],
+"|Radiant Star": [
+"Craft at Ancient Manipulator: Prismalline, Astral Bar ×12, Fallen Star ×10, Starblight Soot ×15"
+],
+"|Rage Potion": [
+"Craft at Placed Bottle: Bottled Water, Hemopiranha, Deathweed"
+],
+"|Rainbow Crystal Staff": [
+"Drops from Moon Lord"
+],
+"|Rainbow Gun": [
+"Hallowed Chest in the Dungeon (needs a Hallowed Key; opens after Plantera)"
+],
+"|Rainbow Party Cannon": [
+"Craft at Draedon's Forge: Cosmic Rainbow, Celebration Mk2, Confetti Cannon, Shadowspec Bar ×5, Soul of Light ×25, Confetti ×50"
+],
+"|Rampart of Deities": [
+"Craft at Cosmic Anvil: Frozen Shield, Deific Amulet, Auric Bar ×5, Ascendant Spirit Essence ×4"
+],
+"|Ranger Emblem": [
+"Drops from Wall of Flesh"
+],
+"|Raven Staff": [
+"Drops from Pumpking (Pumpkin Moon)"
+],
+"|Razorpine": [
+"Drops from Everscream (Frost Moon)"
+],
+"|Reality Rupture": [
+"Craft at Mythril Anvil: Spear of Destiny, Armored Shell, Twisting Nether, Dark Plasma"
+],
+"|Reality Shatter": [
+"Craft at Mythril Anvil: Phase Bar ×21, Sandstone Edge"
+],
+"|Reality Slasher": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"|Reaper Tooth Necklace": [
+"Craft at Tinkerer's Workshop: Sand Shark Tooth Necklace, Reaper Tooth ×6, Depth Cells ×20"
+],
+"|Reaver armor": [
+"Craft at Mythril Anvil (whole set): Perennial Bar ×45"
+],
+"|Rebounding Rainbow": [
+"Craft at Mythril Anvil: Samsara Slicer, Luminite Bar ×5, Life Alloy ×5, Meld Blob ×5"
+],
+"|Recon Scope": [
+"Craft at Tinkerer's Workshop: Rifle Scope, Putrid Scent"
+],
+"|Red Crescent": [
+"Drops from Viscount"
+],
+"|Red Lightning Container": [
+"Opened from Treasure Bag (The Dragonfolly)"
+],
+"|Refraction Rotor": [
+"Opened from Treasure Box (Exo Mechs)"
+],
+"|Regeneration Potion": [
+"Craft at Placed Bottle: Bottled Water, Daybloom, Mushroom"
+],
+"|Regulus Riot": [
+"Drops from Astrum Deus"
+],
+"|Relic of Deliverance": [
+"Drops from Guardian Commander"
+],
+"|Rem's Revenge": [
+"Craft at Mythril Anvil: Blue Moon, Luminite Bar ×5, Lumenyl ×10"
+],
+"|Renew": [
+"Craft at Bookcase: Book, Purified Shards ×10, Healing Potion ×5"
+],
+"|Repurposed Star Caller": [
+"Drops from Star Scouter"
+],
+"|Resonator's Arm": [
+"Craft at Mythril Anvil: Dynasty Wood ×20, Soul of Night ×12"
+],
+"|Resurrection Butterfly": [
+"Craft at Loom: Life Alloy ×5, Butterfly Dust ×2, Silk ×40, Ectoplasm ×5"
+],
+"|Return to Sludge": [
+"Craft at Solidifier: Purified Gel ×15, Blighted Gel ×15",
+"Drops from The Slime God"
+],
+"|Riff Weaver": [
+"Craft at Anvil: Spider Fang ×16"
+],
+"|Riveting Tadpole": [
+"Fishing in the Jungle (very rare catch)"
+],
+"|Roboboe": [
+"Drops from Star Scouter"
+],
+"|Rocket I": [
+"Craft at Anvil: any Iron Bar, Empty Bullet ×100, Explosive Powder ×4",
+"Sold by Cyborg"
+],
+"|Rocket III": [
+"Sold by Cyborg (Night Or Eclipse)"
+],
+"|Rod of Discord": [
+"Drops from Chaos Elemental"
+],
+"|Rogue 101": [
+"Sold by Desert Acolyte"
+],
+"|Rogue Emblem": [
+"Drops from The Hive Mind, Wall of Flesh"
+],
+"|Rot Ball": [
+"Drops from The Hive Mind"
+],
+"|Rotten Cod": [
+"Fishing in the Corruption (very rare catch)"
+],
+"|Rotten Dogtooth": [
+"Drops from Rotdog"
+],
+"|Rouge Slash": [
+"Drops from Dragonfolly",
+"Opened from Treasure Bag (The Dragonfolly)"
+],
+"|Roughskin Potion": [
+"Craft at Placed Bottle: Bottled Water, Fragment of Earth, Snakeskin, Blinkroot (+1 other recipe)",
+"Opened from Pyramid Crate"
+],
+"|Rover Drive": [
+"Drops from Wulfrum Rover",
+"Fishing catch"
+],
+"|Royal Jelly": [
+"Drops from Queen Bee"
+],
+"|Royal Magnum": [
+"Opened from Pyramid Crate"
+],
+"|Ruby Ring": [
+"Craft at Anvil: any Iron Bar, Ruby, Fallen Star"
+],
+"|Ruin Medallion": [
+"Craft at Mythril Anvil: Coin of Deceit, Unholy Core ×4, Essence of Havoc ×2"
+],
+"|Ruinous Plasma Injection": [
+"Craft at Ancient Manipulator: Armored Shell, Dark Plasma, Ruinous Soul"
+],
+"|Rusty Beacon Prototype": [
+"Opened from Hydrothermal Crate, Sulphurous Crate"
+],
+"|S. S. Devastator": [
+"Drops from Submerged Mimic"
+],
+"|SHPC": [
+"Craft at Mythril Anvil: Prototype Plasma Drive, Suspicious Scrap ×4, any Mythril Bar ×10, Soul of Fright ×5, Soul of Might ×5, Soul of Sight ×5"
+],
+"|Sacred Bludgeon": [
+"Craft at Anvil: Hallowed Charm ×10, Purified Shards ×8"
+],
+"|Sacred Lyre": [
+"Craft at Anvil: Hallowed Charm ×10, Purified Shards ×8"
+],
+"|Sacred Strawberry": [
+"Craft at Cosmic Anvil: Life Fruit, Yharon Soul Fragment ×5, Ascendant Spirit Essence"
+],
+"|Sacrifice": [
+"Drops from Supreme Witch, Calamitas",
+"Opened from Treasure Coffer (Calamitas)"
+],
+"|Samsara Lotus": [
+"Sold by Traveling Merchant",
+"Shimmer transmutation of Divine Lotus"
+],
+"|Samsara Slicer": [
+"Craft at Mythril Anvil: Equanimity, Brimblade, Living Shard ×12"
+],
+"|Sanctified Spark": [
+"Drops from Impious Immolator"
+],
+"|Sand Dollar": [
+"Sold by Sea King"
+],
+"|Sand Shark Tooth Necklace": [
+"Craft at Tinkerer's Workshop: Shark Tooth Necklace, Avenger Emblem, Grand Scale",
+"Drops from Desert Scourge"
+],
+"|Sand Sharknado Staff": [
+"Craft at Mythril Anvil: Forgotten Apex Wand, Ancient Cloth ×2, Grand Scale"
+],
+"|Sandstone armor": [
+"Craft at Anvil (whole set): Sandstone Ingot ×24"
+],
+"|Sandwich": [
+"Craft at Cooking Pot: Crusty Baguette, Royal Jelly, Peanut Butter"
+],
+"|Sanguine Tangerine": [
+"Craft at Mythril Anvil: Life Fruit, Blood Orb ×10, Soul of Fright ×5, Soul of Might ×5, Soul of Sight ×5"
+],
+"|Sapphire Ring": [
+"Craft at Anvil: any Iron Bar, Sapphire, Fallen Star"
+],
+"|Saros Possession": [
+"Craft at Cosmic Anvil: Sirius, Auric Bar ×5, Darksun Fragment ×15"
+],
+"|Scab Ripper": [
+"Craft at Anvil: Crimtane Bar ×5, Tissue Sample ×9, Shadewood ×20"
+],
+"|Scarlet Crescent": [
+"Craft at Demon Altar: Dissolving Earth, Mana Crystal, Fragment of Evil ×5, Fragment of Otherworld ×5, Tissue Sample ×15"
+],
+"|Scarlet Devil": [
+"Craft at Draedon's Forge: Wrathwing, Reality Rupture, Shadowspec Bar ×5, Bloodstone ×50, Soul of Night ×15"
+],
+"|Scholar's Harp": [
+"Sold by Wizard"
+],
+"|Scorched Earth": [
+"Craft at Cosmic Anvil: Scorpio, any Adamantite Bar ×15, Darksun Fragment ×10, Solar Fragment ×50"
+],
+"|Scorn": [
+"Drops from Hell Bringer Mimic"
+],
+"|Scourge of the Desert": [
+"Drops from Desert Scourge"
+],
+"|Scourge of the Seas": [
+"Drops from Aquatic Scourge"
+],
+"|Scrying Glass": [
+"Drops from Illusionist"
+],
+"|Scuba Curva": [
+"Craft at Anvil: Aquaite Bar ×10, Depth Scales ×6"
+],
+"|Scuttler's Jewel": [
+"Drops from Amber Crawler, Amethyst Crawler, Crystal Crawler, Diamond Crawler and 4 more"
+],
+"|Scythe of Undoing": [
+"Craft at Demon Altar: Sickle, Blood ×30, Cursed Cloth ×8, Soul of Fright ×16"
+],
+"|Sea Spirit Amulet": [
+"Fishing catch"
+],
+"|Seafood Dinner": [
+"Craft at Cooking Pot: Aldebaran Alewife ×2 (+21 other recipes)"
+],
+"|Seahorse Wand": [
+"Craft at Anvil: Coral ×8"
+],
+"|Sealed Singularity": [
+"Craft at Mythril Anvil: Duststorm in a Bottle, Dark Plasma ×3"
+],
+"|Searing Spear Tip": [
+"Craft at Mythril Anvil: Molten Spear Tip, Scoria Bar ×6"
+],
+"|Seashell Castanets": [
+"Craft at Anvil: Coral ×6, Seashell ×2"
+],
+"|Seashine Sword": [
+"Craft at Anvil: Pearl Shard ×3, Sea Prism ×7, Navystone ×10"
+],
+"|Section Chief's Scythe": [
+"Craft at Hardlight Fabricator: Platinum Scythe, Hardlight Alloy ×12"
+],
+"|Selene": [
+"Craft at Mythril Anvil: Helios, Death Sickle, Section Chief's Scythe, Betrayer's Knife, Skip Soul ×30, Skip Shard ×15, Dissolving Umbra"
+],
+"|Seraph Tracers": [
+"Craft at Cosmic Anvil: Void Striders, Auric Bar ×5, Ascendant Spirit Essence ×3"
+],
+"|Seraphim": [
+"Craft at Cosmic Anvil: Shattered Dawn, Auric Bar ×5"
+],
+"|Serpent's Cry": [
+"Craft at Anvil: Abyssal Chitin ×10"
+],
+"|Serpentine Fork": [
+"Craft at Anvil: Trident, Abyss Gravel ×5, Planty Mush ×5, Bone ×3",
+"Opened from Hydrothermal Crate, Sulphurous Crate"
+],
+"|Seven Seas' Devastator": [
+"Craft at Ancient Manipulator: Ocean Essence ×3"
+],
+"|Shadecrystal Barrage": [
+"Craft at Bookcase: Crystal Storm, Cryonic Bar ×12"
+],
+"|Shadow Potion": [
+"Craft at Placed Bottle: Bottled Water, Shadowfish, Blinkroot (+1 other recipe)"
+],
+"|Shadow Wand": [
+"Craft at Arcane Armor Fabricator: Yew Wood ×10, Unholy Shards ×5, Amethyst ×2"
+],
+"|Shadowbolt Staff": [
+"Craft at Mythril Anvil: Shadowbeam Staff, Ruinous Soul ×2, Armored Shell"
+],
+"|Shadowflame Hex Doll": [
+"Drops from Goblin Summoners (Hardmode Goblin Army)"
+],
+"|Shadowflame Knife": [
+"Drops from Goblin Summoners (Hardmode Goblin Army)"
+],
+"|Shadowflame Staff": [
+"Craft at Arcane Armor Fabricator: Yew Wood ×16, Amethyst ×3"
+],
+"|Shadowflame Warhorn": [
+"Drops from Goblin Warlock"
+],
+"|Shanty of the Former Seas": [
+"Drops from Desert Scourge"
+],
+"|Sharanga": [
+"Craft at Anvil: Hellwing Bow, Molten Fury, Fragment of Inferno ×4"
+],
+"|Shard of Antumbra": [
+"Craft at Ancient Manipulator: Meld Blob ×18"
+],
+"|Shark Storm": [
+"Craft at Anvil: Illegal Gun Parts, Aquaite Bar ×8, Depth Scales ×4"
+],
+"|Shark Tooth Necklace": [
+"Drops from Blood Zombie, Drippler"
+],
+"|Sharpening Station": [
+"Sold by Merchant (Hardmode)"
+],
+"|Shatter Heart Shield": [
+"Craft at Anvil: Frigid Bar ×8, Life Crystal"
+],
+"|Shattered Community": [
+"Drops from The Old Duke",
+"Exhume The Community (an enchantment from the Brimstone Witch)"
+],
+"|Shield of Cthulhu": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Shimmer Arrow": [
+"Throw Wooden Arrows into Shimmer"
+],
+"|Shinobi Blade": [
+"Drops from Dark Caster"
+],
+"|Shinobi Infiltrator armor": [
+"Sold by the Tavernkeep for Defender Medals (after Golem)"
+],
+"|Shock Absorber": [
+"Drops from Granite Energy Storm"
+],
+"|Shooting Star Blast-Guitar": [
+"Craft at Ancient Manipulator: Shooting Star Fragment ×18"
+],
+"|Shroomite armor": [
+"Craft at Mythril Anvil (whole set): Shroomite Bar ×54"
+],
+"|Sigil of Calamitas": [
+"Craft at Mythril Anvil: Celestial Emblem, Scoria Bar ×8, Ashes of Calamity ×15"
+],
+"|Silk armor": [
+"Craft at Work Bench (whole set): Silk ×15, Fallen Star ×15"
+],
+"|Silva armor": [
+"Craft at Cosmic Anvil (whole set): Planty Mush ×240, Effulgent Feather ×34, Ascendant Spirit Essence ×11"
+],
+"|Silver Bullet": [
+"Craft at Anvil: Musket Ball ×70, Silver Bar"
+],
+"|Silver Spear Tip": [
+"Craft at Anvil: any Silver Bar ×12"
+],
+"|Singularity Core": [
+"Craft at Ancient Manipulator: Soul Heart ×2, Luminite Bar ×10, Sanguite Scales ×10"
+],
+"|Sinister Honk": [
+"Craft at Arcane Armor Fabricator: Feather ×7"
+],
+"|Siren's Lyre": [
+"Drops from Forgotten One"
+],
+"|Sirius": [
+"Craft at Mythril Anvil: Vengeful Sun Staff, Lumenyl ×8, Ruinous Soul ×4, Exodium Cluster ×20"
+],
+"|Skadoosh": [
+"Craft at Ancient Manipulator: Soul of Light ×10, Light Shard, Solar Fragment ×12, Dark Shard, Soul of Night ×10"
+],
+"|Skull of the Blood God": [
+"Craft at Cosmic Anvil: Flesh Totem, Apollyon, Void of Calamity, Bloodstone ×20, Ascendant Spirit Essence ×5"
+],
+"|Skyfin Bombers": [
+"Craft at Anvil: Contaminated Bile, Corroded Fossil ×15"
+],
+"|Skyline Wings": [
+"Craft at Anvil: Aerialite Bar ×10, Feather ×5"
+],
+"|Skyward Blades": [
+"Craft at Hardlight Fabricator: Platinum Dart, Hardlight Alloy ×12"
+],
+"|Skyware Lute": [
+"Craft at Sky Mill: Sunplate Block ×10, Fallen Star ×5"
+],
+"|Slagsplitter Pauldron": [
+"Craft at Anvil: Scorched Bone ×12, Ancient Bone Dust ×4, Essence of Havoc ×8"
+],
+"|Slime Gun": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Slime Puppet Staff": [
+"Craft at Solidifier: Purified Gel ×14, Blighted Gel ×14"
+],
+"|Slippery Shogun armor": [
+"Drops from Goozma",
+"Opened from Treasure Trunk"
+],
+"|Sludge Splotch": [
+"Craft by hand: Blighted Gel ×50, Shadow Scale or Tissue Sample ×8"
+],
+"|Slugger": [
+"Craft at Anvil: any Iron Bar ×14, Bone ×20"
+],
+"|Smiting Hammer": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Soul of Plight ×10"
+],
+"|Smoke Bomb": [
+"Sold by Party Girl"
+],
+"|Smoking Comet": [
+"Craft at Anvil: Diamond ×5, Amethyst ×5, Pink Gel ×10, Fallen Star ×15, Meteorite Bar ×10"
+],
+"|Snake Eyes": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×18, Dubious Plating ×12, Uelibloom Bar ×8, Luminite Bar ×4"
+],
+"|Snapthorn": [
+"Craft at Anvil: Stinger ×15, Vine ×3, Jungle Spores ×12"
+],
+"|Sniper Scope": [
+"Craft at Tinkerer's Workshop: Rifle Scope, Destroyer Emblem"
+],
+"|Snow Ruffian armor": [
+"Craft at Anvil (whole set): Boreal Wood ×45, Silk ×15, Flinx Fur ×4"
+],
+"|Snowman Cannon": [
+"Drops from Ice Queen (Frost Moon)"
+],
+"|Snowstorm Banjo": [
+"Drops from Snow Singa"
+],
+"|Snowstorm Staff": [
+"Drops from Cryogen"
+],
+"|Soaring Potion": [
+"Craft at Alchemy Table: Bottled Water, Sunken Sailfish, Soul of Flight (+1 other recipe)"
+],
+"|Solar Flare armor": [
+"Craft at Ancient Manipulator (whole set): Solar Fragment ×45, Luminite Bar ×36"
+],
+"|Solar Wings": [
+"Craft at Ancient Manipulator: Solar Fragment ×14, Luminite Bar ×10"
+],
+"|Soma Prime": [
+"Craft at Draedon's Forge: Kingsbane, Venus Magnum, Shadowspec Bar ×5"
+],
+"|Sonar Cannon": [
+"Drops from Viscount"
+],
+"|Song of Ice & Fire": [
+"Craft at Demon Altar: Obsidian Rackett, Icy Piccolo, Darksteel Ingot ×10"
+],
+"|Sonic Amplifier": [
+"Drops from Moon Lord's Core"
+],
+"|Sorcerer Emblem": [
+"Drops from Wall of Flesh"
+],
+"|Soul Access Potion": [
+"Craft at Placed Bottle: Bottled Water, Phantom Fish, Soul Residue, Peanut, Deathweed",
+"Opened from Pyramid Crate"
+],
+"|Soul Charm": [
+"Craft at Tinkerer's Workshop: Clover Charm, Void Charm, Starbelt, Dissolving Deluge"
+],
+"|Soul Pulse": [
+"Craft at Work Bench: Blank Technique Scroll, Spirit Droplet ×8"
+],
+"|Soul Stone": [
+"Craft at Anvil: Spirit Droplet ×12"
+],
+"|Sound Sage's Lament": [
+"Craft at Ancient Manipulator: Shooting Star Fragment ×18"
+],
+"|Sousaphone": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"|Space Gun": [
+"Craft at Anvil: Meteorite Bar ×20"
+],
+"|Spark Spreader": [
+"Craft at Anvil: any Gold Bar ×10, Ruby, Gel ×12"
+],
+"|Sparkling Empress": [
+"Fishing catch"
+],
+"|Spartan Sandals": [
+"Sold by Cobbler"
+],
+"|Spectral Veil": [
+"Opened from Treasure Bag (Signus)"
+],
+"|Spectre armor": [
+"Craft at Mythril Anvil (whole set): Spectre Bar ×54"
+],
+"|Spicy Sauce": [
+"Drops from Turkor the Ungrateful",
+"Sold by Merchant"
+],
+"|Spider Staff": [
+"Craft at Anvil: Spider Fang ×16"
+],
+"|Spider armor": [
+"Craft at Anvil (whole set): Spider Fang ×36"
+],
+"|Spikecrag Staff": [
+"Drops from Ravager"
+],
+"|Spinal Tap": [
+"Craft at Work Bench: Bone ×90, Cobweb ×55"
+],
+"|Spirit Bender's Staff": [
+"Craft at Mythril Anvil: Spectre Bar ×12"
+],
+"|Spirit Blast Wand": [
+"Craft at Anvil: Bone ×18, Spirit Droplet ×8"
+],
+"|Spirit Glove": [
+"Craft at Anvil: Soul Residue ×32, Emerald, any Gold Bar ×8"
+],
+"|Spirit Glyph": [
+"Craft at Anvil: Diamond ×5, Obsidian ×15"
+],
+"|Spirit Insignia": [
+"Craft at Tinkerer's Workshop: Spirit Symphony, Soaring Insignia, Dissolving Brilliance"
+],
+"|Spirit Tracer": [
+"Craft at Anvil: Cursed Matter ×10, Amethyst ×8"
+],
+"|Spirit Trapper's armor": [
+"Craft at Anvil (whole set): Darksteel Ingot ×36, Spirit Droplet ×15"
+],
+"|Spittin' Fish": [
+"Fishing in the Ocean (very rare catch)"
+],
+"|Sprint": [
+"Craft at Work Bench: Blank Technique Scroll, Sandstone Ingot ×8"
+],
+"|Spyker": [
+"Craft at Mythril Anvil: Needler, Stynger, Uelibloom Bar ×10"
+],
+"|Squire armor": [
+"Sold by the Tavernkeep for Defender Medals (after any mechanical boss)"
+],
+"|Squire's Shield": [
+"Drops from Dark Mage"
+],
+"|Staff of Blushie": [
+"Craft at Draedon's Forge: Sapphire Staff, Shadowspec Bar ×5, Necroplasm ×10"
+],
+"|Staff of Necrosteocytes": [
+"Drops from Dark Caster"
+],
+"|Staff of the Frost Hydra": [
+"Ice Chest in the Dungeon (needs a Frozen Key; opens after Plantera)"
+],
+"|Star Rod": [
+"Drops from Star Scouter"
+],
+"|Star Shower": [
+"Drops from Astrum Deus"
+],
+"|Star Trail": [
+"Drops from Star Scouter"
+],
+"|Star Veil": [
+"Craft at Tinkerer's Workshop: Star Cloak, Cross Necklace"
+],
+"|Star of Destruction": [
+"Craft at Ancient Manipulator: Meld Blob ×18"
+],
+"|Star-Tainted Generator": [
+"Craft at Mythril Anvil: Jelly-Charged Battery, Nuclear Fuel Rod, Starbuster Core, Life Alloy ×3"
+],
+"|Starbelt": [
+"Craft at Hardlight Fabricator: Mana Crystal, Dissolving Aether, Starlight Alloy ×8"
+],
+"|Starbuster Core": [
+"Drops from Stellar Culex"
+],
+"|Starcore Assault Rifle": [
+"Craft at Hardlight Fabricator: Vibrant Pistol, Vibrancy Module, Starlight Alloy ×12"
+],
+"|Stardust Cell Staff": [
+"Craft at Ancient Manipulator: Stardust Fragment ×18"
+],
+"|Stardust Wings": [
+"Craft at Ancient Manipulator: Stardust Fragment ×14, Luminite Bar ×10"
+],
+"|Stardust armor": [
+"Craft at Ancient Manipulator (whole set): Stardust Fragment ×45, Luminite Bar ×36"
+],
+"|Starmada": [
+"Craft at Cosmic Anvil: Starfleet, Auric Bar ×5, Exodium Cluster ×25"
+],
+"|Starnight Lance": [
+"Craft at Mythril Anvil: Cryonic Bar ×12"
+],
+"|Starshot Crossbow": [
+"Craft at Hardlight Fabricator: Starlight Alloy ×12"
+],
+"|Statigel armor": [
+"Craft at Solidifier (whole set): Purified Gel ×34, Blighted Gel ×34"
+],
+"|Statis' Blessing": [
+"Craft at Mythril Anvil: Papyrus Scarab, Pygmy Necklace, Summoner Emblem, Holy Water ×30, Essence of Sunlight ×5"
+],
+"|Statis' Curse": [
+"Craft at Ancient Manipulator: Statis' Blessing, The First Shadowflame, Stardust Fragment ×6"
+],
+"|Statis' Ninja Belt": [
+"Craft at Mythril Anvil: Master Ninja Gear, Frog Flipper, Purified Gel ×25, Necroplasm ×5 (+1 other recipe)"
+],
+"|Statis' Void Sash": [
+"Craft at Cosmic Anvil: Statis' Ninja Belt, Twisting Nether ×10, Nightmare Fuel ×20"
+],
+"|Steam Flute": [
+"Craft at Mythril Anvil: Flute, Cog ×20"
+],
+"|Steel Throwing Axe": [
+"Sold by Blacksmith",
+"Shimmer transmutation of Durasteel Throwing Spear"
+],
+"|Stellar Contempt": [
+"Craft at Ancient Manipulator: Fallen Paladin's Hammer, Luminite Bar ×5, Solar Fragment ×5, Core of Calamity ×2"
+],
+"|Stellar Knife": [
+"Drops from Aries"
+],
+"|Stellar Sabre": [
+"Craft at Demon Altar: Starfury, Fallen Star ×15, Meteorite Bar ×10, Aerialite Bar ×8"
+],
+"|Stellar Tune": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Sticky Explosive": [
+"Craft at Work Bench: Blank Technique Scroll, Hellstone Bar ×8"
+],
+"|Storm Saber": [
+"Drops from Cloud Elemental"
+],
+"|Storm Spell": [
+"Craft at Anvil: Diamond, Frigid Bar ×8"
+],
+"|Storm Surge": [
+"Craft at Anvil: Stormlion Mandible, Pearl Shard ×3, Sea Prism ×7, Navystone ×10"
+],
+"|Storm-Hatchling Staff": [
+"Drops from The Grand Thunder Bird"
+],
+"|Stormjaw Staff": [
+"Drops from Stormlion"
+],
+"|Strange Brew": [
+"Sold by Skeleton Merchant (Moon Phases Even)"
+],
+"|Strange Skull": [
+"Craft at Anvil: Spirit Droplet ×5, Bone ×45"
+],
+"|Stratus Sphere": [
+"Craft at Mythril Anvil: Nebula Arcanum, Lumenyl ×8, Ruinous Soul ×4, Exodium Cluster ×20"
+],
+"|Strawberry Heart": [
+"Craft at Soul Forge: Illumite Ingot ×10, Pixie Dust ×10, Life Quartz ×5"
+],
+"|Stream Gouge": [
+"Craft at Cosmic Anvil: Cosmilite Bar ×10"
+],
+"|Stream Sting": [
+"Opened from Golden Lock Box"
+],
+"|Stress Pills": [
+"Sold by Shady Salesman",
+"Shimmer transmutation of Heart of Darkness"
+],
+"|Stygian Shield": [
+"Craft at Mythril Anvil: Ornate Shield, Scoria Bar ×6, Hellstone Bar ×6, Living Shard ×6"
+],
+"|Stynger": [
+"Drops from Golem"
+],
+"|Subsonic Tuner": [
+"Craft at Anvil: Vibrant Alloy ×4"
+],
+"|Subspace Boosters": [
+"Craft at Tinkerer's Workshop: Flashspark Boots, Tabi, Sanguite Scales ×12"
+],
+"|Subspace Locket": [
+"Craft at Mythril Anvil: Terminal Cluster, Primordial Cluster, Void Tablet, Sanguite Scales ×15"
+],
+"|Sulphuric Acid Cannon": [
+"Drops from Mauler"
+],
+"|Sulphurous Grabber": [
+"Drops from Sulphurous Skater"
+],
+"|Sulphurous armor": [
+"Craft at Anvil (whole set): Acidwood ×45, Sulphuric Scale ×45"
+],
+"|Summoning Potion": [
+"Craft at Placed Bottle: Bottled Water, Soul Residue, Daybloom (+1 other recipe)"
+],
+"|Sun Spirit Staff": [
+"Craft at Anvil: Amber ×5, Antlion Mandible ×3, Palm Wood ×10, Sandstone Ingot ×8"
+],
+"|Sunflare Guitar": [
+"Drops from Le Fantôme"
+],
+"|Sunfury": [
+"Shadow Chests in the Underworld (also Obsidian Lock Boxes)"
+],
+"|Super Healing Potion": [
+"Craft at Placed Bottle: Greater Healing Potion ×4, Nebula Fragment, Solar Fragment, Stardust Fragment, Vortex Fragment"
+],
+"|Supernova": [
+"Craft at Draedon's Forge: Sealed Singularity, Star of Destruction, Totality Breakers, Ballistic Poison Bomb, Miracle Matter"
+],
+"|Supernova Emblem": [
+"Craft at Tinkerer's Workshop: Supernova Hammer, Skyware Battery, Warrior Emblem, Dissolving Nether"
+],
+"|Superradiant Slaughterer": [
+"Craft at Mythril Anvil: Buzzkill, Speed Blaster, Luminite Bar ×5, Life Alloy ×5, Vortex Fragment ×5"
+],
+"|Supreme Barrier": [
+"Craft at Draedon's Forge: Asgardian Aegis, Rampart of Deities, Shadowspec Bar ×5"
+],
+"|Supreme Healing Potion": [
+"Craft at Placed Bottle: Super Healing Potion ×4, Bloodstone ×3"
+],
+"|Surge Driver": [
+"Opened from Treasure Box (Exo Mechs)"
+],
+"|Survivalist's Boots": [
+"Craft at Tinkerer's Workshop: Wizard Shoes, Healthy Boots, Marching Boots"
+],
+"|Svantechnical": [
+"Craft at Draedon's Forge: Infinity, Shadowspec Bar ×5"
+],
+"|Swiftness Potion": [
+"Craft at Placed Bottle: Bottled Water, Blinkroot, Cactus"
+],
+"|Sword of the First": [
+"Craft by hand: Titanic Bar ×3, Ruby Keystone, Large Ruby, Cursed Cloth ×3, Red Banner, Dark Shard, Light Shard"
+],
+"|Sword of the Zenith": [
+"Craft at Altar of the Accursed: Sword of the First, Sword of the Corrupted, First Fractal, Zenith, Ark of the Cosmos, Deicide, Miracle Matter, Alloy of Eden, Chromatic Mass ×3, Rock"
+],
+"|Sylvestaff": [
+"Craft at Draedon's Forge: Rainbow Rod, Gender Change Potion, any Gold Bar ×5, Necroplasm ×10, Shadowspec Bar ×5"
+],
+"|Syringe": [
+"Craft at Work Bench: Blood, any Iron Bar ×2",
+"Sold by Spiritualist"
+],
+"|System Bane": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×20, Dubious Plating ×10, Life Alloy ×5, Infected Armor Plating ×10"
+],
+"|Tactical Plague Engine": [
+"Craft at Mythril Anvil: Black Hawk Remote, Fuel Cell Bundle, Luminite Bar ×5"
+],
+"|Tainted Cloudberry": [
+"Craft at Mythril Anvil: Life Fruit, Uelibloom Bar ×10, Divine Geode ×8"
+],
+"|Tarragon Throwing Dart": [
+"Craft at Mythril Anvil: Uelibloom Bar ×12"
+],
+"|Tarragon armor": [
+"Craft at Mythril Anvil (whole set): Uelibloom Bar ×54, Divine Geode ×36"
+],
+"|Tau Cannon": [
+"Craft at Mythril Anvil: Arc Nova Diffuser, Mysterious Circuitry ×10, Dubious Plating ×15, Astral Bar ×10, Ruinous Soul ×2"
+],
+"|Telluric Glare": [
+"Drops from Providence, the Profaned Goddess"
+],
+"|Templar's Judgement": [
+"Craft at Anvil: Darksteel Ingot ×10, Life Quartz ×4"
+],
+"|Templar's armor": [
+"Craft at Anvil (whole set): Darksteel Ingot ×36, Life Quartz ×12"
+],
+"|Temporal Umbrella": [
+"Craft at Draedon's Forge: Virid Vanguard, Saros Possession, Umbrella, Top Hat, Shadowspec Bar ×5"
+],
+"|Tendon Bow": [
+"Craft at Anvil: Crimtane Bar ×8"
+],
+"|Terra Blade": [
+"Craft at Mythril Anvil: True Night's Edge, True Excalibur, Broken Hero Sword"
+],
+"|Terra Scythe": [
+"Craft at Mythril Anvil: True Hallowed Scythe, True Falling Twilight, Living Shard ×12 (+1 other recipe)"
+],
+"|Terrarian": [
+"Drops from Moon Lord"
+],
+"|Terrarium Autoharp": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"|Terrarium Defender": [
+"Craft at Ancient Manipulator: Terrarium Core ×12, Ankh Shield, Holy Aegis, Frozen Turtle Shell"
+],
+"|Terrarium Holy Scythe": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"|Terrarium Particle Sprinters": [
+"Craft at Ancient Manipulator: Terrarium Core ×12, Terraspark Boots"
+],
+"|Terrarium Spear": [
+"Craft at Ancient Manipulator: Terrarium Core ×9"
+],
+"|Terrarium Wings": [
+"Craft at Ancient Manipulator: Soul of Flight ×20, Terrarium Core ×8"
+],
+"|Terrarium armor": [
+"Craft at Ancient Manipulator (whole set): Terrarium Core ×36"
+],
+"|Terraspark Boots": [
+"Craft at Tinkerer's Workshop: Frostspark Boots, Lava Waders"
+],
+"|Terratomere": [
+"Craft at Mythril Anvil: Terra Blade, Uelibloom Bar ×18"
+],
+"|Terror Blade": [
+"Drops from Polterghast"
+],
+"|Tesla Cannon": [
+"Craft at Cosmic Anvil: Mysterious Circuitry ×25, Dubious Plating ×15, Cosmilite Bar ×8, Ascendant Spirit Essence ×2"
+],
+"|Tesla's Amulet": [
+"Craft at Anvil: Aerialite Bar ×8, Sea Prism ×8, Stormlion Mandible ×4"
+],
+"|The Absorber": [
+"Craft at Ancient Manipulator: Grand Gelatin, Baroclaw, Giant Tortoise Shell, Mollusk Husk ×5, Meld Blob ×14"
+],
+"|The Amalgam": [
+"Craft at Cosmic Anvil: Amalgamated Brain, Ascendant Spirit Essence ×4, Ashes of Calamity ×12, Essence of Eleum ×15, Plague Cell Canister ×15, Depth Cells ×20, Armored Shell ×4"
+],
+"|The Bee's Knees": [
+"Drops from Queen Bee"
+],
+"|The Black Otamatone": [
+"Reward for the Tracker's contract \"Tracker's End\" (Bone Lee)"
+],
+"|The Black Scythe": [
+"Reward for the Tracker's contract \"Tracker's End\" (Bone Lee)"
+],
+"|The Bopper": [
+"Sold by Cyborg"
+],
+"|The Cauldron": [
+"Craft at Anvil: Lava Bucket, Hellstone Bar ×8, Obsidian ×20, Ash Block ×20"
+],
+"|The Community": [
+"Opened from Treasure Bag (Leviathan and Anahita)",
+"Shimmer transmutation of Shattered Community"
+],
+"|The Dance of Light": [
+"Craft at Draedon's Forge: Sky Fracture, Lunar Flare, Shadowspec Bar ×5"
+],
+"|The Digester": [
+"Opened from Jungle Crate, Bramble Crate"
+],
+"|The Effuser": [
+"Craft at Mythril Anvil: Chlorophyte Bar ×12, Bio Matter ×2"
+],
+"|The First Shadowflame": [
+"Drops from Goblin Warlock"
+],
+"|The Giga Needle": [
+"Craft at Anvil: Blood ×4, any Silver Bar ×8"
+],
+"|The God's Gambit": [
+"Craft at Solidifier: Purified Gel ×14, Blighted Gel ×14"
+],
+"|The Good Book": [
+"Drops from Patch Werk"
+],
+"|The Green Tambourine": [
+"Craft at Mythril Anvil: Cloth ×8, Chlorophyte Bar ×10"
+],
+"|The Hive": [
+"Craft at Mythril Anvil: Mineral Mortar, Infected Armor Plating ×7, Plague Cell Canister ×12"
+],
+"|The Last Mourning": [
+"Craft at Mythril Anvil: The Horseman's Blade, Soul of Night ×30, Reaper Tooth ×5, Ruinous Soul ×3"
+],
+"|The Lullaby": [
+"Drops from Lycan"
+],
+"|The Maw": [
+"Craft at Mythril Anvil: Bloom Weave ×10, Chlorophyte Bar ×10"
+],
+"|The Microwave": [
+"Drops from Astrum Deus"
+],
+"|The Old Reaper": [
+"Drops from The Old Duke"
+],
+"|The Ring": [
+"Craft at Tinkerer's Workshop: one of each Thorium gem ring"
+],
+"|The Set": [
+"Craft at Ancient Manipulator: Inferno Essence, Death Essence, Ocean Essence"
+],
+"|The Sponge": [
+"Craft at Cosmic Anvil: Rover Drive, Mysterious Circuitry ×10, Dubious Plating ×20, Cosmilite Bar ×5, Ascendant Spirit Essence ×4"
+],
+"|The Swarmer": [
+"Craft at Ancient Manipulator: Bee Gun, Wasp Gun, Stardust Fragment ×6"
+],
+"|The Syringe": [
+"Drops from The Plaguebringer Goliath"
+],
+"|The Transformer": [
+"Craft at Mythril Anvil: Sea Prism ×10, any Mythril Bar ×5, Essence of Sunlight ×2, Essence of Havoc ×2, Essence of Eleum ×2, Soul of Light ×3, Soul of Night ×3"
+],
+"|The Triangle": [
+"Drops from Martian Saucer"
+],
+"|The Ultimate Stick of Supreme Power and Infinite Destruction": [
+"Shimmer transmutation of Wooden Sword"
+],
+"|The Undertaker": [
+"Crimson Hearts in the Crimson",
+"Craft at Anvil: Musket"
+],
+"|The Windmill": [
+"Craft at Anvil: Aerialite Bar ×9, Sunplate Block ×3"
+],
+"|The Zapper": [
+"Drops from Wind Elemental"
+],
+"|Thermal Polarizer": [
+"Craft at Mythril Anvil: Dissolving Nether, Dissolving Aurora, Ancient Steel Bar ×5, Frigid Bar ×5, Hellstone Bar ×5"
+],
+"|Thorium Heavy Scythe": [
+"Craft at Thorium Anvil: Thorium Bar ×8"
+],
+"|Thorium Revolver": [
+"Craft at Thorium Anvil: Thorium Bar ×8, Meld Blob ×2, Divine Geode, Meld Blob ×12, Chlorophyte Bar ×24, Soul of Fright ×20, Soul of Might ×20, Soul of Sight ×20, Broken Hero Fragment ×3"
+],
+"|Thorium Staff": [
+"Craft at Thorium Anvil: Thorium Bar ×8"
+],
+"|Thorn Blossom": [
+"Craft at Mythril Anvil: Arch Amaryllis, Uelibloom Bar ×10, Unholy Essence ×10"
+],
+"|Thorns Potion": [
+"Craft at Placed Bottle: Bottled Water, Deathweed, Cactus"
+],
+"|Thread of Eradication": [
+"Drops from The Devourer of Gods"
+],
+"|Thrombosis": [
+"Craft at Anvil: Blood Cell ×8"
+],
+"|Thumb Ring": [
+"Craft at Arcane Armor Fabricator: Yew Wood ×20, Amethyst ×5"
+],
+"|Thunder Talon": [
+"Drops from The Grand Thunder Bird"
+],
+"|Thunderstruck": [
+"Sold by Weapon Master"
+],
+"|Tide Conduit": [
+"Sold by Archaeologist"
+],
+"|Tide Hunter armor": [
+"Craft at Anvil (whole set): Aquaite Bar ×30, Depth Scales ×18"
+],
+"|Tide Turner's armor": [
+"Craft at Ancient Manipulator (whole set): Ocean Essence ×10, Auric Bar ×3"
+],
+"|Tiki armor": [
+"Sold by Witch Doctor (Downed Plantera)"
+],
+"|Titan Heart armor": [
+"Craft at Anvil (whole set): Astral Monolith ×44, Titan Heart ×3"
+],
+"|Titan Potion": [
+"Craft at Placed Bottle: Bottled Water, Bone, Deathweed, Shiverthorn"
+],
+"|Titan Scythe": [
+"Craft at Soul Forge: Titanic Bar ×8"
+],
+"|Titan Slayer Sheath": [
+"Craft at Anvil: Leather Sheath, Abyssal Chitin ×8"
+],
+"|Titanium Cimbasso": [
+"Craft at Mythril Anvil: Titanium Bar ×13"
+],
+"|Titanium armor": [
+"Craft at Mythril Anvil (whole set): Titanium Bar ×59"
+],
+"|Tix-Burnt Ring": [
+"Craft at Draedon's Forge: Mushroom Ring, Thumb Ring, The Ring, Moons Ring, Harpy Ring, Challenger's Ring, Dark Sun Ring, Shadowspec Bar ×5, Dylan"
+],
+"|Tonbogiri": [
+"Craft at Mythril Anvil: Gungnir, Adamantite or Titanium Bar ×10, Soul of Blight ×15"
+],
+"|Tooth Ache": [
+"Drops from Eater of Worlds"
+],
+"|Tooth Ball": [
+"Drops from The Perforator Hive",
+"Opened from Treasure Bag (The Perforators)"
+],
+"|Topaz Ring": [
+"Craft at Anvil: any Iron Bar, Topaz, Fallen Star"
+],
+"|Totality Breakers": [
+"Craft at Mythril Anvil: Molotov Cocktail ×50, Solar Veil ×10"
+],
+"|Toxicant Twister": [
+"Drops from The Old Duke"
+],
+"|Toxikarp": [
+"Fishing in the Corruption (Hardmode)"
+],
+"|Track Player": [
+"Sold by Mechanic"
+],
+"|Tradewinds": [
+"Craft at Bookcase: Aerialite Bar ×10"
+],
+"|TriggerBlade": [
+"Craft at Anvil: Boomstick, any Iron Bar ×6, Pearl Shard ×3"
+],
+"|Trimarang": [
+"Craft at Work Bench: Enchanted Boomerang, Shroomerang, Ice Boomerang"
+],
+"|Trombone": [
+"Craft at Anvil: Forbidden Fragment ×2, Pharaoh's Breath ×8"
+],
+"|True Blood Harvest": [
+"Craft at Mythril Anvil: Blood Harvest, Broken Hero Fragment ×2"
+],
+"|True Excalibur": [
+"Craft at Mythril Anvil: Excalibur, Chlorophyte Bar ×24"
+],
+"|True Falling Twilight": [
+"Craft at Mythril Anvil: Falling Twilight, Broken Hero Fragment ×2"
+],
+"|True Hallowed Scythe": [
+"Craft at Mythril Anvil: Hallowed Scythe"
+],
+"|Tungsten Bullet": [
+"Craft at Anvil: Musket Ball ×70, Tungsten Bar"
+],
+"|Turbulance": [
+"Craft at Anvil: Aerialite Bar ×10"
+],
+"|Turkey Staff": [
+"Drops from Turkor the Ungrateful"
+],
+"|Turntable": [
+"Drops from Martian Saucer"
+],
+"|Turtle Drums": [
+"Craft at Mythril Anvil: Cloth ×10, Turtle Shell, Chlorophyte Bar ×10"
+],
+"|Twilight Assassin armor": [
+"Craft at Hardlight Fabricator (whole set): Starlight Alloy ×12, Hardlight Alloy ×48, Dissolving Aether ×3, Hellstone Bar ×6, Twilight Alloy ×12"
+],
+"|Twilight Staff": [
+"Craft at Mythril Anvil: any Adamantite Bar ×12, Light Shard, Dark Shard, Purified Shards ×5, Unholy Shards ×5"
+],
+"|Twisting Thunder": [
+"Craft at Mythril Anvil: Stormfront Razor, Unholy Essence ×15, Armored Shell ×3"
+],
+"|Tyranny's End": [
+"Craft at Cosmic Anvil: Rubico Prime, Anti-materiel Rifle, Auric Bar ×5, Life Alloy ×3"
+],
+"|Ukulele": [
+"Craft at Anvil: Palm Wood ×8, Starfish"
+],
+"|Ultimate Polarizer": [
+"Craft at Tinkerer's Workshop: Exotic Polarizer, Thermal Polarizer, Worldly Polarizer"
+],
+"|Umbraphile armor": [
+"Craft at Mythril Anvil (whole set): Solar Veil ×44, Hallowed Bar ×34"
+],
+"|Undine's Retribution": [
+"Craft at Mythril Anvil: Voidstone ×30, Depth Cells ×30"
+],
+"|Unholy Arrow": [
+"Craft at Anvil: Wooden Arrow ×5, Worm Tooth (+1 other recipe)",
+"Drops from Eye of Cthulhu",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Unholy Arrows": [
+"Craft at Anvil: Wooden Arrow ×5, Worm Tooth (+1 other recipe)",
+"Drops from Eye of Cthulhu",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Unholy Tonic": [
+"Craft at Anvil: Vile Powder ×15, Rotten Chunk ×10"
+],
+"|Unholy Trident": [
+"Drops from Red Devil"
+],
+"|Universal Genesis": [
+"Craft at Cosmic Anvil: Conference Call, Star Cloak ×3, Cosmilite Bar ×5, Ascendant Spirit Essence ×4"
+],
+"|Universe Splitter": [
+"Craft at Draedon's Forge: Burrower Beacon, Abombination, Shadowspec Bar ×5"
+],
+"|Unstable Granite Core": [
+"Craft at Anvil: Geode, Granite Block ×8",
+"Sold by Shady Salesman"
+],
+"|Urchin Mace": [
+"Craft at Anvil: Sea Remains ×3"
+],
+"|Ursa Sergeant": [
+"Fishing catch"
+],
+"|Utensil Poker": [
+"Drops from Moon Lord's Core"
+],
+"|Uzi": [
+"Drops from Angry Trapper"
+],
+"|Valadium Theremin": [
+"Craft at Mythril Anvil: Valadium Ingot ×9"
+],
+"|Valhalla Knight armor": [
+"Sold by the Tavernkeep for Defender Medals (after Golem)"
+],
+"|Vampiric Talisman": [
+"Craft at Mythril Anvil: Raider's Talisman, Rotten Dogtooth, Solar Veil ×10, Broken Bat Wing"
+],
+"|Vanquisher Arrows": [
+"Craft at Cosmic Anvil: Cosmilite Bar",
+"Sold by Ammo Dealer"
+],
+"|Veering Wind": [
+"Craft at Bookcase: any Ice Block ×30, Feather ×3, Fallen Star ×5, Cloud ×10"
+],
+"|Vega": [
+"Craft at Mythril Anvil: Profaned Partisan, Lumenyl ×8, Ruinous Soul ×4, Exodium Cluster ×20"
+],
+"|Vehemence": [
+"Drops from Supreme Witch, Calamitas",
+"Opened from Treasure Coffer (Calamitas)"
+],
+"|Vengeful Sun Staff": [
+"Craft at Mythril Anvil: Sun Spirit Staff, Moon Stone, Soul of Fright ×3, Soul of Might ×3, Soul of Sight ×3"
+],
+"|Venom Arrows": [
+"Craft at Mythril Anvil: Wooden Arrow ×35, Vial of Venom"
+],
+"|Venom Bullets": [
+"Craft at Work Bench: Empty Bullet ×50, Vial of Venom"
+],
+"|Venom Staff": [
+"Craft at Mythril Anvil: Poison Staff, Chlorophyte Bar ×14"
+],
+"|Venusian Trident": [
+"Craft at Mythril Anvil: Inferno Fork, Ruinous Soul ×2, Twisting Nether"
+],
+"|Verium Bolts": [
+"Craft at Mythril Anvil: Wooden Arrow ×100, Cryonic Bar"
+],
+"|Vertebraeker": [
+"Drops from Brain of Cthulhu"
+],
+"|Vespera NanDao": [
+"Craft at Furnace: Evostone ×20, Stone Block ×50, Fragment of Earth"
+],
+"|Vessel Buster": [
+"Craft at Anvil: Crimtane Bar ×8"
+],
+"|Vibe Potion": [
+"Craft at Placed Bottle: Bottled Water, Fragment of Nature, Daybloom"
+],
+"|Vibrancy Module": [
+"Craft at Hardlight Fabricator: Vibrant Alloy ×8, Twilight Alloy ×12"
+],
+"|Vibrant Blade": [
+"Craft at Anvil: Vibrant Alloy ×6"
+],
+"|Vibrant Cannon": [
+"Craft at Anvil: Vibrant Alloy ×10"
+],
+"|Vibrant Pistol": [
+"Craft at Anvil: Vibrant Alloy ×4"
+],
+"|Vibrant Tomahawk": [
+"Craft at Anvil: Vibrant Alloy"
+],
+"|Vibrant armor": [
+"Craft at Anvil (whole set): Vibrant Alloy ×32"
+],
+"|Vibration Tuner": [
+"Craft at Arcane Armor Fabricator: Smooth Coal ×10, any Silver Bar ×6"
+],
+"|Vicious Tonic": [
+"Craft at Anvil: Vicious Powder ×15, Vertebra ×10"
+],
+"|Victide armor": [
+"Craft at Anvil (whole set): Sea Remains ×12"
+],
+"|Vigor Potion": [
+"Craft at Placed Bottle: Bottled Water, Pink Petal, Shiverthorn, Daybloom"
+],
+"|Vile Feeder": [
+"Craft at Anvil: Demonite Bar ×5, Shadow Scale ×9, Ebonwood ×20"
+],
+"|Vile Flail-Core": [
+"Craft at Mythril Anvil: Iron Flail-Core, Ichor ×25"
+],
+"|Vilethorn": [
+"Shadow Orbs in the Corruption",
+"Craft at Anvil: Crimson Rod"
+],
+"|Vinyl Record": [
+"Craft at Mythril Anvil: Smooth Coal ×12, Soul of Night ×8"
+],
+"|Violet Crescent": [
+"Craft at Demon Altar: Dissolving Earth, Mana Crystal, Fragment of Evil ×5, Fragment of Otherworld ×5, Shadow Scale ×15"
+],
+"|Violin": [
+"Craft at Anvil: Boreal Wood ×20, Life Quartz ×6, Light Shard"
+],
+"|Violince": [
+"Drops from The Perforator Hive",
+"Opened from Treasure Bag (The Perforators)"
+],
+"|Viral Sprout": [
+"Craft at Mythril Anvil: Perennial Bar ×10"
+],
+"|Virid Vanguard": [
+"Craft at Mythril Anvil: Igneous Exaltation, Viral Sprout, Uelibloom Bar ×12"
+],
+"|Viscount's Cane": [
+"Drops from Viscount"
+],
+"|Vital Crystal": [
+"Throw a Life Crystal into Shimmer"
+],
+"|Vitriolic Viper": [
+"Drops from The Old Duke"
+],
+"|Void Charm": [
+"Craft at Mythril Anvil: Chocolate ×4, Fragment of Tide ×4"
+],
+"|Void Eater Marionette": [
+"Drops from The Devourer of Gods",
+"Shimmer transmutation of Metastasis"
+],
+"|Void Striders": [
+"Craft at Ancient Manipulator: Moon Walkers, Armored Shell ×3, Twisting Nether ×3, Dark Plasma ×3"
+],
+"|Void Vortex": [
+"Craft at Cosmic Anvil: Voltaic Climax, Auric Bar ×5"
+],
+"|Voiden Ankh": [
+"Craft at Anvil: Cursed Matter ×10, Soul Residue ×10, Evostone ×20"
+],
+"|Voiden Bracelet": [
+"Craft at Anvil: Cursed Matter ×4, Keystone Shard ×8"
+],
+"|Voidmage Incubator": [
+"Craft at Mythril Anvil: Void Anomaly, Dissolving Brilliance, Skip Shard ×100"
+],
+"|Voidragon": [
+"Craft at Draedon's Forge: Seadragon, Dragon's Breath, Shadowspec Bar ×5"
+],
+"|Voidspace Emblem": [
+"Craft at Mythril Anvil: Sanguite Scales ×15, Goopwood Parasite, Voiden Bracelet, Skyware Battery"
+],
+"|Volcano": [
+"Craft at Anvil: Hellstone Bar ×20"
+],
+"|Voltaic Climax": [
+"Craft at Cosmic Anvil: Magnetic Meltdown, Cosmilite Bar ×8, Darksun Fragment ×8"
+],
+"|Voltaic Jelly": [
+"Drops from Ghost Bell"
+],
+"|Volterion": [
+"Drops from Storm Weaver"
+],
+"|Vortex Booster": [
+"Craft at Ancient Manipulator: Vortex Fragment ×14, Luminite Bar ×10"
+],
+"|Vortex armor": [
+"Craft at Ancient Manipulator (whole set): Vortex Fragment ×45, Luminite Bar ×36"
+],
+"|Vortexpopper": [
+"Craft at Ancient Manipulator: Xenopopper, Vortex Fragment ×12"
+],
+"|Vuvuzela Blue": [
+"Drops from Plantera",
+"Shimmer transmutation of Vuvuzela Green"
+],
+"|Wack Wrench": [
+"Sold by Mechanic"
+],
+"|War Table": [
+"Drops from Dark Mage"
+],
+"|Warbanner of the Righteous": [
+"Drops from Guardian Commander"
+],
+"|Warmth Potion": [
+"Craft at Placed Bottle: Bottled Water, Frost Minnow, Shiverthorn"
+],
+"|Wasp Gun": [
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Wave Pounder": [
+"Craft at Mythril Anvil: Mysterious Circuitry ×12, Dubious Plating ×18, Uelibloom Bar ×8, Luminite Bar ×4"
+],
+"|Weather Pain": [
+"Drops from Deerclops"
+],
+"|White String": [
+"Craft at Loom: Cobweb ×30"
+],
+"|Wild Umbra": [
+"Craft at Bookcase: Spell Tome, Unholy Shards ×10, Pixie Dust ×10"
+],
+"|Wildfire Bloom": [
+"Craft at Mythril Anvil: Flamethrower, Meowthrower, Living Shard ×12"
+],
+"|Will of Coznix": [
+"Drops from Fallen Beholder (Treasure Bag)"
+],
+"|Wind Blade": [
+"Craft at Anvil: Aerialite Bar ×10"
+],
+"|Wind Chimes": [
+"Craft at Anvil: Cloud ×15, Rain Cloud ×15, Soul of Flight ×4"
+],
+"|Wind Reaver": [
+"Craft at Anvil: Sunplate Block ×8, Aerialite Bar ×10"
+],
+"|Windward": [
+"Craft at Anvil: Aerialite Bar ×7, Sunplate Block ×3"
+],
+"|Wingman": [
+"Drops from Brain Scrambler, Gigazapper, Gray Grunt, Martian Engineer and 2 more"
+],
+"|Wings of Rebirth": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"|Wither Blossoms Staff": [
+"Craft at Mythril Anvil: Tundra Flame Blossoms Staff, Plague Cell Canister ×15"
+],
+"|Wizard Hat": [
+"Drops from Tim"
+],
+"|Wizard Shoes": [
+"Sold by Cobbler"
+],
+"|Wooden Arrows": [
+"Craft at Work Bench: any Wood, Stone Block",
+"Drops from Zombie",
+"Sold by Merchant, Skeleton Merchant (Moon Phases Odd Quarters)"
+],
+"|Worldly Polarizer": [
+"Craft at Anvil: Dissolving Nature, Dissolving Earth, Dissolving Deluge, Ancient Steel Bar ×5, Vibrant Alloy ×5"
+],
+"|Worm Scarf": [
+"Craft at Tinkerer's Workshop: Brain of Confusion",
+"Opened from Treasure Bag (Queen Slime)"
+],
+"|Wormhole Arrow": [
+"Craft at Anvil: Skip Soul ×5, Skip Shard"
+],
+"|Wormhole Bullet": [
+"Craft at Anvil: Skip Soul ×5, Skip Shard"
+],
+"|Wormwood armor": [
+"Craft at Work Bench (whole set): Goopwood ×58, Fragment of Nature ×15"
+],
+"|Wrath Potion": [
+"Craft at Placed Bottle: Bottled Water, Ebonkoi, Deathweed"
+],
+"|Wrathwing": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"|Wreath": [
+"Craft at Work Bench: Living Leaf ×10, Wood ×10"
+],
+"|Writhing Sheath": [
+"Craft at Mythril Anvil: Leather Sheath, Void Heart"
+],
+"|Wulfrum Battery": [
+"Drops from Wulfrum Amplifier, Wulfrum Drone, Wulfrum Gyrator, Wulfrum Hovercraft and 2 more",
+"Fishing catch"
+],
+"|Wulfrum Controller": [
+"Craft at Anvil: Wulfrum Metal Scrap ×10"
+],
+"|Wulfrum Megaphone": [
+"Craft at Anvil: Wulfrum Metal Scrap ×7"
+],
+"|Wulfrum Weed Wacker": [
+"Craft at Anvil: Wulfrum Metal Scrap ×10"
+],
+"|Wulfrum armor": [
+"Craft at Anvil (whole set): Wulfrum Metal Scrap ×45, Energy Core ×3"
+],
+"|Xeno Staff": [
+"Drops from Martian Saucer (Martian Madness)"
+],
+"|Xenopopper": [
+"Drops from Martian Saucer (Martian Madness)"
+],
+"|Xylophone": [
+"Craft at Anvil: Crystal Geode ×10"
+],
+"|Yarn Ball": [
+"Sold by Merchant"
+],
+"|Yew Wood Lute": [
+"Craft at Arcane Armor Fabricator: Yew Wood ×20"
+],
+"|Yew Wood armor": [
+"Craft at Arcane Armor Fabricator (whole set): Yew Wood ×105"
+],
+"|Yharim's Crystal": [
+"Drops from Yharon, Dragon of Rebirth",
+"Opened from Treasure Cache (Yharon)"
+],
+"|Yharim's Gift": [
+"Opened from Treasure Cache (Yharon)"
+],
+"|Zephyr's Ruin": [
+"Drops from The Grand Thunder Bird"
+],
+"|Zunpet": [
+"Craft at Mythril Anvil: Hallowed Bar ×12, Hallowed Charm ×10, Light Shard, Dark Shard"
+]
+}

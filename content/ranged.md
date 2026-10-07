@@ -132,7 +132,7 @@ The "Other mods" lines are read from the pack's installed mod files: ranged weap
 - **Ammo:** Hailstorm Bullets C; Cluster Rocket I Ω²; Rocket III Ω; Chlorophyte Bullets; Bubonic Rounds
 - **Buffs:** Ammo Box; Archery Potion; Ammo Reservation Potion
 
-* **Other mods' weapons:** Thorium: Nova Rifle ≈ (400); The Massacre ≈ (260); Shadow-Flare Bow ≈ (146); DMR ≈ (140); Dread Launcher (93); Supersonic Bomber ≈ (88); Hydro Pump ≈ (86); Demon Blood Bow ≈ (82); Buffalo Launcher ≈ (78); Reject's Blowpipe ≈ (62); Titan Bow (60); Trench Spitter (57, Forgotten One); Phantom Arm Cannon ≈ (50); Spirit Breaker ≈ (47); Umbra Blaster ≈ (35); Beetle Blaster ≈ (26); Vega Phaser (26); Micro Launcher ≈ (22); The Black Bow ≈ (20). Secrets of the Shadows: Rebar Rifle ≈ (135); Icicle Impale (75); Supernova Scatter (47); Blaspha (45); Pathogen Regurgitator ≈ (45); Compound Bow ≈ (44). Calamity Ranger Expansion: Chewing Gun ≈ (16)
+* **Other mods' weapons:** Thorium: Nova Rifle ≈ (400); The Massacre ≈ (260); Shadow-Flare Bow ≈ (146); DMR ≈ (140); Dread Launcher (93); Supersonic Bomber ≈ (88); Hydro Pump ≈ (86); Buffalo Launcher ≈ (78); Reject's Blowpipe ≈ (62); Titan Bow (60); Trench Spitter (57, Forgotten One); Phantom Arm Cannon ≈ (50); Spirit Breaker ≈ (47); Umbra Blaster ≈ (35); Beetle Blaster ≈ (26); Vega Phaser (26); Micro Launcher ≈ (22); The Black Bow ≈ (20). Secrets of the Shadows: Rebar Rifle ≈ (135); Icicle Impale (75); Supernova Scatter (47); Blaspha (45); Pathogen Regurgitator ≈ (45); Compound Bow ≈ (44). Calamity Ranger Expansion: Chewing Gun ≈ (16)
 * **Other mods' class armor:** Thorium: Titan armor with the Titan Mask
 
 ### 14. Pre-Lunar Events

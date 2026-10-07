@@ -8,6 +8,7 @@ Pick your class page and read down: each one lists weapons, armor and accessorie
 - A stage is named for the boss it prepares you for. "Pre-Skeletron" is the gear you can reach before fighting Skeletron.
 - Loadouts follow the modpack's own wiki, which assumes Ragnarok Mode, wherever it has a list, and the pack's installed mod files plus the Calamity wiki where it does not. They are menus of viable picks, not one best build.
 - The modpack lets you skip ahead and fight bosses out of order. The order here is the intended one.
+- Every item says where it comes from. On a class page, hover or tap an item to see its recipe, the enemy or boss that drops it, or who sells it; switch on "Show where to get each item" to list them all at once.
 
 | Marker | Meaning |
 | --- | --- |
@@ -97,6 +98,7 @@ Each list uses the most specific source that exists for it: the modpack's own wi
 - **Computed, not playtested.** Expect most placements to be right and some to be a stage off. ≈ marks the ones placed by rarity alone.
 - **Complete, not ranked.** Mod-file lists show everything a class can get at a stage, not what is best. Damage numbers help compare similar weapons but ignore attack speed and projectile behaviour.
 - **Calamity picks match the pack's version.** The pack loads Calamity 2.2.2 while the wiki tracks 2.2.4; the two versions' item lists match name for name.
+- **Where items come from.** Recipes, boss and enemy drops, treasure bags and shop stock are read from the same mod files and from the game's own code, with the pack's recipe changes applied. Where an item has several recipes the first is shown. Chest loot, fishing catches and a few vanilla boss drops are filled in by hand. Drop chances and shop conditions are mostly left out, so check the in-game Bestiary or the recipe browser for those.
 - **Tooltips win.** The pack rebalances items; where an in-game tooltip disagrees with a list here, trust the tooltip.
 
 Accessories, potions and permanent upgrades that suit any class are in Shared gear.

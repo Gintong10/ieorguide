@@ -144,7 +144,6 @@ Class picks still come from the Calamity Mod wiki. Stages 19 and 20 share one li
 - **Armor:** Nebula armor Ω (with Nebula Mantle). All-class: Astral armor; Terrarium armor (no focus)
 - **Accessories:** Sigil of Calamitas; Arcane Flower; Destroyer Emblem; Nebula Mantle Δ Ω
 
-* **Other mods' weapons:** Secrets of the Shadows: Continuum Collapse ≈ (120)
 
 ### 17. Pre-Polterghast
 

@@ -47,6 +47,13 @@ dt{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
 .ic{height:22px;width:auto;max-width:36px;object-fit:contain;image-rendering:pixelated;vertical-align:-5px;margin:0 5px 0 -2px}
 .bi{height:20px;width:auto;max-width:30px;object-fit:contain;image-rendering:pixelated;vertical-align:-4px;margin-right:5px}
 .bosses{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:0 0 10px;font-size:13.5px;color:var(--muted)}.bl{font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--e)}.boss{white-space:normal}.nb{white-space:nowrap}td .bi{height:18px}
+.it.has{position:relative;cursor:help}.src{display:none;position:absolute;left:0;top:calc(100% + 7px);z-index:20;width:max-content;max-width:min(380px,calc(100vw - 24px));padding:9px 12px;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 28px rgba(0,0,0,.22);font-size:13px;line-height:1.4;font-weight:400;cursor:auto}
+.src span{display:block}.src span+span{margin-top:5px;padding-top:5px;border-top:1px solid var(--line)}.it.has:hover>.src,.it.open>.src{display:block}
+.tog{display:flex;align-items:center;gap:7px;font-size:14px;color:var(--ink);white-space:nowrap;cursor:pointer}.tog input{width:16px;height:16px;accent-color:var(--accent);margin:0}
+.hint{font-size:13px;color:var(--muted);margin:8px 0 0}.show-src .hint{display:none}
+.show-src .chips{flex-direction:column;gap:4px}.show-src .chips li{padding:5px 10px}.show-src .it{display:block}.show-src .it+.sep+.it{margin-top:6px}.show-src .sep{display:none}.show-src .it.has{cursor:auto}
+.show-src .src{display:block;position:static;width:auto;max-width:none;padding:1px 0 0;border:0;box-shadow:none;background:none;color:var(--muted);font-size:12.5px}
+.show-src .src span+span{margin-top:1px;padding-top:0;border-top:0}.show-src .grp .chips{flex:1 1 100%}
 .mk{text-decoration:none;color:var(--accent);font-weight:700;cursor:help;margin-left:1px}em{font-style:italic}
 [hidden]{display:none!important}#none{color:var(--muted);padding:30px 0}
 footer{border-top:1px solid var(--line);padding:26px 20px 40px;color:var(--muted);font-size:13px;text-align:center}footer p{max-width:80ch;margin:6px auto}
