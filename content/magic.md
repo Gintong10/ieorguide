@@ -2,7 +2,7 @@
 
 Magic casts from staves, tomes and magic guns and runs on mana, so mana regeneration gear matters as much as damage.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
@@ -157,7 +157,7 @@ Class picks still come from the Calamity Mod wiki. Stages 19 and 20 share one li
 - **Weapons:** Dark Spark C; Phantasmal Fury; Shadowbolt Staff; Venusian Trident; Vitriolic Viper
 - **Armor:** Prismatic armor; Bloodflare armor Ω (with Heartreach or Photosynthesis Potion). All-class: Omega Blue armor
 - **Accessories:** Sigil of Calamitas; Arcane Flower
-- **Buffs:** add Heartreach Potion / Photosynthesis Potion Ω
+- **Buffs, added:** Heartreach Potion / Photosynthesis Potion Ω
 
 ### 19. Pre-Primordials and 20. Pre-Yharon
 
@@ -171,18 +171,18 @@ Class picks still come from the Calamity Mod wiki. Stages 19 and 20 share one li
 ### 21. Pre-Shadowspec
 
 - **Weapons:** Yharim's Crystal \*; Void Vortex Ω (with The Amalgam); Primordial Ancient; Aetherflux Cannon; Hyperdeath Rift Scepter C
-- **After Supreme Calamitas:** Vehemence; Oblatory buff from the Brimstone Witch
+- **After Supreme Calamitas:** Vehemence; Oblatory (buff from the Brimstone Witch)
 - **Armor:** Auric Tesla armor. All-class: Gem Tech armor (after Draedon); Slippery Shogun armor (after Goozma)
 - **Accessories:** Sigil of Calamitas; Ethereal Talisman; The Amalgam Ω
 
 * **Other mods' weapons:** Hunt of the Old God: Goomoire (1111); Crystal Gauntlets (400, Goozma). Infernum: Illusioner's Reverie (720, Primordial Wyrm); Eye of Madness (448, Primordial Wyrm). Clamity: Unicron (80)
-* **Other mods' class armor:** Thorium: Pyromancer's set, which needs Auric Bars in this pack
+* **Other mods' class armor:** Thorium: Pyromancer's set (needs Auric Bars in this pack)
 
 ### 22. Endgame
 
 - **Weapons:** Apotheosis; Eternity; Rainbow Party Cannon; Staff of Blushie; Sylvestaff; The Dance of Light
 - **Armor:** Auric Tesla armor. All-class: Demonshade armor; Gem Tech armor; Slippery Shogun armor
 - **Accessories:** Ethereal Talisman; Sigil of Calamitas
-- **Buffs:** add Oblatory
+- **Buffs, added:** Oblatory
 
 * **Other mods' weapons:** Infernal Arsenal: Mystick Staff (1300). Infernal Eclipse: Nova Bomb; Nebula Gigabeam

@@ -2,7 +2,7 @@
 
 Ranged deals damage from a distance with bows, guns and launchers, and has to keep ammunition stocked. Ammo picks sit on their own line in each stage.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
@@ -10,7 +10,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 - **Weapons:** Coconut Gun ν \*; Coral Crossbow; Demon Bow / Tendon Bow; Explosive Knife \*; Minishark; Musket / The Undertaker; Spark Spreader; Thorium Revolver; Vibrant Cannon ν; Vibrant Pistol ν Ω
 - **Armor:** Fossil armor; Snow Ruffian armor; Vibrant armor ν Ω. All-class: Ancient Shadow armor \*; Frigid armor \*; Gold armor / Platinum armor; Lead armor; Thorium armor; Vespera armor ν
-- **Accessories:** Emerald Ring; Rusty Medallion \*
+- **Accessories:** Emerald Ring
 - **Ammo:** Flash Round C; Frostburn Arrow; Jester's Arrow C; Silver Bullet / Tungsten Bullet; Unholy Arrow
 - **Buffs:** Ammo Reservation Potion; Archery Potion
 
@@ -19,7 +19,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Weapons:** Blood Rain Bow Ω; Boomstick; Coconut Gun ν; Desert Scorcher; Egg Cannon; Explosive Knife; Fungicide; Harpy Pelter; Illuminant Bow; Pog Shark \*; Storm Surge; Pumpler; The Zapper; TriggerBlade
 - **Support:** Brittle Star Staff (defensive)
 - **Armor:** Fossil armor; Snow Ruffian armor; Victide armor; Yew Wood armor. All-class: Ancient Shadow armor \*; Frigid armor; Gold armor / Platinum armor; Lead armor †; Vespera armor ν
-- **Accessories:** Bag of Ammunition Gathering; Emerald Ring; Rusty Medallion
+- **Accessories:** Bag of Ammunition Gathering; Emerald Ring
 - **Ammo:** Flash Round C; Jester's Arrow C; Musket Ball / Tungsten Bullet; Shimmer Arrow Ω; Unholy Arrow
 - **Buffs:** Ammo Reservation Potion; Archery Potion
 
@@ -67,7 +67,7 @@ The "Other mods" lines are read from the pack's installed mod files: ranged weap
 
 ### 7. Pre-Mechanical Bosses
 
-- **Weapons:** Daedalus Stormbow; Flarewing Bow; Funggat; Ghoul Blaster; Lycanroc; Marrow; Needler Ω; Pearlwood Bow +; Scorn; S.S. Devastator; Toxikarp
+- **Weapons:** Daedalus Stormbow; Flarewing Bow; Funggat; Ghoul Blaster; Lycanroc; Marrow; Needler Ω; Pearlwood Bow +; Scorn; S. S. Devastator; Toxikarp
 - **Also on the Calamity list:** Dart Pistol / Dart Rifle; Polaris Parrotfish †; Uzi \*
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Cobalt armor; Palladium armor. All-class: Crystal Assassin armor; Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
@@ -205,7 +205,7 @@ Class picks still come from the Calamity Mod wiki. Stages 19 and 20 share one li
 - **Ammo:** Endless Musket Pouch Ω; Mini Nuke I; Holy Fire Bullets
 
 * **Other mods' weapons:** Catalyst: Plasmilegion (718, Exo Mechs); Repentance (404, Supreme Calamitas). Hunt of the Old God: Sludge Shaker (700, Goozma); Trailblazer (400)
-* **Other mods' class armor:** Thorium: Assassin's set, which needs Auric Bars in this pack
+* **Other mods' class armor:** Thorium: Assassin's set (needs Auric Bars in this pack)
 
 ### 22. Endgame
 

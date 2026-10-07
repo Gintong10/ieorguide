@@ -2,7 +2,7 @@
 
 These picks work for every class: general accessories, potions and permanent upgrades, stage by stage. The class pages list only what is specific to that class, plus armor.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage.
 
 The summoner lists leave out a few of these picks: Clover Charm, Calculator, Otherworldly Amplifier and Rage Potion.
 
@@ -13,8 +13,8 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Cloud in a Bottle ≤; Fledgling Wings \*; Frog Leg ≤; Hermes Boots ≤; Magiluminescence
 - **Offensive:** Amethyst Ring; Clover Charm; Craw Carapace; Diamond Ring (Thorium); Luxor's Gift \*; Shark Tooth Necklace \*; Unstable Granite Core \*
 - **Defensive:** Gladiator's Locket \*; Rover Drive
-- **Potions:** Lesser Healing Potion / Eggnog ≤; Well Fed ≤; Vibe Potion; Calcium, Endurance \*, Heartreach \*, Ironskin and Regeneration Potions; Inferno, Rage \*, Thorns and Wrath \* Potions; Bounding and Swiftness Potions
-- **Permanent upgrades:** Life Crystal; Vital Crystal \*; Earth, Nature, Permafrost and Tide Conduits \*
+- **Potions:** Lesser Healing Potion / Eggnog ≤; Well Fed ≤; Vibe Potion; Calcium Potion; Endurance Potion \*; Heartreach Potion \*; Ironskin Potion; Regeneration Potion; Inferno Potion; Rage Potion \*; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
+- **Permanent upgrades:** Life Crystal; Vital Crystal \*; Earth Conduit \*; Nature Conduit \*; Permafrost Conduit \*; Tide Conduit \*
 
 ### 2. Pre-Eater of Worlds / Brain of Cthulhu
 
@@ -22,7 +22,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Cloud in a Balloon ≤; Fledgling Wings (with boots); Frog Leg ≤; Lightning Boots ≤; Magiluminescence; Shield of Cthulhu
 - **Offensive:** Sea Spirit Amulet; Craw Carapace; Hexing Talisman; Luxor's Gift \*; Shark Tooth Necklace / Prismarine Necklace \*; Unstable Granite Core \*
 - **Defensive:** Blacksmith's Barrier; Clover Charm; Unholy Tonic / Vicious Tonic; Crown Jewel \*; Gladiator's Locket \*; Rover Drive; Shatter Heart Shield
-- **Potions:** Healing Potion / Strange Brew; Cook's Food (out of combat only); Plenty Satisfied ≤ (Seafood Dinner); Vibe Potion; Calcium, Endurance, Heartreach \*, Ironskin and Regeneration Potions; Inferno, Rage \*, Thorns and Wrath \* Potions; Bounding and Swiftness Potions
+- **Potions:** Healing Potion / Strange Brew; Cook's Food (out of combat only); Seafood Dinner ≤ (Plenty Satisfied); Vibe Potion; Calcium Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Regeneration Potion; Inferno Potion; Rage Potion \*; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
 
 ### 3. Pre-Hive Mind / Perforators
 
@@ -30,7 +30,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Blue Horseshoe Balloon ≤; Fledgling Wings (with boots); Frog Leg ≤; Lightning Boots ≤; Magiluminescence; Shield of Cthulhu
 - **Offensive:** Sea Spirit Amulet; Craw Carapace; Hexing Talisman; Luxor's Gift \*; Otherworldly Amplifier; Prismarine Necklace
 - **Defensive:** Brain of Confusion; Clover Charm; Unholy Tonic / Vicious Tonic; Crown Jewel \*; Gladiator's Locket \*; Obsidian Scale; Rover Drive; Shatter Heart Shield; Survivalist's Boots; Worm Scarf
-- **Potions:** Goblet of Entrails \* / Hadal Stew \* / Healing Potion / Honeyfin \*; Cook's Food (out of combat only); Plenty Satisfied ≤ (Seafood Dinner); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Calcium, Endurance, Heartreach \*, Ironskin and Regeneration Potions; Inferno, Rage \*, Thorns and Wrath \* Potions; Bounding and Swiftness Potions
+- **Potions:** Goblet of Entrails \* / Hadal Stew \* / Healing Potion / Honeyfin \*; Cook's Food (out of combat only); Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Calcium Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Regeneration Potion; Inferno Potion; Rage Potion \*; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
 - **Permanent upgrades:** Violet Crescent ν / Scarlet Crescent ν
 
 ### 4. Pre-Skeletron
@@ -39,7 +39,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Bundle of Horseshoe Balloons ≤; Frog Leg ≤; Skyline Wings (with boots); Harpy Ring; Lightning Boots ≤; Magiluminescence; Shield of Cthulhu
 - **Offensive:** Sea Spirit Amulet; Craw Carapace; Goopwood Parasite ν; Hexing Talisman; Otherworldly Amplifier; Prismarine Necklace
 - **Defensive:** Brain of Confusion; Clover Charm; Obsidian Scale; Royal Jelly; Survivalist's Boots; Worm Scarf
-- **Potions:** Cherry Pie (Cook's Food); Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Plenty Satisfied ≤ (Seafood Dinner); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Calcium, Endurance, Heartreach \*, Ironskin and Regeneration Potions; Inferno, Rage \*, Thorns and Wrath \* Potions; Bounding and Swiftness Potions
+- **Potions:** Cherry Pie (Cook's Food); Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Calcium Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Regeneration Potion; Inferno Potion; Rage Potion \*; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
 - **Permanent upgrades:** Voiden Ankh ν
 
 ### 5. Pre-Slime God
@@ -48,7 +48,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Bundle of Horseshoe Balloons ≤; Champion's Wings / Skyline Wings (with boots); Frog Leg ≤; Harpy Ring; Magiluminescence; Shield of Cthulhu; Terraspark Boots
 - **Offensive:** Sea Spirit Amulet; Craw Carapace; Goopwood Parasite ν; Hexing Talisman; Otherworldly Amplifier; Prismarine Necklace
 - **Defensive:** Brain of Confusion; Chiseled Barrier; Clover Charm; Obsidian Shield; Royal Jelly; Survivalist's Boots; Worm Scarf
-- **Potions:** Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Plenty Satisfied ≤ (Seafood Dinner); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance, Heartreach \*, Ironskin, Lifeforce and Regeneration Potions; Bouncing Flame, Conflagration, Frenzy, Inferno, Rage \*, Titan, Thorns and Wrath \* Potions; Bounding and Swiftness Potions
+- **Potions:** Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Lifeforce Potion; Regeneration Potion; Bouncing Flame Potion; Conflagration Potion; Frenzy Potion; Inferno Potion; Rage Potion \*; Titan Potion; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion
 
 ### 6. Pre-Wall of Flesh
 
@@ -56,7 +56,7 @@ The summoner lists leave out a few of these picks: Clover Charm, Calculator, Oth
 - **Mobility:** Blink Pack; Bundle of Horseshoe Balloons ≤; Champion's Wings / Skyline Wings (with boots); Frog Leg ≤; Harpy Ring; Magiluminescence; Shield of Cthulhu; Terraspark Boots
 - **Offensive:** Sea Spirit Amulet; Calculator; Craw Carapace; Goopwood Parasite ν; Hexing Talisman; Otherworldly Amplifier; Prismarine Necklace; Vibrancy Module ν
 - **Defensive:** Brain of Confusion; Chiseled Barrier; Clover Charm; Obsidian Shield; Radiant Ooze; Royal Jelly; Survivalist's Boots; Worm Scarf
-- **Potions:** Cherry Pie (Cook's Food); Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Plenty Satisfied ≤ (Seafood Dinner); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance, Heartreach \*, Ironskin, Lifeforce and Regeneration Potions; Bouncing Flame, Conflagration, Frenzy, Inferno, Rage \*, Titan, Thorns and Wrath \* Potions; Bounding, Swiftness and Vigor Potions
+- **Potions:** Cherry Pie (Cook's Food); Goblet of Entrails / Hadal Stew \* / Healing Potion / Honeyfin \*; Seafood Dinner ≤ (Plenty Satisfied); Roughskin Potion; Soul Access Potion ν; Vibe Potion; Endurance Potion; Heartreach Potion \*; Ironskin Potion; Lifeforce Potion; Regeneration Potion; Bouncing Flame Potion; Conflagration Potion; Frenzy Potion; Inferno Potion; Rage Potion \*; Titan Potion; Thorns Potion; Wrath Potion \*; Bounding Potion; Swiftness Potion; Vigor Potion
 - **Permanent upgrades:** Otherworld Conduit
 
 ## Hardmode
@@ -69,8 +69,8 @@ From here on these lists come from the wiki's Melee tab, the only one it has fin
 - **Mobility:** Angel Wings (defensive, with boots); Blink Pack; Bundle of Horseshoe Balloons; Counter Scarf / Deep Diver; Demon Wings (offensive, with boots); Fairy Boots / Terraspark Boots ≤; Fairy Wings (flight time, defensive); Frog Leg ≤
 - **Offensive:** Putrid Scent; Calculator; Goopwood Parasite ν; Otherworldly Amplifier; Slagsplitter Pauldron †; Vibrancy Module ν
 - **Defensive:** Ankh Shield; Charm of Myths; Chiseled Barrier; Clover Charm; Honey Dew / Radiant Ooze; Sandwich \*; Star Veil; Ursa Sergeant
-- **Potions:** Greater Healing Potion; Exquisitely Stuffed ≤ (Burger); Soul Access Potion ν; Roughskin Potion; Vibe Potion; Endurance, Ironskin, Lifeforce, Photosynthesis and Regeneration Potions; Purple Haze †; Rage \* and Wrath \* Potions; Soaring and Swiftness Potions
-- **Boss-specific:** Tesla's Amulet and Heartreach Potion for Queen Slime and The Destroyer; Warmth Potion for Cryogen
+- **Potions:** Greater Healing Potion; Burger ≤ (Exquisitely Stuffed); Soul Access Potion ν; Roughskin Potion; Vibe Potion; Endurance Potion; Ironskin Potion; Lifeforce Potion; Photosynthesis Potion; Regeneration Potion; Purple Haze †; Rage Potion \*; Wrath Potion \*; Soaring Potion; Swiftness Potion
+- **Boss-specific:** Tesla's Amulet (Queen Slime, The Destroyer); Heartreach Potion (Queen Slime, The Destroyer); Warmth Potion (Cryogen)
 - **Permanent upgrades:** Demon Heart; Evil Conduit; Inferno Conduit; Life Fruit
 
 ### 8. Post-Mechanical Boss 1
@@ -100,7 +100,7 @@ From here on these lists come from the wiki's Melee tab, the only one it has fin
 - **Mobility:** Machina Booster ν (flight time, precise flight); Blink Pack; Evasion Scarf; Fairy Boots / Angel Treads ≤; Flashspark Boots; MOAB (flight speed, vertical boost)
 - **Offensive:** Putrid Scent; Calculator; Baroclaw; Goopwood Parasite ν; Focus Crystal; Leviathan Ambergris †; Vibrancy Module ν; Cursed Icosahedron; The Transformer
 - **Defensive:** Charm of Myths; Plasma Generator; Chiseled Barrier; Infected Jewel; Cape of the Survivor; Living Dew; Sandwich \*; Star Veil; Ursa Sergeant
-- **Potions:** Greater Healing Potion; Exquisitely Stuffed ≤; Soul Access Potion ν; Roughskin Potion; Vibe Potion; Endurance, Ironskin, Lifeforce, Photosynthesis and Regeneration Potions; Purple Haze †; Rage \* and Wrath \* Potions; Soaring, Swiftness and Gravity Normalizer Potions
+- **Potions:** Greater Healing Potion; Exquisitely Stuffed ≤; Soul Access Potion ν; Roughskin Potion; Vibe Potion; Endurance Potion; Ironskin Potion; Lifeforce Potion; Photosynthesis Potion; Regeneration Potion; Purple Haze †; Rage Potion \*; Wrath Potion \*; Soaring Potion; Swiftness Potion; Gravity Normalizer Potion
 
 ### 13. Post-Golem
 
@@ -148,7 +148,7 @@ Every stage here also keeps the stage 12 potion set: Exquisitely Stuffed, Soul A
 - **Offensive:** same as stage 16
 - **Defensive:** same as stage 16
 - **Healing:** Supreme Healing Potion
-- **Permanent upgrades:** Tainted Cloudberry at stage 17; Ectoheart and Ruinous Plasma Injection at stage 18
+- **Permanent upgrades:** Tainted Cloudberry (stage 17); Ectoheart (stage 18); Ruinous Plasma Injection (stage 18)
 
 ### 19. Pre-Primordials
 

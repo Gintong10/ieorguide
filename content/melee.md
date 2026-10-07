@@ -2,7 +2,7 @@
 
 Melee fights at close and short range with swords, spears, flails, yoyos and boomerangs, behind the heaviest armor of the seven classes.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
@@ -11,15 +11,15 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Weapons:** Ball O' Hurt; Bellerose; Burnt Sienna; Coral Polearm Ω; Gold Glaive ν / Platinum Scythe ν; Heartstriker \*; Malaise Ω² / Artery Ω²; Monstrous Knives; Vibrant Blade ν
 - **Armor:** no melee-only set yet. All-class: Ancient Shadow armor \*; Frigid armor \*; Gold armor / Platinum armor; Lead armor; Thorium armor; Vespera armor ν
 - **Accessories:** Feral Claws; Ruby Ring; Silver Spear Tip Ω; White String ≤ Ω²
-- **Buffs:** Tipsy † (Ale); Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Sharpening Station (Sharpened)
 
 ### 2. Pre-Eater of Worlds / Brain of Cthulhu
 
-- **Weapons:** Blade of Grass; Depth Crusher; Gold Glaive ν / Platinum Scythe ν; Harpy Talon; Illuminant Axe; Mantis Grip \*; Seashine Sword; Thunder Talon; Trimarang; Urchin Mace C; Vespera NanDao ν
+- **Weapons:** Blade of Grass; Depth Crusher; Gold Glaive ν / Platinum Scythe ν; Illuminant Axe; Mantis Grip \*; Seashine Sword; Thunder Talon; Trimarang; Urchin Mace C; Vespera NanDao ν
 - **Support:** Brittle Star Staff (defensive)
 - **Armor:** Victide armor. All-class: Ancient Shadow armor \*; Frigid armor; Gold armor / Platinum armor; Lead armor †; Vespera armor ν
 - **Accessories:** Feral Claws; Hydrokinetic Antennae \*; Leather Sheath; Ruby Ring; Silver Spear Tip Ω; White String ≤ Ω²
-- **Buffs:** Tipsy † (Ale); Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Sharpening Station (Sharpened)
 
 ### 3. Pre-Hive Mind / Perforators
 
@@ -27,7 +27,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Brittle Star Staff (defensive); Slime Gun +
 - **Armor:** Molten armor. All-class: Crimson armor; Depth Diver's armor; Shadow armor
 - **Accessories:** Feral Claws; Hydrokinetic Antennae \*; Leather Sheath; Magma Stone; Ruby Ring; Spirit Glove; White String ≤ Ω
-- **Buffs:** Tipsy † (Ale); Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Sharpening Station (Sharpened)
 
 ### 4. Pre-Skeletron
 
@@ -35,7 +35,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Aerospec armor; Molten armor. All-class: Crimson armor; Depth Diver's armor; Shadow armor
 - **Accessories:** Bloody Worm Tooth; Feral Claws; Hydrokinetic Antennae \*; Leather Sheath; Magma Stone; Spirit Glove; White String ≤ Ω
-- **Buffs:** Flask of Poison; Tipsy † (Ale); Sharpened (Sharpening Station)
+- **Buffs:** Flask of Poison; Ale † (Tipsy); Sharpening Station (Sharpened)
 
 ### 5. Pre-Slime God
 
@@ -43,7 +43,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Aerospec armor; Molten armor. All-class: Darksteel armor; Depth Diver's armor; Granite armor
 - **Accessories:** Bloody Worm Tooth; Counter Scarf; Feral Claws; Hydrokinetic Antennae \*; Leather Sheath; Magma Stone; Spirit Glove; White String ≤ Ω
-- **Buffs:** Flask of Poison; Tipsy † (Ale); Sharpened (Sharpening Station)
+- **Buffs:** Flask of Poison; Ale † (Tipsy); Sharpening Station (Sharpened)
 
 ### 6. Pre-Wall of Flesh
 
@@ -51,7 +51,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Molten armor; Statigel armor; Twilight Assassin armor ν. All-class: Darksteel armor; Depth Diver's armor
 - **Accessories:** Bloody Worm Tooth; Counter Scarf; Feral Claws; Hydrokinetic Antennae \*; Leather Sheath; Magma Stone; Spirit Glove; White String ≤ Ω
-- **Buffs:** Flask of Poison; Tipsy † (Ale); Sharpened (Sharpening Station)
+- **Buffs:** Flask of Poison; Ale † (Tipsy); Sharpening Station (Sharpened)
 
 ## Hardmode
 
@@ -61,7 +61,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Cobalt armor; Palladium armor. All-class: Crystal Assassin armor; Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Power Glove; Cursed Flail-Core / Vile Flail-Core; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor; Sharpening Station (Sharpened)
 
 ### 8. Post-Mechanical Boss 1
 
@@ -69,7 +69,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Mythril armor; Orichalcum armor. All-class: Crystal Assassin armor; Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Power Glove; Cursed Flail-Core / Vile Flail-Core; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor; Sharpening Station (Sharpened)
 
 ### 9. Post-Mechanical Boss 2
 
@@ -77,7 +77,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Adamantite armor; Titanium armor; Frost armor; Daedalus armor. All-class: Crystal Assassin armor; Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Power Glove; Cursed Flail-Core / Vile Flail-Core; Arctic Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor; Sharpening Station (Sharpened)
 
 ### 10. Pre-Polaris
 
@@ -85,7 +85,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Adamantite armor; Titanium armor; Frost armor; Daedalus armor; Hallowed armor. All-class: Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Power Glove; Cursed Flail-Core / Vile Flail-Core; Arctic Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor; Sharpening Station (Sharpened)
 
 ### 11. Pre-Plantera
 
@@ -93,7 +93,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Chlorophyte armor; Frost Artifact armor. All-class: Crystal Assassin armor; Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Mechanical Glove; Cursed Flail-Core / Vile Flail-Core; Arctic Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor / Flask of Brimstone; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor / Flask of Brimstone; Sharpening Station (Sharpened)
 
 ### 12. Pre-Golem
 
@@ -101,7 +101,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*
 - **Armor:** Dragon armor; Chlorophyte armor; Dread armor. All-class: Reaver armor; Clamitas armor; Demon Blood armor
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Mechanical Glove; Cursed Flail-Core / Vile Flail-Core; Arctic Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor / Flask of Brimstone; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor / Flask of Brimstone; Sharpening Station (Sharpened)
 
 ### 13. Post-Golem
 
@@ -109,7 +109,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*; Stygian Shield +
 - **Armor:** Dragon armor; Hydrothermic armor; Dread armor. All-class: Reaver armor; Clamitas armor; Conduit armor Ω²; Demon Blood armor
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Fire Gauntlet; Cursed Flail-Core / Vile Flail-Core; Searing Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor / Flask of Brimstone; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor / Flask of Brimstone; Sharpening Station (Sharpened)
 
 ### 14. Pre-Lunar Events
 
@@ -117,7 +117,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Lunic Eye +; Rod of Discord + \*; Stygian Shield +
 - **Armor:** Elemental armor; Terrarium armor (melee focus) Ω³. All-class: Terrarium armor (no focus) Ω³; Conduit armor Ω²
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Fire Gauntlet; Cursed Flail-Core / Vile Flail-Core; Searing Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor / Flask of Brimstone; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor / Flask of Brimstone; Sharpening Station (Sharpened)
 
 ### 15. Pre-Moon Lord
 
@@ -125,29 +125,29 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Support:** Eye of Magnus +; Rod of Discord + \*; Stygian Shield +
 - **Armor:** Elemental armor; Intergelactic armor; Terrarium armor (melee focus) Ω². All-class: Astral armor; Terrarium armor (no focus) Ω²
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Fire Gauntlet; Cursed Flail-Core / Vile Flail-Core; Searing Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor / Flask of Brimstone; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor / Flask of Brimstone; Sharpening Station (Sharpened)
 
 ## Post-Moon Lord
 
 ### 16. Pre-Providence
 
-- **Weapons:** Ark of the Elements; Lightspeed; Greatsword of Judgement; Rem's Revenge; Stellar Contempt; Terrarian Ω; Stick †
+- **Weapons:** Ark of the Elements; Lightspeed; Greatsword of Judgement; Rem's Revenge; Stellar Contempt; Terrarian Ω; The Ultimate Stick of Supreme Power and Infinite Destruction †
 - **Support:** Eye of Magnus +; Relic of Deliverance +; Rod of Discord +
 - **Armor:** Solar Flare armor Ω; Intergelactic armor; Terrarium armor (melee focus) Ω. All-class: Astral armor; Terrarium armor (no focus) Ω
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Fire Gauntlet; Cursed Flail-Core / Vile Flail-Core; Searing Spear Tip Ω; Hydrokinetic Antennae \*; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Ichor / Flask of Brimstone; Flask of Crumbling / Flask of Holy Flames; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Ichor / Flask of Brimstone; Flask of Crumbling / Flask of Holy Flames; Sharpening Station (Sharpened)
 
 ### 17. Pre-Polterghast
 
-- **Weapons:** Grand Dad †; Mirror Blade †; Lightspeed; Greatsword of Judgement; Rem's Revenge; Galactus Blade; Terratomere; Burning Revelation Ω; Stick †
+- **Weapons:** Grand Dad †; Mirror Blade †; Lightspeed; Greatsword of Judgement; Rem's Revenge; Galactus Blade; Terratomere; Burning Revelation Ω; The Ultimate Stick of Supreme Power and Infinite Destruction †
 - **Support:** Claret Cannon +; Eye of Magnus +; Relic of Deliverance +; Rod of Discord +
 - **Armor:** Tarragon armor; Solar Flare armor Ω; Intergelactic armor. All-class: Astral armor
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Fire Gauntlet; Cursed Flail-Core / Vile Flail-Core; Searing Spear Tip Ω; Hydrokinetic Antennae \*; Badge of Bravery; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
-- **Buffs:** Tipsy † (Ale); Flask of Crumbling / Flask of Holy Flames; Sharpened (Sharpening Station)
+- **Buffs:** Ale † (Tipsy); Flask of Crumbling / Flask of Holy Flames; Sharpening Station (Sharpened)
 
 ### 18. Pre-Devourer of Gods
 
-- **Weapons:** Grand Dad †; The Last Mourning †; Mirror Blade †; Galileo Gladius; Greatsword of Judgement; Death's Ascension; Rem's Revenge; Galactus Blade; Banshee Hook; Terror Blade; Burning Revelation Ω; Stick †
+- **Weapons:** Grand Dad †; The Last Mourning †; Mirror Blade †; Galileo Gladius; Greatsword of Judgement; Death's Ascension; Rem's Revenge; Galactus Blade; Banshee Hook; Terror Blade; Burning Revelation Ω; The Ultimate Stick of Supreme Power and Infinite Destruction †
 - **Support:** Stratus Sphere +; Claret Cannon +; Eye of Magnus +; Relic of Deliverance +; Rod of Discord +
 - **Armor:** Tarragon armor; Bloodflare armor; Solar Flare armor Ω; Intergelactic armor. All-class: Omega Blue armor
 - **Accessories:** same as stage 17
@@ -163,7 +163,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ### 20. Pre-Yharon
 
-- **Weapons:** Oneirophobia; Seven Seas Devastator; Ocean's Judgement; Stream Gouge; The Ultimate Stick of Supreme Power and Infinite Destruction †
+- **Weapons:** Oneirophobia; Seven Seas' Devastator; Ocean's Judgement; Stream Gouge; The Ultimate Stick of Supreme Power and Infinite Destruction †
 - **Support:** Stratus Sphere +; Claret Cannon +; Eye of Magnus +; Relic of Deliverance +; Rod of Discord +
 - **Armor:** God Slayer armor. All-class: Omega Blue armor
 - **Accessories:** Bloody Worm Scarf; Berserker's Glove / Elemental Gauntlet; Cursed Flail-Core / Vile Flail-Core; Searing Spear Tip Ω; Hydrokinetic Antennae \*; Badge of Bravery; Leeching Sheath; Titan Slayer Sheath; Jetstream Sheath; Writhing Sheath; Spirit Glove; Supernova Emblem
@@ -171,7 +171,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ### 21. Pre-Shadowspec
 
-- **Weapons:** Oneirophobia †; Mjölnir; Orderbringer; Seven Seas Devastator; Everest; Ark of the Cosmos; Ocean's Judgement; Stream Gouge; The Ultimate Stick of Supreme Power and Infinite Destruction †
+- **Weapons:** Oneirophobia †; Mjölnir; Orderbringer; Seven Seas' Devastator; Everest; Ark of the Cosmos; Ocean's Judgement; Stream Gouge; The Ultimate Stick of Supreme Power and Infinite Destruction †
 - **Support:** Eye of Nova (after Draedon); Stratus Sphere +; Claret Cannon +; Relic of Deliverance +; Rod of Discord +
 - **Armor:** Auric Tesla armor (Intergelactic armor); Tide Turner's armor. All-class: Gem Tech armor (after Draedon); Slippery Shogun armor (after Goozma)
 - **Accessories:** same as stage 20
@@ -179,7 +179,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ### 22. Endgame
 
-- **Weapons:** Sword of the Zenith (after Boss Rush); Oneirophobia; Mjölnir; Earth; Seven Seas Devastator; Everest; Stick †
+- **Weapons:** Sword of the Zenith (after Boss Rush); Oneirophobia; Mjölnir; Earth; Seven Seas' Devastator; Everest; The Ultimate Stick of Supreme Power and Infinite Destruction †
 - **Support:** Eye of Nova; Stratus Sphere +; Claret Cannon +; Relic of Deliverance +; Rod of Discord +
 - **Armor:** Auric Tesla armor (Intergelactic armor). All-class: Demonshade armor; Gem Tech armor; Slippery Shogun armor
 - **Accessories:** same as stage 20

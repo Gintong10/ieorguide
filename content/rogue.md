@@ -4,7 +4,7 @@ Rogue is Calamity's throwing class, built around a stealth bar that powers speci
 
 Each stage splits weapons and accessories two ways: spam picks for throwing nonstop, stealth picks for landing stealth strikes.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
@@ -31,7 +31,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 ### 3. Pre-Hive Mind / Perforators
 
 - **Spam weapons:** Aquaite Knife; Blooming Shuriken; Dracula Fang; Infernal Kris; Mycoroot; Pod Bomb; Sludge Splotch
-- **Stealth weapons:** Aquaite Knife; Dracula Fang; Meteorite Cluster Bomb; Meteor Fist; Poison Pack; Sludge Splotch
+- **Stealth weapons:** Aquaite Knife; Dracula Fang; Meteorite Cluster Bomb; Meteor Fist; Sludge Splotch
 - **Techniques:** Meteor Stomp; Smoke Bomb; Sprint; Sticky Explosive
 - **Support:** Brittle Star Staff (defensive); Slime Gun +
 - **Armor:** Flight armor; Sandstone armor; Sulphurous armor. All-class: Crimson armor; Depth Diver's armor; Shadow armor
@@ -74,14 +74,14 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ## Hardmode
 
-The modpack's wiki has not written Rogue lists past Pre-Hardmode; its only Hardmode addition so far is Tracking Disk, a stealth pick at stage 7. From here the class picks come from the Calamity Mod wiki's class setups for the matching tier, so they cover vanilla and Calamity items only. The pack rebalances some of them, so check tooltips. All-class armor still comes from the modpack's wiki. Δ marks an item Calamity changes.
+The modpack's wiki has not written Rogue lists past Pre-Hardmode. From here the class picks come from the Calamity Mod wiki's class setups for the matching tier, so they cover vanilla and Calamity items only. The pack rebalances some of them, so check tooltips. All-class armor still comes from the modpack's wiki. Δ marks an item Calamity changes.
 
 The "Other mods" lines are read from the pack's installed mod files: thrown weapons and class armor from Thorium, whose thrower class this pack folds into Rogue, plus Catalyst, Clamity and the other add-ons. Each is placed at the stage its recipe or boss drop first becomes available under this pack's changes. Numbers are base damage after the pack's balance changes, and a boss name means the item drops there. ≈ marks an item placed by rarity alone, which can be a stage off.
 
 ### 7. Pre-Mechanical Bosses
 
 - **Spam weapons:** Cobalt Kunai; Cursed Dagger / Ichor Spear; Ice Star; Palladium Javelin; Prismalline
-- **Stealth weapons:** Prismalline; Palladium Javelin; Ice Star; Equanimity; Cursed Dagger; Tracking Disk
+- **Stealth weapons:** Prismalline; Palladium Javelin; Ice Star; Equanimity; Cursed Dagger
 - **Armor:** Titan Heart armor. All-class: Crystal Assassin armor; Dragon's armor / Flesh armor; Durasteel armor; Mollusk armor †
 - **Spam accessories:** Rogue Emblem
 - **Stealth accessories:** Mirage Mirror; Coin of Deceit; Filthy Glove
@@ -225,7 +225,7 @@ Class picks still come from the Calamity Mod wiki. Stages 19 and 20 share one li
 - **Spam weapons:** Wrathwing; Seraphim; Dynamic Pursuer; Dimension-Tearing Disk
 - **Stealth weapons:** Wrathwing; The Old Reaper; Dynamic Pursuer
 - **After Supreme Calamitas:** Sacrifice (spam)
-- **After the Exo Mechs:** Celestus C and Supernova (spam); Supernova and Refraction Rotor (stealth)
+- **After the Exo Mechs:** Celestus C (spam); Supernova (spam and stealth); Refraction Rotor (stealth)
 - **Armor:** Auric Tesla armor. All-class: Gem Tech armor (after Draedon); Slippery Shogun armor (after Goozma)
 - **Spam accessories:** Nanotech; Eclipse Mirror; The Amalgam
 - **Stealth accessories:** Spectral Veil †; Nanotech; Glove of Precision; Eclipse Mirror; The Amalgam

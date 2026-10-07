@@ -2,13 +2,13 @@
 
 Healer is Thorium's support class: scythes and wands for damage, plus tools that heal you and your allies. Each stage lists damage weapons and support tools separately.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
 ### 1. Pre-Eye of Cthulhu
 
-- **Weapons:** Dark Scythe / Crimson Scythe; Deep Staff; Heretic Breaker \*; Purified Water \*; Rotten Cod \*; Ice Shaver; Palm Cross; Thorium Heavy Scythe; Wulfrum Weed Wacker
+- **Weapons:** Deep Staff; Heretic Breaker \*; Purified Water \*; Rotten Cod \*; Ice Shaver; Palm Cross; Thorium Heavy Scythe; Wulfrum Weed Wacker
 - **Support tools:** Coral Purifier; Heart Wand; Renew \*; Syringe; The Giga Needle; The Good Book \*
 - **Armor:** Ebon armor \*; Coral armor; Novice Cleric's armor \*. All-class: Ancient Shadow armor \*; Frigid armor \*; Gold armor / Platinum armor; Lead armor; Thorium armor; Vespera armor ν
 - **Accessories:** Aquamarine Ring; Harvester's Scythe; Life Gem; Nurse's Purse
@@ -33,7 +33,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ### 4. Pre-Skeletron
 
-- **Weapons:** Cursed Ankh Staff ν; Defibrillanator; Goopwood Reap; Red Crescent; The Windmill; Wind Reaver
+- **Weapons:** Cursed Ankh Staff ν; C-TSL Defibrillator; Goopwood Reap; Red Crescent; The Windmill; Wind Reaver
 - **Support tools:** Dark Gift; Life's Gift; Lost Oasis; Renew \*
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Aerospec armor; Blooming armor; Iridescent armor. All-class: Crimson armor; Depth Diver's armor; Shadow armor
@@ -41,7 +41,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ### 5. Pre-Slime God
 
-- **Weapons:** Bone Reaper; Cursed Ankh Staff ν; Defibrillanator; Light's Lament; Marble Scythe; Red Crescent; Serpentine Fork; Spirit Blast Wand; Templar's Judgement; The Windmill; Wind Reaver
+- **Weapons:** Bone Reaper; Cursed Ankh Staff ν; C-TSL Defibrillator; Light's Lament; Marble Scythe; Red Crescent; Serpentine Fork; Spirit Blast Wand; Templar's Judgement; The Windmill; Wind Reaver
 - **Support tools:** Dark Gift; Life's Gift; Lost Oasis; Renew \*
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Aerospec armor; Templar's armor. All-class: Darksteel armor; Depth Diver's armor; Granite armor
@@ -49,7 +49,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 ### 6. Pre-Wall of Flesh
 
-- **Weapons:** Cursed Ankh Staff ν; Dark Contagion; Defibrillanator; Duality; Falling Twilight / Blood Harvest; Jelly Slicer; Light's Lament; Marble Scythe; Red Crescent; Serpentine Fork; Spirit Blast Wand; Templar's Judgement
+- **Weapons:** Cursed Ankh Staff ν; Dark Contagion; C-TSL Defibrillator; Duality; Falling Twilight / Blood Harvest; Jelly Slicer; Light's Lament; Marble Scythe; Red Crescent; Serpentine Fork; Spirit Blast Wand; Templar's Judgement
 - **Support tools:** Dark Gift; Gelatin Therapy; Life's Gift; Lost Oasis; Renew \*; Star Rod
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Templar's armor; Statigel armor. All-class: Darksteel armor; Depth Diver's armor

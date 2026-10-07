@@ -2,7 +2,7 @@
 
 Summoner fights through minions, sentries and whips. Calamity cuts summon damage to 0.75x while you also use a weapon from another class, so stay in class.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
@@ -92,7 +92,7 @@ The "Other mods" lines are read from the pack's installed mod files: summon weap
 - **Accessories:** Nuclear Fuel Rod; Jelly-Charged Battery; The First Shadowflame; Spirit Glyph
 - **Buffs:** War Table; Bewitching Table; Summoning Potion; Flask of Cursed Flames / Flask of Ichor
 
-* **Other mods' weapons:** Thorium: Stellar System ≈ (50); Aeon Staff ≈ (46, sentry); Void Lance (40, sentry); Fungal Cane ≈ (28, sentry); Steamgunner Controller ≈ (15). Thorium Bosses Reworked: Spitting Shroom Staff ≈ (40, sentry). Catalyst: Underbite ≈ (80). Clamity: Hell's Bells ≈ (39). Calamity Whip Addon: Shield Conduit Mk-II ≈ (61); Phase Scourge (45, seven colour variants)
+* **Other mods' weapons:** Thorium: Stellar System ≈ (50); Aeon Staff ≈ (46, sentry); Void Lance (40, sentry); Fungal Cane ≈ (28, sentry); Steamgunner Controller ≈ (15). Thorium Bosses Reworked: Spitting Shroom Staff ≈ (40, sentry). Catalyst: Underbite ≈ (80). Clamity: Hell`s Bells ≈ (39). Calamity Whip Addon: Shield Conduit Mk-II ≈ (61); Phase Scourge (45, seven colour variants)
 
 ### 9. Post-Mechanical Boss 2
 
@@ -174,7 +174,7 @@ Class picks still come from the Calamity Mod wiki. Stages 19 and 20 share one li
 
 ### 16. Pre-Providence
 
-- **Minions:** Tactical Plague Engine (ammo: Holy Fire Bullets / Luminite Bullets); Flowers of Mortality +; Legion of Celestia
+- **Minions:** Tactical Plague Engine (ammo: Holy Fire or Luminite Bullets); Flowers of Mortality +; Legion of Celestia
 - **Sentries:** Sanctified Spark +; Rainbow Crystal Staff; Lunar Portal Staff
 - **Held weapons:** Kaleidoscope
 - **Armor:** Valhalla Knight armor; Stardust armor Ω (with Stardust Wings). All-class: Astral armor; Terrarium armor (no focus)

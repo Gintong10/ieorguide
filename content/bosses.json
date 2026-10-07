@@ -1,0 +1,487 @@
+{
+"Aquatic Scourge": {
+"f": "b/cal-AquaticScourgeHead.png",
+"h": 42,
+"w": 42
+},
+"Astrageldon": {
+"f": "b/cat-Astrageldon.png",
+"h": 26,
+"w": 36
+},
+"Astrum Aureus": {
+"f": "b/cal-AstrumAureus.png",
+"h": 38,
+"w": 34
+},
+"Astrum Deus": {
+"f": "b/cal-AstrumDeusHead.png",
+"h": 38,
+"w": 40
+},
+"Avatar of Emptiness": {
+"f": "b/wotg-AvatarOfEmptiness.png",
+"h": 34,
+"w": 34
+},
+"Bereft Vassal": {
+"f": "b/inf-BereftVassal.png",
+"h": 34,
+"w": 32
+},
+"Betsy": {
+"f": "b/v-34.png",
+"h": 36,
+"w": 42
+},
+"Borean Strider": {
+"f": "b/tho-BoreanStrider.png",
+"h": 28,
+"w": 26
+},
+"Brain of Cthulhu": {
+"f": "b/v-23.png",
+"h": 30,
+"w": 30
+},
+"Brimstone Elemental": {
+"f": "b/cal-BrimstoneElemental.png",
+"h": 40,
+"w": 38
+},
+"Buried Champion": {
+"f": "b/tho-BuriedChampion.png",
+"h": 32,
+"w": 26
+},
+"Calamitas Clone": {
+"f": "b/cal-CalamitasClone.png",
+"h": 44,
+"w": 36
+},
+"Ceaseless Void": {
+"f": "b/cal-CeaselessVoid.png",
+"h": 26,
+"w": 48
+},
+"Corpse Bloom": {
+"f": "b/tho-CorpseBloom.png",
+"h": 26,
+"w": 28
+},
+"Crabulon": {
+"f": "b/cal-Crabulon.png",
+"h": 32,
+"w": 42
+},
+"Cragmaw Mire": {
+"f": "b/cal-CragmawMire.png",
+"h": 24,
+"w": 30
+},
+"Cryogen": {
+"f": "b/cal-Cryogen_Phase1.png",
+"h": 46,
+"w": 44
+},
+"Dark Mage": {
+"f": "b/v-32.png",
+"h": 32,
+"w": 32
+},
+"Deerclops": {
+"f": "b/v-39.png",
+"h": 40,
+"w": 48
+},
+"Desert Scourge": {
+"f": "b/cal-DesertScourgeHead.png",
+"h": 40,
+"w": 48
+},
+"Dragonfolly": {
+"f": "b/cal-Birb.png",
+"h": 34,
+"w": 34
+},
+"Duke Fishron": {
+"f": "b/v-4.png",
+"h": 30,
+"w": 30
+},
+"Eater of Worlds": {
+"f": "b/v-2.png",
+"h": 30,
+"w": 24
+},
+"Empress of Light": {
+"f": "b/v-37.png",
+"h": 32,
+"w": 30
+},
+"Everscream": {
+"f": "b/v-3.png",
+"h": 30,
+"w": 30
+},
+"Exo Mechs": {
+"f": "b/cal-AresBody.png",
+"h": 48,
+"w": 48
+},
+"Eye of Cthulhu": {
+"f": "b/v-0.png",
+"h": 28,
+"w": 26
+},
+"Fallen Beholder": {
+"f": "b/tho-FallenBeholder.png",
+"h": 30,
+"w": 42
+},
+"Forgotten One": {
+"f": "b/tho-ForgottenOne.png",
+"h": 38,
+"w": 30
+},
+"Giant Clam": {
+"f": "b/cal-GiantClam.png",
+"h": 26,
+"w": 30
+},
+"Glowmoth": {
+"f": "b/sots-Glowmoth.png",
+"h": 26,
+"w": 42
+},
+"Golem": {
+"f": "b/v-5.png",
+"h": 30,
+"w": 28
+},
+"Goozma": {
+"f": "b/hunt-Goozma.png",
+"h": 42,
+"w": 28
+},
+"Granite Energy Storm": {
+"f": "b/tho-GraniteEnergyStorm.png",
+"h": 30,
+"w": 30
+},
+"Great Sand Shark": {
+"f": "b/cal-GreatSandShark.png",
+"h": 30,
+"w": 26
+},
+"Hive Mind": {
+"f": "b/cal-HiveMind.png",
+"h": 37,
+"w": 48
+},
+"Ice Queen": {
+"f": "b/v-6.png",
+"h": 30,
+"w": 30
+},
+"King Slime": {
+"f": "b/v-7.png",
+"h": 30,
+"w": 30
+},
+"Lepus": {
+"f": "b/con-Lepus.png",
+"h": 30,
+"w": 26
+},
+"Leviathan": {
+"f": "b/cal-Leviathan.png",
+"h": 30,
+"w": 34
+},
+"Leviathan and Anahita": {
+"f": "b/cal-Leviathan.png",
+"h": 30,
+"w": 34
+},
+"Lich": {
+"f": "b/tho-Lich.png",
+"h": 30,
+"w": 34
+},
+"Lunatic Cultist": {
+"f": "b/v-24.png",
+"h": 30,
+"w": 30
+},
+"Lux": {
+"f": "b/sots-Lux.png",
+"h": 22,
+"w": 22
+},
+"Martian Saucer": {
+"f": "b/v-9.png",
+"h": 24,
+"w": 30
+},
+"Mauler": {
+"f": "b/cal-Mauler.png",
+"h": 30,
+"w": 26
+},
+"Moon Lord": {
+"f": "b/v-8.png",
+"h": 36,
+"w": 34
+},
+"Mourning Wood": {
+"f": "b/v-10.png",
+"h": 30,
+"w": 30
+},
+"Nameless Deity of Light": {
+"f": "b/wotg-NamelessDeityBoss.png",
+"h": 34,
+"w": 30
+},
+"Nuclear Terror": {
+"f": "b/cal-NuclearTerror.png",
+"h": 32,
+"w": 30
+},
+"Ocram": {
+"f": "b/con-Ocram.png",
+"h": 32,
+"w": 42
+},
+"Ogre": {
+"f": "b/v-33.png",
+"h": 30,
+"w": 26
+},
+"Old Duke": {
+"f": "b/cal-OldDuke.png",
+"h": 30,
+"w": 30
+},
+"Patch Werk": {
+"f": "b/tho-PatchWerk.png",
+"h": 24,
+"w": 24
+},
+"Perforators": {
+"f": "b/cal-PerforatorHive.png",
+"h": 36,
+"w": 32
+},
+"Pharaoh's Curse": {
+"f": "b/sots-PharaohsCurse.png",
+"h": 32,
+"w": 30
+},
+"Plaguebringer Goliath": {
+"f": "b/cal-PlaguebringerGoliath.png",
+"h": 30,
+"w": 26
+},
+"Plantera": {
+"f": "b/v-11.png",
+"h": 30,
+"w": 30
+},
+"Polaris": {
+"f": "b/sots-NewPolaris.png",
+"h": 46,
+"w": 46
+},
+"Polterghast": {
+"f": "b/cal-Polterghast.png",
+"h": 30,
+"w": 26
+},
+"Primordial Wyrm": {
+"f": "b/cal-PrimordialWyrmHead.png",
+"h": 33,
+"w": 48
+},
+"Profaned Guardians": {
+"f": "b/cal-ProfanedGuardianCommander.png",
+"h": 48,
+"w": 30
+},
+"Providence": {
+"f": "b/cal-Providence.png",
+"h": 23,
+"w": 48
+},
+"Providence, the Profaned Goddess": {
+"f": "b/cal-Providence.png",
+"h": 23,
+"w": 48
+},
+"Pumpking": {
+"f": "b/v-13.png",
+"h": 30,
+"w": 30
+},
+"Putrid Pinky": {
+"f": "b/sots-PutridPinky1.png",
+"h": 20,
+"w": 30
+},
+"Queen Bee": {
+"f": "b/v-14.png",
+"h": 30,
+"w": 28
+},
+"Queen Jellyfish": {
+"f": "b/tho-QueenJellyfish.png",
+"h": 34,
+"w": 30
+},
+"Queen Slime": {
+"f": "b/v-38.png",
+"h": 30,
+"w": 28
+},
+"Ravager": {
+"f": "b/cal-RavagerBody.png",
+"h": 36,
+"w": 34
+},
+"Santa-NK1": {
+"f": "b/v-17.png",
+"h": 30,
+"w": 30
+},
+"Signus": {
+"f": "b/cal-Signus.png",
+"h": 40,
+"w": 40
+},
+"Skeletron": {
+"f": "b/v-19.png",
+"h": 30,
+"w": 26
+},
+"Skeletron Prime": {
+"f": "b/v-18.png",
+"h": 30,
+"w": 26
+},
+"Star Scouter": {
+"f": "b/tho-StarScouter.png",
+"h": 24,
+"w": 34
+},
+"Storm Weaver": {
+"f": "b/cal-StormWeaverHead.png",
+"h": 46,
+"w": 42
+},
+"Subspace Serpent": {
+"f": "b/sots-SubspaceSerpentHead.png",
+"h": 38,
+"w": 40
+},
+"Supreme Witch, Calamitas": {
+"f": "b/cal-HoodedHeadIcon.png",
+"h": 40,
+"w": 36
+},
+"The Advisor": {
+"f": "b/sots-TheAdvisorHead.png",
+"h": 38,
+"w": 34
+},
+"The Destroyer": {
+"f": "b/v-26.png",
+"h": 28,
+"w": 30
+},
+"The Devourer of Gods": {
+"f": "b/cal-DevourerofGodsHead.png",
+"h": 32,
+"w": 30
+},
+"The Excavator": {
+"f": "b/sots-head.png",
+"h": 28,
+"w": 48
+},
+"The Grand Thunder Bird": {
+"f": "b/tho-TheGrandThunderBird.png",
+"h": 28,
+"w": 26
+},
+"The Hive Mind": {
+"f": "b/cal-HiveMind.png",
+"h": 37,
+"w": 48
+},
+"The Old Duke": {
+"f": "b/cal-OldDuke.png",
+"h": 30,
+"w": 30
+},
+"The Perforators": {
+"f": "b/cal-PerforatorHive.png",
+"h": 36,
+"w": 32
+},
+"The Plaguebringer Goliath": {
+"f": "b/cal-PlaguebringerGoliath.png",
+"h": 30,
+"w": 26
+},
+"The Primordials": {
+"f": "b/tho-DreamEater.png",
+"h": 34,
+"w": 34
+},
+"The Slime God": {
+"f": "b/cal-SlimeGodCore.png",
+"h": 30,
+"w": 30
+},
+"The Twins": {
+"f": "b/v-15.png",
+"h": 28,
+"w": 30
+},
+"Turkor the Ungrateful": {
+"f": "b/con-TurkortheUngratefulHead.png",
+"h": 28,
+"w": 30
+},
+"Viscount": {
+"f": "b/tho-Viscount.png",
+"h": 28,
+"w": 34
+},
+"Wall of Flesh": {
+"f": "b/v-22.png",
+"h": 30,
+"w": 30
+},
+"XG-07 Mars": {
+"f": "b/wotg-MarsBody.png",
+"h": 42,
+"w": 46
+},
+"Yharon": {
+"f": "b/cal-Yharon.png",
+"h": 38,
+"w": 40
+},
+"Yharon, Dragon of Rebirth": {
+"f": "b/cal-Yharon.png",
+"h": 38,
+"w": 40
+},
+"You": {
+"f": "b/youboss-TerraBladeBoss.png",
+"h": 1,
+"w": 1
+}
+}

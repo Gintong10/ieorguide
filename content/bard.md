@@ -4,7 +4,7 @@ Bard is Thorium's instrument class. Instruments spend inspiration, a mana-like r
 
 Numbered Ω marks pair an instrument with the accessory meant to be used with it.
 
-Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · *italic* = Revengeance Mode or higher. All-class armor follows the class sets on each armor line.
+Markers: † risky to get · C crowd control · + support · ≤ has upgrades · \* tedious to get · ν needs the Void subclass · Ω use together · Δ changed by Calamity · ≈ placed by rarity, may be a stage off · *italic* = Revengeance Mode or higher. Numbers in brackets are base damage. All-class armor follows the class sets on each armor line.
 
 ## Pre-Hardmode
 
@@ -12,7 +12,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 
 - **Weapons:** Antlion Maraca Ω; Dual Stylophone ν; Dynasty Guzheng \*; Gold Bugle Horn / Platinum Bugle Horn; Grand Piano; Icy Piccolo; Lightning Claves Ω; Riveting Tadpole; Seashell Castanets Ω; Ukulele; Skyware Lute Ω²; Wulfrum Megaphone
 - **Armor:** Crier's armor. All-class: Ancient Shadow armor \*; Frigid armor \*; Gold armor / Platinum armor; Lead armor; Thorium armor; Vespera armor ν
-- **Accessories:** Concert Tickets; Concussive Instrument Ω; High Quality Reed \*; Pick Shaped Pebble Ω²; Marching Boots; Mix Tape; Music Notes; Opal Ring; Subsonic Tuner ν
+- **Accessories:** Concert Tickets; Concussive Instrument Ω; High Quality Reed \*; Pick-Shaped Pebble Ω²; Marching Boots; Mix Tape; Music Notes; Opal Ring; Subsonic Tuner ν
 - **Buffs:** Creativity Potion; Earworm Potion \*. Permanent: Inspiration Fragment; Inspiration Gem \*
 
 ### 2. Pre-Eater of Worlds / Brain of Cthulhu
@@ -20,7 +20,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Weapons:** Acid Belcher Ω⁵; Blooming Bell Ω; Crystal Hydraulophone Ω²; Dual Stylophone ν; Forest Ocarina Ω³; Panflute Ω³; Sinister Honk Ω; Yew Wood Lute Ω²; Shanty of the Former Seas Ω² Ω⁴; Skyware Lute Ω² Ω⁴
 - **Support:** Brittle Star Staff (defensive)
 - **Armor:** Crier's armor; Jester's armor (moved to this tier by the pack's Calamity/Thorium balancing); Victide armor. All-class: Ancient Shadow armor \*; Frigid armor; Gold armor / Platinum armor; Lead armor †; Vespera armor ν
-- **Accessories:** Band Kit; Concert Tickets; Concussive Instrument Ω; Fan Letter; Guitar Pick Ω²; Mouthpiece Ω³; Pick Shaped Pebble Ω⁴; Plunger Mute Ω⁵; Mix Tape; Music Notes; Subsonic Tuner ν; Vibration Tuner Ω; *Heart of Darkness* \*
+- **Accessories:** Band Kit; Concert Tickets; Concussive Instrument Ω; Fan Letter; Guitar Pick Ω²; Mouthpiece Ω³; Pick-Shaped Pebble Ω⁴; Plunger Mute Ω⁵; Mix Tape; Music Notes; Subsonic Tuner ν; Vibration Tuner Ω; *Heart of Darkness* \*
 - **Buffs:** Creativity Potion; Earworm Potion \*
 
 ### 3. Pre-Hive Mind / Perforators
@@ -28,15 +28,15 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Weapons:** Bongos Ω; Hot Horn Ω⁵; Panflute Ω³; Jellyfish Jam; Marine Wine Glass Ω; Scuba Curva Ω⁵; Sonar Cannon
 - **Support:** Brittle Star Staff (defensive); Slime Gun +
 - **Armor:** Jester's armor; Noble's armor. All-class: Crimson armor; Depth Diver's armor; Shadow armor
-- **Accessories:** Band Kit; Concert Tickets; Concussive Instrument Ω; Fan Letter; Guitar Pick Ω²; Mouthpiece Ω³; Pick Shaped Pebble Ω⁴; Plunger Mute Ω⁵; Mix Tape; Music Notes; Subsonic Tuner ν; Vibration Tuner Ω; *Heart of Darkness*
+- **Accessories:** Band Kit; Concert Tickets; Concussive Instrument Ω; Fan Letter; Guitar Pick Ω²; Mouthpiece Ω³; Pick-Shaped Pebble Ω⁴; Plunger Mute Ω⁵; Mix Tape; Music Notes; Subsonic Tuner ν; Vibration Tuner Ω; *Heart of Darkness*
 - **Buffs:** Creativity Potion; Earworm Potion \*
 
 ### 4. Pre-Skeletron
 
-- **Weapons:** Ancient Harp; Goopwood Wiggle Ω³; Harp-Y; Hot Horn Ω⁵; Jellyfish Jam; Scrap Guitar; Violince; Windward Ω³
+- **Weapons:** Ancient Harp; Goopwood Wiggle Ω³; Harp-Y; Hot Horn Ω⁵; Jellyfish Jam; G-GSS: Scrap Guitar; Violince; Windward Ω³
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Aerospec armor; Jester's armor; Noble's armor. All-class: Crimson armor; Depth Diver's armor; Shadow armor
-- **Accessories:** Band Kit; Concert Tickets; Concussive Instrument Ω; Fan Letter; Guitar Pick Ω²; Mouthpiece Ω³; Pick Shaped Pebble Ω⁴; Plunger Mute Ω⁵; Mix Tape; Music Notes; Subsonic Tuner ν; Vibration Tuner Ω; *Heart of Darkness* \*
+- **Accessories:** Band Kit; Concert Tickets; Concussive Instrument Ω; Fan Letter; Guitar Pick Ω²; Mouthpiece Ω³; Pick-Shaped Pebble Ω⁴; Plunger Mute Ω⁵; Mix Tape; Music Notes; Subsonic Tuner ν; Vibration Tuner Ω; *Heart of Darkness* \*
 - **Buffs:** Creativity Potion; Earworm Potion \*
 
 ### 5. Pre-Slime God
@@ -44,7 +44,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Weapons:** Bone Trumpet Ω Ω³; Bronze Tuning Fork Ω¹; Calaveras Ω² Ω⁵; Deep Sea Drawl Ω Ω³; Granite Boom Box; Harp-Y Ω²; Hot Horn Ω Ω³; Nocturne Ω²; Microphone; Violince; Windward Ω³ Ω⁴
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Aerospec armor; Noble's armor. All-class: Darksteel armor; Depth Diver's armor; Granite armor
-- **Accessories:** Band Kit; Brass Cap Ω; Concert Tickets; Concussive Instrument Ω¹; Devil's Subwoofer; Fan Letter; Guitar Pick Ω²; Loudener Ω³; Mouthpiece Ω⁴; Pick Shaped Pebble Ω⁵; Plunger Mute Ω⁶; Mix Tape; Music Notes; Shock Absorber; Subsonic Tuner ν; Track Player; Vibration Tuner Ω¹; *Heart of Darkness* \*
+- **Accessories:** Band Kit; Brass Cap Ω; Concert Tickets; Concussive Instrument Ω¹; Devil's Subwoofer; Fan Letter; Guitar Pick Ω²; Loudener Ω³; Mouthpiece Ω⁴; Pick-Shaped Pebble Ω⁵; Plunger Mute Ω⁶; Mix Tape; Music Notes; Shock Absorber; Subsonic Tuner ν; Track Player; Vibration Tuner Ω¹; *Heart of Darkness* \*
 - **Buffs:** Creativity Potion; Earworm Potion \*
 
 ### 6. Pre-Wall of Flesh
@@ -52,7 +52,7 @@ Markers: † risky to get · C crowd control · + support · ≤ has upgrades ·
 - **Weapons:** Bone Trumpet Ω Ω³; Bronze Tuning Fork Ω¹; Calaveras Ω² Ω⁵; Deep Sea Drawl Ω Ω³; Granite Boom Box; Microphone; Nocturne Ω²; Return to Sludge Ω Ω³; Roboboe; Song of Ice & Fire Ω³ Ω⁴
 - **Support:** Aestheticus +; Brittle Star Staff (defensive)
 - **Armor:** Noble's armor; Statigel armor. All-class: Darksteel armor; Depth Diver's armor
-- **Accessories:** Band Kit; Brass Cap Ω; Concert Tickets; Concussive Instrument Ω¹; Devil's Subwoofer; Fan Letter; Guitar Pick Ω²; Loudener Ω³; Mouthpiece Ω⁴; Pick Shaped Pebble Ω⁵; Plunger Mute Ω⁶; Mix Tape; Music Notes; Shock Absorber; Subsonic Tuner ν; Track Player; Vibration Tuner Ω¹; *Heart of Darkness* \*
+- **Accessories:** Band Kit; Brass Cap Ω; Concert Tickets; Concussive Instrument Ω¹; Devil's Subwoofer; Fan Letter; Guitar Pick Ω²; Loudener Ω³; Mouthpiece Ω⁴; Pick-Shaped Pebble Ω⁵; Plunger Mute Ω⁶; Mix Tape; Music Notes; Shock Absorber; Subsonic Tuner ν; Track Player; Vibration Tuner Ω¹; *Heart of Darkness* \*
 - **Buffs:** Creativity Potion; Earworm Potion \*
 
 ## Hardmode

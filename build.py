@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the static site in docs/ from the markdown in content/.  Usage: python3 build.py"""
-import html, os, re, shutil
+import html, json, os, re, shutil
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC, OUT = os.path.join(ROOT, 'content'), os.path.join(ROOT, 'docs')
@@ -25,6 +25,44 @@ GROUPS = ['All-class', 'Permanent', 'Thorium Bosses Reworked', 'Thorium', 'Calam
           'Calamity Whip Addon', 'Calamity', 'Ragnarok', 'Infernal Arsenal', 'Infernal Eclipse', 'SOTS Bard & Healer',
           'Secrets of the Shadows', 'Catalyst', 'Clamity', 'Consolaria', 'Hunt of the Old God', 'Wrath of the Gods', 'Infernum']
 GROUP_RE = re.compile(r'(?:^|(?<=\. ))(' + '|'.join(re.escape(g) for g in sorted(GROUPS, key=len, reverse=True)) + r'): ')
+
+
+def clean_part(s):
+    """Reduce one chip part to the bare item name used for icon lookup."""
+    s = s.replace('\\*', ' ')
+    s = re.sub(r'\([^()]*\)', ' ', s)
+    s = re.sub(r'[*_]', '', s) + ' '
+    for _ in range(4):
+        s = re.sub(r'(?<=\s)(†|C|\+|≤|ν|Ω[¹²³⁴⁵⁶]?|Δ|≈)(?=\s)', ' ', s)
+    return re.sub(r'\s+', ' ', s).strip()
+
+
+def load_json(name):
+    p = os.path.join(SRC, name)
+    return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
+
+
+ICONS, BOSSES, STAGE_BOSSES = load_json('icons.json'), load_json('bosses.json'), {}
+PREFIX = ['']
+
+
+def img(e, cls):
+    return f'<img class="{cls}" src="{PREFIX[0]}assets/img/{e["f"]}" width="{e["w"]}" height="{e["h"]}" alt="" loading="lazy">'
+
+
+def icon(group, part):
+    e = ICONS.get(f'{group}|{clean_part(part)}')
+    return img(e, 'ic') if e else ''
+
+
+def boss_html(name):
+    key = re.sub(r'\s*\(.*?\)', '', name).strip()
+    if 'mechanical boss' in key:
+        es = [BOSSES[k] for k in ('The Twins', 'The Destroyer', 'Skeletron Prime') if k in BOSSES]
+    else:
+        es = [BOSSES[key]] if key in BOSSES else [BOSSES[k] for k in re.split(r' or ', key) if k in BOSSES]
+    first, _, rest = name.partition(' ')
+    return f'<span class="nb">{"".join(img(e, "bi") for e in es)}{html.escape(first)}</span>' + (' ' + html.escape(rest) if rest else '')
 
 
 def inline(s, markers=False):
@@ -74,12 +112,12 @@ def blocks(text):
     return out
 
 
-def chips(seg):
+def chips(seg, group=''):
     seg = seg.strip()
     items = [x.strip() for x in seg.split('; ') if x.strip()]
     if len(items) == 1 and (len(seg) > 70 or seg[:1].islower() or re.search(r'\. [A-Z]', seg)):
         return f'<span class="prose">{inline(seg, True)}</span>'
-    return '<ul class="chips">' + ''.join(f'<li>{inline(x, True)}</li>' for x in items) + '</ul>'
+    return '<ul class="chips">' + ''.join('<li>' + ' / '.join(icon(group, p) + inline(p, True) for p in x.split(' / ')) + '</li>' for x in items) + '</ul>'
 
 
 def row_body(content):
@@ -91,7 +129,7 @@ def row_body(content):
     for k in range(1, len(parts), 2):
         seg = parts[k + 1].strip()
         if k + 2 < len(parts) and seg.endswith('.'): seg = seg[:-1]
-        out.append(f'<div class="grp"><span class="g">{html.escape(parts[k])}</span>{chips(seg)}</div>')
+        out.append(f'<div class="grp"><span class="g">{html.escape(parts[k])}</span>{chips(seg, parts[k])}</div>')
     return ''.join(out)
 
 
@@ -107,13 +145,14 @@ def render_list(items):
 
 
 def table_html(rows, link_cells=False, prefix=''):
-    def cell(c, tag):
-        t = inline(c, True)
+    boss_col = next((k for k, h in enumerate(rows[0]) if h.startswith('Bosses')), -1)
+    def cell(c, tag, k=-1):
+        t = '; '.join(boss_html(b) for b in c.split('; ')) if (k == boss_col and tag == 'td' and c) else inline(c, True)
         if link_cells and c in TITLES and tag == 'td':
             t = f'<a href="{prefix}{TITLES[c]}/">{t} loadouts</a>'
         return f'<{tag}>{t}</{tag}>'
     head = '<tr>' + ''.join(cell(c, 'th') for c in rows[0]) + '</tr>'
-    body = ''.join('<tr>' + ''.join(cell(c, 'td') for c in r) + '</tr>' for r in rows[1:])
+    body = ''.join('<tr>' + ''.join(cell(c, 'td', k) for k, c in enumerate(r)) + '</tr>' for r in rows[1:])
     return f'<div class="tw"><table><thead>{head}</thead><tbody>{body}</tbody></table></div>'
 
 
@@ -146,6 +185,9 @@ def stage_page(slug, title, bl):
             extra = ''.join(f'<span class="anchor" id="stage-{n}"></span>' for n in nums[1:])
             label = re.sub(r'(\d+)\.\s', r'<span class="num">\1</span> ', html.escape(b[2]))
             body.append(f'<section class="stage era-{era}" id="{sid}">{extra}<h3>{label}</h3>')
+            fights = [b for n in nums for b in STAGE_BOSSES.get(int(n), [])]
+            if fights:
+                body.append('<p class="bosses"><span class="bl">Bosses</span>' + ''.join(f'<span class="boss">{boss_html(b)}</span>' for b in fights) + '</p>')
             open_stage = True
             short = re.sub(r'(\d+)\.\s', '', b[2])
             nav.append(('stage', sid, ('–'.join(nums) if nums else '·'), short))
@@ -170,6 +212,8 @@ def stage_page(slug, title, bl):
 
 
 CLASS_BLURB = {}
+CARD_ICON = {'Shared gear': 'Hermes Boots', 'Melee': "Night's Edge", 'Ranged': 'Daedalus Stormbow', 'Magic': 'Demon Scythe', 'Summoner': 'Imp Staff',
+             'Rogue': 'Cobalt Kunai', 'Healer': 'Terra Scythe', 'Bard': 'Trombone'}
 
 
 def doc_page(bl):
@@ -179,7 +223,10 @@ def doc_page(bl):
             continue
         if b[0] == 'p' and not hero_done and b[1].startswith('Updated'):
             hero_done = True
-            cards = ''.join(f'<a class="card c-{s}" href="{s}/"><b>{t}</b><span>{CLASS_BLURB.get(t, "")}</span></a>' for s, t, k in PAGES[1:])
+            def card_icon(t):
+                e = ICONS.get('|' + CARD_ICON.get(t, ''))
+                return img(e, 'ci') if e else ''
+            cards = ''.join(f'<a class="card c-{s}" href="{s}/"><b>{card_icon(t)}{t}</b><span>{CLASS_BLURB.get(t, "")}</span></a>' for s, t, k in PAGES[1:])
             out.append(f'<header class="hero"><p class="kicker">Terraria modpack · unofficial fan guide</p><h1>{SITE}</h1>'
                        f'<p class="sub">{SUB}: weapons, armor and accessories for all seven classes across 22 stages.</p>'
                        f'<p class="date">{html.escape(b[1])}</p></header><nav class="cards" aria-label="Class pages">{cards}</nav>')
@@ -216,7 +263,7 @@ def shell(slug, title, inner, prefix):
 <body class="p-{slug}">
 <header class="top"><a class="brand" href="{prefix}"><span class="eclipse" aria-hidden="true"></span>IEoR <span>Class Guide</span></a><nav class="nav" aria-label="Pages">{nav}</nav></header>
 {inner}
-<footer><p>Unofficial fan guide. Item lists draw on the <a href="https://terrariamods.wiki.gg/wiki/Infernal_Eclipse_of_Ragnarok">Infernal Eclipse of Ragnarok</a>, <a href="https://calamitymod.wiki.gg/wiki/Guide:Class_setups">Calamity</a> and <a href="https://thoriummod.wiki.gg/wiki/Guide:Class_setups">Thorium</a> wikis and on the mods' own files. Terraria and every mod named here belong to their creators.</p><p><a href="{REPO}">Source on GitHub</a></p></footer>
+<footer><p>Unofficial fan guide. Item lists draw on the <a href="https://terrariamods.wiki.gg/wiki/Infernal_Eclipse_of_Ragnarok">Infernal Eclipse of Ragnarok</a>, <a href="https://calamitymod.wiki.gg/wiki/Guide:Class_setups">Calamity</a> and <a href="https://thoriummod.wiki.gg/wiki/Guide:Class_setups">Thorium</a> wikis and on the mods' own files. Item and boss sprites come from Terraria and the mods named here. Terraria and every mod belong to their creators.</p><p><a href="{REPO}">Source on GitHub</a></p></footer>
 <script src="{prefix}assets/app.js" defer></script>
 </body>
 </html>
@@ -242,7 +289,7 @@ h1{font-size:clamp(28px,4vw,40px);line-height:1.15;margin:0 0 12px;letter-spacin
 .sub{font-size:19px;color:var(--muted);max-width:60ch;margin:0}.date{font-size:13px;color:var(--muted);margin:14px 0 0}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px;margin:18px 0 8px}
 .card{display:flex;flex-direction:column;gap:4px;padding:14px 16px;background:var(--surface);border:1px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);border-top:3px solid var(--k,var(--accent));transition:transform .12s}
-.card:hover{transform:translateY(-2px)}.card b{font-size:17px}.card span{font-size:13px;color:var(--muted);line-height:1.4}
+.card:hover{transform:translateY(-2px)}.ci{height:26px;width:auto;max-width:34px;object-fit:contain;image-rendering:pixelated;vertical-align:-6px;margin-right:8px}.card b{font-size:17px}.card span{font-size:13px;color:var(--muted);line-height:1.4}
 .c-shared-gear{--k:#8a8178}.c-melee{--k:#d9534f}.c-ranged{--k:#3f9d5b}.c-magic{--k:#3b82f6}.c-summoner{--k:#14b8a6}.c-rogue{--k:#e05a9c}.c-healer{--k:#d4a514}.c-bard{--k:#8b5cf6}
 ul.plain{padding-left:20px;max-width:76ch}ul.plain li{margin:6px 0}
 .tw{overflow-x:auto;margin:14px 0;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
@@ -269,6 +316,9 @@ dt{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
 .chips li.hit{background:var(--hit);border-color:var(--accent)}.chips small{color:var(--muted);font-size:12.5px}
 .grp{display:flex;flex-wrap:wrap;gap:5px 8px;align-items:baseline;margin-top:6px}.grp:first-child{margin-top:0}.g{font-size:12px;font-weight:600;color:var(--accent2);white-space:nowrap}
 .grp .chips{flex:1 1 60%}.prose{font-size:14.5px;color:var(--muted)}.note{font-size:14.5px;color:var(--muted);max-width:76ch;margin:8px 0}
+.ic{height:22px;width:auto;max-width:36px;object-fit:contain;image-rendering:pixelated;vertical-align:-5px;margin:0 5px 0 -2px}
+.bi{height:20px;width:auto;max-width:30px;object-fit:contain;image-rendering:pixelated;vertical-align:-4px;margin-right:5px}
+.bosses{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:0 0 10px;font-size:13.5px;color:var(--muted)}.bl{font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--e)}.boss{white-space:normal}.nb{white-space:nowrap}td .bi{height:18px}
 .mk{text-decoration:none;color:var(--accent);font-weight:700;cursor:help;margin-left:1px}em{font-style:italic}
 [hidden]{display:none!important}#none{color:var(--muted);padding:30px 0}
 footer{border-top:1px solid var(--line);padding:26px 20px 40px;color:var(--muted);font-size:13px;text-align:center}footer p{max-width:80ch;margin:6px auto}
@@ -311,8 +361,12 @@ JS = r'''(() => {
 
 
 def main():
-    if os.path.isdir(OUT): shutil.rmtree(OUT)
-    os.makedirs(os.path.join(OUT, 'assets'))
+    if os.path.isdir(OUT):
+        for name in os.listdir(OUT):
+            if name != 'assets':
+                q = os.path.join(OUT, name)
+                shutil.rmtree(q) if os.path.isdir(q) else os.remove(q)
+    os.makedirs(os.path.join(OUT, 'assets'), exist_ok=True)
     open(os.path.join(OUT, 'assets', 'style.css'), 'w', encoding='utf-8').write(CSS)
     open(os.path.join(OUT, 'assets', 'app.js'), 'w', encoding='utf-8').write(JS)
     open(os.path.join(OUT, '.nojekyll'), 'w').write('')
@@ -321,7 +375,11 @@ def main():
     for b in parsed['overview']:
         if b[0] == 'table' and b[1][0][:2] == ['Class', 'From']:
             for r in b[1][1:]: CLASS_BLURB[r[0]] = r[3]
+        if b[0] == 'table' and len(b[1][0]) > 2 and b[1][0][2].startswith('Bosses'):
+            for r in b[1][1:]:
+                STAGE_BOSSES[int(r[0])] = [x.strip() for x in r[2].split('; ') if x.strip()]
     for slug, title, kind in PAGES:
+        PREFIX[0] = '' if kind == 'doc' else '../'
         if kind == 'doc':
             page, path, prefix = doc_page(parsed[slug]), os.path.join(OUT, 'index.html'), ''
         else:

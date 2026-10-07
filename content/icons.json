@@ -1,0 +1,10427 @@
+{
+"All-class|Ancient Shadow armor": {
+"f": "i/v-AncientShadowHelmet.png",
+"h": 24,
+"w": 20
+},
+"All-class|Astral armor": {
+"f": "i/cal-AstralHelm.png",
+"h": 20,
+"w": 22
+},
+"All-class|Clamitas armor": {
+"f": "i/clm-ClamitasShellmet.png",
+"h": 22,
+"w": 22
+},
+"All-class|Conduit armor": {
+"f": "i/tho-ConduitHelmet.png",
+"h": 20,
+"w": 22
+},
+"All-class|Crimson armor": {
+"f": "i/v-CrimsonHelmet.png",
+"h": 24,
+"w": 28
+},
+"All-class|Crystal Assassin armor": {
+"f": "i/v-CrystalNinjaHelmet.png",
+"h": 24,
+"w": 30
+},
+"All-class|Darksteel armor": {
+"f": "i/tho-DarksteelFaceGuard.png",
+"h": 24,
+"w": 24
+},
+"All-class|Demon Blood armor": {
+"f": "i/tho-DemonBloodHelmet.png",
+"h": 22,
+"w": 22
+},
+"All-class|Demonshade armor": {
+"f": "i/cal-DemonshadeHelm.png",
+"h": 34,
+"w": 34
+},
+"All-class|Depth Diver's armor": {
+"f": "i/tho-DepthDiverHelmet.png",
+"h": 22,
+"w": 20
+},
+"All-class|Dragon's armor": {
+"f": "i/tho-DragonMask.png",
+"h": 26,
+"w": 26
+},
+"All-class|Durasteel armor": {
+"f": "i/tho-DurasteelHelmet.png",
+"h": 28,
+"w": 28
+},
+"All-class|Flesh armor": {
+"f": "i/tho-FleshMask.png",
+"h": 28,
+"w": 34
+},
+"All-class|Frigid armor": {
+"f": "i/sots-FrigidCrown.png",
+"h": 20,
+"w": 26
+},
+"All-class|Gem Tech armor": {
+"f": "i/cal-GemTechHeadgear.png",
+"h": 34,
+"w": 40
+},
+"All-class|Gold armor": {
+"f": "i/v-GoldHelmet.png",
+"h": 22,
+"w": 26
+},
+"All-class|Granite armor": {
+"f": "i/tho-GraniteHelmet.png",
+"h": 22,
+"w": 26
+},
+"All-class|Lead armor": {
+"f": "i/v-LeadHelmet.png",
+"h": 20,
+"w": 26
+},
+"All-class|Mollusk armor": {
+"f": "i/cal-MolluskShellmet.png",
+"h": 22,
+"w": 22
+},
+"All-class|Omega Blue armor": {
+"f": "i/cal-OmegaBlueHelmet.png",
+"h": 28,
+"w": 38
+},
+"All-class|Platinum armor": {
+"f": "i/v-PlatinumHelmet.png",
+"h": 24,
+"w": 28
+},
+"All-class|Reaver armor": {
+"f": "i/cal-ReaverHeadExplore.png",
+"h": 22,
+"w": 22
+},
+"All-class|Shadow armor": {
+"f": "i/v-ShadowHelmet.png",
+"h": 26,
+"w": 24
+},
+"All-class|Slippery Shogun armor": {
+"f": "i/hunt-ShogunHelm.png",
+"h": 24,
+"w": 26
+},
+"All-class|Terrarium armor": {
+"f": "i/tho-TerrariumHelmet.png",
+"h": 30,
+"w": 32
+},
+"All-class|Thorium armor": {
+"f": "i/tho-ThoriumHelmet.png",
+"h": 22,
+"w": 30
+},
+"All-class|Vespera armor": {
+"f": "i/sots-VesperaMask.png",
+"h": 22,
+"w": 26
+},
+"Calamity Bard & Healer|Aquaius' Advice": {
+"f": "i/cbh-AquaiusAdvice.png",
+"h": 62,
+"w": 62
+},
+"Calamity Bard & Healer|Arctic Reinforcement": {
+"f": "i/cbh-ArcticReinforcement.png",
+"h": 38,
+"w": 38
+},
+"Calamity Bard & Healer|Auric Tesla Feathered Headwear": {
+"f": "i/cbh-AuricTeslaFeatheredHeadwear.png",
+"h": 28,
+"w": 34
+},
+"Calamity Bard & Healer|Auric Tesla Valkyrie Visage": {
+"f": "i/cbh-AuricTeslaValkyrieVisage.png",
+"h": 24,
+"w": 30
+},
+"Calamity Bard & Healer|Beyond Saving Grace": {
+"f": "i/cbh-SavingGrace.png",
+"h": 54,
+"w": 54
+},
+"Calamity Bard & Healer|Big Bang Cymbals": {
+"f": "i/cbh-BigBangCymbals.png",
+"h": 46,
+"w": 38
+},
+"Calamity Bard & Healer|Birthplace of Stars": {
+"f": "i/cbh-StarBirth.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Blood of Greater Sand Sharks": {
+"f": "i/cbh-DesertedDrugDeal.png",
+"h": 64,
+"w": 20
+},
+"Calamity Bard & Healer|Bloodflare Ritualist Mask": {
+"f": "i/cbh-BloodflareRitualistMask.png",
+"h": 24,
+"w": 28
+},
+"Calamity Bard & Healer|Bloodflare Siren Skull": {
+"f": "i/cbh-BloodflareSirenSkull.png",
+"h": 28,
+"w": 26
+},
+"Calamity Bard & Healer|Blooming Saintess Statue": {
+"f": "i/cbh-BloomingSaintessStatue.png",
+"h": 52,
+"w": 36
+},
+"Calamity Bard & Healer|Blooming Saintess' Devotion": {
+"f": "i/cbh-BloomingSaintessDevotion.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Cherubim Omega": {
+"f": "i/cbh-CherubimOmega.png",
+"h": 64,
+"w": 45
+},
+"Calamity Bard & Healer|Cold Shoulder": {
+"f": "i/cbh-ColdShoulder.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Cotton Mouth": {
+"f": "i/cbh-CottonMouth.png",
+"h": 64,
+"w": 41
+},
+"Calamity Bard & Healer|Daedalus Cowl": {
+"f": "i/cbh-DaedalusCowl.png",
+"h": 22,
+"w": 24
+},
+"Calamity Bard & Healer|Daedalus Hat": {
+"f": "i/cbh-DaedalusHat.png",
+"h": 26,
+"w": 28
+},
+"Calamity Bard & Healer|Death Adder": {
+"f": "i/cbh-DeathAdder.png",
+"h": 64,
+"w": 40
+},
+"Calamity Bard & Healer|Deck the Halls": {
+"f": "i/cbh-ChristmasCarol.png",
+"h": 46,
+"w": 46
+},
+"Calamity Bard & Healer|Disaster": {
+"f": "i/cbh-Disaster.png",
+"h": 64,
+"w": 39
+},
+"Calamity Bard & Healer|Doomsday Catharsis": {
+"f": "i/cbh-DoomsdayCatharsis.png",
+"h": 39,
+"w": 64
+},
+"Calamity Bard & Healer|Dust Devil Drums": {
+"f": "i/cbh-DustDevilDrums.png",
+"h": 20,
+"w": 46
+},
+"Calamity Bard & Healer|Elemental Bloom": {
+"f": "i/cbh-ElementalBloom.png",
+"h": 44,
+"w": 44
+},
+"Calamity Bard & Healer|Exorectionist": {
+"f": "i/cbh-Exorectionist.png",
+"h": 27,
+"w": 64
+},
+"Calamity Bard & Healer|Feral Keytar": {
+"f": "i/cbh-FeralKeytar.png",
+"h": 45,
+"w": 64
+},
+"Calamity Bard & Healer|Fire Hazard": {
+"f": "i/cbh-FireHazard.png",
+"h": 64,
+"w": 40
+},
+"Calamity Bard & Healer|Flight of the Goliath": {
+"f": "i/cbh-FlightoftheGoliath.png",
+"h": 32,
+"w": 54
+},
+"Calamity Bard & Healer|Gashadokuro": {
+"f": "i/cbh-Gashadokuro.png",
+"h": 56,
+"w": 46
+},
+"Calamity Bard & Healer|God Slayer Deathsinger's Cowl": {
+"f": "i/cbh-GodSlayerDeathsingerCowl.png",
+"h": 28,
+"w": 28
+},
+"Calamity Bard & Healer|Harmony of the Old God": {
+"f": "i/cbh-HarmonyoftheOldGod.png",
+"h": 64,
+"w": 31
+},
+"Calamity Bard & Healer|Hydrogen Sulfide": {
+"f": "i/cbh-HydrogenSulfide.png",
+"h": 64,
+"w": 40
+},
+"Calamity Bard & Healer|Hydrothermic Gas Mask": {
+"f": "i/cbh-HydrothermicGasMask.png",
+"h": 22,
+"w": 24
+},
+"Calamity Bard & Healer|Hydrothermic Hat": {
+"f": "i/cbh-HydrothermicHat.png",
+"h": 28,
+"w": 30
+},
+"Calamity Bard & Healer|Intergelactic Cloche": {
+"f": "i/cbh-IntergelacticCloche.png",
+"h": 28,
+"w": 34
+},
+"Calamity Bard & Healer|Intergelactic Protector Helm": {
+"f": "i/cbh-IntergelacticProtectorHelm.png",
+"h": 26,
+"w": 24
+},
+"Calamity Bard & Healer|Interstellar Shredder": {
+"f": "i/cbh-InterstellarShredder.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Irradiated Kusarigama": {
+"f": "i/cbh-IrradiatedKusarigama.png",
+"h": 64,
+"w": 53
+},
+"Calamity Bard & Healer|K-GSS: Scuffed Keytar": {
+"f": "i/cbh-ScuffedKeytar.png",
+"h": 44,
+"w": 56
+},
+"Calamity Bard & Healer|Milky Way": {
+"f": "i/cbh-MilkyWay.png",
+"h": 58,
+"w": 64
+},
+"Calamity Bard & Healer|Noisebringer Goliath": {
+"f": "i/cbh-NoisebringerGoliath.png",
+"h": 44,
+"w": 36
+},
+"Calamity Bard & Healer|Oath of Sacrifice": {
+"f": "i/cbh-OathofSacrifice.png",
+"h": 64,
+"w": 21
+},
+"Calamity Bard & Healer|Old Duke's Wisdom": {
+"f": "i/cbh-OldDukesWisdom.png",
+"h": 56,
+"w": 42
+},
+"Calamity Bard & Healer|Omni-Speaker": {
+"f": "i/cbh-OmniSpeaker.png",
+"h": 50,
+"w": 46
+},
+"Calamity Bard & Healer|Omnicide's Law": {
+"f": "i/cbh-OmnicidesLaw.png",
+"h": 64,
+"w": 58
+},
+"Calamity Bard & Healer|Phoenician Beak": {
+"f": "i/cbh-PhoenicianBeak.png",
+"h": 64,
+"w": 46
+},
+"Calamity Bard & Healer|Pledge of Selflessness": {
+"f": "i/cbh-PledgeofSelflessness.png",
+"h": 42,
+"w": 36
+},
+"Calamity Bard & Healer|Purgatorium Pandemonium": {
+"f": "i/cbh-PurgatoriumPandemonium.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|S-TSL: Electric Quarterstaff": {
+"f": "i/cbh-ElectricQuarterstaff.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|S.A.R.S.": {
+"f": "i/cbh-SARS.png",
+"h": 57,
+"w": 64
+},
+"Calamity Bard & Healer|School Nurse": {
+"f": "i/cbh-SchoolNurse.png",
+"h": 52,
+"w": 52
+},
+"Calamity Bard & Healer|Silva Guardian's Helmet": {
+"f": "i/cbh-SilvaGuardianHelmet.png",
+"h": 24,
+"w": 28
+},
+"Calamity Bard & Healer|Singularity": {
+"f": "i/cbh-Singularity.png",
+"h": 64,
+"w": 40
+},
+"Calamity Bard & Healer|Slag Fury's Intent": {
+"f": "i/cbh-SlagFurysIntent.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Song of the Ancients": {
+"f": "i/cbh-SongoftheAncients.png",
+"h": 22,
+"w": 64
+},
+"Calamity Bard & Healer|Song of the Cosmos": {
+"f": "i/cbh-SongoftheCosmos.png",
+"h": 26,
+"w": 64
+},
+"Calamity Bard & Healer|Song of the Elements": {
+"f": "i/cbh-SongoftheElements.png",
+"h": 24,
+"w": 64
+},
+"Calamity Bard & Healer|Soul Splicer": {
+"f": "i/cbh-SoulSplicer.png",
+"h": 52,
+"w": 64
+},
+"Calamity Bard & Healer|Spooky Month": {
+"f": "i/cbh-SpookyMonth.png",
+"h": 35,
+"w": 64
+},
+"Calamity Bard & Healer|Star Cluster": {
+"f": "i/cbh-StarCluster.png",
+"h": 36,
+"w": 58
+},
+"Calamity Bard & Healer|Supercluster": {
+"f": "i/cbh-Supercluster.png",
+"h": 28,
+"w": 64
+},
+"Calamity Bard & Healer|Symphonic Fabrications": {
+"f": "i/cbh-SymphonicFabrications.png",
+"h": 39,
+"w": 64
+},
+"Calamity Bard & Healer|Syzygy": {
+"f": "i/cbh-Syzygy.png",
+"h": 59,
+"w": 64
+},
+"Calamity Bard & Healer|Tarragon Chapeau": {
+"f": "i/cbh-TarragonChapeau.png",
+"h": 20,
+"w": 28
+},
+"Calamity Bard & Healer|Tarragon Paragon Crown": {
+"f": "i/cbh-TarragonParagonCrown.png",
+"h": 28,
+"w": 24
+},
+"Calamity Bard & Healer|Tectonic Plates": {
+"f": "i/cbh-TectonicPlates.png",
+"h": 26,
+"w": 56
+},
+"Calamity Bard & Healer|Tidal Force": {
+"f": "i/cbh-TidalForce.png",
+"h": 64,
+"w": 36
+},
+"Calamity Bard & Healer|Times Old Roman": {
+"f": "i/cbh-TimesOldRoman.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Transfiguration": {
+"f": "i/cbh-Transfiguration.png",
+"h": 60,
+"w": 64
+},
+"Calamity Bard & Healer|Tree Whisperer Amulet": {
+"f": "i/cbh-TreeWhispererAmulet.png",
+"h": 46,
+"w": 46
+},
+"Calamity Bard & Healer|Tree Whisperer's Harp": {
+"f": "i/cbh-TreeWhisperersHarp.png",
+"h": 64,
+"w": 41
+},
+"Calamity Bard & Healer|Trinity": {
+"f": "i/cbh-Trinity.png",
+"h": 62,
+"w": 64
+},
+"Calamity Bard & Healer|Will of the Ragnarök": {
+"f": "i/cbh-WilloftheRagnarok.png",
+"h": 64,
+"w": 64
+},
+"Calamity Bard & Healer|Yharim's Jam": {
+"f": "i/cbh-YharimsJam.png",
+"h": 44,
+"w": 38
+},
+"Calamity Ranger Expansion|Chewing Gun": {
+"f": "i/cra-ChewingGun.png",
+"h": 36,
+"w": 54
+},
+"Calamity Ranger Expansion|Plaguenade Launcher": {
+"f": "i/cra-PlaguenadeLauncher.png",
+"h": 30,
+"w": 64
+},
+"Calamity Ranger Expansion|Spectre Rifle": {
+"f": "i/cra-SpectreRifle.png",
+"h": 22,
+"w": 64
+},
+"Calamity Whip Addon|Actias Aliena": {
+"f": "i/cwa-ActiasAliena.png",
+"h": 54,
+"w": 58
+},
+"Calamity Whip Addon|Aurelian Sanctum": {
+"f": "i/cwa-AurelianSanctum.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Butterfly Effect": {
+"f": "i/cwa-ButterflyEffect.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Chorus of Execration": {
+"f": "i/cwa-ChorusofExecration.png",
+"h": 60,
+"w": 64
+},
+"Calamity Whip Addon|Crack of the Universe": {
+"f": "i/cwa-CrackoftheUniverse.png",
+"h": 49,
+"w": 64
+},
+"Calamity Whip Addon|Destruction Chain": {
+"f": "i/cwa-DestructionChain.png",
+"h": 42,
+"w": 48
+},
+"Calamity Whip Addon|Ectopia": {
+"f": "i/cwa-Ectopia.png",
+"h": 60,
+"w": 60
+},
+"Calamity Whip Addon|Eta Carinae": {
+"f": "i/cwa-EtaCarinae.png",
+"h": 63,
+"w": 64
+},
+"Calamity Whip Addon|Existence Bonds": {
+"f": "i/cwa-ExistenceBonds.png",
+"h": 64,
+"w": 54
+},
+"Calamity Whip Addon|Gilded Reliquary": {
+"f": "i/cwa-GildedReliquary.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Glitter Gutter": {
+"f": "i/cwa-GlitterGutter.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Gloamshard Conduit": {
+"f": "i/cwa-GloamshardConduit.png",
+"h": 52,
+"w": 64
+},
+"Calamity Whip Addon|Gold Rush": {
+"f": "i/cwa-GoldRush.png",
+"h": 62,
+"w": 62
+},
+"Calamity Whip Addon|Kusari Gama": {
+"f": "i/cwa-KusariGama.png",
+"h": 32,
+"w": 40
+},
+"Calamity Whip Addon|Loadout": {
+"f": "i/cwa-Loadout.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Mass of Wailing": {
+"f": "i/cwa-MassofWailing.png",
+"h": 58,
+"w": 56
+},
+"Calamity Whip Addon|Mechanical Arm": {
+"f": "i/cwa-MechanicalArm.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Mermaid's Tear": {
+"f": "i/cwa-MermaidsTear.png",
+"h": 64,
+"w": 62
+},
+"Calamity Whip Addon|Milkyway": {
+"f": "i/cwa-Milkyway.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Necropsia": {
+"f": "i/cwa-Necropsia.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Night Butterfly": {
+"f": "i/cwa-NightButterfly.png",
+"h": 46,
+"w": 48
+},
+"Calamity Whip Addon|Phase Scourge": {
+"f": "i/cwa-OrangePhaseScourge.png",
+"h": 48,
+"w": 48
+},
+"Calamity Whip Addon|Primal Bonds": {
+"f": "i/cwa-PrimalBonds.png",
+"h": 64,
+"w": 62
+},
+"Calamity Whip Addon|Resonant Void": {
+"f": "i/cwa-ResonantVoid.png",
+"h": 62,
+"w": 64
+},
+"Calamity Whip Addon|Rubellus": {
+"f": "i/cwa-Rubellus.png",
+"h": 61,
+"w": 64
+},
+"Calamity Whip Addon|Shield Conduit Mk-II": {
+"f": "i/cwa-ShieldConduitMkII.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Shield Conduit Mk-III": {
+"f": "i/cwa-ShieldConduitMkIII.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Shield Conduit Mk-IV": {
+"f": "i/cwa-ShieldConduitMkIV.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Shield Conduit Mk-V": {
+"f": "i/cwa-ShieldConduitMkV.png",
+"h": 64,
+"w": 64
+},
+"Calamity Whip Addon|Skybreaker Coil": {
+"f": "i/cwa-SkybreakerCoil.png",
+"h": 64,
+"w": 61
+},
+"Calamity Whip Addon|Unfathomable": {
+"f": "i/cwa-Unfathomable.png",
+"h": 40,
+"w": 48
+},
+"Catalyst|Astragelgun": {
+"f": "i/cat-Astragelgun.png",
+"h": 24,
+"w": 64
+},
+"Catalyst|Astralpod Staff": {
+"f": "i/cat-AstralpodStaff.png",
+"h": 64,
+"w": 64
+},
+"Catalyst|Blossom's Blessing": {
+"f": "i/cat-BlossomsBlessing.png",
+"h": 52,
+"w": 42
+},
+"Catalyst|Breath of Glacies": {
+"f": "i/cat-BreathofGlacies.png",
+"h": 22,
+"w": 64
+},
+"Catalyst|Exalted Horizon": {
+"f": "i/cat-ExaltedHorizon.png",
+"h": 46,
+"w": 40
+},
+"Catalyst|Interstellar Volution": {
+"f": "i/cat-InterstellarVolution.png",
+"h": 64,
+"w": 60
+},
+"Catalyst|Plasmilegion": {
+"f": "i/cat-Plasmilegion.png",
+"h": 21,
+"w": 64
+},
+"Catalyst|Repentance": {
+"f": "i/cat-Repentance.png",
+"h": 20,
+"w": 64
+},
+"Catalyst|Resonant Striker": {
+"f": "i/cat-ResonantStriker.png",
+"h": 45,
+"w": 64
+},
+"Catalyst|Rook of Anarchy": {
+"f": "i/cat-RookOfVengeance.png",
+"h": 26,
+"w": 64
+},
+"Catalyst|Sandstone Reins": {
+"f": "i/cat-SandstoneReigns.png",
+"h": 36,
+"w": 40
+},
+"Catalyst|Underbite": {
+"f": "i/cat-UnderBite.png",
+"h": 44,
+"w": 32
+},
+"Catalyst|Unrelenting Torment": {
+"f": "i/cat-UnrelentingTorment.png",
+"h": 58,
+"w": 40
+},
+"Catalyst|Voltaic Firestorm": {
+"f": "i/cat-StaticInferno.png",
+"h": 23,
+"w": 64
+},
+"Clamity|Auric Kunai": {
+"f": "i/clm-AuricKunai.png",
+"h": 46,
+"w": 22
+},
+"Clamity|Ethereal Knives": {
+"f": "i/clm-EtherealKnives.png",
+"h": 52,
+"w": 52
+},
+"Clamity|Exo Ball": {
+"f": "i/clm-ExoBall.png",
+"h": 24,
+"w": 24
+},
+"Clamity|Hell`s Bells": {
+"f": "i/clm-HellsBells.png",
+"h": 42,
+"w": 42
+},
+"Clamity|Molten Piercer": {
+"f": "i/clm-MoltenPiercer.png",
+"h": 32,
+"w": 32
+},
+"Clamity|Obsidigun": {
+"f": "i/clm-Obsidigun.png",
+"h": 28,
+"w": 64
+},
+"Clamity|Planterror Staff": {
+"f": "i/clm-PlanterrorStaff.png",
+"h": 50,
+"w": 48
+},
+"Clamity|Rose Bow": {
+"f": "i/clm-RoseBow.png",
+"h": 64,
+"w": 30
+},
+"Clamity|Starfish from the Depth": {
+"f": "i/clm-StarfishFromTheDepth.png",
+"h": 52,
+"w": 48
+},
+"Clamity|Subzero Slicer": {
+"f": "i/clm-SubzeroSlicer.png",
+"h": 63,
+"w": 64
+},
+"Clamity|The Generator": {
+"f": "i/clm-TheGenerator.png",
+"h": 46,
+"w": 40
+},
+"Clamity|Unicron": {
+"f": "i/clm-Unicron.png",
+"h": 28,
+"w": 64
+},
+"Clamity|Wither Stormbow": {
+"f": "i/clm-WitheredBoneBow.png",
+"h": 64,
+"w": 34
+},
+"Consolaria|Ancient Phantasmal set": {
+"f": "i/con-AncientPhantasmalHeadgear.png",
+"h": 20,
+"w": 22
+},
+"Consolaria|Ancient Seraphim set": {
+"f": "i/con-OldSeraphimHelmet.png",
+"h": 20,
+"w": 22
+},
+"Consolaria|Ancient Siren set": {
+"f": "i/con-OldSirenHelmet.png",
+"h": 24,
+"w": 22
+},
+"Consolaria|Ancient Titan set": {
+"f": "i/con-AncientTitanHelmet.png",
+"h": 24,
+"w": 23
+},
+"Consolaria|Ancient Warlock set": {
+"f": "i/con-AncientWarlockHood.png",
+"h": 24,
+"w": 30
+},
+"Consolaria|Dragon's Breath": {
+"f": "i/con-DragonBreath.png",
+"h": 32,
+"w": 64
+},
+"Consolaria|Eternity Staff": {
+"f": "i/con-EternityStaff.png",
+"h": 34,
+"w": 34
+},
+"Consolaria|Eye of Ocram": {
+"f": "i/con-OcramsEye.png",
+"h": 34,
+"w": 34
+},
+"Consolaria|Jade Seal": {
+"f": "i/con-JadeSeal.png",
+"h": 54,
+"w": 54
+},
+"Consolaria|Phantasmal set": {
+"f": "i/con-PhantasmalHeadgear.png",
+"h": 28,
+"w": 24
+},
+"Consolaria|Seraphim set": {
+"f": "i/con-SeraphimHelmet.png",
+"h": 26,
+"w": 28
+},
+"Consolaria|Siren set": {
+"f": "i/con-SirenHelmet.png",
+"h": 28,
+"w": 30
+},
+"Consolaria|Titan set": {
+"f": "i/con-TitanHelmet.png",
+"h": 28,
+"w": 22
+},
+"Consolaria|Vulcan Repeater": {
+"f": "i/con-VolcanicRepeater.png",
+"h": 20,
+"w": 54
+},
+"Consolaria|Warlock set": {
+"f": "i/con-WarlockHood.png",
+"h": 30,
+"w": 34
+},
+"Hunt of the Old God|Anti-Mass Accumulator": {
+"f": "i/hunt-AntiMassAccumulator.png",
+"h": 27,
+"w": 64
+},
+"Hunt of the Old God|Crystal Gauntlets": {
+"f": "i/hunt-CrystalGauntlets.png",
+"h": 54,
+"w": 46
+},
+"Hunt of the Old God|Goomoire": {
+"f": "i/hunt-Goomoire.png",
+"h": 48,
+"w": 40
+},
+"Hunt of the Old God|Slime Cane": {
+"f": "i/hunt-SlimeCane.png",
+"h": 64,
+"w": 41
+},
+"Hunt of the Old God|Sludge Shaker": {
+"f": "i/hunt-SludgeShaker.png",
+"h": 42,
+"w": 64
+},
+"Hunt of the Old God|Trailblazer": {
+"f": "i/hunt-Trailblazer.png",
+"h": 27,
+"w": 64
+},
+"Infernal Arsenal|AirPod Shawty": {
+"f": "i/ars-AirPodShawty.png",
+"h": 14,
+"w": 64
+},
+"Infernal Arsenal|Arckane Staff": {
+"f": "i/ars-ArckaneStaff.png",
+"h": 64,
+"w": 62
+},
+"Infernal Arsenal|Ballad of Bells": {
+"f": "i/ars-BellBallad.png",
+"h": 32,
+"w": 32
+},
+"Infernal Arsenal|Barren Garden": {
+"f": "i/ars-BarrenGarden.png",
+"h": 54,
+"w": 54
+},
+"Infernal Arsenal|Birb Call": {
+"f": "i/ars-BirbSaxophone.png",
+"h": 40,
+"w": 38
+},
+"Infernal Arsenal|Bottle of Souls": {
+"f": "i/ars-BottleOfSouls.png",
+"h": 26,
+"w": 18
+},
+"Infernal Arsenal|Brimstone Harp": {
+"f": "i/ars-BrimstoneHarp.png",
+"h": 32,
+"w": 28
+},
+"Infernal Arsenal|C-GSS Gamma Knife": {
+"f": "i/ars-GammaKnife.png",
+"h": 55,
+"w": 64
+},
+"Infernal Arsenal|C-PMA Ripper": {
+"f": "i/ars-NeonRipper.png",
+"h": 64,
+"w": 59
+},
+"Infernal Arsenal|Corroded Cane": {
+"f": "i/ars-CorrodedCane.png",
+"h": 46,
+"w": 22
+},
+"Infernal Arsenal|Dagger of the Forgotten": {
+"f": "i/ars-OcramKnife.png",
+"h": 36,
+"w": 32
+},
+"Infernal Arsenal|Death's Whisper": {
+"f": "i/ars-DeathsWhisper.png",
+"h": 44,
+"w": 62
+},
+"Infernal Arsenal|Eclipse set": {
+"f": "i/ars-EclipseHelm.png",
+"h": 28,
+"w": 34
+},
+"Infernal Arsenal|Exorcist's Greatblade": {
+"f": "i/ars-ExecutionersSword.png",
+"h": 64,
+"w": 64
+},
+"Infernal Arsenal|Forever Hungry": {
+"f": "i/ars-ForeverHungry.png",
+"h": 48,
+"w": 46
+},
+"Infernal Arsenal|Froststeel Gong": {
+"f": "i/ars-FroststeelGong.png",
+"h": 52,
+"w": 44
+},
+"Infernal Arsenal|God's Pitch": {
+"f": "i/ars-GodsPitch.png",
+"h": 38,
+"w": 36
+},
+"Infernal Arsenal|I-LSR Infrariff": {
+"f": "i/ars-Infrariff.png",
+"h": 64,
+"w": 64
+},
+"Infernal Arsenal|I-PLS Ocarina": {
+"f": "i/ars-PlasmaOcarina.png",
+"h": 26,
+"w": 32
+},
+"Infernal Arsenal|I-PMA Mechamatone": {
+"f": "i/ars-PocketConcert.png",
+"h": 46,
+"w": 34
+},
+"Infernal Arsenal|Intercontinental Ballistic Whistle": {
+"f": "i/ars-NukeWhistle.png",
+"h": 18,
+"w": 22
+},
+"Infernal Arsenal|List of the Damned": {
+"f": "i/ars-ListoftheDamned.png",
+"h": 58,
+"w": 46
+},
+"Infernal Arsenal|Luminant Tether": {
+"f": "i/ars-LightChain.png",
+"h": 48,
+"w": 48
+},
+"Infernal Arsenal|Miniaturized Requiem Engine": {
+"f": "i/ars-MiniaturizedRequiemEngine.png",
+"h": 27,
+"w": 64
+},
+"Infernal Arsenal|Mystick Staff": {
+"f": "i/ars-MystickStaff.png",
+"h": 60,
+"w": 64
+},
+"Infernal Arsenal|Necrosinger set": {
+"f": "i/ars-NecrosingerSkull.png",
+"h": 28,
+"w": 24
+},
+"Infernal Arsenal|Necrotic Chorus": {
+"f": "i/ars-NecroticChorus.png",
+"h": 36,
+"w": 40
+},
+"Infernal Arsenal|Ocram's Roar": {
+"f": "i/ars-Legacy.png",
+"h": 34,
+"w": 62
+},
+"Infernal Arsenal|Planet Shaper": {
+"f": "i/ars-PlanetShaper.png",
+"h": 64,
+"w": 44
+},
+"Infernal Arsenal|Restored Deep Sea Drawl": {
+"f": "i/ars-RestoredDeepSeaDrawl.png",
+"h": 36,
+"w": 48
+},
+"Infernal Arsenal|Star Scepter": {
+"f": "i/ars-StarScepter.png",
+"h": 44,
+"w": 44
+},
+"Infernal Arsenal|Starwind Flute": {
+"f": "i/ars-DeusFlute.png",
+"h": 30,
+"w": 58
+},
+"Infernal Arsenal|Stormbreaker Crossbow": {
+"f": "i/ars-StormCrossbow.png",
+"h": 22,
+"w": 50
+},
+"Infernal Arsenal|Sulphuric Shanty": {
+"f": "i/ars-SulphuricShanty.png",
+"h": 50,
+"w": 50
+},
+"Infernal Arsenal|Sword of a Thousand Truths": {
+"f": "i/ars-SwordofaThousandTruths.png",
+"h": 64,
+"w": 64
+},
+"Infernal Arsenal|The Blight": {
+"f": "i/ars-TheBlight.png",
+"h": 64,
+"w": 55
+},
+"Infernal Arsenal|The Parallel": {
+"f": "i/ars-TheParallel.png",
+"h": 46,
+"w": 44
+},
+"Infernal Arsenal|Thunderbolt Action Sniper Rifle": {
+"f": "i/ars-ThunderboltActionSniperVoid.png",
+"h": 18,
+"w": 64
+},
+"Infernal Arsenal|Two Paths": {
+"f": "i/ars-TwoPaths.png",
+"h": 58,
+"w": 64
+},
+"Infernal Arsenal|Viral Wisdom": {
+"f": "i/ars-DukeSynth.png",
+"h": 28,
+"w": 28
+},
+"Infernal Eclipse|.454 Casull and The Jackal": {
+"f": "i/ie-The454CasullandTheJackal.png",
+"h": 44,
+"w": 46
+},
+"Infernal Eclipse|Exo Disintegrator": {
+"f": "i/ie-ExoDisintegrator.png",
+"h": 43,
+"w": 64
+},
+"Infernal Eclipse|Nebula Gigabeam": {
+"f": "i/ie-NebulaGigabeam.png",
+"h": 32,
+"w": 64
+},
+"Infernal Eclipse|Nova Bomb": {
+"f": "i/ie-NovaBomb.png",
+"h": 64,
+"w": 64
+},
+"Infernum|Arid Battlecry": {
+"f": "i/inf-AridBattlecry.png",
+"h": 30,
+"w": 36
+},
+"Infernum|Dreamtastic": {
+"f": "i/inf-Dreamtastic.png",
+"h": 58,
+"w": 52
+},
+"Infernum|Eye of Madness": {
+"f": "i/inf-EyeOfMadness.png",
+"h": 48,
+"w": 46
+},
+"Infernum|Illusioner's Reverie": {
+"f": "i/inf-IllusionersReverie.png",
+"h": 42,
+"w": 58
+},
+"Infernum|Perditus": {
+"f": "i/inf-Perditus.png",
+"h": 42,
+"w": 44
+},
+"Infernum|The Glassmaker": {
+"f": "i/inf-TheGlassmaker.png",
+"h": 28,
+"w": 64
+},
+"Infernum|Wanderer's Shell": {
+"f": "i/inf-WanderersShell.png",
+"h": 36,
+"w": 36
+},
+"Permanent|Arcane Crystal": {
+"f": "i/v-ArcaneCrystal.png",
+"h": 30,
+"w": 26
+},
+"Permanent|Inspiration Fragment": {
+"f": "i/tho-InspirationFragment.png",
+"h": 26,
+"w": 20
+},
+"Permanent|Inspiration Gem": {
+"f": "i/tho-InspirationGem.png",
+"h": 40,
+"w": 20
+},
+"Permanent|Mana Crystal": {
+"f": "i/v-ManaCrystal.png",
+"h": 24,
+"w": 22
+},
+"Ragnarok|Anahita's Arpeggio": {
+"f": "i/cal-AnahitasArpeggio.png",
+"h": 52,
+"w": 52
+},
+"Ragnarok|Aphelion": {
+"f": "i/rag-Aphelion.png",
+"h": 64,
+"w": 51
+},
+"Ragnarok|Arpeggiator": {
+"f": "i/rag-Arpeggiator.png",
+"h": 26,
+"w": 50
+},
+"Ragnarok|Asterion": {
+"f": "i/rag-Asterion.png",
+"h": 64,
+"w": 58
+},
+"Ragnarok|Astral Ripper": {
+"f": "i/rag-AstralRipper.png",
+"h": 64,
+"w": 63
+},
+"Ragnarok|Auric Damru": {
+"f": "i/rag-AuricDamru.png",
+"h": 36,
+"w": 40
+},
+"Ragnarok|Auric Greatscythe": {
+"f": "i/rag-AuricGreatscythe.png",
+"h": 59,
+"w": 64
+},
+"Ragnarok|Auric Tesla Frilled Helmet": {
+"f": "i/rag-AuricTeslaFrilledHelmet.png",
+"h": 22,
+"w": 26
+},
+"Ragnarok|Auric Tesla Irradiant Visage": {
+"f": "i/rag-AuricTeslaHealerHead.png",
+"h": 22,
+"w": 28
+},
+"Ragnarok|Belching Saxophone": {
+"f": "i/cal-BelchingSaxophone.png",
+"h": 44,
+"w": 40
+},
+"Ragnarok|Bloodflare Grim Visage": {
+"f": "i/rag-BloodflareHeadHealer.png",
+"h": 18,
+"w": 30
+},
+"Ragnarok|Bloodflare Spiked Helmet": {
+"f": "i/rag-BloodflareHeadBard.png",
+"h": 24,
+"w": 24
+},
+"Ragnarok|Brimscythe": {
+"f": "i/rag-BrimScythe.png",
+"h": 64,
+"w": 56
+},
+"Ragnarok|Calamity Bell": {
+"f": "i/rag-CalamityBell.png",
+"h": 40,
+"w": 40
+},
+"Ragnarok|Cosmic Injector": {
+"f": "i/rag-CosmicInjector.png",
+"h": 26,
+"w": 64
+},
+"Ragnarok|Daedalus Headgear": {
+"f": "i/rag-DaedalusHeadBard.png",
+"h": 18,
+"w": 22
+},
+"Ragnarok|Daedalus Visage": {
+"f": "i/rag-DaedalusHeadHealer.png",
+"h": 20,
+"w": 20
+},
+"Ragnarok|Devourer of Sines": {
+"f": "i/rag-DevourerOfSines.png",
+"h": 47,
+"w": 64
+},
+"Ragnarok|Dragon Force": {
+"f": "i/rag-DragonForce.png",
+"h": 64,
+"w": 60
+},
+"Ragnarok|Drum Stick": {
+"f": "i/rag-DrumStick.png",
+"h": 48,
+"w": 48
+},
+"Ragnarok|Ectambourine": {
+"f": "i/rag-Ectambourine.png",
+"h": 40,
+"w": 38
+},
+"Ragnarok|Elemental Reaper": {
+"f": "i/rag-ElementalReaper.png",
+"h": 64,
+"w": 42
+},
+"Ragnarok|Elysian Song": {
+"f": "i/rag-ElysianSong.png",
+"h": 38,
+"w": 64
+},
+"Ragnarok|Emblazoned Drum Stick": {
+"f": "i/rag-BlazingDrumBeat.png",
+"h": 64,
+"w": 60
+},
+"Ragnarok|Face Melter": {
+"f": "i/cal-FaceMelter.png",
+"h": 56,
+"w": 50
+},
+"Ragnarok|Glacial Harvester": {
+"f": "i/rag-GlacialHarvester.png",
+"h": 54,
+"w": 54
+},
+"Ragnarok|God Slayer's Reap": {
+"f": "i/rag-GodSlayersReap.png",
+"h": 64,
+"w": 50
+},
+"Ragnarok|Grasp of Void": {
+"f": "i/rag-GraspofVoid.png",
+"h": 58,
+"w": 44
+},
+"Ragnarok|Intergelactic Ramhelm": {
+"f": "i/rag-IntergelacticRamhelm.png",
+"h": 20,
+"w": 26
+},
+"Ragnarok|Intergelactic Robohelm": {
+"f": "i/rag-IntergelacticRobohelm.png",
+"h": 20,
+"w": 24
+},
+"Ragnarok|Irradiant Infinity": {
+"f": "i/rag-IrradiantInfinity.png",
+"h": 20,
+"w": 22
+},
+"Ragnarok|Korobeiniki": {
+"f": "i/rag-Korobeiniki.png",
+"h": 16,
+"w": 34
+},
+"Ragnarok|Lamentation": {
+"f": "i/rag-Lamentation.png",
+"h": 64,
+"w": 64
+},
+"Ragnarok|Leviathan Heart": {
+"f": "i/rag-LeviathanHeart.png",
+"h": 36,
+"w": 32
+},
+"Ragnarok|Lucent Gemini": {
+"f": "i/rag-LucentGemini.png",
+"h": 64,
+"w": 57
+},
+"Ragnarok|Nightfallen set": {
+"f": "i/rag-NightfallenHelmet.png",
+"h": 26,
+"w": 24
+},
+"Ragnarok|Nightmare Freezer": {
+"f": "i/rag-NightmareFreezer.png",
+"h": 55,
+"w": 64
+},
+"Ragnarok|Phantasmal Edge": {
+"f": "i/rag-PhantasmalEdge.png",
+"h": 64,
+"w": 61
+},
+"Ragnarok|Profaned Bell": {
+"f": "i/rag-ProfanedBell.png",
+"h": 58,
+"w": 58
+},
+"Ragnarok|Profaned Scythe": {
+"f": "i/rag-ProfanedScythe.png",
+"h": 64,
+"w": 55
+},
+"Ragnarok|Profanity Filter": {
+"f": "i/rag-ProfanityFilter.png",
+"h": 16,
+"w": 36
+},
+"Ragnarok|Radio Mic": {
+"f": "i/rag-RadioMic.png",
+"h": 40,
+"w": 44
+},
+"Ragnarok|Redglass Monocle": {
+"f": "i/rag-RedglassMonocle.png",
+"h": 28,
+"w": 28
+},
+"Ragnarok|Scoria Dualscythe": {
+"f": "i/rag-ScoriaDualscythe.png",
+"h": 64,
+"w": 63
+},
+"Ragnarok|Sigil of a Cruel World": {
+"f": "i/rag-SigilOfACruelWorld.png",
+"h": 32,
+"w": 24
+},
+"Ragnarok|Silva Wreathed Helmet": {
+"f": "i/rag-SilvaHeadHealer.png",
+"h": 20,
+"w": 22
+},
+"Ragnarok|Siren Scale": {
+"f": "i/rag-SirenScale.png",
+"h": 40,
+"w": 42
+},
+"Ragnarok|Splattercannon": {
+"f": "i/rag-Splattercannon.png",
+"h": 40,
+"w": 60
+},
+"Ragnarok|Steampipes": {
+"f": "i/rag-Steampipes.png",
+"h": 50,
+"w": 56
+},
+"Ragnarok|Stellar Riff": {
+"f": "i/rag-StellarRiff.png",
+"h": 64,
+"w": 56
+},
+"Ragnarok|Tarragon Cowl": {
+"f": "i/rag-TarragonCowl.png",
+"h": 18,
+"w": 24
+},
+"Ragnarok|Tarragon Shroud": {
+"f": "i/rag-TarragonShroud.png",
+"h": 30,
+"w": 24
+},
+"Ragnarok|The Executioner: Mark 05": {
+"f": "i/rag-ExecutionerMark05.png",
+"h": 64,
+"w": 57
+},
+"Ragnarok|Toxic Waves": {
+"f": "i/rag-ToxicWaves.png",
+"h": 63,
+"w": 64
+},
+"Ragnarok|Unbreakable Combat Ukulele": {
+"f": "i/rag-UnbreakableCombatUkulele.png",
+"h": 60,
+"w": 60
+},
+"Ragnarok|Universal Headset": {
+"f": "i/rag-UniversalHeadset.png",
+"h": 36,
+"w": 28
+},
+"Ragnarok|Verdurant Bloom": {
+"f": "i/rag-VerdurantBloom.png",
+"h": 42,
+"w": 34
+},
+"Ragnarok|Virusprayer": {
+"f": "i/rag-Virusprayer.png",
+"h": 40,
+"w": 56
+},
+"SOTS Bard & Healer|4-Dimensional Tuner": {
+"f": "i/sbh-TesseractTuner.png",
+"h": 42,
+"w": 22
+},
+"SOTS Bard & Healer|Abso-Lute": {
+"f": "i/sbh-AbsoLute.png",
+"h": 60,
+"w": 60
+},
+"SOTS Bard & Healer|Bladed Snowflake": {
+"f": "i/sbh-BladedSnowflake.png",
+"h": 64,
+"w": 61
+},
+"SOTS Bard & Healer|Hypersonic Tuner": {
+"f": "i/sbh-HypersonicTuner.png",
+"h": 48,
+"w": 22
+},
+"SOTS Bard & Healer|Infrasonic Tuner": {
+"f": "i/sbh-InfrasonicTuner.png",
+"h": 44,
+"w": 22
+},
+"SOTS Bard & Healer|Phase Karambit": {
+"f": "i/sbh-PhaseKarambit.png",
+"h": 58,
+"w": 22
+},
+"SOTS Bard & Healer|Ring of Rest": {
+"f": "i/sbh-RingofRest.png",
+"h": 40,
+"w": 22
+},
+"SOTS Bard & Healer|Serpent Charmer of Sage": {
+"f": "i/sbh-SerpentCharmerofSage.png",
+"h": 17,
+"w": 64
+},
+"SOTS Bard & Healer|Serpent Fang Scythe": {
+"f": "i/sbh-SerpentFangScythe.png",
+"h": 64,
+"w": 42
+},
+"SOTS Bard & Healer|Serpent's Tongue": {
+"f": "i/sbh-SerpentsTongue.png",
+"h": 34,
+"w": 34
+},
+"SOTS Bard & Healer|Serpentbite": {
+"f": "i/sbh-Serpentbite.png",
+"h": 64,
+"w": 64
+},
+"SOTS Bard & Healer|Turbo Slicer": {
+"f": "i/sbh-TurboSlicer.png",
+"h": 53,
+"w": 64
+},
+"SOTS Bard & Healer|Twilight Ascendance": {
+"f": "i/sbh-TwilightAscendance.png",
+"h": 64,
+"w": 64
+},
+"SOTS Bard & Healer|Ultrasonic Bass Booster": {
+"f": "i/sbh-UltrasonicBassBooster.png",
+"h": 25,
+"w": 64
+},
+"Secrets of the Shadows|Accretion Disc": {
+"f": "i/sots-AccretionDisc.png",
+"h": 52,
+"w": 48
+},
+"Secrets of the Shadows|Apocalypse": {
+"f": "i/sots-Apocalypse.png",
+"h": 30,
+"w": 30
+},
+"Secrets of the Shadows|Azure Bombardment": {
+"f": "i/sots-ShardstormSpell.png",
+"h": 42,
+"w": 38
+},
+"Secrets of the Shadows|Biomass Bloom": {
+"f": "i/sots-BiomassBarrage.png",
+"h": 60,
+"w": 54
+},
+"Secrets of the Shadows|Blaspha": {
+"f": "i/sots-TheBlaspha.png",
+"h": 24,
+"w": 64
+},
+"Secrets of the Shadows|Brachial Lance": {
+"f": "i/sots-BrachialLance.png",
+"h": 64,
+"w": 63
+},
+"Secrets of the Shadows|Cataclysm Spheres": {
+"f": "i/sots-CataclysmSpheres.png",
+"h": 30,
+"w": 26
+},
+"Secrets of the Shadows|Chaos Chamber": {
+"f": "i/sots-ChaosChamber.png",
+"h": 26,
+"w": 48
+},
+"Secrets of the Shadows|Chaos Spirit Staff": {
+"f": "i/sots-ChaosSpiritStaff.png",
+"h": 38,
+"w": 38
+},
+"Secrets of the Shadows|Compound Bow": {
+"f": "i/sots-PBow.png",
+"h": 64,
+"w": 20
+},
+"Secrets of the Shadows|Continuum Collapse": {
+"f": "i/sots-ContinuumCollapse.png",
+"h": 26,
+"w": 26
+},
+"Secrets of the Shadows|Cruise Caller": {
+"f": "i/sots-CruiseCaller.png",
+"h": 42,
+"w": 34
+},
+"Secrets of the Shadows|Dance of Death": {
+"f": "i/sots-DanceOfDeath.png",
+"h": 44,
+"w": 42
+},
+"Secrets of the Shadows|Doomstick": {
+"f": "i/sots-Doomstick.png",
+"h": 20,
+"w": 58
+},
+"Secrets of the Shadows|Ethereal Scepter": {
+"f": "i/sots-EtherealScepter.png",
+"h": 64,
+"w": 57
+},
+"Secrets of the Shadows|Evil Spirit Staff": {
+"f": "i/sots-EvilSpiritStaff.png",
+"h": 42,
+"w": 40
+},
+"Secrets of the Shadows|Green Jellyfish Staff": {
+"f": "i/sots-GreenJellyfishStaff.png",
+"h": 38,
+"w": 38
+},
+"Secrets of the Shadows|Hyperice Cluster Cannon": {
+"f": "i/sots-HypericeClusterCannon.png",
+"h": 24,
+"w": 64
+},
+"Secrets of the Shadows|Hyperlight Geyser": {
+"f": "i/sots-HyperlightGeyser.png",
+"h": 28,
+"w": 64
+},
+"Secrets of the Shadows|Icicle Impale": {
+"f": "i/sots-IcicleImpale.png",
+"h": 25,
+"w": 64
+},
+"Secrets of the Shadows|Incinerator Glove": {
+"f": "i/sots-IncineratorGlove.png",
+"h": 30,
+"w": 34
+},
+"Secrets of the Shadows|Inferno Spirit Staff": {
+"f": "i/sots-InfernoSpiritStaff.png",
+"h": 52,
+"w": 38
+},
+"Secrets of the Shadows|Lemegeton": {
+"f": "i/sots-Lemegeton.png",
+"h": 40,
+"w": 30
+},
+"Secrets of the Shadows|Pathogen Regurgitator": {
+"f": "i/sots-PathogenRegurgitator.png",
+"h": 34,
+"w": 58
+},
+"Secrets of the Shadows|Phase Cannon": {
+"f": "i/sots-PhaseCannon.png",
+"h": 26,
+"w": 52
+},
+"Secrets of the Shadows|Plasma Accelerator": {
+"f": "i/sots-PlasmaAccelerator.png",
+"h": 64,
+"w": 28
+},
+"Secrets of the Shadows|Purple Jellyfish Staff": {
+"f": "i/sots-PurpleJellyfishStaff.png",
+"h": 36,
+"w": 36
+},
+"Secrets of the Shadows|Rebar Rifle": {
+"f": "i/sots-RebarRifle.png",
+"h": 18,
+"w": 64
+},
+"Secrets of the Shadows|Revolution": {
+"f": "i/sots-Revolution.png",
+"h": 64,
+"w": 64
+},
+"Secrets of the Shadows|Rose Bow": {
+"f": "i/sots-RoseBow.png",
+"h": 64,
+"w": 23
+},
+"Secrets of the Shadows|Spectre Spirit Storm": {
+"f": "i/sots-SpectreSpiritStorm.png",
+"h": 64,
+"w": 35
+},
+"Secrets of the Shadows|Starcaller Staff": {
+"f": "i/sots-StarcallerStaff.png",
+"h": 48,
+"w": 54
+},
+"Secrets of the Shadows|Stellar Serpent Launcher": {
+"f": "i/sots-StellarSerpentLauncher.png",
+"h": 21,
+"w": 64
+},
+"Secrets of the Shadows|Stellar Shot": {
+"f": "i/sots-StellarShot.png",
+"h": 21,
+"w": 64
+},
+"Secrets of the Shadows|Street Cleaner": {
+"f": "i/sots-StreetCleaner.png",
+"h": 18,
+"w": 64
+},
+"Secrets of the Shadows|Supernova Scatter": {
+"f": "i/sots-SupernovaScatter.png",
+"h": 31,
+"w": 64
+},
+"Secrets of the Shadows|Supernova Storm": {
+"f": "i/sots-SupernovaStorm.png",
+"h": 52,
+"w": 40
+},
+"Secrets of the Shadows|Tangle Staff": {
+"f": "i/sots-TangleStaff.png",
+"h": 60,
+"w": 64
+},
+"Secrets of the Shadows|Thundershock Shortbow": {
+"f": "i/sots-ThundershockShortbow.png",
+"h": 62,
+"w": 30
+},
+"Secrets of the Shadows|Tidal Spirit Staff": {
+"f": "i/sots-TidalSpiritStaff.png",
+"h": 44,
+"w": 34
+},
+"Secrets of the Shadows|Tome of the Reaper": {
+"f": "i/sots-TomeOfTheReaper.png",
+"h": 44,
+"w": 42
+},
+"Secrets of the Shadows|Torch Gun Mk2": {
+"f": "i/sots-TorchGunMk2.png",
+"h": 33,
+"w": 64
+},
+"Secrets of the Shadows|Train Gun": {
+"f": "i/sots-Traingun.png",
+"h": 44,
+"w": 64
+},
+"Secrets of the Shadows|Voidspace Aura Staff": {
+"f": "i/sots-VoidspaceAuraStaff.png",
+"h": 40,
+"w": 44
+},
+"Thorium Bosses Reworked|Biter of Souls": {
+"f": "i/trw-BiterofSouls.png",
+"h": 26,
+"w": 26
+},
+"Thorium Bosses Reworked|Chiron's Cure": {
+"f": "i/trw-ChironsCure.png",
+"h": 50,
+"w": 50
+},
+"Thorium Bosses Reworked|Deep Sea Odyssey": {
+"f": "i/trw-Shellxophone.png",
+"h": 52,
+"w": 46
+},
+"Thorium Bosses Reworked|Duke Fish": {
+"f": "i/trw-DukeFish.png",
+"h": 38,
+"w": 38
+},
+"Thorium Bosses Reworked|Eater Piper": {
+"f": "i/trw-EaterPiper.png",
+"h": 14,
+"w": 54
+},
+"Thorium Bosses Reworked|Fan Donations": {
+"f": "i/trw-FanDonations.png",
+"h": 43,
+"w": 64
+},
+"Thorium Bosses Reworked|Flute of Curses": {
+"f": "i/trw-FluteofCurses.png",
+"h": 20,
+"w": 48
+},
+"Thorium Bosses Reworked|Flying Flute": {
+"f": "i/trw-FlyingFlute.png",
+"h": 24,
+"w": 52
+},
+"Thorium Bosses Reworked|Handheld Rocket": {
+"f": "i/trw-HandheldRocket.png",
+"h": 30,
+"w": 30
+},
+"Thorium Bosses Reworked|Heart of the Beholder": {
+"f": "i/trw-BeholderHeart.png",
+"h": 30,
+"w": 34
+},
+"Thorium Bosses Reworked|King Trumpet": {
+"f": "i/trw-KingTrumpet.png",
+"h": 32,
+"w": 50
+},
+"Thorium Bosses Reworked|Lodestone Magnet Mace": {
+"f": "i/trw-LodeStoneMagnetMace.png",
+"h": 28,
+"w": 36
+},
+"Thorium Bosses Reworked|Sealed Contract": {
+"f": "i/trw-SealedContract.png",
+"h": 24,
+"w": 34
+},
+"Thorium Bosses Reworked|Shoulder Blade": {
+"f": "i/trw-ShoulderBlade.png",
+"h": 28,
+"w": 30
+},
+"Thorium Bosses Reworked|Soul Snatcher": {
+"f": "i/trw-SoulSnatcher.png",
+"h": 64,
+"w": 53
+},
+"Thorium Bosses Reworked|Soul of Helheim": {
+"f": "i/trw-HelheimSoul.png",
+"h": 64,
+"w": 55
+},
+"Thorium Bosses Reworked|Spitting Shroom Staff": {
+"f": "i/trw-SpittingShroomStaff.png",
+"h": 36,
+"w": 36
+},
+"Thorium Bosses Reworked|Terrarium Soul Scourge": {
+"f": "i/trw-TerrariumSoulScourge.png",
+"h": 34,
+"w": 46
+},
+"Thorium Bosses Reworked|Titan Hat": {
+"f": "i/trw-TitanHat.png",
+"h": 34,
+"w": 40
+},
+"Thorium Bosses Reworked|Titan Visage": {
+"f": "i/trw-TitanVisage.png",
+"h": 26,
+"w": 24
+},
+"Thorium Bosses Reworked|Titan armor with the Titan Hood": {
+"f": "i/trw-TitanHood.png",
+"h": 26,
+"w": 26
+},
+"Thorium Bosses Reworked|Titan armor with the Titan Visor": {
+"f": "i/trw-TitanVisor.png",
+"h": 26,
+"w": 26
+},
+"Thorium Bosses Reworked|Valadium Heavy Scythe": {
+"f": "i/trw-ValadiumHeavyScythe.png",
+"h": 64,
+"w": 37
+},
+"Thorium Bosses Reworked|Valkyrien Sky Stone": {
+"f": "i/trw-ValkyrienSkyStone.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Adamantite Carbine": {
+"f": "i/tho-AdamantiteCarbine.png",
+"h": 24,
+"w": 64
+},
+"Thorium|Adamantite Ricochet": {
+"f": "i/tho-AdamantiteGlaive.png",
+"h": 30,
+"w": 30
+},
+"Thorium|Adamantite Staff": {
+"f": "i/tho-AdamantiteStaff.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Aeon Staff": {
+"f": "i/tho-AeonStaff.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Almanac of Agony": {
+"f": "i/tho-AlmanacofAgony.png",
+"h": 34,
+"w": 32
+},
+"Thorium|Ancient Flame": {
+"f": "i/tho-AncientFlame.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Ancient Frost": {
+"f": "i/tho-AncientFrost.png",
+"h": 56,
+"w": 56
+},
+"Thorium|Ancient Light": {
+"f": "i/tho-AncientLight.png",
+"h": 34,
+"w": 34
+},
+"Thorium|Ancient Spark": {
+"f": "i/tho-AncientSpark.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Angel's End": {
+"f": "i/tho-AngelsEnd.png",
+"h": 64,
+"w": 64
+},
+"Thorium|Archangel's Heart": {
+"f": "i/tho-ArchangelHeart.png",
+"h": 34,
+"w": 38
+},
+"Thorium|Archdemon's Curse": {
+"f": "i/tho-ArchDemonCurse.png",
+"h": 34,
+"w": 38
+},
+"Thorium|Armor Bane": {
+"f": "i/tho-ArmorBane.png",
+"h": 32,
+"w": 64
+},
+"Thorium|Ascension Statuette": {
+"f": "i/tho-AscensionStatuette.png",
+"h": 42,
+"w": 28
+},
+"Thorium|Assassin's set": {
+"f": "i/tho-AssassinsWalkers.png",
+"h": 18,
+"w": 22
+},
+"Thorium|Aura Staff": {
+"f": "i/tho-AuraStaff.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Auto Tuner": {
+"f": "i/tho-AutoTuner.png",
+"h": 28,
+"w": 42
+},
+"Thorium|Axe Blade": {
+"f": "i/tho-AxeBlade.png",
+"h": 34,
+"w": 30
+},
+"Thorium|Bard Emblem": {
+"f": "i/tho-BardEmblem.png",
+"h": 28,
+"w": 28
+},
+"Thorium|Barrier Generator": {
+"f": "i/tho-BarrierGenerator.png",
+"h": 64,
+"w": 64
+},
+"Thorium|Bass Booster": {
+"f": "i/tho-BassBooster.png",
+"h": 31,
+"w": 64
+},
+"Thorium|Beetle Blaster": {
+"f": "i/tho-BeetleBlaster.png",
+"h": 34,
+"w": 52
+},
+"Thorium|Beholder Staff": {
+"f": "i/tho-BeholderStaff.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Biotech set": {
+"f": "i/tho-BioTechHood.png",
+"h": 24,
+"w": 24
+},
+"Thorium|Blackhole Cannon": {
+"f": "i/tho-BlackholeCannon.png",
+"h": 26,
+"w": 64
+},
+"Thorium|Blob-horn Coral Staff": {
+"f": "i/tho-BlobhornCoralStaff.png",
+"h": 46,
+"w": 42
+},
+"Thorium|Blood Belcher": {
+"f": "i/tho-BloodBelcher.png",
+"h": 25,
+"w": 64
+},
+"Thorium|Blood Clot Staff": {
+"f": "i/tho-BloodClotStaff.png",
+"h": 42,
+"w": 40
+},
+"Thorium|Bloody Pagan Staff": {
+"f": "i/tho-BloodyPaganStaff.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Borean Fang Staff": {
+"f": "i/tho-BoreanFangStaff.png",
+"h": 60,
+"w": 60
+},
+"Thorium|Bow of Light": {
+"f": "i/tho-BowofLight.png",
+"h": 64,
+"w": 33
+},
+"Thorium|Brinefang": {
+"f": "i/tho-Brinefang.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Bubble-Bulwark Wand": {
+"f": "i/tho-BubbleBulwarkWand.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Bud Bomb": {
+"f": "i/tho-BudBomb.png",
+"h": 26,
+"w": 18
+},
+"Thorium|Buffalo Launcher": {
+"f": "i/tho-BuffaloLauncher.png",
+"h": 26,
+"w": 60
+},
+"Thorium|Bullet Storm": {
+"f": "i/tho-BulletStorm.png",
+"h": 31,
+"w": 64
+},
+"Thorium|Captain's Poignard": {
+"f": "i/tho-CaptainsPoniard.png",
+"h": 30,
+"w": 30
+},
+"Thorium|Carnwennan": {
+"f": "i/tho-Carnwennan.png",
+"h": 30,
+"w": 30
+},
+"Thorium|Cat's Eye Great Staff": {
+"f": "i/tho-CatsEyeGreatStaff.png",
+"h": 60,
+"w": 60
+},
+"Thorium|Celestial Carrier": {
+"f": "i/tho-CelestialCarrier.png",
+"h": 34,
+"w": 30
+},
+"Thorium|Celestial Wand": {
+"f": "i/tho-CelestialWand.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Celestial set": {
+"f": "i/tho-CelestialCrown.png",
+"h": 24,
+"w": 22
+},
+"Thorium|Cell Reconstructor": {
+"f": "i/tho-CellReconstructor.png",
+"h": 38,
+"w": 38
+},
+"Thorium|Charged Splasher": {
+"f": "i/tho-ChargedSplasher.png",
+"h": 28,
+"w": 60
+},
+"Thorium|Charon's Beacon": {
+"f": "i/tho-CharonsBeacon.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Chi Lantern": {
+"f": "i/tho-ChiLantern.png",
+"h": 48,
+"w": 58
+},
+"Thorium|Chlorophyte Staff": {
+"f": "i/tho-ChlorophyteStaff.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Chromatic Fury": {
+"f": "i/tho-ChromaticFury.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Chum": {
+"f": "i/tho-Chum.png",
+"h": 20,
+"w": 22
+},
+"Thorium|Cinder String": {
+"f": "i/tho-CinderString.png",
+"h": 64,
+"w": 39
+},
+"Thorium|Cleric Emblem": {
+"f": "i/tho-ClericEmblem.png",
+"h": 28,
+"w": 28
+},
+"Thorium|Clockwork Bomb": {
+"f": "i/tho-ClockWorkBomb.png",
+"h": 28,
+"w": 28
+},
+"Thorium|Cobalt Revolver": {
+"f": "i/tho-CobaltRevolver.png",
+"h": 22,
+"w": 32
+},
+"Thorium|Cobalt Staff": {
+"f": "i/tho-CobaltStaff.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Cobalt Throwing Spear": {
+"f": "i/tho-CobaltThrowingSpear.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Comet Crossfire": {
+"f": "i/tho-CometCrossfire.png",
+"h": 50,
+"w": 30
+},
+"Thorium|Conductor's Baton": {
+"f": "i/tho-ConductorsBaton.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Corrodling Staff": {
+"f": "i/tho-CorrodlingStaff.png",
+"h": 38,
+"w": 38
+},
+"Thorium|Corruptling Staff": {
+"f": "i/tho-CorruptlingStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Cosmic Dagger": {
+"f": "i/tho-CosmicDagger.png",
+"h": 38,
+"w": 14
+},
+"Thorium|Crimson Hound Staff": {
+"f": "i/tho-CrimsonHoundStaff.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Cryomancer's set": {
+"f": "i/tho-CryomancersCrown.png",
+"h": 16,
+"w": 22
+},
+"Thorium|Cryotherapy": {
+"f": "i/tho-Cryotherapy.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Crystal Wish": {
+"f": "i/tho-CrystalWish.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Cupid's String": {
+"f": "i/tho-CupidString.png",
+"h": 50,
+"w": 26
+},
+"Thorium|Cyber Punk set": {
+"f": "i/tho-CyberPunkHeadset.png",
+"h": 28,
+"w": 26
+},
+"Thorium|Cyclone": {
+"f": "i/tho-Cyclone.png",
+"h": 30,
+"w": 28
+},
+"Thorium|DMR": {
+"f": "i/tho-DMR.png",
+"h": 21,
+"w": 64
+},
+"Thorium|Dark Effigy": {
+"f": "i/tho-DarkEffigy.png",
+"h": 42,
+"w": 24
+},
+"Thorium|Dark Flame": {
+"f": "i/tho-DarkFlame.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Dark Glaze": {
+"f": "i/tho-DarkGlaze.png",
+"h": 22,
+"w": 24
+},
+"Thorium|Dark Grip": {
+"f": "i/tho-DarkGrip.png",
+"h": 52,
+"w": 48
+},
+"Thorium|Dark Intent": {
+"f": "i/tho-DarkIntent.png",
+"h": 26,
+"w": 14
+},
+"Thorium|Decaying Sorrow": {
+"f": "i/tho-DecayingSorrow.png",
+"h": 48,
+"w": 30
+},
+"Thorium|Defender's Wand": {
+"f": "i/tho-DefenderWand.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Deity's Trefork": {
+"f": "i/tho-DeitysTrefork.png",
+"h": 62,
+"w": 62
+},
+"Thorium|Demon Blood Bow": {
+"f": "i/tho-DemonBloodBow.png",
+"h": 58,
+"w": 22
+},
+"Thorium|Demon Blood Crossbow": {
+"f": "i/tho-DemonBloodCrossBow.png",
+"h": 32,
+"w": 60
+},
+"Thorium|Demon Blood Staff": {
+"f": "i/tho-DemonBloodStaff.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Demon Tongue": {
+"f": "i/tho-DemonTongue.png",
+"h": 22,
+"w": 30
+},
+"Thorium|Destroyer's Rage": {
+"f": "i/tho-DestroyersRage.png",
+"h": 54,
+"w": 40
+},
+"Thorium|Devil Dagger": {
+"f": "i/tho-DevilDagger.png",
+"h": 30,
+"w": 14
+},
+"Thorium|Devil's Claw": {
+"f": "i/tho-DevilsClaw.png",
+"h": 36,
+"w": 40
+},
+"Thorium|Digital Tuner": {
+"f": "i/tho-DigitalTuner.png",
+"h": 34,
+"w": 34
+},
+"Thorium|Diss Track": {
+"f": "i/tho-DissTrack.png",
+"h": 28,
+"w": 34
+},
+"Thorium|Divine Lotus": {
+"f": "i/tho-DivineLotus.png",
+"h": 26,
+"w": 30
+},
+"Thorium|Divine Staff": {
+"f": "i/tho-DivineStaff.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Dragon Fang": {
+"f": "i/tho-DragonFang.png",
+"h": 38,
+"w": 38
+},
+"Thorium|Dragon Heart Wand": {
+"f": "i/tho-DragonHeartWand.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Dragon's Breath": {
+"f": "i/tho-DragonsBreath.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Dragon's Gaze": {
+"f": "i/tho-DragonsGaze.png",
+"h": 20,
+"w": 64
+},
+"Thorium|Dread Blaster": {
+"f": "i/tho-DreadBlaster.png",
+"h": 24,
+"w": 56
+},
+"Thorium|Dread Launcher": {
+"f": "i/tho-DreadLauncher.png",
+"h": 24,
+"w": 56
+},
+"Thorium|Dream Catcher": {
+"f": "i/tho-DreamCatcher.png",
+"h": 62,
+"w": 62
+},
+"Thorium|Dream Megaphone": {
+"f": "i/tho-DreamMegaphone.png",
+"h": 30,
+"w": 38
+},
+"Thorium|Dream Weaver's set": {
+"f": "i/tho-DreamWeaversHelmet.png",
+"h": 30,
+"w": 26
+},
+"Thorium|Durasteel Repeater": {
+"f": "i/tho-DurasteelRepeater.png",
+"h": 24,
+"w": 54
+},
+"Thorium|Durasteel Throwing Spear": {
+"f": "i/tho-DurasteelThrowingSpear.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Dutchman's Avarice": {
+"f": "i/tho-DutchmansAvarice.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Dynasty War Fan": {
+"f": "i/tho-DynastyWarFan.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Electro-Rebounder": {
+"f": "i/tho-ElectroRebounder.png",
+"h": 18,
+"w": 46
+},
+"Thorium|Ember Staff": {
+"f": "i/tho-EmberStaff.png",
+"h": 62,
+"w": 62
+},
+"Thorium|Emperor's Will": {
+"f": "i/tho-EmperorsWill.png",
+"h": 30,
+"w": 54
+},
+"Thorium|Epic Mouthpiece": {
+"f": "i/tho-EpicMouthpiece.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Equalizer": {
+"f": "i/tho-Equalizer.png",
+"h": 34,
+"w": 30
+},
+"Thorium|Erupting Flare": {
+"f": "i/tho-EruptingFlare.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Eviscerating Claw": {
+"f": "i/tho-EvisceratingClaw.png",
+"h": 28,
+"w": 14
+},
+"Thorium|Eye of Odin": {
+"f": "i/tho-EyeofOdin.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Fallen Paladin's set": {
+"f": "i/tho-FallenPaladinFaceguard.png",
+"h": 20,
+"w": 24
+},
+"Thorium|Fire Axe": {
+"f": "i/tho-FireAxe.png",
+"h": 30,
+"w": 38
+},
+"Thorium|Flan Platter": {
+"f": "i/tho-FlanPlatter.png",
+"h": 26,
+"w": 38
+},
+"Thorium|Flesh Bow": {
+"f": "i/tho-FleshBow.png",
+"h": 54,
+"w": 22
+},
+"Thorium|Forgotten Cross Necklace": {
+"f": "i/tho-ForgottenCrossNecklace.png",
+"h": 38,
+"w": 26
+},
+"Thorium|Freeze Ray": {
+"f": "i/tho-FreezeRay.png",
+"h": 24,
+"w": 64
+},
+"Thorium|Frost Plague Staff": {
+"f": "i/tho-FrostPlagueStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Full Score": {
+"f": "i/tho-FullScore.png",
+"h": 38,
+"w": 32
+},
+"Thorium|Fungal Cane": {
+"f": "i/tho-FungalCane.png",
+"h": 38,
+"w": 38
+},
+"Thorium|Fungal Popper": {
+"f": "i/tho-FungalPopper.png",
+"h": 30,
+"w": 14
+},
+"Thorium|Geomancer's Brush": {
+"f": "i/tho-GeomancersBrush.png",
+"h": 42,
+"w": 38
+},
+"Thorium|Glacial Sting": {
+"f": "i/tho-GlacialSting.png",
+"h": 60,
+"w": 26
+},
+"Thorium|Glittering Scepter": {
+"f": "i/tho-GlitteringScepter.png",
+"h": 62,
+"w": 60
+},
+"Thorium|God Killer": {
+"f": "i/tho-GodKiller.png",
+"h": 36,
+"w": 64
+},
+"Thorium|Guitar Pick Claw": {
+"f": "i/tho-GuitarPickClaw.png",
+"h": 24,
+"w": 30
+},
+"Thorium|Hadron Collider": {
+"f": "i/tho-HadronCollider.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Hail Bomber": {
+"f": "i/tho-HailBomber.png",
+"h": 48,
+"w": 42
+},
+"Thorium|Hallowed Chapeau": {
+"f": "i/tho-HallowedChapeau.png",
+"h": 20,
+"w": 28
+},
+"Thorium|Hallowed Staff": {
+"f": "i/tho-HallowedStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Hallowed armor with the Hallowed Guise": {
+"f": "i/tho-HallowedGuise.png",
+"h": 30,
+"w": 26
+},
+"Thorium|Hand Cannon": {
+"f": "i/tho-HandCannon.png",
+"h": 28,
+"w": 50
+},
+"Thorium|Headset": {
+"f": "i/tho-Headset.png",
+"h": 30,
+"w": 32
+},
+"Thorium|Heart Rate Monitor": {
+"f": "i/tho-HeartRateMonitor.png",
+"h": 26,
+"w": 34
+},
+"Thorium|Heaven's Gate": {
+"f": "i/tho-HeavensGate.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Hell Roller": {
+"f": "i/tho-HellRoller.png",
+"h": 40,
+"w": 40
+},
+"Thorium|Holy Staff": {
+"f": "i/tho-HolyStaff.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Hot Pot": {
+"f": "i/tho-HotPot.png",
+"h": 26,
+"w": 28
+},
+"Thorium|Hydro Pump": {
+"f": "i/tho-HydroPump.png",
+"h": 28,
+"w": 60
+},
+"Thorium|Hydromancer's Catalyst": {
+"f": "i/tho-HydromancerCatalyst.png",
+"h": 26,
+"w": 26
+},
+"Thorium|Ice Fairy Staff": {
+"f": "i/tho-IceFairyStaff.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Icy Gaze": {
+"f": "i/tho-IcyGaze.png",
+"h": 30,
+"w": 24
+},
+"Thorium|Illumite Barrager": {
+"f": "i/tho-IllumiteBarrage.png",
+"h": 24,
+"w": 52
+},
+"Thorium|Illumite Blaster": {
+"f": "i/tho-IllumiteBlaster.png",
+"h": 22,
+"w": 56
+},
+"Thorium|Illumite Shotbow": {
+"f": "i/tho-IllumiteShotbow.png",
+"h": 34,
+"w": 58
+},
+"Thorium|Illumite set": {
+"f": "i/tho-IllumiteMask.png",
+"h": 20,
+"w": 22
+},
+"Thorium|Inspirator's Helmet": {
+"f": "i/tho-InspiratorsHelmet.png",
+"h": 26,
+"w": 26
+},
+"Thorium|Joyeuse": {
+"f": "i/tho-Joyeuse.png",
+"h": 50,
+"w": 52
+},
+"Thorium|Karmic Holder": {
+"f": "i/tho-KarmicHolder.png",
+"h": 32,
+"w": 30
+},
+"Thorium|Kinetic Knife": {
+"f": "i/tho-KineticKnife.png",
+"h": 40,
+"w": 40
+},
+"Thorium|Kunai": {
+"f": "i/tho-Kunai.png",
+"h": 32,
+"w": 14
+},
+"Thorium|Lady's Light": {
+"f": "i/tho-LadyLight.png",
+"h": 38,
+"w": 38
+},
+"Thorium|Launch Jumper": {
+"f": "i/tho-LaunchJumper.png",
+"h": 22,
+"w": 64
+},
+"Thorium|Legion Ornament": {
+"f": "i/tho-LegionOrnament.png",
+"h": 28,
+"w": 18
+},
+"Thorium|Liberation": {
+"f": "i/tho-Liberation.png",
+"h": 60,
+"w": 60
+},
+"Thorium|Life Binder's set": {
+"f": "i/tho-LifeBinderMask.png",
+"h": 24,
+"w": 28
+},
+"Thorium|Life Bloom set": {
+"f": "i/tho-LifeBloomMask.png",
+"h": 28,
+"w": 30
+},
+"Thorium|Life Essence Apparatus": {
+"f": "i/tho-LifeEssenceApparatus.png",
+"h": 46,
+"w": 18
+},
+"Thorium|Life Pulse Staff": {
+"f": "i/tho-LifePulseStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Light-Burst Wand": {
+"f": "i/tho-LightBurstWand.png",
+"h": 42,
+"w": 42
+},
+"Thorium|Lightning Staff": {
+"f": "i/tho-LightningStaff.png",
+"h": 48,
+"w": 44
+},
+"Thorium|Lihzahrd Kunai": {
+"f": "i/tho-LihzahrdKukri.png",
+"h": 46,
+"w": 14
+},
+"Thorium|Little Red": {
+"f": "i/tho-LittleRed.png",
+"h": 30,
+"w": 64
+},
+"Thorium|Lodestone Bow": {
+"f": "i/tho-LodeStoneBow.png",
+"h": 58,
+"w": 24
+},
+"Thorium|Lodestone Javelin": {
+"f": "i/tho-LodestoneJavelin.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Lodestone Slugger": {
+"f": "i/tho-LodestoneSlugger.png",
+"h": 26,
+"w": 44
+},
+"Thorium|Lodestone Staff": {
+"f": "i/tho-LodeStoneStaff.png",
+"h": 42,
+"w": 42
+},
+"Thorium|Maestro's set": {
+"f": "i/tho-MaestroWig.png",
+"h": 18,
+"w": 28
+},
+"Thorium|Marching Band set": {
+"f": "i/tho-MarchingBandShako.png",
+"h": 30,
+"w": 20
+},
+"Thorium|Martyr's Chalice": {
+"f": "i/tho-MartyrChalice.png",
+"h": 34,
+"w": 30
+},
+"Thorium|Master's Libram": {
+"f": "i/tho-MastersLibram.png",
+"h": 26,
+"w": 32
+},
+"Thorium|Micro Launcher": {
+"f": "i/tho-MicroLauncher.png",
+"h": 26,
+"w": 58
+},
+"Thorium|Mineral Launcher": {
+"f": "i/tho-MineralLauncher.png",
+"h": 34,
+"w": 58
+},
+"Thorium|Mist Weaver": {
+"f": "i/tho-MistWeaver.png",
+"h": 58,
+"w": 58
+},
+"Thorium|Molecular Stabilizer": {
+"f": "i/tho-MolecularStabilizer.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Moonlight Staff": {
+"f": "i/tho-MoonlightStaff.png",
+"h": 58,
+"w": 56
+},
+"Thorium|Morel Grenade": {
+"f": "i/tho-MorelGrenade.png",
+"h": 24,
+"w": 20
+},
+"Thorium|Musician's Handbook": {
+"f": "i/tho-MusiciansHandbook.png",
+"h": 32,
+"w": 24
+},
+"Thorium|Mythril Pelter": {
+"f": "i/tho-MythrilPelter.png",
+"h": 22,
+"w": 48
+},
+"Thorium|Mythril Staff": {
+"f": "i/tho-MythrilStaff.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Naga's Recurve": {
+"f": "i/tho-NagaRecurve.png",
+"h": 64,
+"w": 19
+},
+"Thorium|Naga-Skin set": {
+"f": "i/tho-NagaSkinMask.png",
+"h": 24,
+"w": 28
+},
+"Thorium|Nebula's Reflection": {
+"f": "i/tho-NebulaReflection.png",
+"h": 30,
+"w": 30
+},
+"Thorium|Necrotic Staff": {
+"f": "i/tho-NecroticStaff.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Night Staff": {
+"f": "i/tho-NightStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Nirvana Statuette": {
+"f": "i/tho-NirvanaStatuette.png",
+"h": 42,
+"w": 28
+},
+"Thorium|Nova Rifle": {
+"f": "i/tho-NovaRifle.png",
+"h": 25,
+"w": 64
+},
+"Thorium|Null-Zone Staff": {
+"f": "i/tho-NullZoneStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Obliterator": {
+"f": "i/tho-Obliterator.png",
+"h": 20,
+"w": 56
+},
+"Thorium|Ogre Snot-Gun": {
+"f": "i/tho-OgreSnotGun.png",
+"h": 28,
+"w": 64
+},
+"Thorium|Old God's Vision": {
+"f": "i/tho-OldGodsVision.png",
+"h": 42,
+"w": 42
+},
+"Thorium|Omega Blaster": {
+"f": "i/tho-OmegaBlaster.png",
+"h": 23,
+"w": 64
+},
+"Thorium|Omni-Bow": {
+"f": "i/tho-OmniBow.png",
+"h": 64,
+"w": 33
+},
+"Thorium|Omni-Cannon": {
+"f": "i/tho-OmniCannon.png",
+"h": 22,
+"w": 50
+},
+"Thorium|Omniwrench": {
+"f": "i/tho-Omniwrench.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Orichalcum Popper": {
+"f": "i/tho-OrichalcumPopper.png",
+"h": 24,
+"w": 48
+},
+"Thorium|Orichalcum Staff": {
+"f": "i/tho-OrichalcumStaff.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Ornate set": {
+"f": "i/tho-OrnateHat.png",
+"h": 16,
+"w": 24
+},
+"Thorium|P.L.G. 8999": {
+"f": "i/tho-PLG.png",
+"h": 26,
+"w": 54
+},
+"Thorium|Palladium SMG": {
+"f": "i/tho-PalladiumSMG.png",
+"h": 24,
+"w": 34
+},
+"Thorium|Palladium Staff": {
+"f": "i/tho-PalladiumStaff.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Palladium Throwing Spear": {
+"f": "i/tho-PalladiumThrowingSpear.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Phantom Arm Cannon": {
+"f": "i/tho-PhantomArmCannon.png",
+"h": 18,
+"w": 34
+},
+"Thorium|Phantom Wand": {
+"f": "i/tho-PhantomWand.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Pharaoh's Slab": {
+"f": "i/tho-PharaohsSlab.png",
+"h": 42,
+"w": 42
+},
+"Thorium|Plague Doctor's set": {
+"f": "i/tho-PlagueDoctorsMask.png",
+"h": 24,
+"w": 32
+},
+"Thorium|Plasma Staff": {
+"f": "i/tho-PlasmaStaff.png",
+"h": 56,
+"w": 56
+},
+"Thorium|Playing Card": {
+"f": "i/tho-MagicCard.png",
+"h": 24,
+"w": 18
+},
+"Thorium|Pocket Guardian": {
+"f": "i/tho-PocketGuardian.png",
+"h": 32,
+"w": 62
+},
+"Thorium|Prism Staff": {
+"f": "i/tho-PrismStaff.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Promethean Staff": {
+"f": "i/tho-PrometheanStaff.png",
+"h": 58,
+"w": 58
+},
+"Thorium|Proximity Mine": {
+"f": "i/tho-ProximityMine.png",
+"h": 12,
+"w": 22
+},
+"Thorium|Prydwen": {
+"f": "i/tho-Prydwen.png",
+"h": 36,
+"w": 34
+},
+"Thorium|Pyroclast Staff": {
+"f": "i/tho-PyroclastStaff.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Pyromancer's set": {
+"f": "i/tho-PyromancerCowl.png",
+"h": 32,
+"w": 28
+},
+"Thorium|Ra's Whisper": {
+"f": "i/tho-RasWhisper.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Razorlash": {
+"f": "i/tho-Razorlash.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Rebirth Statuette": {
+"f": "i/tho-RebirthStatuette.png",
+"h": 42,
+"w": 28
+},
+"Thorium|Recuperate": {
+"f": "i/tho-Recuperate.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Reject's Blowpipe": {
+"f": "i/tho-RejectsBlowpipe.png",
+"h": 16,
+"w": 64
+},
+"Thorium|Revivify": {
+"f": "i/tho-Revivify.png",
+"h": 42,
+"w": 38
+},
+"Thorium|Rhapsodist's set": {
+"f": "i/tho-RhapsodistChestWoofer.png",
+"h": 22,
+"w": 34
+},
+"Thorium|Rift Tearer": {
+"f": "i/tho-RiftTearer.png",
+"h": 36,
+"w": 38
+},
+"Thorium|Rocket Fist": {
+"f": "i/tho-RocketFist.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Rude Wand": {
+"f": "i/tho-RudeWand.png",
+"h": 56,
+"w": 54
+},
+"Thorium|Sacred Charge": {
+"f": "i/tho-SacredCharge.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Sacred set": {
+"f": "i/tho-SacredHelmet.png",
+"h": 24,
+"w": 26
+},
+"Thorium|Saving Grace": {
+"f": "i/tho-SavingGrace.png",
+"h": 42,
+"w": 30
+},
+"Thorium|Sea Foam Scepter": {
+"f": "i/tho-SeaFoamScepter.png",
+"h": 18,
+"w": 56
+},
+"Thorium|Seraphim Idol": {
+"f": "i/tho-SeraphimIdol.png",
+"h": 32,
+"w": 26
+},
+"Thorium|Serpent's Bubble Wand": {
+"f": "i/tho-SerpentsBubbleWand.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Shade Kunai": {
+"f": "i/tho-ShadeKunai.png",
+"h": 40,
+"w": 14
+},
+"Thorium|Shade Kusarigama": {
+"f": "i/tho-ShadeKusarigama.png",
+"h": 42,
+"w": 44
+},
+"Thorium|Shade Master's set": {
+"f": "i/tho-ShadeMasterMask.png",
+"h": 22,
+"w": 22
+},
+"Thorium|Shade Shuriken": {
+"f": "i/tho-BugenkaiShuriken.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Shadow Orb Staff": {
+"f": "i/tho-ShadowOrbStaff.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Shadow-Flare Bow": {
+"f": "i/tho-ShadowFlareBow.png",
+"h": 62,
+"w": 28
+},
+"Thorium|Shadow-Purge Caltrop": {
+"f": "i/tho-ShadowPurgeCaltrop.png",
+"h": 18,
+"w": 22
+},
+"Thorium|Shadow-Tipped Javelin": {
+"f": "i/tho-ShadowTippedJavelin.png",
+"h": 42,
+"w": 42
+},
+"Thorium|Shockbuster": {
+"f": "i/tho-Shockbuster.png",
+"h": 20,
+"w": 54
+},
+"Thorium|Shooting Star Turbo Tuba": {
+"f": "i/tho-ShootingStarTurboTuba.png",
+"h": 34,
+"w": 26
+},
+"Thorium|Shooting Star set": {
+"f": "i/tho-ShootingStarHat.png",
+"h": 28,
+"w": 32
+},
+"Thorium|Shroomachine Gun": {
+"f": "i/tho-ShroomachineGun.png",
+"h": 32,
+"w": 62
+},
+"Thorium|Shu's Wrath": {
+"f": "i/tho-ShusWrath.png",
+"h": 54,
+"w": 20
+},
+"Thorium|Snack-o'-Lantern": {
+"f": "i/tho-SnackLantern.png",
+"h": 56,
+"w": 56
+},
+"Thorium|Snarky Gun": {
+"f": "i/tho-SnarkyGun.png",
+"h": 26,
+"w": 64
+},
+"Thorium|Snow White": {
+"f": "i/tho-SnowWhite.png",
+"h": 64,
+"w": 64
+},
+"Thorium|Soft Serve Sunderer": {
+"f": "i/tho-SoftServeSunderer.png",
+"h": 36,
+"w": 16
+},
+"Thorium|Soloist's Hat": {
+"f": "i/tho-SoloistHat.png",
+"h": 22,
+"w": 28
+},
+"Thorium|Soul Bomb": {
+"f": "i/tho-SoulBomb.png",
+"h": 24,
+"w": 24
+},
+"Thorium|Soul Cleaver": {
+"f": "i/tho-SoulCleaver.png",
+"h": 42,
+"w": 38
+},
+"Thorium|Soul Guard": {
+"f": "i/tho-SoulGuard.png",
+"h": 30,
+"w": 30
+},
+"Thorium|Soulslasher": {
+"f": "i/tho-Soulslasher.png",
+"h": 38,
+"w": 18
+},
+"Thorium|Spark Taser": {
+"f": "i/tho-SparkTaser.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Spine Buster": {
+"f": "i/tho-SpineBuster.png",
+"h": 18,
+"w": 48
+},
+"Thorium|Spirit Breaker": {
+"f": "i/tho-SpiritBreaker.png",
+"h": 28,
+"w": 64
+},
+"Thorium|Staff of Sol": {
+"f": "i/tho-StaffofSol.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Stalagmite": {
+"f": "i/tho-Stalagmite.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Stalker's Snippers": {
+"f": "i/tho-StalkersSnippers.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Star Eater": {
+"f": "i/tho-StarEater.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Static Prod": {
+"f": "i/tho-StaticProd.png",
+"h": 40,
+"w": 40
+},
+"Thorium|Steamgunner Controller": {
+"f": "i/tho-SteamgunnerController.png",
+"h": 38,
+"w": 44
+},
+"Thorium|Stellar Rod": {
+"f": "i/tho-StellarRod.png",
+"h": 38,
+"w": 38
+},
+"Thorium|Stellar System": {
+"f": "i/tho-StellarSystem.png",
+"h": 46,
+"w": 46
+},
+"Thorium|Straight Mute": {
+"f": "i/tho-StraightMute.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Sunray Staff": {
+"f": "i/tho-SunrayStaff.png",
+"h": 58,
+"w": 56
+},
+"Thorium|Super Plasma Cannon": {
+"f": "i/tho-SuperPlasmaCannon.png",
+"h": 26,
+"w": 50
+},
+"Thorium|Supersonic Bomber": {
+"f": "i/tho-SupersonicBomber.png",
+"h": 20,
+"w": 52
+},
+"Thorium|Swamp Rot": {
+"f": "i/tho-SwampSpike.png",
+"h": 48,
+"w": 48
+},
+"Thorium|Teleologic Imposition": {
+"f": "i/tho-TeleologicImposition.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Terra Knife": {
+"f": "i/tho-TerraKnife.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Terrarium Bomber": {
+"f": "i/tho-TerrariumBomber.png",
+"h": 20,
+"w": 64
+},
+"Thorium|Terrarium Enigma Staff": {
+"f": "i/tho-TerrariumEnigmaStaff.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Terrarium Longbow": {
+"f": "i/tho-TerrariumLongbow.png",
+"h": 64,
+"w": 27
+},
+"Thorium|Terrarium Pulse Rifle": {
+"f": "i/tho-TerrariumPulseRifle.png",
+"h": 28,
+"w": 62
+},
+"Thorium|Terrarium Ripple Knife": {
+"f": "i/tho-TerrariumRippleKnife.png",
+"h": 40,
+"w": 40
+},
+"Thorium|Terrarium Sage Staff": {
+"f": "i/tho-TerrariumSageStaff.png",
+"h": 64,
+"w": 64
+},
+"Thorium|Terrarium Surround Sound": {
+"f": "i/tho-TerrariumSurroundSound.png",
+"h": 40,
+"w": 36
+},
+"Thorium|Tesla Defibrillator": {
+"f": "i/tho-TeslaDefibrillator.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Teslanator": {
+"f": "i/tho-Teslanator.png",
+"h": 21,
+"w": 64
+},
+"Thorium|The Black Bow": {
+"f": "i/tho-TheBlackBow.png",
+"h": 54,
+"w": 36
+},
+"Thorium|The Black Cane": {
+"f": "i/tho-TheBlackCane.png",
+"h": 50,
+"w": 50
+},
+"Thorium|The Black Dagger": {
+"f": "i/tho-TheBlackDagger.png",
+"h": 36,
+"w": 36
+},
+"Thorium|The Black Staff": {
+"f": "i/tho-TheBlackStaff.png",
+"h": 50,
+"w": 50
+},
+"Thorium|The Cryo-Fang": {
+"f": "i/tho-TheCryoFang.png",
+"h": 56,
+"w": 56
+},
+"Thorium|The Incubator": {
+"f": "i/tho-TheIncubator.png",
+"h": 46,
+"w": 48
+},
+"Thorium|The Javelin": {
+"f": "i/tho-TheJavelin.png",
+"h": 30,
+"w": 58
+},
+"Thorium|The Massacre": {
+"f": "i/tho-TheMassacre.png",
+"h": 40,
+"w": 56
+},
+"Thorium|Tidal Wave": {
+"f": "i/tho-TidalWave.png",
+"h": 60,
+"w": 60
+},
+"Thorium|Time Gate": {
+"f": "i/tho-TimeGate.png",
+"h": 30,
+"w": 28
+},
+"Thorium|Titan Bow": {
+"f": "i/tho-TitanBow.png",
+"h": 54,
+"w": 24
+},
+"Thorium|Titan Javelin": {
+"f": "i/tho-TitanJavelin.png",
+"h": 62,
+"w": 62
+},
+"Thorium|Titan armor with the Titan Headgear": {
+"f": "i/tho-TitanHeadgear.png",
+"h": 24,
+"w": 26
+},
+"Thorium|Titan armor with the Titan Mask": {
+"f": "i/tho-TitanMask.png",
+"h": 24,
+"w": 26
+},
+"Thorium|Titanium Ricochet": {
+"f": "i/tho-TitaniumGlaive.png",
+"h": 34,
+"w": 34
+},
+"Thorium|Titanium Rifle": {
+"f": "i/tho-TitaniumRifle.png",
+"h": 24,
+"w": 64
+},
+"Thorium|Titanium Staff": {
+"f": "i/tho-TitaniumStaff.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Tommy Gun": {
+"f": "i/tho-TommyGun.png",
+"h": 22,
+"w": 56
+},
+"Thorium|Tranquilizer Gun": {
+"f": "i/tho-TranquilizerGun.png",
+"h": 27,
+"w": 64
+},
+"Thorium|Trench Spitter": {
+"f": "i/tho-TrenchSpitter.png",
+"h": 22,
+"w": 62
+},
+"Thorium|Trigun": {
+"f": "i/tho-Trigun.png",
+"h": 28,
+"w": 46
+},
+"Thorium|True Carnwennan": {
+"f": "i/tho-TrueCarnwennan.png",
+"h": 34,
+"w": 34
+},
+"Thorium|True Embowelment": {
+"f": "i/tho-TrueEmbowelment.png",
+"h": 38,
+"w": 38
+},
+"Thorium|True Light's Anguish": {
+"f": "i/tho-TrueLightAnguish.png",
+"h": 36,
+"w": 36
+},
+"Thorium|Turn Undead": {
+"f": "i/tho-TurnUndead.png",
+"h": 30,
+"w": 30
+},
+"Thorium|Twin's Ire": {
+"f": "i/tho-TwinsIre.png",
+"h": 60,
+"w": 60
+},
+"Thorium|Twinkle": {
+"f": "i/tho-Twinkle.png",
+"h": 26,
+"w": 26
+},
+"Thorium|Umbra Blaster": {
+"f": "i/tho-UmbraBlaster.png",
+"h": 30,
+"w": 64
+},
+"Thorium|Unbound Fantasy": {
+"f": "i/tho-UnboundFantasy.png",
+"h": 58,
+"w": 58
+},
+"Thorium|Useless Staff": {
+"f": "i/tho-UselessStaff.png",
+"h": 44,
+"w": 44
+},
+"Thorium|Valadium Blaster": {
+"f": "i/tho-ValadiumBlaster.png",
+"h": 30,
+"w": 62
+},
+"Thorium|Valadium Bow": {
+"f": "i/tho-ValadiumBow.png",
+"h": 64,
+"w": 23
+},
+"Thorium|Valadium Staff": {
+"f": "i/tho-ValadiumStaff.png",
+"h": 56,
+"w": 56
+},
+"Thorium|Valhalla's Descent": {
+"f": "i/tho-ValhallasDescent.png",
+"h": 50,
+"w": 50
+},
+"Thorium|Valkyrie Blade": {
+"f": "i/tho-ValkyrieBlade.png",
+"h": 60,
+"w": 62
+},
+"Thorium|Vega Phaser": {
+"f": "i/tho-VegaPhaser.png",
+"h": 20,
+"w": 62
+},
+"Thorium|Venom Kunai": {
+"f": "i/tho-VenomKunai.png",
+"h": 32,
+"w": 14
+},
+"Thorium|Verdant Ornament": {
+"f": "i/tho-VerdantOrnament.png",
+"h": 46,
+"w": 34
+},
+"Thorium|Vile Spitter": {
+"f": "i/tho-VileSpitter.png",
+"h": 54,
+"w": 54
+},
+"Thorium|Void Lance": {
+"f": "i/tho-VoidLance.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Void Planter": {
+"f": "i/tho-VoidPlanter.png",
+"h": 52,
+"w": 52
+},
+"Thorium|Volt Hatchet": {
+"f": "i/tho-VoltHatchet.png",
+"h": 30,
+"w": 36
+},
+"Thorium|Volt Module": {
+"f": "i/tho-VoltModule.png",
+"h": 44,
+"w": 42
+},
+"Thorium|Warlock set": {
+"f": "i/tho-WarlockHood.png",
+"h": 20,
+"w": 22
+},
+"Thorium|Whispering Dagger": {
+"f": "i/tho-WhisperingDagger.png",
+"h": 64,
+"w": 21
+},
+"Thorium|Whispering set": {
+"f": "i/tho-WhisperingHood.png",
+"h": 30,
+"w": 26
+},
+"Thorium|White Dwarf Cutter": {
+"f": "i/tho-WhiteDwarfKunai.png",
+"h": 44,
+"w": 18
+},
+"Thorium|White Dwarf set": {
+"f": "i/tho-WhiteDwarfMask.png",
+"h": 20,
+"w": 22
+},
+"Thorium|White Knight set": {
+"f": "i/tho-WhiteKnightMask.png",
+"h": 28,
+"w": 34
+},
+"Thorium|Witchblade": {
+"f": "i/tho-Witchblade.png",
+"h": 32,
+"w": 32
+},
+"Thorium|Wither Staff": {
+"f": "i/tho-WitherStaff.png",
+"h": 62,
+"w": 60
+},
+"Thorium|Wondrous Wand": {
+"f": "i/tho-WondrousWand.png",
+"h": 42,
+"w": 42
+},
+"Thorium|Wyrm Decimator": {
+"f": "i/tho-WyrmDecimator.png",
+"h": 28,
+"w": 64
+},
+"|24-Carat Tuba": {
+"f": "i/tho-TwentyFourCaratTuba.png",
+"h": 64,
+"w": 40
+},
+"|Abyss Blade": {
+"f": "i/cal-AbyssBlade.png",
+"h": 64,
+"w": 64
+},
+"|Abyssal Mirror": {
+"f": "i/cal-AbyssalMirror.png",
+"h": 38,
+"w": 30
+},
+"|Abyssal Tome": {
+"f": "i/cal-AbyssalTome.png",
+"h": 40,
+"w": 34
+},
+"|Ace's High": {
+"f": "i/cal-AcesHigh.png",
+"h": 28,
+"w": 48
+},
+"|Acid Belcher": {
+"f": "i/sots-PlagueSpitter.png",
+"h": 36,
+"w": 26
+},
+"|Acorn Bag": {
+"f": "i/sots-AcornBag.png",
+"h": 36,
+"w": 30
+},
+"|Acoustic Guitar": {
+"f": "i/tho-AcousticGuitar.png",
+"h": 56,
+"w": 56
+},
+"|Adamantite Klaxon": {
+"f": "i/tho-AdamantiteKlaxon.png",
+"h": 30,
+"w": 64
+},
+"|Adamantite Throwing Axe": {
+"f": "i/cal-AdamantiteThrowingAxe.png",
+"h": 40,
+"w": 30
+},
+"|Adamantite armor": {
+"f": "i/v-AdamantiteHeadgear.png",
+"h": 24,
+"w": 26
+},
+"|Aegis Blade": {
+"f": "i/cal-AegisBlade.png",
+"h": 64,
+"w": 64
+},
+"|Aerial Bane": {
+"f": "i/v-DD2BetsyBow.png",
+"h": 58,
+"w": 28
+},
+"|Aerospec armor": {
+"f": "i/cal-AerospecHeadSummon.png",
+"h": 20,
+"w": 22
+},
+"|Aestheticus": {
+"f": "i/cal-Aestheticus.png",
+"h": 58,
+"w": 58
+},
+"|Aetherflux Cannon": {
+"f": "i/cal-AetherfluxCannon.png",
+"h": 37,
+"w": 64
+},
+"|Alchemical Decanter": {
+"f": "i/cal-AlchemicalDecanter.png",
+"h": 24,
+"w": 24
+},
+"|Alchemist's Charm": {
+"f": "i/sots-AlchemistsCharm.png",
+"h": 60,
+"w": 38
+},
+"|Ale": {
+"f": "i/v-Ale.png",
+"h": 18,
+"w": 18
+},
+"|Alula Australis": {
+"f": "i/cal-AlulaAustralis.png",
+"h": 58,
+"w": 58
+},
+"|Amalgamated Brain": {
+"f": "i/cal-AmalgamatedBrain.png",
+"h": 38,
+"w": 34
+},
+"|Amber Ring": {
+"f": "i/tho-AmberRing.png",
+"h": 18,
+"w": 26
+},
+"|Ambrosial Ampoule": {
+"f": "i/cal-AmbrosialAmpoule.png",
+"h": 40,
+"w": 34
+},
+"|Amethyst Ring": {
+"f": "i/tho-AmethystRing.png",
+"h": 16,
+"w": 26
+},
+"|Ammo Box": {
+"f": "i/v-AmmoBox.png",
+"h": 32,
+"w": 32
+},
+"|Ammo Reservation Potion": {
+"f": "i/v-AmmoReservationPotion.png",
+"h": 30,
+"w": 16
+},
+"|Ancient Harp": {
+"f": "i/sbh-AncientHarp.png",
+"h": 58,
+"w": 32
+},
+"|Ancient Ice Chunk": {
+"f": "i/cal-AncientIceChunk.png",
+"h": 46,
+"w": 38
+},
+"|Ancient Steel Lantern": {
+"f": "i/sots-AncientSteelLantern.png",
+"h": 52,
+"w": 30
+},
+"|Angel Treads": {
+"f": "i/cal-AngelTreads.png",
+"h": 36,
+"w": 32
+},
+"|Angel Wings": {
+"f": "i/v-AngelWings.png",
+"h": 26,
+"w": 24
+},
+"|Angelic Alliance": {
+"f": "i/cal-AngelicAlliance.png",
+"h": 64,
+"w": 39
+},
+"|Angelic Shotgun": {
+"f": "i/cal-AngelicShotgun.png",
+"h": 28,
+"w": 64
+},
+"|Animosity": {
+"f": "i/cal-Animosity.png",
+"h": 27,
+"w": 64
+},
+"|Ankh Shield": {
+"f": "i/v-AnkhShield.png",
+"h": 34,
+"w": 30
+},
+"|Antlion Maraca": {
+"f": "i/tho-AntlionMaraca.png",
+"h": 34,
+"w": 32
+},
+"|Antlion Staff": {
+"f": "i/tho-AntlionStaff.png",
+"h": 44,
+"w": 44
+},
+"|Apoctosis Array": {
+"f": "i/cal-ApoctosisArray.png",
+"h": 29,
+"w": 64
+},
+"|Apollyon": {
+"f": "i/cal-Apollyon.png",
+"h": 30,
+"w": 50
+},
+"|Apotheosis": {
+"f": "i/cal-Apotheosis.png",
+"h": 34,
+"w": 30
+},
+"|Apprentice armor": {
+"f": "i/v-ApprenticeHat.png",
+"h": 24,
+"w": 30
+},
+"|Aqua Pelter": {
+"f": "i/tho-AquaPelter.png",
+"h": 22,
+"w": 46
+},
+"|Aqua Scepter": {
+"f": "i/v-AquaScepter.png",
+"h": 18,
+"w": 48
+},
+"|Aquaite Knife": {
+"f": "i/tho-AquaiteKnife.png",
+"h": 36,
+"w": 18
+},
+"|Aquamarine Ring": {
+"f": "i/tho-AquamarineRing.png",
+"h": 18,
+"w": 26
+},
+"|Aquamarine Staff": {
+"f": "i/cal-AquamarineStaff.png",
+"h": 64,
+"w": 62
+},
+"|Aquashard Shotgun": {
+"f": "i/cal-AquashardShotgun.png",
+"h": 26,
+"w": 62
+},
+"|Arc Staff Mk2": {
+"f": "i/sots-ArcStaffMk2.png",
+"h": 44,
+"w": 44
+},
+"|Arcane Flower": {
+"f": "i/v-ArcaneFlower.png",
+"h": 42,
+"w": 30
+},
+"|Archerfish": {
+"f": "i/cal-Archerfish.png",
+"h": 33,
+"w": 64
+},
+"|Archery Potion": {
+"f": "i/v-ArcheryPotion.png",
+"h": 30,
+"w": 20
+},
+"|Arclight Orbs": {
+"f": "i/sots-ArclightOrbs.png",
+"h": 30,
+"w": 26
+},
+"|Arctic Spear Tip": {
+"f": "i/ars-ArcticSpearTip.png",
+"h": 32,
+"w": 32
+},
+"|Ares' Exoskeleton": {
+"f": "i/cal-AresExoskeleton.png",
+"h": 38,
+"w": 36
+},
+"|Ark of the Cosmos": {
+"f": "i/cal-ArkoftheCosmos.png",
+"h": 64,
+"w": 61
+},
+"|Ark of the Elements": {
+"f": "i/cal-ArkoftheElements.png",
+"h": 64,
+"w": 53
+},
+"|Armageddon": {
+"f": "i/sots-Armaggedon.png",
+"h": 26,
+"w": 28
+},
+"|Arsenal Staff": {
+"f": "i/tho-ArsenalStaff.png",
+"h": 44,
+"w": 44
+},
+"|Artery": {
+"f": "i/v-CrimsonYoyo.png",
+"h": 26,
+"w": 30
+},
+"|Artillery Potion": {
+"f": "i/tho-ArtilleryPotion.png",
+"h": 42,
+"w": 20
+},
+"|Ascendant Insignia": {
+"f": "i/cal-AscendantInsignia.png",
+"h": 36,
+"w": 46
+},
+"|Asgard's Valor": {
+"f": "i/cal-AsgardsValor.png",
+"h": 48,
+"w": 50
+},
+"|Asgardian Aegis": {
+"f": "i/cal-AsgardianAegis.png",
+"h": 56,
+"w": 46
+},
+"|Assassin Potion": {
+"f": "i/tho-AssassinPotion.png",
+"h": 32,
+"w": 20
+},
+"|Astral armor": {
+"f": "i/cal-AstralHelm.png",
+"h": 20,
+"w": 22
+},
+"|Astral's End": {
+"f": "i/cat-AstralsEnd.png",
+"h": 64,
+"w": 64
+},
+"|Astro armor": {
+"f": "i/tho-AstroHelmet.png",
+"h": 24,
+"w": 24
+},
+"|Auric Tesla armor": {
+"f": "i/cal-AuricTeslaHeadRanged.png",
+"h": 26,
+"w": 28
+},
+"|Auto Clicker": {
+"f": "i/sots-AutoClicker.png",
+"h": 34,
+"w": 20
+},
+"|Avalanche": {
+"f": "i/cal-Avalanche.png",
+"h": 64,
+"w": 64
+},
+"|B-GSS: Nidhogg": {
+"f": "i/cal-Nidhogg.png",
+"h": 28,
+"w": 64
+},
+"|Badge of Bravery": {
+"f": "i/cal-BadgeofBravery.png",
+"h": 30,
+"w": 42
+},
+"|Bag of Ammunition Gathering": {
+"f": "i/sots-BagOfAmmoGathering.png",
+"h": 34,
+"w": 32
+},
+"|Bag of Charms": {
+"f": "i/sots-BagOfCharms.png",
+"h": 1,
+"w": 16
+},
+"|Bagpipe": {
+"f": "i/tho-Bagpipe.png",
+"h": 54,
+"w": 48
+},
+"|Balance Bloom": {
+"f": "i/tho-BalanceBloom.png",
+"h": 30,
+"w": 26
+},
+"|Ball O' Fugu": {
+"f": "i/cal-BallOFugu.png",
+"h": 46,
+"w": 42
+},
+"|Ball O' Hurt": {
+"f": "i/v-BallOHurt.png",
+"h": 32,
+"w": 30
+},
+"|Ballista Rod": {
+"f": "i/v-DD2BallistraTowerT1Popper.png",
+"h": 30,
+"w": 30
+},
+"|Band Kit": {
+"f": "i/tho-BandKit.png",
+"h": 32,
+"w": 30
+},
+"|Band of Starpower": {
+"f": "i/v-BandofStarpower.png",
+"h": 20,
+"w": 28
+},
+"|Banshee Hook": {
+"f": "i/cal-BansheeHook.png",
+"h": 58,
+"w": 64
+},
+"|Baritone Saxophone": {
+"f": "i/tho-BaritoneSaxophone.png",
+"h": 52,
+"w": 36
+},
+"|Baroclaw": {
+"f": "i/cal-Baroclaw.png",
+"h": 26,
+"w": 40
+},
+"|Barracuda Gun": {
+"f": "i/cal-BarracudaGun.png",
+"h": 38,
+"w": 62
+},
+"|Bassoon": {
+"f": "i/tho-Bassoon.png",
+"h": 18,
+"w": 64
+},
+"|Bat Scepter": {
+"f": "i/v-BatScepter.png",
+"h": 30,
+"w": 30
+},
+"|Bat Scythe": {
+"f": "i/tho-BatScythe.png",
+"h": 44,
+"w": 52
+},
+"|Bee armor": {
+"f": "i/v-BeeHeadgear.png",
+"h": 24,
+"w": 22
+},
+"|Belladonna Spirit Staff": {
+"f": "i/cal-BelladonnaSpiritStaff.png",
+"h": 42,
+"w": 40
+},
+"|Bellerose": {
+"f": "i/tho-Bellerose.png",
+"h": 52,
+"w": 50
+},
+"|Berserker's Glove": {
+"f": "i/v-BerserkerGlove.png",
+"h": 40,
+"w": 20
+},
+"|Betsy's Bellow": {
+"f": "i/tho-BetsysBellow.png",
+"h": 32,
+"w": 64
+},
+"|Betsy's Wings": {
+"f": "i/v-BetsyWings.png",
+"h": 28,
+"w": 28
+},
+"|Bewitching Table": {
+"f": "i/v-BewitchingTable.png",
+"h": 34,
+"w": 30
+},
+"|Biome Blade": {
+"f": "i/cal-TrueBiomeBlade.png",
+"h": 64,
+"w": 62
+},
+"|Black Anurian": {
+"f": "i/cal-BlackAnurian.png",
+"h": 40,
+"w": 52
+},
+"|Blacksmith's Barrier": {
+"f": "i/tho-BlacksmithsBarrier.png",
+"h": 28,
+"w": 22
+},
+"|Blade of Grass": {
+"f": "i/v-BladeofGrass.png",
+"h": 64,
+"w": 64
+},
+"|Bladecrest Oathsword": {
+"f": "i/cal-BladecrestOathsword.png",
+"h": 56,
+"w": 56
+},
+"|Bladedge Railbow": {
+"f": "i/cal-BladedgeRailbow.png",
+"h": 21,
+"w": 64
+},
+"|Blazing Star": {
+"f": "i/cal-BlazingStar.png",
+"h": 32,
+"w": 32
+},
+"|Blink Pack": {
+"f": "i/sots-BlinkPack.png",
+"h": 32,
+"w": 32
+},
+"|Blood Boiler": {
+"f": "i/cal-BloodBoiler.png",
+"h": 28,
+"w": 64
+},
+"|Blood Harvest": {
+"f": "i/tho-BloodHarvest.png",
+"h": 46,
+"w": 62
+},
+"|Blood Pact": {
+"f": "i/cal-BloodPact.png",
+"h": 40,
+"w": 50
+},
+"|Blood Rain Bow": {
+"f": "i/v-BloodRainBow.png",
+"h": 42,
+"w": 20
+},
+"|Blood Thorn": {
+"f": "i/v-SharpTears.png",
+"h": 36,
+"w": 26
+},
+"|Blood Transfusion": {
+"f": "i/tho-BloodTransfusion.png",
+"h": 30,
+"w": 28
+},
+"|Bloodfire Arrows": {
+"f": "i/cal-BloodfireArrow.png",
+"h": 38,
+"w": 18
+},
+"|Bloodfire Bullets": {
+"f": "i/cal-BloodfireBullet.png",
+"h": 30,
+"w": 14
+},
+"|Bloodflare armor": {
+"f": "i/cal-BloodflareHeadMelee.png",
+"h": 22,
+"w": 24
+},
+"|Bloodstained Coin": {
+"f": "i/sots-BloodstainedCoin.png",
+"h": 28,
+"w": 28
+},
+"|Bloodstained Glove": {
+"f": "i/cal-BloodstainedGlove.png",
+"h": 36,
+"w": 26
+},
+"|Bloody High Claw": {
+"f": "i/tho-BloodyHighClaws.png",
+"h": 34,
+"w": 40
+},
+"|Bloody Worm Scarf": {
+"f": "i/cal-BloodyWormScarf.png",
+"h": 40,
+"w": 36
+},
+"|Bloody Worm Tooth": {
+"f": "i/cal-BloodyWormTooth.png",
+"h": 32,
+"w": 24
+},
+"|Blooming Bell": {
+"f": "i/tho-BloomingBell.png",
+"h": 42,
+"w": 42
+},
+"|Blooming Shuriken": {
+"f": "i/tho-BloomingShuriken.png",
+"h": 38,
+"w": 38
+},
+"|Blooming armor": {
+"f": "i/tho-BloomingCrown.png",
+"h": 18,
+"w": 28
+},
+"|Blossom Flux": {
+"f": "i/cal-BlossomFlux.png",
+"h": 64,
+"w": 36
+},
+"|Blue Horseshoe Balloon": {
+"f": "i/v-BlueHorseshoeBalloon.png",
+"h": 48,
+"w": 28
+},
+"|Blue Jellyfish Staff": {
+"f": "i/sots-BlueJellyfishStaff.png",
+"h": 32,
+"w": 34
+},
+"|Blunder Booster": {
+"f": "i/cal-BlunderBooster.png",
+"h": 38,
+"w": 30
+},
+"|Bone Baton": {
+"f": "i/tho-BoneBaton.png",
+"h": 64,
+"w": 57
+},
+"|Bone Clapper": {
+"f": "i/sots-BoneClapper.png",
+"h": 42,
+"w": 42
+},
+"|Bone Grip": {
+"f": "i/tho-BoneGrip.png",
+"h": 34,
+"w": 32
+},
+"|Bone Reaper": {
+"f": "i/tho-BoneReaper.png",
+"h": 38,
+"w": 48
+},
+"|Bone Trumpet": {
+"f": "i/tho-BoneTrumpet.png",
+"h": 30,
+"w": 64
+},
+"|Bongos": {
+"f": "i/tho-Bongos.png",
+"h": 26,
+"w": 40
+},
+"|Book of Skulls": {
+"f": "i/v-BookofSkulls.png",
+"h": 30,
+"w": 28
+},
+"|Book of Virtues": {
+"f": "i/sots-BookOfVirtues.png",
+"h": 34,
+"w": 24
+},
+"|Boomstick": {
+"f": "i/v-Boomstick.png",
+"h": 16,
+"w": 40
+},
+"|Borealis Bomber": {
+"f": "i/cal-BorealisBomber.png",
+"h": 64,
+"w": 57
+},
+"|Botanic Piercer": {
+"f": "i/cal-BotanicPiercer.png",
+"h": 64,
+"w": 64
+},
+"|Botanical Symbiote": {
+"f": "i/sots-BotanicalSymbiote.png",
+"h": 36,
+"w": 26
+},
+"|Boulder Probe Staff": {
+"f": "i/tho-BoulderProbeStaff.png",
+"h": 50,
+"w": 50
+},
+"|Bouncing Eyeball": {
+"f": "i/cal-BouncingEyeball.png",
+"h": 24,
+"w": 38
+},
+"|Bouncing Flame Potion": {
+"f": "i/tho-BouncingFlamePotion.png",
+"h": 32,
+"w": 20
+},
+"|Bounding Potion": {
+"f": "i/cal-BoundingPotion.png",
+"h": 38,
+"w": 26
+},
+"|Bountiful Harvest": {
+"f": "i/tho-BountifulHarvest.png",
+"h": 44,
+"w": 56
+},
+"|Brain of Confusion": {
+"f": "i/v-BrainOfConfusion.png",
+"h": 26,
+"w": 26
+},
+"|Brass Cap": {
+"f": "i/tho-BrassCap.png",
+"h": 30,
+"w": 30
+},
+"|Brass Whip": {
+"f": "i/sots-BrassWhip.png",
+"h": 32,
+"w": 40
+},
+"|Brimflame armor": {
+"f": "i/cal-BrimflameCowl.png",
+"h": 26,
+"w": 30
+},
+"|Brimlash": {
+"f": "i/cal-Brimlash.png",
+"h": 64,
+"w": 59
+},
+"|Brimrose Staff": {
+"f": "i/cal-BrimroseStaff.png",
+"h": 34,
+"w": 38
+},
+"|Brimstone Sword": {
+"f": "i/cal-BrimstoneSword.png",
+"h": 48,
+"w": 52
+},
+"|Brittle Star Staff": {
+"f": "i/cal-BrittleStarStaff.png",
+"h": 54,
+"w": 38
+},
+"|Broken Biome Blade": {
+"f": "i/cal-BrokenBiomeBlade.png",
+"h": 34,
+"w": 36
+},
+"|Bronze Throwing Axe": {
+"f": "i/tho-BronzeThrowingAxe.png",
+"h": 40,
+"w": 40
+},
+"|Bronze Tuning Fork": {
+"f": "i/tho-TuningFork.png",
+"h": 48,
+"w": 14
+},
+"|Bronze armor": {
+"f": "i/tho-BronzeHelmet.png",
+"h": 32,
+"w": 24
+},
+"|Bubble Gun": {
+"f": "i/v-BubbleGun.png",
+"h": 18,
+"w": 64
+},
+"|Bubonic Rounds": {
+"f": "i/cal-BubonicRound.png",
+"h": 18,
+"w": 12
+},
+"|Buccaneer's Blunderbuss": {
+"f": "i/tho-BuccaneerBlunderBuss.png",
+"h": 22,
+"w": 54
+},
+"|Buisine": {
+"f": "i/tho-Buisine.png",
+"h": 37,
+"w": 64
+},
+"|Bulwark of the Ancients": {
+"f": "i/sots-BulwarkOfTheAncients.png",
+"h": 46,
+"w": 42
+},
+"|Bundle of Horseshoe Balloons": {
+"f": "i/v-HorseshoeBundle.png",
+"h": 38,
+"w": 30
+},
+"|Burger": {
+"f": "i/v-Burger.png",
+"h": 64,
+"w": 24
+},
+"|Burning Revelation": {
+"f": "i/cal-BurningRevelation.png",
+"h": 48,
+"w": 52
+},
+"|Burnt Sienna": {
+"f": "i/cal-BurntSienna.png",
+"h": 54,
+"w": 42
+},
+"|Butcher's Bloodmaker": {
+"f": "i/ars-ButchersBloodmaker.png",
+"h": 11,
+"w": 46
+},
+"|Butterfly Staff": {
+"f": "i/tho-ButterflyStaff.png",
+"h": 40,
+"w": 38
+},
+"|Buzzkill": {
+"f": "i/cal-Buzzkill.png",
+"h": 35,
+"w": 64
+},
+"|C-TSL Defibrillator": {
+"f": "i/ars-Defibrillanator.png",
+"h": 12,
+"w": 16
+},
+"|Cactus Needle": {
+"f": "i/tho-CactusNeedle.png",
+"h": 24,
+"w": 24
+},
+"|Cadaver's Cornet": {
+"f": "i/tho-CadaverCornet.png",
+"h": 33,
+"w": 64
+},
+"|Cadaverous Carrion": {
+"f": "i/cal-CadaverousCarrion.png",
+"h": 56,
+"w": 54
+},
+"|Calamity": {
+"f": "i/cal-Calamity.png",
+"h": 64,
+"w": 25
+},
+"|Calaveras": {
+"f": "i/tho-Calaveras.png",
+"h": 50,
+"w": 50
+},
+"|Calcium Potion": {
+"f": "i/cal-CalciumPotion.png",
+"h": 30,
+"w": 18
+},
+"|Calculator": {
+"f": "i/sots-Calculator.png",
+"h": 38,
+"w": 32
+},
+"|Call of Cthulhu": {
+"f": "i/tho-CallofCthulhu.png",
+"h": 56,
+"w": 56
+},
+"|Canteen": {
+"f": "i/tho-Canteen.png",
+"h": 26,
+"w": 20
+},
+"|Cape of the Survivor": {
+"f": "i/tho-CapeoftheSurvivor.png",
+"h": 28,
+"w": 26
+},
+"|Cataclysm Disc": {
+"f": "i/sots-CataclysmDisc.png",
+"h": 48,
+"w": 48
+},
+"|Caustic Croaker Staff": {
+"f": "i/cal-CausticCroakerStaff.png",
+"h": 44,
+"w": 36
+},
+"|Celestial Emblem": {
+"f": "i/v-CelestialEmblem.png",
+"h": 32,
+"w": 30
+},
+"|Celestial Reaper": {
+"f": "i/cal-CelestialReaper.png",
+"h": 64,
+"w": 56
+},
+"|Celestial Starboard": {
+"f": "i/v-LongRainbowTrailWings.png",
+"h": 26,
+"w": 34
+},
+"|Celestus": {
+"f": "i/cal-Celestus.png",
+"h": 56,
+"w": 64
+},
+"|Cello": {
+"f": "i/tho-Cello.png",
+"h": 62,
+"w": 62
+},
+"|Chain Guillotines": {
+"f": "i/v-ChainGuillotines.png",
+"h": 34,
+"w": 42
+},
+"|Chalice of the Blood God": {
+"f": "i/cal-ChaliceOfTheBloodGod.png",
+"h": 64,
+"w": 36
+},
+"|Challenger's Ring": {
+"f": "i/sots-ChallengerRing.png",
+"h": 28,
+"w": 28
+},
+"|Champion's Bomber Staff": {
+"f": "i/tho-ChampionBomberStaff.png",
+"h": 48,
+"w": 48
+},
+"|Champion's God Hand": {
+"f": "i/tho-ChampionsGodHand.png",
+"h": 34,
+"w": 22
+},
+"|Champion's Swift Blade": {
+"f": "i/tho-ChampionSwiftBlade.png",
+"h": 54,
+"w": 54
+},
+"|Champion's Trifecta-Shot": {
+"f": "i/tho-ChampionsTrifectaShot.png",
+"h": 54,
+"w": 32
+},
+"|Champion's Wings": {
+"f": "i/tho-ChampionWing.png",
+"h": 32,
+"w": 30
+},
+"|Chaos Conduit": {
+"f": "i/sots-ChaosConduit.png",
+"h": 64,
+"w": 64
+},
+"|Charged Blaster Cannon": {
+"f": "i/v-ChargedBlasterCannon.png",
+"h": 14,
+"w": 18
+},
+"|Charm of Myths": {
+"f": "i/v-CharmofMyths.png",
+"h": 20,
+"w": 30
+},
+"|Cherry Pie": {
+"f": "i/tho-CherryPie.png",
+"h": 64,
+"w": 36
+},
+"|Chicken Cannon": {
+"f": "i/cal-ChickenCannon.png",
+"h": 21,
+"w": 64
+},
+"|Chiseled Barrier": {
+"f": "i/sots-ChiseledBarrier.png",
+"h": 36,
+"w": 26
+},
+"|Chlorophyte Arrows": {
+"f": "i/v-ChlorophyteArrow.png",
+"h": 34,
+"w": 18
+},
+"|Chlorophyte Bullets": {
+"f": "i/v-ChlorophyteBullet.png",
+"h": 12,
+"w": 12
+},
+"|Chlorophyte Shotbow": {
+"f": "i/v-ChlorophyteShotbow.png",
+"h": 24,
+"w": 54
+},
+"|Chlorophyte armor": {
+"f": "i/v-ChlorophyteMask.png",
+"h": 24,
+"w": 32
+},
+"|Christmas Cheer": {
+"f": "i/tho-ChristmasCheer.png",
+"h": 46,
+"w": 46
+},
+"|Chrono Ocarina": {
+"f": "i/tho-ChronoOcarina.png",
+"h": 24,
+"w": 32
+},
+"|Chronomancer's Scythe": {
+"f": "i/cal-ChronomancersScythe.png",
+"h": 64,
+"w": 53
+},
+"|Cinder Arrows": {
+"f": "i/cal-CinderArrow.png",
+"h": 32,
+"w": 10
+},
+"|Cinders of Lament": {
+"f": "i/cal-CindersOfLament.png",
+"h": 64,
+"w": 60
+},
+"|Clamitas Crusher": {
+"f": "i/clm-ClamitasCrusher.png",
+"h": 60,
+"w": 40
+},
+"|Clamitas armor": {
+"f": "i/clm-ClamitasShellmet.png",
+"h": 22,
+"w": 22
+},
+"|Claret Cannon": {
+"f": "i/cal-ClaretCannon.png",
+"h": 32,
+"w": 50
+},
+"|Clarinet": {
+"f": "i/tho-Clarinet.png",
+"h": 16,
+"w": 60
+},
+"|Cleansing Blaze": {
+"f": "i/cal-CleansingBlaze.png",
+"h": 38,
+"w": 64
+},
+"|Clockwork Bow": {
+"f": "i/cal-ClockworkBow.png",
+"h": 64,
+"w": 32
+},
+"|Cloud in a Balloon": {
+"f": "i/v-CloudinaBalloon.png",
+"h": 28,
+"w": 22
+},
+"|Cloud in a Bottle": {
+"f": "i/v-CloudinaBottle.png",
+"h": 26,
+"w": 20
+},
+"|Clover Charm": {
+"f": "i/sots-CloverCharm.png",
+"h": 32,
+"w": 30
+},
+"|Cluster Rocket I": {
+"f": "i/v-ClusterRocketI.png",
+"h": 16,
+"w": 24
+},
+"|Cnidarian": {
+"f": "i/cal-Cnidarian.png",
+"h": 34,
+"w": 42
+},
+"|Cobalt Gong": {
+"f": "i/tho-CobaltGong.png",
+"h": 40,
+"w": 32
+},
+"|Cobalt Kunai": {
+"f": "i/cal-CobaltKunai.png",
+"h": 38,
+"w": 14
+},
+"|Cobalt armor": {
+"f": "i/v-CobaltHelmet.png",
+"h": 20,
+"w": 24
+},
+"|Coconut Gun": {
+"f": "i/sots-CoconutGun.png",
+"h": 36,
+"w": 38
+},
+"|Code Corrupter": {
+"f": "i/sots-CodeCorrupter.png",
+"h": 36,
+"w": 38
+},
+"|Coin of Deceit": {
+"f": "i/cal-CoinofDeceit.png",
+"h": 22,
+"w": 20
+},
+"|Concert Tickets": {
+"f": "i/tho-ConcertTickets.png",
+"h": 28,
+"w": 40
+},
+"|Concertina": {
+"f": "i/tho-Concertina.png",
+"h": 22,
+"w": 38
+},
+"|Concussive Instrument": {
+"f": "i/trw-ConcussiveInstrument.png",
+"h": 28,
+"w": 30
+},
+"|Conduit armor": {
+"f": "i/tho-ConduitHelmet.png",
+"h": 20,
+"w": 22
+},
+"|Conflagration Potion": {
+"f": "i/tho-ConflagrationPotion.png",
+"h": 32,
+"w": 24
+},
+"|Congealed Duo-Whip": {
+"f": "i/cat-CongeledDuoWhip.png",
+"h": 44,
+"w": 34
+},
+"|Consecrated Water": {
+"f": "i/cal-ConsecratedWater.png",
+"h": 38,
+"w": 22
+},
+"|Contagion": {
+"f": "i/cal-Contagion.png",
+"h": 64,
+"w": 32
+},
+"|Cool Whip": {
+"f": "i/v-CoolWhip.png",
+"h": 36,
+"w": 38
+},
+"|Coral Crossbow": {
+"f": "i/tho-CoralCrossbow.png",
+"h": 24,
+"w": 50
+},
+"|Coral Crusher": {
+"f": "i/cat-CoralCrusher.png",
+"h": 42,
+"w": 36
+},
+"|Coral Polearm": {
+"f": "i/tho-CoralPolearm.png",
+"h": 48,
+"w": 48
+},
+"|Coral Purifier": {
+"f": "i/tho-CoralPurifier.png",
+"h": 44,
+"w": 40
+},
+"|Coral armor": {
+"f": "i/tho-CoralHelmet.png",
+"h": 24,
+"w": 22
+},
+"|Corpus Avertor": {
+"f": "i/cal-CorpusAvertor.png",
+"h": 44,
+"w": 32
+},
+"|Corrosive Flux": {
+"f": "i/rag-CorrosiveFlux.png",
+"h": 30,
+"w": 28
+},
+"|Corvid Harbinger Staff": {
+"f": "i/cal-CorvidHarbringerStaff.png",
+"h": 54,
+"w": 52
+},
+"|Cosmic Flux Staff": {
+"f": "i/tho-CosmicFluxStaff.png",
+"h": 52,
+"w": 52
+},
+"|Cosmic Immaterializer": {
+"f": "i/cal-CosmicImmaterializer.png",
+"h": 62,
+"w": 64
+},
+"|Cosmic Kunai": {
+"f": "i/cal-CosmicKunai.png",
+"h": 54,
+"w": 24
+},
+"|Counter Scarf": {
+"f": "i/cal-CounterScarf.png",
+"h": 38,
+"w": 30
+},
+"|Cranium Smasher": {
+"f": "i/cal-CraniumSmasher.png",
+"h": 50,
+"w": 50
+},
+"|Craw Carapace": {
+"f": "i/cal-CrawCarapace.png",
+"h": 28,
+"w": 28
+},
+"|Creativity Potion": {
+"f": "i/tho-CreativityPotion.png",
+"h": 38,
+"w": 20
+},
+"|Creeping Vine Staff": {
+"f": "i/tho-CreepingVineStaff.png",
+"h": 48,
+"w": 48
+},
+"|Crescent Staff": {
+"f": "i/sots-CrescentStaff.png",
+"h": 40,
+"w": 40
+},
+"|Crest of Dasuver": {
+"f": "i/sots-CrestofDasuver.png",
+"h": 38,
+"w": 36
+},
+"|Crier's armor": {
+"f": "i/tho-CriersCap.png",
+"h": 14,
+"w": 26
+},
+"|Crimson Rod": {
+"f": "i/v-CrimsonRod.png",
+"h": 38,
+"w": 38
+},
+"|Crown Jewel": {
+"f": "i/cal-CrownJewel.png",
+"h": 32,
+"w": 22
+},
+"|Crushing Ego": {
+"f": "i/cal-CrushingEgo.png",
+"h": 38,
+"w": 40
+},
+"|Crushsaw Crasher": {
+"f": "i/cal-CrushsawCrasher.png",
+"h": 28,
+"w": 46
+},
+"|Cryogenic Staff": {
+"f": "i/cal-CryogenicStaff.png",
+"h": 64,
+"w": 62
+},
+"|Crystal Arcanite": {
+"f": "i/tho-CrystalArcanite.png",
+"h": 26,
+"w": 26
+},
+"|Crystal Assassin armor": {
+"f": "i/v-CrystalNinjaHelmet.png",
+"h": 24,
+"w": 30
+},
+"|Crystal Honey": {
+"f": "i/tho-CrystalHoney.png",
+"h": 22,
+"w": 18
+},
+"|Crystal Hydraulophone": {
+"f": "i/cbh-CrystalHydraulophone.png",
+"h": 24,
+"w": 48
+},
+"|Crystal Piercer": {
+"f": "i/cal-CrystalPiercer.png",
+"h": 60,
+"w": 58
+},
+"|Crystalline": {
+"f": "i/cal-Crystalline.png",
+"h": 50,
+"w": 50
+},
+"|Cursed Ankh Staff": {
+"f": "i/sbh-CursedAnkhStaff.png",
+"h": 64,
+"w": 28
+},
+"|Cursed Arrow": {
+"f": "i/v-CursedArrow.png",
+"h": 32,
+"w": 14
+},
+"|Cursed Arrows": {
+"f": "i/v-CursedArrow.png",
+"h": 32,
+"w": 14
+},
+"|Cursed Blade": {
+"f": "i/sots-CursedBlade.png",
+"h": 34,
+"w": 34
+},
+"|Cursed Bullet": {
+"f": "i/v-CursedBullet.png",
+"h": 12,
+"w": 12
+},
+"|Cursed Bullets": {
+"f": "i/v-CursedBullet.png",
+"h": 12,
+"w": 12
+},
+"|Cursed Dagger": {
+"f": "i/cal-CursedDagger.png",
+"h": 48,
+"w": 14
+},
+"|Cursed Darts": {
+"f": "i/v-CursedDart.png",
+"h": 28,
+"w": 14
+},
+"|Cursed Flail-Core": {
+"f": "i/tho-CursedFlailCore.png",
+"h": 30,
+"w": 30
+},
+"|Cursed Gauntlet": {
+"f": "i/sots-JeweledGauntlet.png",
+"h": 30,
+"w": 24
+},
+"|Cursed Hammer": {
+"f": "i/tho-CursedHammer.png",
+"h": 54,
+"w": 54
+},
+"|Cursed Icosahedron": {
+"f": "i/sots-CursedIcosahedron.png",
+"h": 28,
+"w": 24
+},
+"|Cursed Impale": {
+"f": "i/sots-CursedImpale.png",
+"h": 48,
+"w": 48
+},
+"|Cursed Spear Storm": {
+"f": "i/sots-CurseballTome.png",
+"h": 34,
+"w": 32
+},
+"|Cursed armor": {
+"f": "i/sots-CursedHood.png",
+"h": 24,
+"w": 26
+},
+"|Daawnlight Spirit Origin": {
+"f": "i/cal-DaawnlightSpiritOrigin.png",
+"h": 40,
+"w": 48
+},
+"|Daedalus Golem Staff": {
+"f": "i/cal-DaedalusGolemStaff.png",
+"h": 60,
+"w": 60
+},
+"|Daedalus Stormbow": {
+"f": "i/v-DaedalusStormbow.png",
+"h": 62,
+"w": 30
+},
+"|Daedalus armor": {
+"f": "i/cal-DaedalusHeadRanged.png",
+"h": 22,
+"w": 26
+},
+"|Dank Staff": {
+"f": "i/cal-DankStaff.png",
+"h": 56,
+"w": 56
+},
+"|Dao of Pow": {
+"f": "i/v-DaoofPow.png",
+"h": 32,
+"w": 32
+},
+"|Dark Contagion": {
+"f": "i/tho-DarkContagion.png",
+"h": 30,
+"w": 28
+},
+"|Dark Gift": {
+"f": "i/tho-DarkMageStaff.png",
+"h": 56,
+"w": 56
+},
+"|Dark Harvest": {
+"f": "i/v-ScytheWhip.png",
+"h": 32,
+"w": 40
+},
+"|Dark Lance": {
+"f": "i/v-DarkLance.png",
+"h": 52,
+"w": 52
+},
+"|Dark Matter Sheath": {
+"f": "i/cal-DarkMatterSheath.png",
+"h": 62,
+"w": 48
+},
+"|Dark Spark": {
+"f": "i/cal-DarkSpark.png",
+"h": 44,
+"w": 38
+},
+"|Dark Sun Ring": {
+"f": "i/cal-DarkSunRing.png",
+"h": 54,
+"w": 36
+},
+"|Dark Wave": {
+"f": "i/tho-DarkWave.png",
+"h": 44,
+"w": 44
+},
+"|Darklight Greatsword": {
+"f": "i/cal-DarklightGreatsword.png",
+"h": 64,
+"w": 59
+},
+"|Dart Pistol": {
+"f": "i/v-DartPistol.png",
+"h": 28,
+"w": 54
+},
+"|Dart Pouch": {
+"f": "i/tho-DartPouch.png",
+"h": 32,
+"w": 28
+},
+"|Dart Rifle": {
+"f": "i/v-DartRifle.png",
+"h": 32,
+"w": 62
+},
+"|Dead Sun's Wind": {
+"f": "i/cal-DeadSunsWind.png",
+"h": 28,
+"w": 64
+},
+"|Deadshot Brooch": {
+"f": "i/cal-DeadshotBrooch.png",
+"h": 40,
+"w": 46
+},
+"|Death Valley Duster": {
+"f": "i/cal-DeathValleyDuster.png",
+"h": 40,
+"w": 36
+},
+"|Death's Ascension": {
+"f": "i/cal-DeathsAscension.png",
+"h": 64,
+"w": 62
+},
+"|Deathstare Rod": {
+"f": "i/cal-DeathstareRod.png",
+"h": 46,
+"w": 46
+},
+"|Decoy": {
+"f": "i/tho-TechniqueDecoy.png",
+"h": 44,
+"w": 38
+},
+"|Deep Diver": {
+"f": "i/cal-DeepDiver.png",
+"h": 28,
+"w": 30
+},
+"|Deep Sea Drawl": {
+"f": "i/ars-DeepSeaDrawl.png",
+"h": 34,
+"w": 48
+},
+"|Deep Sea Dumbbell": {
+"f": "i/cal-DeepSeaDumbbell.png",
+"h": 24,
+"w": 38
+},
+"|Deep Staff": {
+"f": "i/tho-DeepStaff.png",
+"h": 38,
+"w": 38
+},
+"|Deep Wounder": {
+"f": "i/cal-DeepWounder.png",
+"h": 52,
+"w": 58
+},
+"|Deepsea Staff": {
+"f": "i/cal-DeepseaStaff.png",
+"h": 44,
+"w": 44
+},
+"|Defective Sphere": {
+"f": "i/cal-DefectiveSphere.png",
+"h": 44,
+"w": 42
+},
+"|Deific Amulet": {
+"f": "i/cal-DeificAmulet.png",
+"h": 46,
+"w": 26
+},
+"|Demon Blood Ripper": {
+"f": "i/tho-DemonBloodRipper.png",
+"h": 44,
+"w": 52
+},
+"|Demon Blood armor": {
+"f": "i/tho-DemonBloodHelmet.png",
+"h": 22,
+"w": 22
+},
+"|Demon Bow": {
+"f": "i/v-DemonBow.png",
+"h": 40,
+"w": 18
+},
+"|Demon Heart": {
+"f": "i/v-DemonHeart.png",
+"h": 30,
+"w": 30
+},
+"|Demon Scythe": {
+"f": "i/v-DemonScythe.png",
+"h": 30,
+"w": 28
+},
+"|Demon Wings": {
+"f": "i/v-DemonWings.png",
+"h": 26,
+"w": 24
+},
+"|Demonshade armor": {
+"f": "i/cal-DemonshadeHelm.png",
+"h": 34,
+"w": 34
+},
+"|Depth Crusher": {
+"f": "i/cal-DepthCrusher.png",
+"h": 50,
+"w": 56
+},
+"|Desecrated Water": {
+"f": "i/cal-DesecratedWater.png",
+"h": 34,
+"w": 22
+},
+"|Desert Prowler armor": {
+"f": "i/cal-DesertProwlerHat.png",
+"h": 30,
+"w": 30
+},
+"|Desert Scorcher": {
+"f": "i/cat-DesertScorcher.png",
+"h": 40,
+"w": 62
+},
+"|Desert Tiger Staff": {
+"f": "i/v-StormTigerStaff.png",
+"h": 38,
+"w": 38
+},
+"|Destroyer Emblem": {
+"f": "i/v-DestroyerEmblem.png",
+"h": 28,
+"w": 28
+},
+"|Devil's Subwoofer": {
+"f": "i/tho-DevilsSubwoofer.png",
+"h": 40,
+"w": 36
+},
+"|Diamond Ring": {
+"f": "i/v-DiamondRing.png",
+"h": 20,
+"w": 28
+},
+"|Diamond Robe": {
+"f": "i/v-DiamondRobe.png",
+"h": 28,
+"w": 34
+},
+"|Diamond Staff": {
+"f": "i/v-DiamondStaff.png",
+"h": 40,
+"w": 42
+},
+"|Diamond of the Deep": {
+"f": "i/cal-DiamondOfTheDeep.png",
+"h": 42,
+"w": 28
+},
+"|Digital Daito": {
+"f": "i/sots-DigitalDaito.png",
+"h": 64,
+"w": 62
+},
+"|Dimension-Tearing Disk": {
+"f": "i/cal-DimensionTearingDisk.png",
+"h": 58,
+"w": 62
+},
+"|Distress Caller": {
+"f": "i/tho-DistressCaller.png",
+"h": 34,
+"w": 32
+},
+"|Doomsday Device": {
+"f": "i/cal-DoomsdayDevice.png",
+"h": 30,
+"w": 14
+},
+"|Dormant Brimseeker": {
+"f": "i/cal-DormantBrimseeker.png",
+"h": 30,
+"w": 30
+},
+"|Draconic Magma Staff": {
+"f": "i/tho-DraconicMagmaStaff.png",
+"h": 54,
+"w": 54
+},
+"|Dracula Fang": {
+"f": "i/tho-DraculaFang.png",
+"h": 32,
+"w": 14
+},
+"|Draedon's Heart": {
+"f": "i/cal-DraedonsHeart.png",
+"h": 64,
+"w": 50
+},
+"|Dragon armor": {
+"f": "i/tho-DragonMask.png",
+"h": 26,
+"w": 26
+},
+"|Dragon's Breath": {
+"f": "i/cal-DragonsBreath.png",
+"h": 37,
+"w": 64
+},
+"|Dragon's Wail": {
+"f": "i/tho-DragonsWail.png",
+"h": 37,
+"w": 64
+},
+"|Dragon's armor": {
+"f": "i/tho-DragonMask.png",
+"h": 26,
+"w": 26
+},
+"|Dragonblood Disgorger": {
+"f": "i/cal-DragonbloodDisgorger.png",
+"h": 62,
+"w": 62
+},
+"|Dread Fork": {
+"f": "i/tho-DreadFork.png",
+"h": 64,
+"w": 64
+},
+"|Dread Tearer": {
+"f": "i/tho-DreadTearer.png",
+"h": 40,
+"w": 50
+},
+"|Dread armor": {
+"f": "i/tho-DreadSkull.png",
+"h": 28,
+"w": 28
+},
+"|Dreadmine Staff": {
+"f": "i/cal-DreadmineStaff.png",
+"h": 46,
+"w": 46
+},
+"|Dreaming Lamp": {
+"f": "i/sots-DreamLamp.png",
+"h": 30,
+"w": 42
+},
+"|Drenched Dirk": {
+"f": "i/tho-DrenchedDirk.png",
+"h": 34,
+"w": 34
+},
+"|Dry Mouth": {
+"f": "i/cbh-DryMouth.png",
+"h": 64,
+"w": 36
+},
+"|Dual Stylophone": {
+"f": "i/sbh-DualStylophone.png",
+"h": 42,
+"w": 56
+},
+"|Duality": {
+"f": "i/cbh-Duality.png",
+"h": 64,
+"w": 38
+},
+"|Duke's Decapitator": {
+"f": "i/cal-DukesDecapitator.png",
+"h": 64,
+"w": 60
+},
+"|Duke's Regal Carnyx": {
+"f": "i/tho-DukesRegalCarnyx.png",
+"h": 58,
+"w": 52
+},
+"|Dune Splicer": {
+"f": "i/sots-DuneSplicer.png",
+"h": 62,
+"w": 54
+},
+"|Durasteel armor": {
+"f": "i/tho-DurasteelHelmet.png",
+"h": 28,
+"w": 28
+},
+"|Durendal": {
+"f": "i/v-SwordWhip.png",
+"h": 36,
+"w": 36
+},
+"|Duststorm in a Bottle": {
+"f": "i/cal-DuststormInABottle.png",
+"h": 30,
+"w": 30
+},
+"|Dynamic Pursuer": {
+"f": "i/cal-DynamicPursuer.png",
+"h": 64,
+"w": 36
+},
+"|Dynamo Stem Cells": {
+"f": "i/cal-DynamoStemCells.png",
+"h": 36,
+"w": 48
+},
+"|Dynasty Guzheng": {
+"f": "i/tho-DynastyGuzheng.png",
+"h": 44,
+"w": 44
+},
+"|Earth": {
+"f": "i/cal-Earth.png",
+"h": 64,
+"w": 64
+},
+"|Earth Conduit": {
+"f": "i/sots-EarthenConduit.png",
+"h": 42,
+"w": 42
+},
+"|Earth Grinder": {
+"f": "i/sots-EarthGrinder.png",
+"h": 58,
+"w": 56
+},
+"|Earthen Spirit Staff": {
+"f": "i/sots-EarthenSpiritStaff.png",
+"h": 36,
+"w": 38
+},
+"|Earworm Potion": {
+"f": "i/tho-EarwormPotion.png",
+"h": 32,
+"w": 20
+},
+"|Ebon armor": {
+"f": "i/tho-EbonHood.png",
+"h": 22,
+"w": 22
+},
+"|Eclipse": {
+"f": "i/sots-AquaticEclipse.png",
+"h": 56,
+"w": 56
+},
+"|Eclipse Fang": {
+"f": "i/tho-EclipseFang.png",
+"h": 64,
+"w": 64
+},
+"|Eclipse Mirror": {
+"f": "i/cal-EclipseMirror.png",
+"h": 46,
+"w": 30
+},
+"|Ectoheart": {
+"f": "i/cal-Ectoheart.png",
+"h": 42,
+"w": 42
+},
+"|Edge of Imagination": {
+"f": "i/tho-EdgeofImagination.png",
+"h": 64,
+"w": 64
+},
+"|Eel-rod": {
+"f": "i/tho-Eelrod.png",
+"h": 50,
+"w": 44
+},
+"|Egg Cannon": {
+"f": "i/con-EggCannon.png",
+"h": 20,
+"w": 56
+},
+"|Eggnog": {
+"f": "i/v-Eggnog.png",
+"h": 25,
+"w": 28
+},
+"|Eighth Plague Staff": {
+"f": "i/tho-EighthPlagueStaff.png",
+"h": 42,
+"w": 42
+},
+"|Electrician's Glove": {
+"f": "i/cal-ElectriciansGlove.png",
+"h": 40,
+"w": 24
+},
+"|Electrosphere Launcher": {
+"f": "i/v-ElectrosphereLauncher.png",
+"h": 28,
+"w": 64
+},
+"|Elemental Amulet": {
+"f": "i/sots-VisionAmulet.png",
+"h": 63,
+"w": 64
+},
+"|Elemental Gauntlet": {
+"f": "i/cal-ElementalGauntlet.png",
+"h": 38,
+"w": 26
+},
+"|Elemental armor": {
+"f": "i/sots-ElementalHelmet.png",
+"h": 26,
+"w": 28
+},
+"|Elysian Aegis": {
+"f": "i/cal-ElysianAegis.png",
+"h": 37,
+"w": 64
+},
+"|Elysian Wings": {
+"f": "i/cal-ElysianWings.png",
+"h": 50,
+"w": 48
+},
+"|Embowelment": {
+"f": "i/tho-Embowelment.png",
+"h": 38,
+"w": 38
+},
+"|Emerald Ring": {
+"f": "i/tho-EmeraldRing.png",
+"h": 20,
+"w": 26
+},
+"|Empress Wings": {
+"f": "i/v-RainbowWings.png",
+"h": 26,
+"w": 24
+},
+"|Empyrean armor": {
+"f": "i/cal-EmpyreanMask.png",
+"h": 30,
+"w": 28
+},
+"|Enchanted Axe": {
+"f": "i/cal-EnchantedAxe.png",
+"h": 44,
+"w": 46
+},
+"|Enchanted Knife": {
+"f": "i/tho-EnchantedKnife.png",
+"h": 26,
+"w": 26
+},
+"|Endless Musket Pouch": {
+"f": "i/v-EndlessMusketPouch.png",
+"h": 34,
+"w": 26
+},
+"|Endogenesis": {
+"f": "i/cal-Endogenesis.png",
+"h": 64,
+"w": 64
+},
+"|Endurance Potion": {
+"f": "i/v-EndurancePotion.png",
+"h": 30,
+"w": 20
+},
+"|Energy Projector": {
+"f": "i/tho-EnergyProjector.png",
+"h": 44,
+"w": 44
+},
+"|Energy Storm Bolter": {
+"f": "i/tho-EnergyStormBolter.png",
+"h": 16,
+"w": 38
+},
+"|Energy Storm Partisan": {
+"f": "i/tho-EnergyStormPartisan.png",
+"h": 56,
+"w": 56
+},
+"|Epidemic Shredder": {
+"f": "i/cal-EpidemicShredder.png",
+"h": 34,
+"w": 34
+},
+"|Equanimity": {
+"f": "i/cal-Equanimity.png",
+"h": 58,
+"w": 46
+},
+"|Eternal Night": {
+"f": "i/tho-EternalNight.png",
+"h": 58,
+"w": 26
+},
+"|Eternity": {
+"f": "i/cal-Eternity.png",
+"h": 40,
+"w": 38
+},
+"|Ethereal Subjugator": {
+"f": "i/cal-EtherealSubjugator.png",
+"h": 64,
+"w": 60
+},
+"|Ethereal Talisman": {
+"f": "i/cal-EtherealTalisman.png",
+"h": 48,
+"w": 50
+},
+"|Evasion Scarf": {
+"f": "i/cal-EvasionScarf.png",
+"h": 38,
+"w": 32
+},
+"|Everest": {
+"f": "i/clm-Everest.png",
+"h": 60,
+"w": 60
+},
+"|Evergreen Gin": {
+"f": "i/cal-EvergreenGin.png",
+"h": 56,
+"w": 34
+},
+"|Evil Conduit": {
+"f": "i/sots-EvilConduit.png",
+"h": 46,
+"w": 64
+},
+"|Excalibur": {
+"f": "i/v-Excalibur.png",
+"h": 48,
+"w": 48
+},
+"|Executioner's Blade": {
+"f": "i/cal-ExecutionersBlade.png",
+"h": 64,
+"w": 64
+},
+"|Exo Sights": {
+"f": "i/ie-ExoSights.png",
+"h": 36,
+"w": 44
+},
+"|Exodus Wings": {
+"f": "i/cal-ExodusWings.png",
+"h": 50,
+"w": 48
+},
+"|Exotic Polarizer": {
+"f": "i/sots-ExoticPolarizer.png",
+"h": 28,
+"w": 52
+},
+"|Exploding Bullet": {
+"f": "i/v-ExplodingBullet.png",
+"h": 16,
+"w": 12
+},
+"|Exploding Bullets": {
+"f": "i/v-ExplodingBullet.png",
+"h": 16,
+"w": 12
+},
+"|Explosive Knife": {
+"f": "i/sots-ExplosiveKnife.png",
+"h": 24,
+"w": 10
+},
+"|Eye of Chaos": {
+"f": "i/sots-EyeOfChaos.png",
+"h": 38,
+"w": 36
+},
+"|Eye of Magnus": {
+"f": "i/cal-EyeofMagnus.png",
+"h": 46,
+"w": 64
+},
+"|Eye of Night": {
+"f": "i/cal-EyeOfNight.png",
+"h": 36,
+"w": 36
+},
+"|Eye of Nova": {
+"f": "i/clm-EyeOfNova.png",
+"h": 40,
+"w": 60
+},
+"|Eye of the Golem": {
+"f": "i/v-EyeoftheGolem.png",
+"h": 30,
+"w": 30
+},
+"|Fairy Boots": {
+"f": "i/v-FairyBoots.png",
+"h": 30,
+"w": 34
+},
+"|Fairy Wings": {
+"f": "i/v-FairyWings.png",
+"h": 22,
+"w": 36
+},
+"|Fallen Paladin's Hammer": {
+"f": "i/cal-FallenPaladinsHammer.png",
+"h": 62,
+"w": 62
+},
+"|Falling Twilight": {
+"f": "i/tho-FallingTwilight.png",
+"h": 46,
+"w": 52
+},
+"|Fan Letter": {
+"f": "i/tho-FanLetter.png",
+"h": 30,
+"w": 30
+},
+"|Fantasy Talisman": {
+"f": "i/cal-FantasyTalisman.png",
+"h": 32,
+"w": 32
+},
+"|Fathom Swarmer armor": {
+"f": "i/cal-FathomSwarmerVisage.png",
+"h": 30,
+"w": 36
+},
+"|Fearmonger armor": {
+"f": "i/cal-FearmongerGreathelm.png",
+"h": 24,
+"w": 24
+},
+"|Feather Storm": {
+"f": "i/con-FeatherStorm.png",
+"h": 30,
+"w": 28
+},
+"|Feral Claws": {
+"f": "i/v-FeralClaws.png",
+"h": 22,
+"w": 20
+},
+"|Fetid Emesis": {
+"f": "i/cal-FetidEmesis.png",
+"h": 39,
+"w": 64
+},
+"|Filthy Glove": {
+"f": "i/cal-FilthyGlove.png",
+"h": 38,
+"w": 24
+},
+"|Fire Gauntlet": {
+"f": "i/v-FireGauntlet.png",
+"h": 30,
+"w": 26
+},
+"|Firecracker": {
+"f": "i/v-FireWhip.png",
+"h": 40,
+"w": 38
+},
+"|Fishbone": {
+"f": "i/tho-Fishbone.png",
+"h": 64,
+"w": 61
+},
+"|Fishron Wings": {
+"f": "i/v-FishronWings.png",
+"h": 30,
+"w": 38
+},
+"|Fizzle Star": {
+"f": "i/sots-FizzleStar.png",
+"h": 34,
+"w": 36
+},
+"|Flairon": {
+"f": "i/v-Flairon.png",
+"h": 32,
+"w": 32
+},
+"|Flak Toxicannon": {
+"f": "i/cal-FlakToxicannon.png",
+"h": 20,
+"w": 64
+},
+"|Flamarang": {
+"f": "i/v-Flamarang.png",
+"h": 32,
+"w": 18
+},
+"|Flamelash": {
+"f": "i/v-Flamelash.png",
+"h": 28,
+"w": 28
+},
+"|Flamsteed Ring": {
+"f": "i/cal-FlamsteedRing.png",
+"h": 28,
+"w": 28
+},
+"|Flare Bolt": {
+"f": "i/cal-FlareBolt.png",
+"h": 38,
+"w": 34
+},
+"|Flarewing Bow": {
+"f": "i/cal-FlarewingBow.png",
+"h": 64,
+"w": 36
+},
+"|Flash Round": {
+"f": "i/cal-FlashRound.png",
+"h": 18,
+"w": 12
+},
+"|Flashspark Boots": {
+"f": "i/sots-FlashsparkBoots.png",
+"h": 34,
+"w": 42
+},
+"|Flask of Brimstone": {
+"f": "i/cal-FlaskOfBrimstone.png",
+"h": 34,
+"w": 30
+},
+"|Flask of Crumbling": {
+"f": "i/cal-FlaskOfCrumbling.png",
+"h": 28,
+"w": 32
+},
+"|Flask of Cursed Flames": {
+"f": "i/v-FlaskofCursedFlames.png",
+"h": 30,
+"w": 22
+},
+"|Flask of Holy Flames": {
+"f": "i/cal-FlaskOfHolyFlames.png",
+"h": 36,
+"w": 44
+},
+"|Flask of Ichor": {
+"f": "i/v-FlaskofIchor.png",
+"h": 28,
+"w": 22
+},
+"|Flask of Poison": {
+"f": "i/v-FlaskofPoison.png",
+"h": 28,
+"w": 18
+},
+"|Flask of Venom": {
+"f": "i/v-FlaskofVenom.png",
+"h": 30,
+"w": 22
+},
+"|Fledgling Wings": {
+"f": "i/v-CreativeWings.png",
+"h": 30,
+"w": 24
+},
+"|Flesh Horn": {
+"f": "i/tho-FleshHorn.png",
+"h": 26,
+"w": 54
+},
+"|Flesh armor": {
+"f": "i/tho-FleshMask.png",
+"h": 28,
+"w": 34
+},
+"|Flight armor": {
+"f": "i/tho-FlightMask.png",
+"h": 22,
+"w": 32
+},
+"|Flowers of Mortality": {
+"f": "i/cal-FlowersOfMortality.png",
+"h": 58,
+"w": 60
+},
+"|Flurrystorm Cannon": {
+"f": "i/cal-FlurrystormCannon.png",
+"h": 34,
+"w": 64
+},
+"|Focus Crystal": {
+"f": "i/sots-FocusCrystal.png",
+"h": 22,
+"w": 22
+},
+"|Focus Reticle": {
+"f": "i/sots-FocusReticle.png",
+"h": 28,
+"w": 30
+},
+"|Forbidden Maelstrom": {
+"f": "i/sbh-ForbiddenMaelstrom.png",
+"h": 52,
+"w": 52
+},
+"|Forest Ocarina": {
+"f": "i/tho-ForestOcarina.png",
+"h": 24,
+"w": 32
+},
+"|Forsaken Saber": {
+"f": "i/cal-ForsakenSaber.png",
+"h": 64,
+"w": 57
+},
+"|Fortress Crasher": {
+"f": "i/sots-FortressCrasher.png",
+"h": 64,
+"w": 64
+},
+"|Fossil armor": {
+"f": "i/v-FossilHelm.png",
+"h": 20,
+"w": 26
+},
+"|Fractured Ark": {
+"f": "i/cal-FracturedArk.png",
+"h": 60,
+"w": 60
+},
+"|Fragments of Another World": {
+"f": "i/cal-FragmentsOfAnotherWorld.png",
+"h": 58,
+"w": 62
+},
+"|Frenzy Potion": {
+"f": "i/tho-FrenzyPotion.png",
+"h": 30,
+"w": 20
+},
+"|Friendly-Fire Staff": {
+"f": "i/tho-FriendlyFireStaff.png",
+"h": 42,
+"w": 42
+},
+"|Frigid Javelin": {
+"f": "i/sots-FrigidJavelin.png",
+"h": 46,
+"w": 46
+},
+"|Frigidflash Bolt": {
+"f": "i/cal-FrigidflashBolt.png",
+"h": 42,
+"w": 38
+},
+"|Frog Leg": {
+"f": "i/v-FrogLeg.png",
+"h": 34,
+"w": 34
+},
+"|Frost Artifact armor": {
+"f": "i/sots-FrostArtifactHelmet.png",
+"h": 22,
+"w": 26
+},
+"|Frost Blossom Staff": {
+"f": "i/cal-FrostBlossomStaff.png",
+"h": 46,
+"w": 42
+},
+"|Frost armor": {
+"f": "i/v-FrostHelmet.png",
+"h": 24,
+"w": 28
+},
+"|Frostburn Arrow": {
+"f": "i/v-FrostburnArrow.png",
+"h": 32,
+"w": 14
+},
+"|Frostwind Cymbals": {
+"f": "i/tho-FrostwindCymbals.png",
+"h": 38,
+"w": 40
+},
+"|Frozen Wings": {
+"f": "i/v-FrozenWings.png",
+"h": 28,
+"w": 26
+},
+"|Fuel Cell Bundle": {
+"f": "i/cal-FuelCellBundle.png",
+"h": 26,
+"w": 26
+},
+"|Funggat": {
+"f": "i/tho-Funggat.png",
+"h": 26,
+"w": 58
+},
+"|Fungicide": {
+"f": "i/cal-Fungicide.png",
+"h": 26,
+"w": 40
+},
+"|G-GSS: Scrap Guitar": {
+"f": "i/cbh-ScrapGuitar.png",
+"h": 56,
+"w": 62
+},
+"|Galactus Blade": {
+"f": "i/cal-GalactusBlade.png",
+"h": 64,
+"w": 63
+},
+"|Galaxy Smasher": {
+"f": "i/cal-GalaxySmasher.png",
+"h": 64,
+"w": 58
+},
+"|Galeforce": {
+"f": "i/cal-Galeforce.png",
+"h": 62,
+"w": 34
+},
+"|Galileo Gladius": {
+"f": "i/cal-GalileoGladius.png",
+"h": 46,
+"w": 44
+},
+"|Gauntlet of Annihilation": {
+"f": "i/ars-GauntletofAnnihilation.png",
+"h": 26,
+"w": 28
+},
+"|Gauss Flinger": {
+"f": "i/tho-GaussFlinger.png",
+"h": 30,
+"w": 36
+},
+"|Gel Dart": {
+"f": "i/cal-GelDart.png",
+"h": 54,
+"w": 26
+},
+"|Gel Glove": {
+"f": "i/tho-GelGlove.png",
+"h": 28,
+"w": 30
+},
+"|Gelatin Therapy": {
+"f": "i/cbh-GelatinTherapy.png",
+"h": 56,
+"w": 56
+},
+"|Gelitic Blade": {
+"f": "i/cal-GeliticBlade.png",
+"h": 64,
+"w": 40
+},
+"|Gem Tech armor": {
+"f": "i/cal-GemTechHeadgear.png",
+"h": 34,
+"w": 40
+},
+"|Genesis": {
+"f": "i/cal-Genesis.png",
+"h": 27,
+"w": 64
+},
+"|Geode Saxophone": {
+"f": "i/tho-GeodeSaxophone.png",
+"h": 54,
+"w": 28
+},
+"|Geostorm": {
+"f": "i/sots-Geostorm.png",
+"h": 38,
+"w": 26
+},
+"|Ghastly French Horn": {
+"f": "i/tho-GhastlyFrenchHorn.png",
+"h": 56,
+"w": 52
+},
+"|Ghoul Blaster": {
+"f": "i/sots-GhoulBlaster.png",
+"h": 26,
+"w": 42
+},
+"|Gilded Blade Wings": {
+"f": "i/sots-GildedBladeWings.png",
+"h": 30,
+"w": 38
+},
+"|Gilded Dagger": {
+"f": "i/cal-GildedDagger.png",
+"h": 26,
+"w": 32
+},
+"|Gladiator armor": {
+"f": "i/v-GladiatorHelmet.png",
+"h": 30,
+"w": 24
+},
+"|Gladiator's Locket": {
+"f": "i/cal-GladiatorsLocket.png",
+"h": 54,
+"w": 48
+},
+"|Gleaming Dagger": {
+"f": "i/cal-GleamingDagger.png",
+"h": 26,
+"w": 32
+},
+"|Gleaming Magnolia": {
+"f": "i/cal-GleamingMagnolia.png",
+"h": 56,
+"w": 58
+},
+"|Gloom Switch": {
+"f": "i/ars-GloomSwitch.png",
+"h": 46,
+"w": 60
+},
+"|Glove of Precision": {
+"f": "i/cal-GloveOfPrecision.png",
+"h": 40,
+"w": 24
+},
+"|Glow Jelly": {
+"f": "i/sots-GlowJelly.png",
+"h": 42,
+"w": 26
+},
+"|Glow Spores": {
+"f": "i/sots-GlowSpores.png",
+"h": 34,
+"w": 20
+},
+"|Glow Whip": {
+"f": "i/sots-GlowWhip.png",
+"h": 48,
+"w": 38
+},
+"|Goblet of Entrails": {
+"f": "i/sots-GobletOfEntrails.png",
+"h": 36,
+"w": 28
+},
+"|Goblin War Spear": {
+"f": "i/tho-GoblinWarSpear.png",
+"h": 46,
+"w": 46
+},
+"|God Slayer Slugs": {
+"f": "i/cal-GodSlayerSlug.png",
+"h": 50,
+"w": 22
+},
+"|God Slayer armor": {
+"f": "i/cal-GodSlayerHeadRanged.png",
+"h": 22,
+"w": 22
+},
+"|Gold Arc Staff": {
+"f": "i/sots-GoldArkStaff.png",
+"h": 36,
+"w": 36
+},
+"|Gold Bugle Horn": {
+"f": "i/tho-GoldBugleHorn.png",
+"h": 28,
+"w": 46
+},
+"|Gold Glaive": {
+"f": "i/sots-GoldGlaive.png",
+"h": 40,
+"w": 42
+},
+"|Goldplume Spear": {
+"f": "i/cal-GoldplumeSpear.png",
+"h": 64,
+"w": 64
+},
+"|Goobow": {
+"f": "i/cal-Goobow.png",
+"h": 64,
+"w": 21
+},
+"|Goopwood Helix": {
+"f": "i/sots-WormWoodHelix.png",
+"h": 30,
+"w": 60
+},
+"|Goopwood Parasite": {
+"f": "i/sots-WormWoodParasite.png",
+"h": 30,
+"w": 30
+},
+"|Goopwood Reap": {
+"f": "i/sbh-GoopwoodReap.png",
+"h": 64,
+"w": 43
+},
+"|Goopwood Scepter": {
+"f": "i/sots-WormWoodScepter.png",
+"h": 44,
+"w": 44
+},
+"|Goopwood Split": {
+"f": "i/sbh-GoopwoodSplit.png",
+"h": 44,
+"w": 44
+},
+"|Goopwood Staff": {
+"f": "i/sots-WormWoodStaff.png",
+"h": 36,
+"w": 36
+},
+"|Goopwood Wiggle": {
+"f": "i/sbh-GoopwoodWiggle.png",
+"h": 14,
+"w": 58
+},
+"|Gorgon's Eye": {
+"f": "i/tho-GorgonsEye.png",
+"h": 26,
+"w": 30
+},
+"|Grand Dad": {
+"f": "i/cal-GrandDad.png",
+"h": 64,
+"w": 64
+},
+"|Grand Gelatin": {
+"f": "i/cal-GrandGelatin.png",
+"h": 52,
+"w": 34
+},
+"|Grand Guardian": {
+"f": "i/cal-GrandGuardian.png",
+"h": 64,
+"w": 64
+},
+"|Grand Piano": {
+"f": "i/tho-GrandPiano.png",
+"h": 32,
+"w": 46
+},
+"|Grand Thunder Whip": {
+"f": "i/ars-GrandThunderWhip.png",
+"h": 34,
+"w": 38
+},
+"|Granite Boom Box": {
+"f": "i/tho-GraniteBoomBox.png",
+"h": 28,
+"w": 46
+},
+"|Granite Crossbow": {
+"f": "i/tho-GraniteCrossbow.png",
+"h": 24,
+"w": 40
+},
+"|Granite Reflector": {
+"f": "i/tho-GraniteReflector.png",
+"h": 44,
+"w": 18
+},
+"|Granite Throwing Axe": {
+"f": "i/tho-GraniteThrowingAxe.png",
+"h": 38,
+"w": 38
+},
+"|Gravity Normalizer Potion": {
+"f": "i/cal-GravityNormalizerPotion.png",
+"h": 36,
+"w": 24
+},
+"|Gray Zapinator": {
+"f": "i/v-ZapinatorGray.png",
+"h": 22,
+"w": 46
+},
+"|Greater Healing Potion": {
+"f": "i/v-GreaterHealingPotion.png",
+"h": 28,
+"w": 20
+},
+"|Greatsword of Judgement": {
+"f": "i/cal-GreatswordofJudgement.png",
+"h": 64,
+"w": 64
+},
+"|Greedful Gurdy": {
+"f": "i/tho-GreedfulGurdy.png",
+"h": 48,
+"w": 48
+},
+"|Guardian Greatsword": {
+"f": "i/sots-GuardianGreatsword.png",
+"h": 58,
+"w": 58
+},
+"|Guilty Pleasure": {
+"f": "i/tho-GuiltyPleasure.png",
+"h": 56,
+"w": 56
+},
+"|Guitar Pick": {
+"f": "i/tho-GuitarPick.png",
+"h": 30,
+"w": 30
+},
+"|Gungnir": {
+"f": "i/v-Gungnir.png",
+"h": 54,
+"w": 54
+},
+"|Gunk Shot": {
+"f": "i/cal-GunkShot.png",
+"h": 24,
+"w": 64
+},
+"|Hadal Mantle": {
+"f": "i/cal-HadalMantle.png",
+"h": 30,
+"w": 30
+},
+"|Hadal Stew": {
+"f": "i/cal-HadalStew.png",
+"h": 18,
+"w": 28
+},
+"|Hailstorm Bullets": {
+"f": "i/cal-HailstormBullet.png",
+"h": 20,
+"w": 14
+},
+"|Halibut Cannon": {
+"f": "i/cal-HalibutCannon.png",
+"h": 30,
+"w": 64
+},
+"|Halley's Inferno": {
+"f": "i/cal-HalleysInferno.png",
+"h": 28,
+"w": 64
+},
+"|Hallow-Point Rounds": {
+"f": "i/cal-HallowPointRound.png",
+"h": 18,
+"w": 8
+},
+"|Hallowed Blessing": {
+"f": "i/tho-HallowedBlessing.png",
+"h": 46,
+"w": 46
+},
+"|Hallowed Megaphone": {
+"f": "i/tho-HallowedMegaphone.png",
+"h": 38,
+"w": 36
+},
+"|Hallowed Rune": {
+"f": "i/cal-HallowedRune.png",
+"h": 32,
+"w": 22
+},
+"|Hallowed Scythe": {
+"f": "i/tho-HallowedScythe.png",
+"h": 54,
+"w": 58
+},
+"|Hallowed armor": {
+"f": "i/v-HallowedHelmet.png",
+"h": 22,
+"w": 22
+},
+"|Hardened Honeycomb": {
+"f": "i/cal-HardenedHoneycomb.png",
+"h": 32,
+"w": 30
+},
+"|Hardlight Glaive": {
+"f": "i/sots-HardlightGlaive.png",
+"h": 54,
+"w": 48
+},
+"|Harp-Y": {
+"f": "i/cbh-HarpY.png",
+"h": 44,
+"w": 54
+},
+"|Harpy Pelter": {
+"f": "i/tho-HarpyPelter.png",
+"h": 25,
+"w": 64
+},
+"|Harpy Ring": {
+"f": "i/cal-HarpyRing.png",
+"h": 24,
+"w": 18
+},
+"|Harvester's Scythe": {
+"f": "i/sots-HarvestersScythe.png",
+"h": 32,
+"w": 24
+},
+"|Haunting Bass Drum": {
+"f": "i/tho-HauntingBassDrum.png",
+"h": 50,
+"w": 56
+},
+"|Healing Potion": {
+"f": "i/v-HealingPotion.png",
+"h": 26,
+"w": 20
+},
+"|Heart Wand": {
+"f": "i/tho-HeartWand.png",
+"h": 36,
+"w": 36
+},
+"|Heart of Darkness": {
+"f": "i/cal-HeartofDarkness.png",
+"h": 62,
+"w": 44
+},
+"|Heart of the Elements": {
+"f": "i/cal-HeartoftheElements.png",
+"h": 32,
+"w": 34
+},
+"|Heartreach Potion": {
+"f": "i/v-HeartreachPotion.png",
+"h": 30,
+"w": 20
+},
+"|Heartstriker": {
+"f": "i/tho-Heartstriker.png",
+"h": 40,
+"w": 44
+},
+"|Heavenly Cloud Scepter": {
+"f": "i/tho-HeavenlyCloudScepter.png",
+"h": 46,
+"w": 46
+},
+"|Hell's Bell": {
+"f": "i/tho-HellBell.png",
+"h": 40,
+"w": 40
+},
+"|Hellborn": {
+"f": "i/cal-Hellborn.png",
+"h": 34,
+"w": 62
+},
+"|Hellfire Arrow": {
+"f": "i/v-HellfireArrow.png",
+"h": 32,
+"w": 14
+},
+"|Hellfire Minigun": {
+"f": "i/tho-HellfireMinigun.png",
+"h": 30,
+"w": 56
+},
+"|Hellwing Staff": {
+"f": "i/cal-HellwingStaff.png",
+"h": 55,
+"w": 64
+},
+"|Hematemesis": {
+"f": "i/cal-Hematemesis.png",
+"h": 56,
+"w": 54
+},
+"|Heretic Breaker": {
+"f": "i/tho-HereticBreaker.png",
+"h": 42,
+"w": 42
+},
+"|Hermes Boots": {
+"f": "i/v-HermesBoots.png",
+"h": 28,
+"w": 34
+},
+"|Herring Staff": {
+"f": "i/cal-HerringStaff.png",
+"h": 48,
+"w": 48
+},
+"|Hexing Talisman": {
+"f": "i/tho-HexingTalisman.png",
+"h": 32,
+"w": 32
+},
+"|Hidden Blade": {
+"f": "i/tho-TechniqueHiddenBlade.png",
+"h": 44,
+"w": 38
+},
+"|High Quality Reed": {
+"f": "i/tho-HighQualityReed.png",
+"h": 22,
+"w": 10
+},
+"|High Tide": {
+"f": "i/tho-HighTide.png",
+"h": 44,
+"w": 44
+},
+"|Hit Scanner": {
+"f": "i/tho-HitScanner.png",
+"h": 30,
+"w": 56
+},
+"|Hive Pack": {
+"f": "i/v-HiveBackpack.png",
+"h": 30,
+"w": 30
+},
+"|Hive Pod": {
+"f": "i/cal-HivePod.png",
+"h": 50,
+"w": 46
+},
+"|Holophonor": {
+"f": "i/tho-Holophonor.png",
+"h": 16,
+"w": 64
+},
+"|Holy Arrows": {
+"f": "i/v-HolyArrow.png",
+"h": 32,
+"w": 14
+},
+"|Holy Fire": {
+"f": "i/tho-HolyFire.png",
+"h": 30,
+"w": 28
+},
+"|Holy Fire Bullets": {
+"f": "i/cal-HolyFireBullet.png",
+"h": 32,
+"w": 24
+},
+"|Holy Hammer": {
+"f": "i/tho-HolyHammer.png",
+"h": 42,
+"w": 42
+},
+"|Honey Dew": {
+"f": "i/cal-HoneyDew.png",
+"h": 36,
+"w": 32
+},
+"|Honeyfin": {
+"f": "i/v-Honeyfin.png",
+"h": 34,
+"w": 34
+},
+"|Hornet Staff": {
+"f": "i/v-HornetStaff.png",
+"h": 34,
+"w": 34
+},
+"|Hot Horn": {
+"f": "i/tho-HotHorn.png",
+"h": 46,
+"w": 56
+},
+"|Houndius Shootius": {
+"f": "i/v-HoundiusShootius.png",
+"h": 46,
+"w": 34
+},
+"|Hydra": {
+"f": "i/cal-Hydra.png",
+"h": 29,
+"w": 64
+},
+"|Hydration Potion": {
+"f": "i/tho-HydrationPotion.png",
+"h": 36,
+"w": 16
+},
+"|Hydrokinetic Antennae": {
+"f": "i/sots-HydrokineticAntennae.png",
+"h": 42,
+"w": 42
+},
+"|Hydrothermic armor": {
+"f": "i/cal-HydrothermicArmor.png",
+"h": 28,
+"w": 42
+},
+"|Hyperdeath Rift Scepter": {
+"f": "i/cal-HyperdeathRiftScepter.png",
+"h": 64,
+"w": 61
+},
+"|Hyperdrive": {
+"f": "i/sots-Hyperdrive.png",
+"h": 30,
+"w": 28
+},
+"|Ice Cube": {
+"f": "i/tho-IceCube.png",
+"h": 40,
+"w": 40
+},
+"|Ice Shaver": {
+"f": "i/tho-IceShaver.png",
+"h": 38,
+"w": 46
+},
+"|Ice Star": {
+"f": "i/cal-IceStar.png",
+"h": 64,
+"w": 64
+},
+"|Ichor Arrow": {
+"f": "i/v-IchorArrow.png",
+"h": 38,
+"w": 14
+},
+"|Ichor Arrows": {
+"f": "i/v-IchorArrow.png",
+"h": 38,
+"w": 14
+},
+"|Ichor Bullet": {
+"f": "i/v-IchorBullet.png",
+"h": 14,
+"w": 10
+},
+"|Ichor Bullets": {
+"f": "i/v-IchorBullet.png",
+"h": 14,
+"w": 10
+},
+"|Ichor Darts": {
+"f": "i/v-IchorDart.png",
+"h": 30,
+"w": 14
+},
+"|Ichor Spear": {
+"f": "i/cal-IchorSpear.png",
+"h": 52,
+"w": 52
+},
+"|Icy Piccolo": {
+"f": "i/tho-IcyPiccolo.png",
+"h": 14,
+"w": 44
+},
+"|Idol's Microphone": {
+"f": "i/tho-IdolsMicrophone.png",
+"h": 40,
+"w": 40
+},
+"|Igneous Exaltation": {
+"f": "i/cal-IgneousExaltation.png",
+"h": 50,
+"w": 52
+},
+"|Illuminant Axe": {
+"f": "i/sots-IlluminantAxe.png",
+"h": 46,
+"w": 54
+},
+"|Illuminant Bow": {
+"f": "i/sots-IlluminantBow.png",
+"h": 60,
+"w": 32
+},
+"|Illuminant Staff": {
+"f": "i/sots-IlluminantStaff.png",
+"h": 64,
+"w": 36
+},
+"|Illumite Blade": {
+"f": "i/tho-IllumiteBlade.png",
+"h": 52,
+"w": 52
+},
+"|Illumite Scythe": {
+"f": "i/tho-IllumiteScythe.png",
+"h": 44,
+"w": 54
+},
+"|Imp Staff": {
+"f": "i/v-ImpStaff.png",
+"h": 46,
+"w": 46
+},
+"|Infected Jewel": {
+"f": "i/cal-InfectedJewel.png",
+"h": 40,
+"w": 30
+},
+"|Infected Remote": {
+"f": "i/cal-InfectedRemote.png",
+"h": 36,
+"w": 32
+},
+"|Infernal Animator": {
+"f": "i/tho-InfernalAnimator.png",
+"h": 40,
+"w": 40
+},
+"|Infernal Blood": {
+"f": "i/cal-InfernalBlood.png",
+"h": 38,
+"w": 28
+},
+"|Infernal Kris": {
+"f": "i/cal-InfernalKris.png",
+"h": 38,
+"w": 32
+},
+"|Inferno Conduit": {
+"f": "i/sots-InfernoConduit.png",
+"h": 46,
+"w": 58
+},
+"|Inferno Potion": {
+"f": "i/v-InfernoPotion.png",
+"h": 30,
+"w": 20
+},
+"|Inferno Staff": {
+"f": "i/tho-InfernoStaff.png",
+"h": 48,
+"w": 48
+},
+"|Infinity Pouch": {
+"f": "i/sots-InfinityPouch.png",
+"h": 38,
+"w": 30
+},
+"|Influx Waver": {
+"f": "i/v-InfluxWaver.png",
+"h": 50,
+"w": 50
+},
+"|Inner Flame": {
+"f": "i/tho-InnerFlame.png",
+"h": 34,
+"w": 26
+},
+"|Intergelactic armor": {
+"f": "i/cat-IntergelacticHeadRogue.png",
+"h": 22,
+"w": 20
+},
+"|Ion Blaster": {
+"f": "i/cal-IonBlaster.png",
+"h": 36,
+"w": 64
+},
+"|Iridescent Staff": {
+"f": "i/tho-IridescentStaff.png",
+"h": 48,
+"w": 48
+},
+"|Iridescent armor": {
+"f": "i/tho-IridescentHelmet.png",
+"h": 20,
+"w": 24
+},
+"|Iron Francisca": {
+"f": "i/cal-IronFrancisca.png",
+"h": 34,
+"w": 36
+},
+"|Ironskin Potion": {
+"f": "i/v-IronskinPotion.png",
+"h": 30,
+"w": 12
+},
+"|Irradiated Chain-Reactor": {
+"f": "i/sots-IrradiatedChainReactor.png",
+"h": 54,
+"w": 54
+},
+"|Jaws of Oblivion": {
+"f": "i/cal-JawsOfOblivion.png",
+"h": 40,
+"w": 42
+},
+"|Jelly Slicer": {
+"f": "i/rag-JellySlicer.png",
+"h": 42,
+"w": 46
+},
+"|Jelly-Charged Battery": {
+"f": "i/cal-JellyChargedBattery.png",
+"h": 36,
+"w": 32
+},
+"|Jellyfish Jam": {
+"f": "i/trw-JellyfishJam.png",
+"h": 38,
+"w": 30
+},
+"|Jester's Arrow": {
+"f": "i/v-JestersArrow.png",
+"h": 32,
+"w": 14
+},
+"|Jester's armor": {
+"f": "i/tho-JestersMask.png",
+"h": 22,
+"w": 32
+},
+"|Jetstream Sheath": {
+"f": "i/tho-JetstreamSheath.png",
+"h": 34,
+"w": 36
+},
+"|Jingle Bells": {
+"f": "i/tho-JingleBells.png",
+"h": 42,
+"w": 42
+},
+"|Jungle armor": {
+"f": "i/v-JungleHat.png",
+"h": 18,
+"w": 26
+},
+"|Kaleidoscope": {
+"f": "i/v-RainbowWhip.png",
+"h": 44,
+"w": 42
+},
+"|Kazoo": {
+"f": "i/tho-Kazoo.png",
+"h": 12,
+"w": 30
+},
+"|Kelp Whip": {
+"f": "i/sots-KelpWhip.png",
+"h": 38,
+"w": 38
+},
+"|Kineto-scythe": {
+"f": "i/tho-Kinetoscythe.png",
+"h": 50,
+"w": 54
+},
+"|King Blade": {
+"f": "i/sots-KingBlade.png",
+"h": 64,
+"w": 64
+},
+"|King of Constellations, Tenryū": {
+"f": "i/cal-KingofConstellationsTenryu.png",
+"h": 62,
+"w": 44
+},
+"|Kylie": {
+"f": "i/cal-Kylie.png",
+"h": 50,
+"w": 34
+},
+"|Lasting Pliers": {
+"f": "i/tho-LastingPliers.png",
+"h": 34,
+"w": 36
+},
+"|Laudanum": {
+"f": "i/cal-Laudanum.png",
+"h": 40,
+"w": 30
+},
+"|Lead Tomahawk": {
+"f": "i/cal-LeadTomahawk.png",
+"h": 32,
+"w": 36
+},
+"|Leather Sheath": {
+"f": "i/tho-LeatherSheath.png",
+"h": 32,
+"w": 36
+},
+"|Leather Whip": {
+"f": "i/v-BlandWhip.png",
+"h": 34,
+"w": 38
+},
+"|Leeching Sheath": {
+"f": "i/tho-LeechingSheath.png",
+"h": 34,
+"w": 38
+},
+"|Legion of Celestia": {
+"f": "i/cal-LegionofCelestia.png",
+"h": 64,
+"w": 50
+},
+"|Lesser Healing Potion": {
+"f": "i/v-LesserHealingPotion.png",
+"h": 26,
+"w": 20
+},
+"|Lethal Injection": {
+"f": "i/tho-LethalInjection.png",
+"h": 27,
+"w": 64
+},
+"|Leviathan Ambergris": {
+"f": "i/cal-LeviathanAmbergris.png",
+"h": 30,
+"w": 36
+},
+"|Leviathan Teeth": {
+"f": "i/cal-LeviathanTeeth.png",
+"h": 38,
+"w": 36
+},
+"|Li'l Devil's Wand": {
+"f": "i/tho-LilDevilsWand.png",
+"h": 52,
+"w": 52
+},
+"|Life Crystal": {
+"f": "i/v-LifeCrystal.png",
+"h": 22,
+"w": 22
+},
+"|Life Disperser": {
+"f": "i/tho-LifeDisperser.png",
+"h": 40,
+"w": 40
+},
+"|Life Fruit": {
+"f": "i/v-LifeFruit.png",
+"h": 26,
+"w": 28
+},
+"|Life Gem": {
+"f": "i/tho-LifeGem.png",
+"h": 26,
+"w": 26
+},
+"|Life Surge Staff": {
+"f": "i/tho-LifeSurgeStaff.png",
+"h": 52,
+"w": 52
+},
+"|Life and Death": {
+"f": "i/tho-LifeAndDeath.png",
+"h": 64,
+"w": 62
+},
+"|Life's Gift": {
+"f": "i/tho-LifesGift.png",
+"h": 46,
+"w": 46
+},
+"|Lifeforce Potion": {
+"f": "i/v-LifeforcePotion.png",
+"h": 30,
+"w": 20
+},
+"|Light Bringer's Warhammer": {
+"f": "i/tho-LightBringerWarhammer.png",
+"h": 64,
+"w": 64
+},
+"|Light's Anguish": {
+"f": "i/tho-LightAnguish.png",
+"h": 36,
+"w": 36
+},
+"|Light's Lament": {
+"f": "i/tho-LightsLament.png",
+"h": 54,
+"w": 44
+},
+"|Lightning Boots": {
+"f": "i/v-LightningBoots.png",
+"h": 28,
+"w": 32
+},
+"|Lightning Claves": {
+"f": "i/tho-LightningClaves.png",
+"h": 24,
+"w": 38
+},
+"|Lightspeed": {
+"f": "i/cal-Lightspeed.png",
+"h": 63,
+"w": 64
+},
+"|Lilies of Finality": {
+"f": "i/cal-LiliesOfFinality.png",
+"h": 50,
+"w": 36
+},
+"|Lionfish": {
+"f": "i/cal-Lionfish.png",
+"h": 38,
+"w": 42
+},
+"|Living Dew": {
+"f": "i/cal-LivingDew.png",
+"h": 22,
+"w": 34
+},
+"|Living Wood Acorn": {
+"f": "i/tho-LivingWoodAcorn.png",
+"h": 28,
+"w": 22
+},
+"|Living Wood Sap": {
+"f": "i/tho-LivingWoodSap.png",
+"h": 22,
+"w": 26
+},
+"|Living Wood armor": {
+"f": "i/tho-LivingWoodMask.png",
+"h": 26,
+"w": 22
+},
+"|Lodestone Radio": {
+"f": "i/tho-LodestoneRadio.png",
+"h": 36,
+"w": 36
+},
+"|Lost Oasis": {
+"f": "i/cbh-LostOasis.png",
+"h": 52,
+"w": 52
+},
+"|Loudener": {
+"f": "i/trw-Loudener.png",
+"h": 34,
+"w": 34
+},
+"|Lucidity": {
+"f": "i/tho-Lucidity.png",
+"h": 64,
+"w": 53
+},
+"|Lucrecia": {
+"f": "i/cal-Lucrecia.png",
+"h": 54,
+"w": 54
+},
+"|Luminite Arrows": {
+"f": "i/v-MoonlordArrow.png",
+"h": 34,
+"w": 14
+},
+"|Luminite Bullets": {
+"f": "i/v-MoonlordBullet.png",
+"h": 16,
+"w": 8
+},
+"|Lunar Kunai": {
+"f": "i/cal-LunarKunai.png",
+"h": 38,
+"w": 38
+},
+"|Lunar Portal Staff": {
+"f": "i/v-MoonlordTurretStaff.png",
+"h": 40,
+"w": 40
+},
+"|Lunarian Bow": {
+"f": "i/cal-LunarianBow.png",
+"h": 62,
+"w": 32
+},
+"|Lunic Corps armor": {
+"f": "i/cal-LunicCorpsHelmet.png",
+"h": 22,
+"w": 24
+},
+"|Lunic Eye": {
+"f": "i/cal-LunicEye.png",
+"h": 36,
+"w": 60
+},
+"|Lustrous Baton": {
+"f": "i/tho-LustrousBaton.png",
+"h": 64,
+"w": 64
+},
+"|Luxor's Gift": {
+"f": "i/cal-LuxorsGift.png",
+"h": 45,
+"w": 64
+},
+"|Lycanroc": {
+"f": "i/ie-Lycanroc.png",
+"h": 27,
+"w": 64
+},
+"|MOAB": {
+"f": "i/cal-MOAB.png",
+"h": 36,
+"w": 34
+},
+"|Machina Booster": {
+"f": "i/sots-MachinaBooster.png",
+"h": 28,
+"w": 52
+},
+"|Magic Hat": {
+"f": "i/v-MagicHat.png",
+"h": 18,
+"w": 28
+},
+"|Magic Power Potion": {
+"f": "i/v-MagicPowerPotion.png",
+"h": 30,
+"w": 20
+},
+"|Magic Quiver": {
+"f": "i/v-MagicQuiver.png",
+"h": 30,
+"w": 30
+},
+"|Magick Staff": {
+"f": "i/tho-MagickStaff.png",
+"h": 48,
+"w": 48
+},
+"|Magiluminescence": {
+"f": "i/v-Magiluminescence.png",
+"h": 26,
+"w": 24
+},
+"|Magma Concentrator": {
+"f": "i/sots-MagmaBeam.png",
+"h": 32,
+"w": 44
+},
+"|Magma Stone": {
+"f": "i/v-MagmaStone.png",
+"h": 28,
+"w": 28
+},
+"|Magna Cannon": {
+"f": "i/cal-MagnaCannon.png",
+"h": 30,
+"w": 58
+},
+"|Magneto Grip": {
+"f": "i/tho-MagnetoGrip.png",
+"h": 34,
+"w": 32
+},
+"|Majestic Guard": {
+"f": "i/cal-MajesticGuard.png",
+"h": 64,
+"w": 64
+},
+"|Malaise": {
+"f": "i/v-CorruptYoyo.png",
+"h": 26,
+"w": 30
+},
+"|Mana Bauble": {
+"f": "i/tho-ManaBauble.png",
+"h": 22,
+"w": 22
+},
+"|Mana Flower": {
+"f": "i/v-ManaFlower.png",
+"h": 44,
+"w": 20
+},
+"|Mana Polarizer": {
+"f": "i/cal-ManaPolarizer.png",
+"h": 38,
+"w": 50
+},
+"|Mana Potion": {
+"f": "i/v-ManaPotion.png",
+"h": 26,
+"w": 20
+},
+"|Mana Regeneration Band": {
+"f": "i/v-ManaRegenerationBand.png",
+"h": 20,
+"w": 28
+},
+"|Mana Regeneration Potion": {
+"f": "i/v-ManaRegenerationPotion.png",
+"h": 30,
+"w": 20
+},
+"|Mantis Grip": {
+"f": "i/sots-MantisGrip.png",
+"h": 50,
+"w": 50
+},
+"|Mantle of the Protector": {
+"f": "i/tho-MantleoftheProtector.png",
+"h": 32,
+"w": 32
+},
+"|Marble Scythe": {
+"f": "i/rag-MarbleScythe.png",
+"h": 46,
+"w": 52
+},
+"|Marching Boots": {
+"f": "i/tho-MarchingBoots.png",
+"h": 16,
+"w": 30
+},
+"|Marine Wine Glass": {
+"f": "i/tho-MarineWineGlass.png",
+"h": 30,
+"w": 18
+},
+"|Marrow": {
+"f": "i/v-Marrow.png",
+"h": 36,
+"w": 22
+},
+"|Mechanical Glove": {
+"f": "i/v-MechanicalGlove.png",
+"h": 28,
+"w": 22
+},
+"|Megalodon": {
+"f": "i/cal-Megalodon.png",
+"h": 26,
+"w": 64
+},
+"|Megashark": {
+"f": "i/v-Megashark.png",
+"h": 26,
+"w": 64
+},
+"|Metal Monstrosity": {
+"f": "i/cal-MetalMonstrosity.png",
+"h": 32,
+"w": 32
+},
+"|Metastasis": {
+"f": "i/cal-Metastasis.png",
+"h": 64,
+"w": 54
+},
+"|Meteor Fist": {
+"f": "i/cal-MeteorFist.png",
+"h": 26,
+"w": 26
+},
+"|Meteor Staff": {
+"f": "i/v-MeteorStaff.png",
+"h": 42,
+"w": 44
+},
+"|Meteor Stomp": {
+"f": "i/tho-TechniqueMeteorStomp.png",
+"h": 44,
+"w": 38
+},
+"|Meteor armor": {
+"f": "i/v-MeteorHelmet.png",
+"h": 24,
+"w": 22
+},
+"|Meteorite Cluster Bomb": {
+"f": "i/tho-MeteoriteClusterBomb.png",
+"h": 24,
+"w": 16
+},
+"|Microphone": {
+"f": "i/tho-Microphone.png",
+"h": 34,
+"w": 34
+},
+"|Midnight Bass Booster": {
+"f": "i/tho-MidnightBassBooster.png",
+"h": 31,
+"w": 64
+},
+"|Midnight Prism": {
+"f": "i/sots-MidnightPrism.png",
+"h": 36,
+"w": 30
+},
+"|Midnight Staff": {
+"f": "i/tho-MidnightStaff.png",
+"h": 46,
+"w": 46
+},
+"|Midnight Sun Beacon": {
+"f": "i/cal-MidnightSunBeacon.png",
+"h": 32,
+"w": 32
+},
+"|Mind Melter": {
+"f": "i/tho-MindMelter.png",
+"h": 52,
+"w": 52
+},
+"|Mini Nuke I": {
+"f": "i/v-MiniNukeI.png",
+"h": 16,
+"w": 24
+},
+"|Minishark": {
+"f": "i/v-Minishark.png",
+"h": 20,
+"w": 54
+},
+"|Miracle Fruit": {
+"f": "i/cal-MiracleFruit.png",
+"h": 36,
+"w": 32
+},
+"|Mirage Mirror": {
+"f": "i/cal-MirageMirror.png",
+"h": 30,
+"w": 30
+},
+"|Mirror Blade": {
+"f": "i/cal-MirrorBlade.png",
+"h": 64,
+"w": 58
+},
+"|Mirror of Kalandra": {
+"f": "i/cal-MirrorofKalandra.png",
+"h": 50,
+"w": 58
+},
+"|Mix Tape": {
+"f": "i/tho-MixTape.png",
+"h": 28,
+"w": 34
+},
+"|Mjölnir": {
+"f": "i/tho-Mjolnir.png",
+"h": 52,
+"w": 44
+},
+"|Mollusk armor": {
+"f": "i/cal-MolluskShellmet.png",
+"h": 22,
+"w": 22
+},
+"|Molten Amputator": {
+"f": "i/cal-MoltenAmputator.png",
+"h": 56,
+"w": 64
+},
+"|Molten Thresher": {
+"f": "i/tho-MoltenThresher.png",
+"h": 46,
+"w": 64
+},
+"|Molten armor": {
+"f": "i/v-MoltenHelmet.png",
+"h": 18,
+"w": 20
+},
+"|Monk armor": {
+"f": "i/v-MonkBrows.png",
+"h": 18,
+"w": 18
+},
+"|Monsoon": {
+"f": "i/cal-Monsoon.png",
+"h": 64,
+"w": 38
+},
+"|Monstrous Knives": {
+"f": "i/cal-MonstrousKnives.png",
+"h": 22,
+"w": 22
+},
+"|Moon Walkers": {
+"f": "i/cal-MoonWalkers.png",
+"h": 38,
+"w": 64
+},
+"|Moonlight": {
+"f": "i/tho-Moonlight.png",
+"h": 50,
+"w": 50
+},
+"|Morning Dew": {
+"f": "i/tho-MorningDew.png",
+"h": 46,
+"w": 46
+},
+"|Morning Star": {
+"f": "i/v-MaceWhip.png",
+"h": 26,
+"w": 40
+},
+"|Mortar Staff": {
+"f": "i/tho-MortarStaff.png",
+"h": 54,
+"w": 54
+},
+"|Mothwing Dagger": {
+"f": "i/ars-MothwingDagger.png",
+"h": 29,
+"w": 17
+},
+"|Mouthpiece": {
+"f": "i/tho-Mouthpiece.png",
+"h": 16,
+"w": 30
+},
+"|Murasama": {
+"f": "i/cal-Murasama.png",
+"h": 64,
+"w": 27
+},
+"|Music Notes": {
+"f": "i/tho-MusicNotes.png",
+"h": 40,
+"w": 46
+},
+"|Musket": {
+"f": "i/v-Musket.png",
+"h": 18,
+"w": 56
+},
+"|Musket Ball": {
+"f": "i/v-MusketBall.png",
+"h": 12,
+"w": 12
+},
+"|Mutated Truffle": {
+"f": "i/cal-MutatedTruffle.png",
+"h": 26,
+"w": 24
+},
+"|Mycoroot": {
+"f": "i/cal-Mycoroot.png",
+"h": 34,
+"w": 40
+},
+"|Myrindael": {
+"f": "i/inf-Myrindael.png",
+"h": 64,
+"w": 64
+},
+"|Mystic Robe": {
+"f": "i/v-GypsyRobe.png",
+"h": 34,
+"w": 34
+},
+"|Mythril Melodica": {
+"f": "i/tho-MythrilMelodica.png",
+"h": 38,
+"w": 52
+},
+"|Mythril armor": {
+"f": "i/v-MythrilHood.png",
+"h": 20,
+"w": 22
+},
+"|Nano Purge": {
+"f": "i/cal-NanoPurge.png",
+"h": 34,
+"w": 62
+},
+"|Nanotech": {
+"f": "i/cal-Nanotech.png",
+"h": 46,
+"w": 46
+},
+"|Nasty Cholla": {
+"f": "i/cal-NastyCholla.png",
+"h": 18,
+"w": 20
+},
+"|Nature Conduit": {
+"f": "i/sots-NatureConduit.png",
+"h": 42,
+"w": 42
+},
+"|Nature Spirit Staff": {
+"f": "i/sots-NatureSpiritStaff.png",
+"h": 42,
+"w": 38
+},
+"|Nebula Arcanum": {
+"f": "i/v-NebulaArcanum.png",
+"h": 32,
+"w": 34
+},
+"|Nebula Blaze": {
+"f": "i/v-NebulaBlaze.png",
+"h": 26,
+"w": 26
+},
+"|Nebula Mantle": {
+"f": "i/v-WingsNebula.png",
+"h": 26,
+"w": 26
+},
+"|Nebula armor": {
+"f": "i/v-NebulaHelmet.png",
+"h": 26,
+"w": 24
+},
+"|Necro armor": {
+"f": "i/v-NecroHelmet.png",
+"h": 28,
+"w": 26
+},
+"|Necromancer's Heart": {
+"f": "i/tho-NecromancersHeart.png",
+"h": 26,
+"w": 24
+},
+"|Needler": {
+"f": "i/cal-Needler.png",
+"h": 28,
+"w": 44
+},
+"|Night Illuminator": {
+"f": "i/sots-NightIlluminator.png",
+"h": 58,
+"w": 58
+},
+"|Night's Edge": {
+"f": "i/v-NightsEdge.png",
+"h": 54,
+"w": 50
+},
+"|Night's Ray": {
+"f": "i/cal-NightsRay.png",
+"h": 54,
+"w": 58
+},
+"|Nimbus Rod": {
+"f": "i/v-NimbusRod.png",
+"h": 36,
+"w": 42
+},
+"|Noble's armor": {
+"f": "i/tho-NoblesHat.png",
+"h": 18,
+"w": 30
+},
+"|Nocturne": {
+"f": "i/tho-Nocturne.png",
+"h": 64,
+"w": 35
+},
+"|Novice Cleric's armor": {
+"f": "i/tho-NoviceClericCowl.png",
+"h": 18,
+"w": 22
+},
+"|Nuclear Fuel Rod": {
+"f": "i/cal-NuclearFuelRod.png",
+"h": 36,
+"w": 18
+},
+"|Nuclear Fury": {
+"f": "i/cal-NuclearFury.png",
+"h": 40,
+"w": 38
+},
+"|Nucleogenesis": {
+"f": "i/cal-Nucleogenesis.png",
+"h": 52,
+"w": 48
+},
+"|Nucleosynthesis": {
+"f": "i/cal-Nucleosynthesis.png",
+"h": 64,
+"w": 64
+},
+"|Nullification Pistol": {
+"f": "i/cal-NullificationPistol.png",
+"h": 28,
+"w": 52
+},
+"|Nurse's Purse": {
+"f": "i/tho-NursePurse.png",
+"h": 30,
+"w": 30
+},
+"|Obsidian Eruption": {
+"f": "i/sots-ObsidianEruption.png",
+"h": 34,
+"w": 34
+},
+"|Obsidian Scale": {
+"f": "i/tho-ObsidianScale.png",
+"h": 38,
+"w": 32
+},
+"|Obsidian Shield": {
+"f": "i/v-ObsidianShield.png",
+"h": 32,
+"w": 28
+},
+"|Obsidian armor": {
+"f": "i/v-ObsidianHelm.png",
+"h": 22,
+"w": 34
+},
+"|Occult Skull Crown": {
+"f": "i/cal-OccultSkullCrown.png",
+"h": 48,
+"w": 64
+},
+"|Ocean's Judgement": {
+"f": "i/tho-OceansJudgement.png",
+"h": 54,
+"w": 54
+},
+"|Old Lord Claymore": {
+"f": "i/cal-OldLordClaymore.png",
+"h": 64,
+"w": 64
+},
+"|Olympian Aegis": {
+"f": "i/sots-OlympianAegis.png",
+"h": 42,
+"w": 34
+},
+"|Olympic Torch": {
+"f": "i/tho-OlympicTorch.png",
+"h": 48,
+"w": 18
+},
+"|Omega Blue armor": {
+"f": "i/cal-OmegaBlueHelmet.png",
+"h": 28,
+"w": 38
+},
+"|Omega Healing Potion": {
+"f": "i/cal-OmegaHealingPotion.png",
+"h": 32,
+"w": 24
+},
+"|Omen": {
+"f": "i/tho-Omen.png",
+"h": 54,
+"w": 54
+},
+"|Omicron": {
+"f": "i/cal-Omicron.png",
+"h": 28,
+"w": 64
+},
+"|Omniblade": {
+"f": "i/cal-Omniblade.png",
+"h": 64,
+"w": 29
+},
+"|One-man Quartet": {
+"f": "i/tho-OnemanQuartet.png",
+"h": 46,
+"w": 42
+},
+"|Oneirophobia": {
+"f": "i/trw-Oneirophobia.png",
+"h": 46,
+"w": 38
+},
+"|Ontological Despoiler": {
+"f": "i/cal-OntologicalDespoiler.png",
+"h": 25,
+"w": 64
+},
+"|Onyxia": {
+"f": "i/cal-Onyxia.png",
+"h": 24,
+"w": 64
+},
+"|Opal Ring": {
+"f": "i/tho-OpalRing.png",
+"h": 20,
+"w": 26
+},
+"|Orderbringer": {
+"f": "i/cal-Orderbringer.png",
+"h": 64,
+"w": 64
+},
+"|Organ": {
+"f": "i/tho-Organ.png",
+"h": 42,
+"w": 50
+},
+"|Orichalcum Slide Whistle": {
+"f": "i/tho-OrichalcumSlideWhistle.png",
+"h": 30,
+"w": 64
+},
+"|Orichalcum armor": {
+"f": "i/v-OrichalcumMask.png",
+"h": 24,
+"w": 22
+},
+"|Ornate Shield": {
+"f": "i/cal-OrnateShield.png",
+"h": 34,
+"w": 34
+},
+"|Orthocera Shell": {
+"f": "i/cal-OrthoceraShell.png",
+"h": 34,
+"w": 34
+},
+"|Otherworld Conduit": {
+"f": "i/sots-OtherworldConduit.png",
+"h": 52,
+"w": 48
+},
+"|Otherworldly Amplifier": {
+"f": "i/sots-OtherworldlyAmplifier.png",
+"h": 42,
+"w": 26
+},
+"|Otherworldly Spirit Staff": {
+"f": "i/sots-OtherworldlySpiritStaff.png",
+"h": 50,
+"w": 50
+},
+"|Overloaded Blaster": {
+"f": "i/cal-OverloadedBlaster.png",
+"h": 34,
+"w": 42
+},
+"|P-LSR: Aerial Tracker": {
+"f": "i/cal-AerialTracker.png",
+"h": 40,
+"w": 52
+},
+"|Pagan's Grasp": {
+"f": "i/tho-PaganGrasp.png",
+"h": 58,
+"w": 50
+},
+"|Palladium Cowbell": {
+"f": "i/tho-PalladiumCowbell.png",
+"h": 38,
+"w": 30
+},
+"|Palladium Javelin": {
+"f": "i/cal-PalladiumJavelin.png",
+"h": 54,
+"w": 54
+},
+"|Palladium armor": {
+"f": "i/v-PalladiumMask.png",
+"h": 22,
+"w": 30
+},
+"|Palm Cross": {
+"f": "i/tho-PalmCross.png",
+"h": 34,
+"w": 14
+},
+"|Panflute": {
+"f": "i/tho-Panflute.png",
+"h": 36,
+"w": 48
+},
+"|Papyrus Scarab": {
+"f": "i/v-PapyrusScarab.png",
+"h": 36,
+"w": 36
+},
+"|Particle Whip": {
+"f": "i/tho-ParticleWhip.png",
+"h": 42,
+"w": 42
+},
+"|Patch Leather armor": {
+"f": "i/sots-PatchLeatherHat.png",
+"h": 14,
+"w": 28
+},
+"|Peanut Butter": {
+"f": "i/sots-PeanutButter.png",
+"h": 28,
+"w": 22
+},
+"|Pearlwood Bow": {
+"f": "i/v-PearlwoodBow.png",
+"h": 32,
+"w": 16
+},
+"|Perdition": {
+"f": "i/cal-Perdition.png",
+"h": 64,
+"w": 36
+},
+"|Permafrost Conduit": {
+"f": "i/sots-PermafrostConduit.png",
+"h": 60,
+"w": 60
+},
+"|Permafrost Spirit Staff": {
+"f": "i/sots-PermafrostSpiritStaff.png",
+"h": 48,
+"w": 48
+},
+"|Permafrost's Concoction": {
+"f": "i/cal-PermafrostsConcoction.png",
+"h": 38,
+"w": 40
+},
+"|Pew-matic Horn": {
+"f": "i/v-PewMaticHorn.png",
+"h": 26,
+"w": 28
+},
+"|Phantasmal Fury": {
+"f": "i/cal-PhantasmalFury.png",
+"h": 64,
+"w": 60
+},
+"|Phantasmal Ruin": {
+"f": "i/cal-PhantasmalRuin.png",
+"h": 64,
+"w": 61
+},
+"|Phantom Phoenix": {
+"f": "i/v-DD2PhoenixBow.png",
+"h": 58,
+"w": 28
+},
+"|Photon Geyser": {
+"f": "i/sots-PhotonGeyser.png",
+"h": 31,
+"w": 64
+},
+"|Photosynthesis Potion": {
+"f": "i/cal-PhotosynthesisPotion.png",
+"h": 34,
+"w": 30
+},
+"|Photoviscerator": {
+"f": "i/cal-Photoviscerator.png",
+"h": 20,
+"w": 64
+},
+"|Pick-Shaped Pebble": {
+"f": "i/trw-PickShapedPebble.png",
+"h": 24,
+"w": 24
+},
+"|Pill Popper": {
+"f": "i/tho-PillPopper.png",
+"h": 26,
+"w": 56
+},
+"|Pink Jellyfish Staff": {
+"f": "i/sots-PinkJellyfishStaff.png",
+"h": 32,
+"w": 34
+},
+"|Pistol Shrimp": {
+"f": "i/sots-PistolShrimp.png",
+"h": 30,
+"w": 32
+},
+"|Plague Reaper armor": {
+"f": "i/cal-PlagueReaperMask.png",
+"h": 22,
+"w": 26
+},
+"|Plague Staff": {
+"f": "i/cal-PlagueStaff.png",
+"h": 64,
+"w": 60
+},
+"|Plague Tainted SMG": {
+"f": "i/cal-PlagueTaintedSMG.png",
+"h": 33,
+"w": 64
+},
+"|Plaguebringer armor": {
+"f": "i/cal-PlaguebringerGoliathMask.png",
+"h": 26,
+"w": 26
+},
+"|Plaguenade": {
+"f": "i/cal-Plaguenade.png",
+"h": 28,
+"w": 20
+},
+"|Planebreaker's Pouch": {
+"f": "i/cal-PlanebreakersPouch.png",
+"h": 42,
+"w": 42
+},
+"|Planetary Annihilation": {
+"f": "i/cal-PlanetaryAnnihilation.png",
+"h": 64,
+"w": 38
+},
+"|Plantation Staff": {
+"f": "i/cal-PlantationStaff.png",
+"h": 50,
+"w": 50
+},
+"|Plasma Caster": {
+"f": "i/cal-PlasmaCaster.png",
+"h": 30,
+"w": 62
+},
+"|Plasma Generator": {
+"f": "i/tho-PlasmaGenerator.png",
+"h": 28,
+"w": 26
+},
+"|Plasma Grenade": {
+"f": "i/cal-PlasmaGrenade.png",
+"h": 28,
+"w": 22
+},
+"|Platform Generator": {
+"f": "i/sots-PlatformGenerator.png",
+"h": 34,
+"w": 34
+},
+"|Platinum Bugle Horn": {
+"f": "i/tho-PlatinumBugleHorn.png",
+"h": 28,
+"w": 46
+},
+"|Platinum Scythe": {
+"f": "i/sots-PlatinumScythe.png",
+"h": 48,
+"w": 48
+},
+"|Platinum Soul Staff": {
+"f": "i/sots-PlatinumSoulStaff.png",
+"h": 32,
+"w": 28
+},
+"|Plunger Mute": {
+"f": "i/tho-PlungerMute.png",
+"h": 26,
+"w": 26
+},
+"|Pocket Energy Storm": {
+"f": "i/trw-PocketEnergyStorm.png",
+"h": 42,
+"w": 42
+},
+"|Pod Bomb": {
+"f": "i/tho-SeedBomb.png",
+"h": 26,
+"w": 22
+},
+"|Pog Shark": {
+"f": "i/sots-SharkPog.png",
+"h": 30,
+"w": 62
+},
+"|Poison Prickler": {
+"f": "i/tho-PoisonPrickler.png",
+"h": 62,
+"w": 64
+},
+"|Polaris Parrotfish": {
+"f": "i/cal-PolarisParrotfish.png",
+"h": 34,
+"w": 36
+},
+"|Polyp Launcher": {
+"f": "i/cal-PolypLauncher.png",
+"h": 56,
+"w": 26
+},
+"|Portable Wintergatan": {
+"f": "i/tho-PortableWintergatan.png",
+"h": 36,
+"w": 48
+},
+"|Poseidon": {
+"f": "i/cal-Poseidon.png",
+"h": 40,
+"w": 34
+},
+"|Power Glove": {
+"f": "i/v-PowerGlove.png",
+"h": 28,
+"w": 20
+},
+"|Prehistoric Arachnid": {
+"f": "i/tho-PrehistoricArachnid.png",
+"h": 28,
+"w": 22
+},
+"|Prideful Hunter's Planar Ripper": {
+"f": "i/cal-PridefulHuntersPlanarRipper.png",
+"h": 28,
+"w": 50
+},
+"|Prime's Roar": {
+"f": "i/tho-PrimeRoar.png",
+"h": 35,
+"w": 64
+},
+"|Primordial Ancient": {
+"f": "i/cal-PrimordialAncient.png",
+"h": 54,
+"w": 40
+},
+"|Primordial Earth": {
+"f": "i/cal-PrimordialEarth.png",
+"h": 42,
+"w": 36
+},
+"|Prism Break": {
+"f": "i/cat-PrismBreak.png",
+"h": 42,
+"w": 44
+},
+"|Prisma": {
+"f": "i/rag-Prisma.png",
+"h": 50,
+"w": 48
+},
+"|Prismalline": {
+"f": "i/cal-Prismalline.png",
+"h": 54,
+"w": 54
+},
+"|Prismarine Necklace": {
+"f": "i/sots-PrismarineNecklace.png",
+"h": 44,
+"w": 26
+},
+"|Prismatic armor": {
+"f": "i/cal-PrismaticHelmet.png",
+"h": 18,
+"w": 16
+},
+"|Profaned Partisan": {
+"f": "i/cal-ProfanedPartisan.png",
+"h": 64,
+"w": 64
+},
+"|Profaned Soul Artifact": {
+"f": "i/cal-ProfanedSoulArtifact.png",
+"h": 36,
+"w": 32
+},
+"|Profaned Soul Crystal": {
+"f": "i/cal-ProfanedSoulCrystal.png",
+"h": 56,
+"w": 24
+},
+"|Pulse Bow": {
+"f": "i/v-PulseBow.png",
+"h": 46,
+"w": 28
+},
+"|Pulverizer": {
+"f": "i/sots-Pulverizer.png",
+"h": 64,
+"w": 64
+},
+"|Pumpler": {
+"f": "i/cal-Pumpler.png",
+"h": 30,
+"w": 64
+},
+"|Pungi": {
+"f": "i/tho-Pungi.png",
+"h": 18,
+"w": 60
+},
+"|Purge Guzzler": {
+"f": "i/cal-PurgeGuzzler.png",
+"h": 48,
+"w": 64
+},
+"|Purified Water": {
+"f": "i/tho-PurifiedWater.png",
+"h": 24,
+"w": 24
+},
+"|Purple Haze": {
+"f": "i/cal-PurpleHaze.png",
+"h": 48,
+"w": 24
+},
+"|Putrid Coin": {
+"f": "i/sots-PutridCoin.png",
+"h": 28,
+"w": 28
+},
+"|Putrid Eye": {
+"f": "i/sots-PutridEye.png",
+"h": 44,
+"w": 44
+},
+"|Putrid Scent": {
+"f": "i/v-PutridScent.png",
+"h": 24,
+"w": 20
+},
+"|Pwnagehammer": {
+"f": "i/cal-Pwnagehammer.png",
+"h": 64,
+"w": 64
+},
+"|Pygmy Necklace": {
+"f": "i/v-PygmyNecklace.png",
+"h": 28,
+"w": 28
+},
+"|Pyrocide": {
+"f": "i/sots-Pyrocide.png",
+"h": 64,
+"w": 59
+},
+"|Queen Spider Staff": {
+"f": "i/v-QueenSpiderStaff.png",
+"h": 40,
+"w": 40
+},
+"|Quiver of Nihility": {
+"f": "i/cal-QuiverofNihility.png",
+"h": 64,
+"w": 35
+},
+"|R-GSS: Vulcan": {
+"f": "i/cal-Vulcan.png",
+"h": 27,
+"w": 64
+},
+"|Radiance": {
+"f": "i/cal-Radiance.png",
+"h": 48,
+"w": 50
+},
+"|Radiant Ooze": {
+"f": "i/cal-RadiantOoze.png",
+"h": 32,
+"w": 26
+},
+"|Radiant Star": {
+"f": "i/cal-RadiantStar.png",
+"h": 54,
+"w": 54
+},
+"|Rage Potion": {
+"f": "i/v-RagePotion.png",
+"h": 30,
+"w": 20
+},
+"|Rainbow Crystal Staff": {
+"f": "i/v-RainbowCrystalStaff.png",
+"h": 36,
+"w": 36
+},
+"|Rainbow Gun": {
+"f": "i/v-RainbowGun.png",
+"h": 24,
+"w": 56
+},
+"|Rainbow Party Cannon": {
+"f": "i/cal-RainbowPartyCannon.png",
+"h": 46,
+"w": 64
+},
+"|Rampart of Deities": {
+"f": "i/cal-RampartofDeities.png",
+"h": 64,
+"w": 62
+},
+"|Ranger Emblem": {
+"f": "i/v-RangerEmblem.png",
+"h": 28,
+"w": 28
+},
+"|Raven Staff": {
+"f": "i/v-RavenStaff.png",
+"h": 40,
+"w": 38
+},
+"|Razorpine": {
+"f": "i/v-Razorpine.png",
+"h": 34,
+"w": 34
+},
+"|Reality Rupture": {
+"f": "i/cal-RealityRupture.png",
+"h": 64,
+"w": 54
+},
+"|Reality Shatter": {
+"f": "i/sots-RealityShatter.png",
+"h": 64,
+"w": 59
+},
+"|Reality Slasher": {
+"f": "i/tho-RealitySlasher.png",
+"h": 48,
+"w": 58
+},
+"|Reaper Tooth Necklace": {
+"f": "i/cal-ReaperToothNecklace.png",
+"h": 50,
+"w": 44
+},
+"|Reaver armor": {
+"f": "i/cal-ReaverHeadExplore.png",
+"h": 22,
+"w": 22
+},
+"|Rebounding Rainbow": {
+"f": "i/cal-ReboundingRainbow.png",
+"h": 54,
+"w": 54
+},
+"|Recon Scope": {
+"f": "i/v-ReconScope.png",
+"h": 30,
+"w": 30
+},
+"|Red Crescent": {
+"f": "i/trw-RedCresent.png",
+"h": 64,
+"w": 64
+},
+"|Red Lightning Container": {
+"f": "i/cal-RedLightningContainer.png",
+"h": 38,
+"w": 30
+},
+"|Refraction Rotor": {
+"f": "i/cal-RefractionRotor.png",
+"h": 57,
+"w": 64
+},
+"|Regeneration Potion": {
+"f": "i/v-RegenerationPotion.png",
+"h": 30,
+"w": 12
+},
+"|Regulus Riot": {
+"f": "i/cal-RegulusRiot.png",
+"h": 34,
+"w": 28
+},
+"|Relic of Deliverance": {
+"f": "i/cal-RelicOfDeliverance.png",
+"h": 60,
+"w": 64
+},
+"|Rem's Revenge": {
+"f": "i/cal-RemsRevenge.png",
+"h": 34,
+"w": 44
+},
+"|Renew": {
+"f": "i/tho-Renew.png",
+"h": 30,
+"w": 28
+},
+"|Repurposed Star Caller": {
+"f": "i/trw-RepurposedStarCaller.png",
+"h": 40,
+"w": 42
+},
+"|Resonator's Arm": {
+"f": "i/tho-ResonatorsArm.png",
+"h": 24,
+"w": 46
+},
+"|Resurrection Butterfly": {
+"f": "i/cal-ResurrectionButterfly.png",
+"h": 46,
+"w": 46
+},
+"|Return to Sludge": {
+"f": "i/cbh-ReturntoSludge.png",
+"h": 26,
+"w": 50
+},
+"|Riff Weaver": {
+"f": "i/tho-RiffWeaver.png",
+"h": 64,
+"w": 64
+},
+"|Riveting Tadpole": {
+"f": "i/tho-RivetingTadpole.png",
+"h": 46,
+"w": 44
+},
+"|Roboboe": {
+"f": "i/tho-Roboboe.png",
+"h": 14,
+"w": 58
+},
+"|Rocket I": {
+"f": "i/v-RocketI.png",
+"h": 14,
+"w": 20
+},
+"|Rocket III": {
+"f": "i/v-RocketIII.png",
+"h": 14,
+"w": 20
+},
+"|Rod of Discord": {
+"f": "i/v-RodofDiscord.png",
+"h": 34,
+"w": 34
+},
+"|Rogue 101": {
+"f": "i/tho-ThrowingGuide.png",
+"h": 32,
+"w": 24
+},
+"|Rogue Emblem": {
+"f": "i/cal-RogueEmblem.png",
+"h": 28,
+"w": 28
+},
+"|Rot Ball": {
+"f": "i/cal-RotBall.png",
+"h": 30,
+"w": 30
+},
+"|Rotten Cod": {
+"f": "i/tho-RottenCod.png",
+"h": 36,
+"w": 38
+},
+"|Rotten Dogtooth": {
+"f": "i/cal-RottenDogtooth.png",
+"h": 28,
+"w": 18
+},
+"|Rouge Slash": {
+"f": "i/cal-RougeSlash.png",
+"h": 40,
+"w": 34
+},
+"|Roughskin Potion": {
+"f": "i/sots-RoughskinPotion.png",
+"h": 30,
+"w": 20
+},
+"|Rover Drive": {
+"f": "i/cal-RoverDrive.png",
+"h": 30,
+"w": 34
+},
+"|Royal Jelly": {
+"f": "i/sots-RoyalJelly.png",
+"h": 32,
+"w": 20
+},
+"|Royal Magnum": {
+"f": "i/sots-RoyalMagnum.png",
+"h": 22,
+"w": 42
+},
+"|Ruby Ring": {
+"f": "i/tho-RubyRing.png",
+"h": 20,
+"w": 26
+},
+"|Ruin Medallion": {
+"f": "i/cal-RuinMedallion.png",
+"h": 28,
+"w": 20
+},
+"|Ruinous Plasma Injection": {
+"f": "i/ie-RuinousPlasmaInjection.png",
+"h": 32,
+"w": 18
+},
+"|Rusty Beacon Prototype": {
+"f": "i/cal-RustyBeaconPrototype.png",
+"h": 24,
+"w": 24
+},
+"|S. S. Devastator": {
+"f": "i/tho-SSDevastator.png",
+"h": 33,
+"w": 64
+},
+"|SHPC": {
+"f": "i/cal-SHPC.png",
+"h": 27,
+"w": 64
+},
+"|Sacred Bludgeon": {
+"f": "i/tho-SacredBludgeon.png",
+"h": 28,
+"w": 36
+},
+"|Sacred Lyre": {
+"f": "i/tho-SacredLyre.png",
+"h": 40,
+"w": 30
+},
+"|Sacred Strawberry": {
+"f": "i/cal-SacredStrawberry.png",
+"h": 32,
+"w": 32
+},
+"|Sacrifice": {
+"f": "i/cal-Sacrifice.png",
+"h": 62,
+"w": 64
+},
+"|Samsara Lotus": {
+"f": "i/tho-SamsaraLotus.png",
+"h": 26,
+"w": 30
+},
+"|Samsara Slicer": {
+"f": "i/cal-SamsaraSlicer.png",
+"h": 64,
+"w": 60
+},
+"|Sanctified Spark": {
+"f": "i/cal-SanctifiedSpark.png",
+"h": 64,
+"w": 52
+},
+"|Sand Dollar": {
+"f": "i/cal-SandDollar.png",
+"h": 28,
+"w": 30
+},
+"|Sand Shark Tooth Necklace": {
+"f": "i/cal-SandSharkToothNecklace.png",
+"h": 44,
+"w": 32
+},
+"|Sand Sharknado Staff": {
+"f": "i/cal-SandSharknadoStaff.png",
+"h": 56,
+"w": 48
+},
+"|Sandstone armor": {
+"f": "i/tho-SandStoneHelmet.png",
+"h": 22,
+"w": 26
+},
+"|Sandwich": {
+"f": "i/sots-Sandwich.png",
+"h": 34,
+"w": 40
+},
+"|Sanguine Tangerine": {
+"f": "i/cal-SanguineTangerine.png",
+"h": 40,
+"w": 38
+},
+"|Sapphire Ring": {
+"f": "i/tho-SapphireRing.png",
+"h": 18,
+"w": 26
+},
+"|Saros Possession": {
+"f": "i/cal-SarosPossession.png",
+"h": 56,
+"w": 56
+},
+"|Scab Ripper": {
+"f": "i/cal-ScabRipper.png",
+"h": 44,
+"w": 38
+},
+"|Scarlet Crescent": {
+"f": "i/sots-ScarletStar.png",
+"h": 22,
+"w": 22
+},
+"|Scarlet Devil": {
+"f": "i/cal-ScarletDevil.png",
+"h": 64,
+"w": 63
+},
+"|Scholar's Harp": {
+"f": "i/tho-ScholarsHarp.png",
+"h": 44,
+"w": 38
+},
+"|Scorched Earth": {
+"f": "i/cal-ScorchedEarth.png",
+"h": 27,
+"w": 64
+},
+"|Scorn": {
+"f": "i/tho-Scorn.png",
+"h": 28,
+"w": 62
+},
+"|Scourge of the Desert": {
+"f": "i/cal-ScourgeoftheDesert.png",
+"h": 64,
+"w": 64
+},
+"|Scourge of the Seas": {
+"f": "i/cal-ScourgeoftheSeas.png",
+"h": 64,
+"w": 62
+},
+"|Scrying Glass": {
+"f": "i/tho-ScryingGlass.png",
+"h": 26,
+"w": 22
+},
+"|Scuba Curva": {
+"f": "i/tho-ScubaCurva.png",
+"h": 52,
+"w": 38
+},
+"|Scuttler's Jewel": {
+"f": "i/cal-ScuttlersJewel.png",
+"h": 42,
+"w": 34
+},
+"|Scythe of Undoing": {
+"f": "i/tho-ScytheofUndoing.png",
+"h": 50,
+"w": 64
+},
+"|Sea Spirit Amulet": {
+"f": "i/cal-SeaSpiritAmulet.png",
+"h": 40,
+"w": 34
+},
+"|Seafood Dinner": {
+"f": "i/v-SeafoodDinner.png",
+"h": 64,
+"w": 34
+},
+"|Seahorse Wand": {
+"f": "i/tho-SeahorseWand.png",
+"h": 38,
+"w": 40
+},
+"|Sealed Singularity": {
+"f": "i/cal-SealedSingularity.png",
+"h": 34,
+"w": 34
+},
+"|Searing Spear Tip": {
+"f": "i/ars-SearingSpearTip.png",
+"h": 36,
+"w": 36
+},
+"|Seashell Castanets": {
+"f": "i/tho-SeashellCastanettes.png",
+"h": 26,
+"w": 38
+},
+"|Seashine Sword": {
+"f": "i/cal-SeashineSword.png",
+"h": 40,
+"w": 40
+},
+"|Section Chief's Scythe": {
+"f": "i/sots-SectionChiefsScythe.png",
+"h": 58,
+"w": 58
+},
+"|Selene": {
+"f": "i/sots-SkipScythe.png",
+"h": 64,
+"w": 61
+},
+"|Seraph Tracers": {
+"f": "i/cal-SeraphTracers.png",
+"h": 42,
+"w": 54
+},
+"|Seraphim": {
+"f": "i/cal-Seraphim.png",
+"h": 64,
+"w": 64
+},
+"|Serpent's Cry": {
+"f": "i/tho-SerpentsCry.png",
+"h": 64,
+"w": 52
+},
+"|Serpentine Fork": {
+"f": "i/ars-DeepseaTrident.png",
+"h": 64,
+"w": 64
+},
+"|Seven Seas' Devastator": {
+"f": "i/tho-SevenSeasDevastator.png",
+"h": 46,
+"w": 52
+},
+"|Shadecrystal Barrage": {
+"f": "i/cal-ShadecrystalBarrage.png",
+"h": 32,
+"w": 30
+},
+"|Shadow Potion": {
+"f": "i/cal-ShadowPotion.png",
+"h": 28,
+"w": 20
+},
+"|Shadow Wand": {
+"f": "i/tho-ShadowWand.png",
+"h": 36,
+"w": 36
+},
+"|Shadowbolt Staff": {
+"f": "i/cal-ShadowboltStaff.png",
+"h": 60,
+"w": 62
+},
+"|Shadowflame Hex Doll": {
+"f": "i/v-ShadowFlameHexDoll.png",
+"h": 34,
+"w": 34
+},
+"|Shadowflame Knife": {
+"f": "i/v-ShadowFlameKnife.png",
+"h": 30,
+"w": 14
+},
+"|Shadowflame Staff": {
+"f": "i/tho-ShadowflameStaff.png",
+"h": 40,
+"w": 40
+},
+"|Shadowflame Warhorn": {
+"f": "i/tho-ShadowflameWarhorn.png",
+"h": 34,
+"w": 48
+},
+"|Shanty of the Former Seas": {
+"f": "i/ars-SandSlasher.png",
+"h": 62,
+"w": 62
+},
+"|Sharanga": {
+"f": "i/sots-Sharanga.png",
+"h": 54,
+"w": 36
+},
+"|Shard of Antumbra": {
+"f": "i/cal-ShardofAntumbra.png",
+"h": 64,
+"w": 60
+},
+"|Shark Storm": {
+"f": "i/tho-SharkStorm.png",
+"h": 26,
+"w": 64
+},
+"|Shark Tooth Necklace": {
+"f": "i/v-SharkToothNecklace.png",
+"h": 30,
+"w": 28
+},
+"|Sharpening Station": {
+"f": "i/v-SharpeningStation.png",
+"h": 24,
+"w": 30
+},
+"|Shatter Heart Shield": {
+"f": "i/sots-ShatterHeartShield.png",
+"h": 44,
+"w": 36
+},
+"|Shattered Community": {
+"f": "i/cal-ShatteredCommunity.png",
+"h": 64,
+"w": 23
+},
+"|Shield of Cthulhu": {
+"f": "i/v-EoCShield.png",
+"h": 32,
+"w": 30
+},
+"|Shimmer Arrow": {
+"f": "i/v-ShimmerArrow.png",
+"h": 32,
+"w": 14
+},
+"|Shinobi Blade": {
+"f": "i/cal-ShinobiBlade.png",
+"h": 42,
+"w": 16
+},
+"|Shinobi Infiltrator armor": {
+"f": "i/v-MonkAltHead.png",
+"h": 22,
+"w": 22
+},
+"|Shock Absorber": {
+"f": "i/tho-ShockAbsorber.png",
+"h": 36,
+"w": 36
+},
+"|Shooting Star Blast-Guitar": {
+"f": "i/tho-ShootingStarBlastGuitar.png",
+"h": 64,
+"w": 60
+},
+"|Shroomite armor": {
+"f": "i/v-ShroomiteHeadgear.png",
+"h": 24,
+"w": 18
+},
+"|Sigil of Calamitas": {
+"f": "i/cal-SigilofCalamitas.png",
+"h": 44,
+"w": 34
+},
+"|Silk armor": {
+"f": "i/tho-SilkHat.png",
+"h": 20,
+"w": 24
+},
+"|Silva armor": {
+"f": "i/cal-SilvaArmor.png",
+"h": 24,
+"w": 24
+},
+"|Silver Bullet": {
+"f": "i/v-SilverBullet.png",
+"h": 12,
+"w": 12
+},
+"|Silver Spear Tip": {
+"f": "i/tho-SilverSpearTip.png",
+"h": 28,
+"w": 28
+},
+"|Singularity Core": {
+"f": "i/ie-SingularityCore.png",
+"h": 36,
+"w": 36
+},
+"|Sinister Honk": {
+"f": "i/tho-SinisterHonk.png",
+"h": 23,
+"w": 64
+},
+"|Siren's Lyre": {
+"f": "i/tho-SirensLyre.png",
+"h": 42,
+"w": 38
+},
+"|Sirius": {
+"f": "i/cal-Sirius.png",
+"h": 64,
+"w": 62
+},
+"|Skadoosh": {
+"f": "i/tho-Skadoosh.png",
+"h": 26,
+"w": 30
+},
+"|Skull of the Blood God": {
+"f": "i/clm-SkullOfTheBloodGod.png",
+"h": 56,
+"w": 64
+},
+"|Skyfin Bombers": {
+"f": "i/cal-SkyfinBombers.png",
+"h": 30,
+"w": 46
+},
+"|Skyline Wings": {
+"f": "i/cal-SkylineWings.png",
+"h": 32,
+"w": 22
+},
+"|Skyward Blades": {
+"f": "i/sots-SkywardBlades.png",
+"h": 40,
+"w": 38
+},
+"|Skyware Lute": {
+"f": "i/tho-SkywareLute.png",
+"h": 58,
+"w": 58
+},
+"|Slagsplitter Pauldron": {
+"f": "i/cal-SlagsplitterPauldron.png",
+"h": 34,
+"w": 42
+},
+"|Slime Gun": {
+"f": "i/v-SlimeGun.png",
+"h": 26,
+"w": 42
+},
+"|Slime Puppet Staff": {
+"f": "i/cal-SlimePuppetStaff.png",
+"h": 34,
+"w": 32
+},
+"|Slippery Shogun armor": {
+"f": "i/hunt-ShogunHelm.png",
+"h": 24,
+"w": 26
+},
+"|Sludge Splotch": {
+"f": "i/cal-SludgeSplotch.png",
+"h": 26,
+"w": 26
+},
+"|Slugger": {
+"f": "i/tho-Slugger.png",
+"h": 26,
+"w": 40
+},
+"|Smiting Hammer": {
+"f": "i/tho-SmitingHammer.png",
+"h": 42,
+"w": 48
+},
+"|Smoke Bomb": {
+"f": "i/v-SmokeBomb.png",
+"h": 24,
+"w": 18
+},
+"|Smoking Comet": {
+"f": "i/cal-SmokingComet.png",
+"h": 40,
+"w": 36
+},
+"|Snake Eyes": {
+"f": "i/cal-SnakeEyes.png",
+"h": 24,
+"w": 38
+},
+"|Snapthorn": {
+"f": "i/v-ThornWhip.png",
+"h": 40,
+"w": 42
+},
+"|Sniper Scope": {
+"f": "i/v-SniperScope.png",
+"h": 32,
+"w": 32
+},
+"|Snow Ruffian armor": {
+"f": "i/cal-SnowRuffianMask.png",
+"h": 20,
+"w": 22
+},
+"|Snowman Cannon": {
+"f": "i/v-SnowmanCannon.png",
+"h": 32,
+"w": 58
+},
+"|Snowstorm Banjo": {
+"f": "i/tho-SnowstormBanjo.png",
+"h": 56,
+"w": 56
+},
+"|Snowstorm Staff": {
+"f": "i/cal-SnowstormStaff.png",
+"h": 50,
+"w": 50
+},
+"|Soaring Potion": {
+"f": "i/cal-SoaringPotion.png",
+"h": 30,
+"w": 30
+},
+"|Solar Flare armor": {
+"f": "i/v-SolarFlareHelmet.png",
+"h": 22,
+"w": 24
+},
+"|Solar Wings": {
+"f": "i/v-WingsSolar.png",
+"h": 28,
+"w": 30
+},
+"|Soma Prime": {
+"f": "i/cal-SomaPrime.png",
+"h": 30,
+"w": 64
+},
+"|Sonar Cannon": {
+"f": "i/tho-SonarCannon.png",
+"h": 36,
+"w": 62
+},
+"|Song of Ice & Fire": {
+"f": "i/tho-SongofIceAndFire.png",
+"h": 26,
+"w": 64
+},
+"|Sonic Amplifier": {
+"f": "i/tho-SonicAmplifier.png",
+"h": 34,
+"w": 44
+},
+"|Sorcerer Emblem": {
+"f": "i/v-SorcererEmblem.png",
+"h": 28,
+"w": 28
+},
+"|Soul Access Potion": {
+"f": "i/sots-SoulAccessPotion.png",
+"h": 28,
+"w": 20
+},
+"|Soul Charm": {
+"f": "i/sots-SoulCharm.png",
+"h": 34,
+"w": 30
+},
+"|Soul Pulse": {
+"f": "i/tho-TechniqueSoulPulse.png",
+"h": 44,
+"w": 38
+},
+"|Soul Stone": {
+"f": "i/tho-SoulStone.png",
+"h": 26,
+"w": 26
+},
+"|Sound Sage's Lament": {
+"f": "i/tho-SoundSageLament.png",
+"h": 44,
+"w": 62
+},
+"|Sousaphone": {
+"f": "i/tho-Sousaphone.png",
+"h": 64,
+"w": 42
+},
+"|Space Gun": {
+"f": "i/v-SpaceGun.png",
+"h": 24,
+"w": 36
+},
+"|Spark Spreader": {
+"f": "i/cal-SparkSpreader.png",
+"h": 26,
+"w": 56
+},
+"|Sparkling Empress": {
+"f": "i/cal-SparklingEmpress.png",
+"h": 44,
+"w": 44
+},
+"|Spartan Sandals": {
+"f": "i/tho-SpartanSandles.png",
+"h": 24,
+"w": 28
+},
+"|Spectral Veil": {
+"f": "i/cal-SpectralVeil.png",
+"h": 38,
+"w": 30
+},
+"|Spectre armor": {
+"f": "i/v-SpectreHood.png",
+"h": 22,
+"w": 24
+},
+"|Spicy Sauce": {
+"f": "i/con-SpicySauce.png",
+"h": 32,
+"w": 32
+},
+"|Spider Staff": {
+"f": "i/v-SpiderStaff.png",
+"h": 42,
+"w": 42
+},
+"|Spider armor": {
+"f": "i/v-SpiderMask.png",
+"h": 24,
+"w": 24
+},
+"|Spikecrag Staff": {
+"f": "i/cal-SpikecragStaff.png",
+"h": 50,
+"w": 50
+},
+"|Spinal Tap": {
+"f": "i/v-BoneWhip.png",
+"h": 30,
+"w": 38
+},
+"|Spirit Bender's Staff": {
+"f": "i/tho-SpiritBendersStaff.png",
+"h": 52,
+"w": 52
+},
+"|Spirit Blast Wand": {
+"f": "i/tho-SpiritBlastWand.png",
+"h": 36,
+"w": 36
+},
+"|Spirit Glove": {
+"f": "i/sots-SpiritGlove.png",
+"h": 30,
+"w": 26
+},
+"|Spirit Glyph": {
+"f": "i/cal-SpiritGlyph.png",
+"h": 34,
+"w": 26
+},
+"|Spirit Insignia": {
+"f": "i/sots-SpiritInsignia.png",
+"h": 44,
+"w": 34
+},
+"|Spirit Tracer": {
+"f": "i/sots-SpiritTracer.png",
+"h": 64,
+"w": 28
+},
+"|Spirit Trapper's armor": {
+"f": "i/tho-SpiritTrapperMask.png",
+"h": 20,
+"w": 26
+},
+"|Spittin' Fish": {
+"f": "i/tho-SpittingFish.png",
+"h": 42,
+"w": 36
+},
+"|Sprint": {
+"f": "i/tho-TechniqueSprint.png",
+"h": 44,
+"w": 38
+},
+"|Spyker": {
+"f": "i/cal-Spyker.png",
+"h": 28,
+"w": 58
+},
+"|Squire armor": {
+"f": "i/v-SquireGreatHelm.png",
+"h": 28,
+"w": 18
+},
+"|Squire's Shield": {
+"f": "i/v-SquireShield.png",
+"h": 28,
+"w": 26
+},
+"|Staff of Blushie": {
+"f": "i/cal-StaffofBlushie.png",
+"h": 48,
+"w": 48
+},
+"|Staff of Necrosteocytes": {
+"f": "i/cal-StaffOfNecrosteocytes.png",
+"h": 42,
+"w": 40
+},
+"|Staff of the Frost Hydra": {
+"f": "i/v-StaffoftheFrostHydra.png",
+"h": 38,
+"w": 38
+},
+"|Star Rod": {
+"f": "i/tho-StarRod.png",
+"h": 40,
+"w": 40
+},
+"|Star Shower": {
+"f": "i/cal-StarShower.png",
+"h": 40,
+"w": 38
+},
+"|Star Trail": {
+"f": "i/tho-StarTrail.png",
+"h": 46,
+"w": 36
+},
+"|Star Veil": {
+"f": "i/v-StarVeil.png",
+"h": 32,
+"w": 26
+},
+"|Star of Destruction": {
+"f": "i/cal-StarofDestruction.png",
+"h": 64,
+"w": 64
+},
+"|Star-Tainted Generator": {
+"f": "i/cal-StarTaintedGenerator.png",
+"h": 60,
+"w": 38
+},
+"|Starbelt": {
+"f": "i/sots-Starbelt.png",
+"h": 26,
+"w": 34
+},
+"|Starbuster Core": {
+"f": "i/cal-StarbusterCore.png",
+"h": 32,
+"w": 26
+},
+"|Starcore Assault Rifle": {
+"f": "i/sots-StarcoreAssaultRifle.png",
+"h": 27,
+"w": 64
+},
+"|Stardust Cell Staff": {
+"f": "i/v-StardustCellStaff.png",
+"h": 44,
+"w": 44
+},
+"|Stardust Wings": {
+"f": "i/v-WingsStardust.png",
+"h": 26,
+"w": 26
+},
+"|Stardust armor": {
+"f": "i/v-StardustHelmet.png",
+"h": 24,
+"w": 22
+},
+"|Starmada": {
+"f": "i/cal-Starmada.png",
+"h": 26,
+"w": 64
+},
+"|Starnight Lance": {
+"f": "i/cal-StarnightLance.png",
+"h": 64,
+"w": 62
+},
+"|Starshot Crossbow": {
+"f": "i/sots-StarshotCrossbow.png",
+"h": 20,
+"w": 46
+},
+"|Statigel armor": {
+"f": "i/cal-StatigelArmor.png",
+"h": 22,
+"w": 30
+},
+"|Statis' Blessing": {
+"f": "i/cal-StatisBlessing.png",
+"h": 30,
+"w": 30
+},
+"|Statis' Curse": {
+"f": "i/cal-StatisCurse.png",
+"h": 42,
+"w": 36
+},
+"|Statis' Ninja Belt": {
+"f": "i/cal-StatisNinjaBelt.png",
+"h": 26,
+"w": 30
+},
+"|Statis' Void Sash": {
+"f": "i/cal-StatisVoidSash.png",
+"h": 42,
+"w": 34
+},
+"|Steam Flute": {
+"f": "i/tho-SteamFlute.png",
+"h": 13,
+"w": 64
+},
+"|Steel Throwing Axe": {
+"f": "i/tho-SteelThrowingAxe.png",
+"h": 34,
+"w": 34
+},
+"|Stellar Contempt": {
+"f": "i/cal-StellarContempt.png",
+"h": 62,
+"w": 64
+},
+"|Stellar Knife": {
+"f": "i/cal-StellarKnife.png",
+"h": 34,
+"w": 32
+},
+"|Stellar Sabre": {
+"f": "i/ie-StellarSabre.png",
+"h": 45,
+"w": 44
+},
+"|Stellar Tune": {
+"f": "i/v-SparkleGuitar.png",
+"h": 36,
+"w": 36
+},
+"|Sticky Explosive": {
+"f": "i/tho-TechniquePaperExplosive.png",
+"h": 44,
+"w": 38
+},
+"|Storm Saber": {
+"f": "i/cal-StormSaber.png",
+"h": 60,
+"w": 50
+},
+"|Storm Spell": {
+"f": "i/sots-StormSpell.png",
+"h": 50,
+"w": 40
+},
+"|Storm Surge": {
+"f": "i/cal-StormSurge.png",
+"h": 28,
+"w": 60
+},
+"|Storm-Hatchling Staff": {
+"f": "i/tho-StormHatchlingStaff.png",
+"h": 44,
+"w": 44
+},
+"|Stormjaw Staff": {
+"f": "i/cal-StormjawStaff.png",
+"h": 42,
+"w": 40
+},
+"|Strange Brew": {
+"f": "i/v-StrangeBrew.png",
+"h": 30,
+"w": 18
+},
+"|Strange Skull": {
+"f": "i/tho-StrangeSkull.png",
+"h": 26,
+"w": 30
+},
+"|Stratus Sphere": {
+"f": "i/cal-StratusSphere.png",
+"h": 46,
+"w": 38
+},
+"|Strawberry Heart": {
+"f": "i/tho-StrawberryHeart.png",
+"h": 62,
+"w": 62
+},
+"|Stream Gouge": {
+"f": "i/cal-StreamGouge.png",
+"h": 64,
+"w": 64
+},
+"|Stream Sting": {
+"f": "i/tho-StreamSting.png",
+"h": 42,
+"w": 24
+},
+"|Stress Pills": {
+"f": "i/cal-StressPills.png",
+"h": 30,
+"w": 22
+},
+"|Stygian Shield": {
+"f": "i/cal-StygianShield.png",
+"h": 64,
+"w": 61
+},
+"|Stynger": {
+"f": "i/v-Stynger.png",
+"h": 26,
+"w": 46
+},
+"|Subsonic Tuner": {
+"f": "i/sbh-SubsonicTuner.png",
+"h": 38,
+"w": 18
+},
+"|Subspace Boosters": {
+"f": "i/sots-SubspaceBoosters.png",
+"h": 40,
+"w": 40
+},
+"|Subspace Locket": {
+"f": "i/sots-SubspaceLocket.png",
+"h": 50,
+"w": 40
+},
+"|Sulphuric Acid Cannon": {
+"f": "i/cal-SulphuricAcidCannon.png",
+"h": 21,
+"w": 64
+},
+"|Sulphurous Grabber": {
+"f": "i/cal-SulphurousGrabber.png",
+"h": 38,
+"w": 30
+},
+"|Sulphurous armor": {
+"f": "i/cal-SulphurousHelmet.png",
+"h": 26,
+"w": 26
+},
+"|Summoning Potion": {
+"f": "i/v-SummoningPotion.png",
+"h": 30,
+"w": 20
+},
+"|Sun Spirit Staff": {
+"f": "i/cal-SunSpiritStaff.png",
+"h": 48,
+"w": 44
+},
+"|Sunflare Guitar": {
+"f": "i/tho-SunflareGuitar.png",
+"h": 64,
+"w": 64
+},
+"|Sunfury": {
+"f": "i/v-Sunfury.png",
+"h": 34,
+"w": 38
+},
+"|Super Healing Potion": {
+"f": "i/v-SuperHealingPotion.png",
+"h": 30,
+"w": 20
+},
+"|Supernova": {
+"f": "i/cal-Supernova.png",
+"h": 64,
+"w": 61
+},
+"|Supernova Emblem": {
+"f": "i/sots-SupernovaEmblem.png",
+"h": 40,
+"w": 56
+},
+"|Superradiant Slaughterer": {
+"f": "i/cal-SuperradiantSlaughterer.png",
+"h": 35,
+"w": 64
+},
+"|Supreme Barrier": {
+"f": "i/clm-SupremeBarrier.png",
+"h": 64,
+"w": 55
+},
+"|Supreme Healing Potion": {
+"f": "i/cal-SupremeHealingPotion.png",
+"h": 38,
+"w": 26
+},
+"|Surge Driver": {
+"f": "i/cal-SurgeDriver.png",
+"h": 23,
+"w": 64
+},
+"|Survivalist's Boots": {
+"f": "i/tho-SurvivalistBoots.png",
+"h": 30,
+"w": 34
+},
+"|Svantechnical": {
+"f": "i/cal-Svantechnical.png",
+"h": 34,
+"w": 64
+},
+"|Swiftness Potion": {
+"f": "i/v-SwiftnessPotion.png",
+"h": 30,
+"w": 12
+},
+"|Sword of the First": {
+"f": "i/ie-Swordofthe1stGlitch.png",
+"h": 64,
+"w": 57
+},
+"|Sword of the Zenith": {
+"f": "i/ie-Swordofthe14thGlitch.png",
+"h": 64,
+"w": 56
+},
+"|Syringe": {
+"f": "i/tho-Syringe.png",
+"h": 30,
+"w": 10
+},
+"|System Bane": {
+"f": "i/cal-SystemBane.png",
+"h": 34,
+"w": 42
+},
+"|Tactical Plague Engine": {
+"f": "i/cal-TacticalPlagueEngine.png",
+"h": 30,
+"w": 30
+},
+"|Tainted Cloudberry": {
+"f": "i/cal-TaintedCloudberry.png",
+"h": 34,
+"w": 38
+},
+"|Tarragon Throwing Dart": {
+"f": "i/cal-TarragonThrowingDart.png",
+"h": 48,
+"w": 48
+},
+"|Tarragon armor": {
+"f": "i/cal-TarragonHeadRogue.png",
+"h": 28,
+"w": 26
+},
+"|Tau Cannon": {
+"f": "i/cal-TauCannon.png",
+"h": 23,
+"w": 64
+},
+"|Telluric Glare": {
+"f": "i/cal-TelluricGlare.png",
+"h": 64,
+"w": 43
+},
+"|Templar's Judgement": {
+"f": "i/tho-TemplarJudgment.png",
+"h": 28,
+"w": 34
+},
+"|Templar's armor": {
+"f": "i/tho-TemplarsCirclet.png",
+"h": 10,
+"w": 22
+},
+"|Temporal Umbrella": {
+"f": "i/cal-TemporalUmbrella.png",
+"h": 60,
+"w": 60
+},
+"|Tendon Bow": {
+"f": "i/v-TendonBow.png",
+"h": 40,
+"w": 22
+},
+"|Terra Blade": {
+"f": "i/v-TerraBlade.png",
+"h": 54,
+"w": 46
+},
+"|Terra Scythe": {
+"f": "i/tho-TerraScythe.png",
+"h": 54,
+"w": 60
+},
+"|Terrarian": {
+"f": "i/v-Terrarian.png",
+"h": 26,
+"w": 30
+},
+"|Terrarium Autoharp": {
+"f": "i/tho-TerrariumAutoharp.png",
+"h": 40,
+"w": 54
+},
+"|Terrarium Defender": {
+"f": "i/tho-TerrariumDefender.png",
+"h": 44,
+"w": 48
+},
+"|Terrarium Holy Scythe": {
+"f": "i/tho-TerrariumHolyScythe.png",
+"h": 54,
+"w": 58
+},
+"|Terrarium Particle Sprinters": {
+"f": "i/tho-TerrariumParticleSprinters.png",
+"h": 30,
+"w": 36
+},
+"|Terrarium Spear": {
+"f": "i/tho-TerrariumSpear.png",
+"h": 64,
+"w": 64
+},
+"|Terrarium Wings": {
+"f": "i/tho-TerrariumWings.png",
+"h": 38,
+"w": 50
+},
+"|Terrarium armor": {
+"f": "i/tho-TerrariumHelmet.png",
+"h": 30,
+"w": 32
+},
+"|Terraspark Boots": {
+"f": "i/v-TerrasparkBoots.png",
+"h": 32,
+"w": 34
+},
+"|Terratomere": {
+"f": "i/cal-Terratomere.png",
+"h": 64,
+"w": 60
+},
+"|Terror Blade": {
+"f": "i/cal-TerrorBlade.png",
+"h": 58,
+"w": 64
+},
+"|Tesla Cannon": {
+"f": "i/cal-TeslaCannon.png",
+"h": 23,
+"w": 64
+},
+"|Tesla's Amulet": {
+"f": "i/cal-TeslasAmulet.png",
+"h": 32,
+"w": 32
+},
+"|The Absorber": {
+"f": "i/cal-TheAbsorber.png",
+"h": 38,
+"w": 30
+},
+"|The Amalgam": {
+"f": "i/cal-TheAmalgam.png",
+"h": 44,
+"w": 46
+},
+"|The Bee's Knees": {
+"f": "i/v-BeesKnees.png",
+"h": 56,
+"w": 30
+},
+"|The Black Otamatone": {
+"f": "i/tho-TheBlackOtamatone.png",
+"h": 52,
+"w": 34
+},
+"|The Black Scythe": {
+"f": "i/tho-TheBlackScythe.png",
+"h": 58,
+"w": 64
+},
+"|The Bopper": {
+"f": "i/tho-TheBopper.png",
+"h": 20,
+"w": 50
+},
+"|The Cauldron": {
+"f": "i/cal-TheCauldron.png",
+"h": 46,
+"w": 46
+},
+"|The Community": {
+"f": "i/cal-TheCommunity.png",
+"h": 62,
+"w": 34
+},
+"|The Dance of Light": {
+"f": "i/cal-TheDanceofLight.png",
+"h": 42,
+"w": 40
+},
+"|The Digester": {
+"f": "i/tho-TheDigester.png",
+"h": 42,
+"w": 42
+},
+"|The Effuser": {
+"f": "i/tho-TheEffuser.png",
+"h": 28,
+"w": 34
+},
+"|The First Shadowflame": {
+"f": "i/cal-TheFirstShadowflame.png",
+"h": 48,
+"w": 32
+},
+"|The Giga Needle": {
+"f": "i/tho-TheGigaNeedle.png",
+"h": 60,
+"w": 60
+},
+"|The God's Gambit": {
+"f": "i/cal-TheGodsGambit.png",
+"h": 38,
+"w": 36
+},
+"|The Good Book": {
+"f": "i/tho-TheGoodBook.png",
+"h": 30,
+"w": 28
+},
+"|The Green Tambourine": {
+"f": "i/tho-TheGreenTambourine.png",
+"h": 42,
+"w": 38
+},
+"|The Hive": {
+"f": "i/cal-TheHive.png",
+"h": 29,
+"w": 64
+},
+"|The Last Mourning": {
+"f": "i/cal-TheLastMourning.png",
+"h": 64,
+"w": 64
+},
+"|The Lullaby": {
+"f": "i/tho-TheLullaby.png",
+"h": 58,
+"w": 58
+},
+"|The Maw": {
+"f": "i/tho-TheMaw.png",
+"h": 56,
+"w": 56
+},
+"|The Microwave": {
+"f": "i/cal-TheMicrowave.png",
+"h": 34,
+"w": 34
+},
+"|The Old Reaper": {
+"f": "i/cal-TheOldReaper.png",
+"h": 63,
+"w": 64
+},
+"|The Ring": {
+"f": "i/tho-TheRing.png",
+"h": 24,
+"w": 28
+},
+"|The Set": {
+"f": "i/tho-TheSet.png",
+"h": 24,
+"w": 40
+},
+"|The Sponge": {
+"f": "i/cal-TheSponge.png",
+"h": 46,
+"w": 36
+},
+"|The Swarmer": {
+"f": "i/cal-TheSwarmer.png",
+"h": 52,
+"w": 60
+},
+"|The Syringe": {
+"f": "i/cal-TheSyringe.png",
+"h": 50,
+"w": 18
+},
+"|The Transformer": {
+"f": "i/cal-TheTransformer.png",
+"h": 36,
+"w": 26
+},
+"|The Triangle": {
+"f": "i/tho-TheTriangle.png",
+"h": 40,
+"w": 38
+},
+"|The Ultimate Stick of Supreme Power and Infinite Destruction": {
+"f": "i/ars-Stick.png",
+"h": 32,
+"w": 32
+},
+"|The Undertaker": {
+"f": "i/v-TheUndertaker.png",
+"h": 24,
+"w": 46
+},
+"|The Windmill": {
+"f": "i/cbh-TheWindmill.png",
+"h": 54,
+"w": 54
+},
+"|The Zapper": {
+"f": "i/tho-TheZapper.png",
+"h": 24,
+"w": 56
+},
+"|Thermal Polarizer": {
+"f": "i/sots-ThermalPolarizer.png",
+"h": 20,
+"w": 32
+},
+"|Thorium Heavy Scythe": {
+"f": "i/trw-ThoriumHeavyScythe.png",
+"h": 64,
+"w": 37
+},
+"|Thorium Revolver": {
+"f": "i/tho-ThoriumRevolver.png",
+"h": 22,
+"w": 42
+},
+"|Thorium Staff": {
+"f": "i/tho-ThoriumStaff.png",
+"h": 40,
+"w": 40
+},
+"|Thorn Blossom": {
+"f": "i/cal-ThornBlossom.png",
+"h": 64,
+"w": 60
+},
+"|Thorns Potion": {
+"f": "i/v-ThornsPotion.png",
+"h": 30,
+"w": 20
+},
+"|Thread of Eradication": {
+"f": "i/cal-ThreadOfEradication.png",
+"h": 64,
+"w": 31
+},
+"|Thrombosis": {
+"f": "i/tho-Thrombosis.png",
+"h": 36,
+"w": 34
+},
+"|Thumb Ring": {
+"f": "i/tho-ThumbRing.png",
+"h": 24,
+"w": 32
+},
+"|Thunder Talon": {
+"f": "i/tho-ThunderTalon.png",
+"h": 44,
+"w": 44
+},
+"|Thunderstruck": {
+"f": "i/tho-Thunderstruck.png",
+"h": 50,
+"w": 62
+},
+"|Tide Conduit": {
+"f": "i/sots-TidalConduit.png",
+"h": 56,
+"w": 60
+},
+"|Tide Hunter armor": {
+"f": "i/tho-TideHunterCap.png",
+"h": 24,
+"w": 28
+},
+"|Tide Turner's armor": {
+"f": "i/tho-TideTurnerHelmet.png",
+"h": 22,
+"w": 24
+},
+"|Tiki armor": {
+"f": "i/v-TikiMask.png",
+"h": 28,
+"w": 20
+},
+"|Titan Heart armor": {
+"f": "i/cal-TitanHeartMask.png",
+"h": 22,
+"w": 24
+},
+"|Titan Potion": {
+"f": "i/v-TitanPotion.png",
+"h": 30,
+"w": 20
+},
+"|Titan Scythe": {
+"f": "i/tho-TitanScythe.png",
+"h": 50,
+"w": 54
+},
+"|Titan Slayer Sheath": {
+"f": "i/tho-TitanSlayerSheath.png",
+"h": 36,
+"w": 38
+},
+"|Titanium Cimbasso": {
+"f": "i/tho-TitaniumCimbasso.png",
+"h": 64,
+"w": 37
+},
+"|Titanium armor": {
+"f": "i/v-TitaniumMask.png",
+"h": 24,
+"w": 26
+},
+"|Tix-Burnt Ring": {
+"f": "i/ie-RingofTix.png",
+"h": 30,
+"w": 31
+},
+"|Tonbogiri": {
+"f": "i/con-Tonbogiri.png",
+"h": 54,
+"w": 54
+},
+"|Tooth Ache": {
+"f": "i/sots-ToothAche.png",
+"h": 49,
+"w": 64
+},
+"|Tooth Ball": {
+"f": "i/cal-ToothBall.png",
+"h": 36,
+"w": 32
+},
+"|Topaz Ring": {
+"f": "i/tho-TopazRing.png",
+"h": 18,
+"w": 26
+},
+"|Totality Breakers": {
+"f": "i/cal-TotalityBreakers.png",
+"h": 42,
+"w": 32
+},
+"|Toxicant Twister": {
+"f": "i/cal-ToxicantTwister.png",
+"h": 46,
+"w": 42
+},
+"|Toxikarp": {
+"f": "i/v-Toxikarp.png",
+"h": 32,
+"w": 34
+},
+"|Track Player": {
+"f": "i/tho-MusicPlayerNotActivated.png",
+"h": 34,
+"w": 32
+},
+"|Tradewinds": {
+"f": "i/cal-Tradewinds.png",
+"h": 30,
+"w": 28
+},
+"|TriggerBlade": {
+"f": "i/ars-SuperShotgun.png",
+"h": 20,
+"w": 64
+},
+"|Trimarang": {
+"f": "i/v-Trimarang.png",
+"h": 36,
+"w": 42
+},
+"|Trombone": {
+"f": "i/tho-Trombone.png",
+"h": 37,
+"w": 64
+},
+"|True Blood Harvest": {
+"f": "i/tho-TrueBloodHarvest.png",
+"h": 48,
+"w": 64
+},
+"|True Excalibur": {
+"f": "i/v-TrueExcalibur.png",
+"h": 52,
+"w": 52
+},
+"|True Falling Twilight": {
+"f": "i/tho-TrueFallingTwilight.png",
+"h": 52,
+"w": 54
+},
+"|True Hallowed Scythe": {
+"f": "i/tho-TrueHallowedScythe.png",
+"h": 58,
+"w": 60
+},
+"|Tungsten Bullet": {
+"f": "i/v-TungstenBullet.png",
+"h": 12,
+"w": 12
+},
+"|Turbulance": {
+"f": "i/cal-Turbulance.png",
+"h": 56,
+"w": 56
+},
+"|Turkey Staff": {
+"f": "i/con-TurkeyStuff.png",
+"h": 38,
+"w": 34
+},
+"|Turntable": {
+"f": "i/tho-Turntable.png",
+"h": 38,
+"w": 50
+},
+"|Turtle Drums": {
+"f": "i/tho-TurtleDrum.png",
+"h": 24,
+"w": 46
+},
+"|Twilight Assassin armor": {
+"f": "i/sots-TwilightAssassinsCirclet.png",
+"h": 22,
+"w": 30
+},
+"|Twilight Staff": {
+"f": "i/tho-TwilightStaff.png",
+"h": 50,
+"w": 50
+},
+"|Twisting Thunder": {
+"f": "i/cal-TwistingThunder.png",
+"h": 22,
+"w": 42
+},
+"|Tyranny's End": {
+"f": "i/cal-TyrannysEnd.png",
+"h": 20,
+"w": 64
+},
+"|Ukulele": {
+"f": "i/tho-Ukulele.png",
+"h": 38,
+"w": 38
+},
+"|Ultimate Polarizer": {
+"f": "i/sots-UltimatePolarizer.png",
+"h": 50,
+"w": 30
+},
+"|Umbraphile armor": {
+"f": "i/cal-UmbraphileHood.png",
+"h": 20,
+"w": 22
+},
+"|Undine's Retribution": {
+"f": "i/cal-UndinesRetribution.png",
+"h": 64,
+"w": 64
+},
+"|Unholy Arrow": {
+"f": "i/v-UnholyArrow.png",
+"h": 32,
+"w": 14
+},
+"|Unholy Arrows": {
+"f": "i/v-UnholyArrow.png",
+"h": 32,
+"w": 14
+},
+"|Unholy Tonic": {
+"f": "i/cal-UnholyTonic.png",
+"h": 48,
+"w": 36
+},
+"|Unholy Trident": {
+"f": "i/v-UnholyTrident.png",
+"h": 36,
+"w": 36
+},
+"|Universal Genesis": {
+"f": "i/cal-UniversalGenesis.png",
+"h": 24,
+"w": 64
+},
+"|Universe Splitter": {
+"f": "i/cal-UniverseSplitter.png",
+"h": 52,
+"w": 26
+},
+"|Unstable Granite Core": {
+"f": "i/cal-UnstableGraniteCore.png",
+"h": 48,
+"w": 46
+},
+"|Urchin Mace": {
+"f": "i/cal-UrchinMace.png",
+"h": 48,
+"w": 42
+},
+"|Ursa Sergeant": {
+"f": "i/cal-UrsaSergeant.png",
+"h": 26,
+"w": 36
+},
+"|Utensil Poker": {
+"f": "i/cal-UtensilPoker.png",
+"h": 32,
+"w": 30
+},
+"|Uzi": {
+"f": "i/v-Uzi.png",
+"h": 36,
+"w": 48
+},
+"|Valadium Theremin": {
+"f": "i/tho-ValadiumTheremin.png",
+"h": 34,
+"w": 44
+},
+"|Valhalla Knight armor": {
+"f": "i/v-SquireAltHead.png",
+"h": 38,
+"w": 26
+},
+"|Vampiric Talisman": {
+"f": "i/cal-VampiricTalisman.png",
+"h": 36,
+"w": 64
+},
+"|Vanquisher Arrows": {
+"f": "i/cal-VanquisherArrow.png",
+"h": 46,
+"w": 22
+},
+"|Veering Wind": {
+"f": "i/cal-VeeringWind.png",
+"h": 32,
+"w": 28
+},
+"|Vega": {
+"f": "i/cal-Vega.png",
+"h": 64,
+"w": 64
+},
+"|Vehemence": {
+"f": "i/cal-Vehemence.png",
+"h": 63,
+"w": 64
+},
+"|Vengeful Sun Staff": {
+"f": "i/cal-VengefulSunStaff.png",
+"h": 64,
+"w": 64
+},
+"|Venom Arrows": {
+"f": "i/v-VenomArrow.png",
+"h": 38,
+"w": 14
+},
+"|Venom Bullets": {
+"f": "i/v-VenomBullet.png",
+"h": 12,
+"w": 8
+},
+"|Venom Staff": {
+"f": "i/v-VenomStaff.png",
+"h": 40,
+"w": 40
+},
+"|Venusian Trident": {
+"f": "i/cal-VenusianTrident.png",
+"h": 62,
+"w": 64
+},
+"|Verium Bolts": {
+"f": "i/cal-VeriumBolt.png",
+"h": 40,
+"w": 14
+},
+"|Vertebraeker": {
+"f": "i/sots-Vertebraeker.png",
+"h": 64,
+"w": 60
+},
+"|Vespera NanDao": {
+"f": "i/sots-VesperaNanDao.png",
+"h": 46,
+"w": 42
+},
+"|Vessel Buster": {
+"f": "i/tho-VesselBuster.png",
+"h": 46,
+"w": 54
+},
+"|Vibe Potion": {
+"f": "i/sots-VibePotion.png",
+"h": 28,
+"w": 20
+},
+"|Vibrancy Module": {
+"f": "i/sots-VibrancyModule.png",
+"h": 22,
+"w": 34
+},
+"|Vibrant Blade": {
+"f": "i/sots-VibrantBlade.png",
+"h": 48,
+"w": 48
+},
+"|Vibrant Cannon": {
+"f": "i/sots-VibrantCannon.png",
+"h": 29,
+"w": 64
+},
+"|Vibrant Pistol": {
+"f": "i/sots-VibrantPistol.png",
+"h": 24,
+"w": 36
+},
+"|Vibrant Tomahawk": {
+"f": "i/sbh-VibrantTomahawk.png",
+"h": 40,
+"w": 50
+},
+"|Vibrant armor": {
+"f": "i/sots-VibrantHelmet.png",
+"h": 24,
+"w": 20
+},
+"|Vibration Tuner": {
+"f": "i/tho-VibrationTuner.png",
+"h": 36,
+"w": 26
+},
+"|Vicious Tonic": {
+"f": "i/cal-ViciousTonic.png",
+"h": 48,
+"w": 32
+},
+"|Victide armor": {
+"f": "i/cal-VictideHeadMagic.png",
+"h": 28,
+"w": 32
+},
+"|Vigor Potion": {
+"f": "i/sots-VigorPotion.png",
+"h": 34,
+"w": 24
+},
+"|Vile Feeder": {
+"f": "i/cal-VileFeeder.png",
+"h": 34,
+"w": 36
+},
+"|Vile Flail-Core": {
+"f": "i/tho-VileFlailCore.png",
+"h": 30,
+"w": 30
+},
+"|Vilethorn": {
+"f": "i/v-Vilethorn.png",
+"h": 32,
+"w": 32
+},
+"|Vinyl Record": {
+"f": "i/tho-VinylRecord.png",
+"h": 34,
+"w": 34
+},
+"|Violet Crescent": {
+"f": "i/sots-VioletStar.png",
+"h": 22,
+"w": 22
+},
+"|Violin": {
+"f": "i/tho-Violin.png",
+"h": 52,
+"w": 52
+},
+"|Violince": {
+"f": "i/cbh-Violince.png",
+"h": 50,
+"w": 38
+},
+"|Viral Sprout": {
+"f": "i/cal-ViralSprout.png",
+"h": 42,
+"w": 32
+},
+"|Virid Vanguard": {
+"f": "i/cal-ViridVanguard.png",
+"h": 36,
+"w": 26
+},
+"|Viscount's Cane": {
+"f": "i/tho-ViscountCane.png",
+"h": 44,
+"w": 44
+},
+"|Vital Crystal": {
+"f": "i/v-AegisCrystal.png",
+"h": 28,
+"w": 36
+},
+"|Vitriolic Viper": {
+"f": "i/cal-VitriolicViper.png",
+"h": 62,
+"w": 60
+},
+"|Void Charm": {
+"f": "i/sots-VoidCharm.png",
+"h": 36,
+"w": 36
+},
+"|Void Eater Marionette": {
+"f": "i/cal-VoidEaterMarionette.png",
+"h": 64,
+"w": 64
+},
+"|Void Striders": {
+"f": "i/cal-VoidStriders.png",
+"h": 36,
+"w": 48
+},
+"|Void Vortex": {
+"f": "i/cal-VoidVortex.png",
+"h": 64,
+"w": 64
+},
+"|Voiden Ankh": {
+"f": "i/sots-VoidenAnkh.png",
+"h": 46,
+"w": 26
+},
+"|Voiden Bracelet": {
+"f": "i/sots-VoidenBracelet.png",
+"h": 24,
+"w": 26
+},
+"|Voidmage Incubator": {
+"f": "i/sots-VoidmageIncubator.png",
+"h": 44,
+"w": 24
+},
+"|Voidragon": {
+"f": "i/cal-Voidragon.png",
+"h": 25,
+"w": 64
+},
+"|Voidspace Emblem": {
+"f": "i/sots-VoidspaceEmblem.png",
+"h": 36,
+"w": 32
+},
+"|Volcano": {
+"f": "i/v-FieryGreatsword.png",
+"h": 64,
+"w": 64
+},
+"|Voltaic Climax": {
+"f": "i/cal-VoltaicClimax.png",
+"h": 64,
+"w": 64
+},
+"|Voltaic Jelly": {
+"f": "i/cal-VoltaicJelly.png",
+"h": 24,
+"w": 18
+},
+"|Volterion": {
+"f": "i/cal-Volterion.png",
+"h": 17,
+"w": 64
+},
+"|Vortex Booster": {
+"f": "i/v-WingsVortex.png",
+"h": 24,
+"w": 30
+},
+"|Vortex armor": {
+"f": "i/v-VortexHelmet.png",
+"h": 22,
+"w": 24
+},
+"|Vortexpopper": {
+"f": "i/cal-Vortexpopper.png",
+"h": 25,
+"w": 64
+},
+"|Vuvuzela Blue": {
+"f": "i/tho-VuvuzelaBlue.png",
+"h": 17,
+"w": 64
+},
+"|Wack Wrench": {
+"f": "i/tho-WackWrench.png",
+"h": 26,
+"w": 28
+},
+"|War Table": {
+"f": "i/v-WarTable.png",
+"h": 22,
+"w": 32
+},
+"|Warbanner of the Righteous": {
+"f": "i/cal-WarbanneroftheRighteous.png",
+"h": 64,
+"w": 28
+},
+"|Warmth Potion": {
+"f": "i/v-WarmthPotion.png",
+"h": 30,
+"w": 20
+},
+"|Wasp Gun": {
+"f": "i/v-WaspGun.png",
+"h": 30,
+"w": 52
+},
+"|Wave Pounder": {
+"f": "i/cal-WavePounder.png",
+"h": 44,
+"w": 26
+},
+"|Weather Pain": {
+"f": "i/v-WeatherPain.png",
+"h": 48,
+"w": 42
+},
+"|White String": {
+"f": "i/v-WhiteString.png",
+"h": 28,
+"w": 28
+},
+"|Wild Umbra": {
+"f": "i/tho-WildUmbra.png",
+"h": 30,
+"w": 28
+},
+"|Wildfire Bloom": {
+"f": "i/cal-WildfireBloom.png",
+"h": 33,
+"w": 64
+},
+"|Will of Coznix": {
+"f": "i/trw-BeholderBlade.png",
+"h": 64,
+"w": 61
+},
+"|Wind Blade": {
+"f": "i/cal-WindBlade.png",
+"h": 58,
+"w": 58
+},
+"|Wind Chimes": {
+"f": "i/tho-WindChimes.png",
+"h": 40,
+"w": 30
+},
+"|Wind Reaver": {
+"f": "i/rag-WindReaver.png",
+"h": 64,
+"w": 53
+},
+"|Windward": {
+"f": "i/cbh-Windward.png",
+"h": 16,
+"w": 64
+},
+"|Wingman": {
+"f": "i/cal-Wingman.png",
+"h": 42,
+"w": 44
+},
+"|Wings of Rebirth": {
+"f": "i/cal-WingsofRebirth.png",
+"h": 54,
+"w": 64
+},
+"|Wither Blossoms Staff": {
+"f": "i/cal-WitherBlossomsStaff.png",
+"h": 54,
+"w": 56
+},
+"|Wizard Hat": {
+"f": "i/v-WizardHat.png",
+"h": 22,
+"w": 34
+},
+"|Wizard Shoes": {
+"f": "i/tho-WizardShoes.png",
+"h": 22,
+"w": 32
+},
+"|Wooden Arrows": {
+"f": "i/v-WoodenArrow.png",
+"h": 32,
+"w": 14
+},
+"|Worldly Polarizer": {
+"f": "i/sots-WorldlyPolarizer.png",
+"h": 24,
+"w": 18
+},
+"|Worm Scarf": {
+"f": "i/v-WormScarf.png",
+"h": 26,
+"w": 26
+},
+"|Wormhole Arrow": {
+"f": "i/sots-SkipArrow.png",
+"h": 52,
+"w": 18
+},
+"|Wormhole Bullet": {
+"f": "i/sots-SkipBullet.png",
+"h": 30,
+"w": 16
+},
+"|Wormwood armor": {
+"f": "i/sots-NatureWreath.png",
+"h": 12,
+"w": 24
+},
+"|Wrath Potion": {
+"f": "i/v-WrathPotion.png",
+"h": 30,
+"w": 20
+},
+"|Wrathwing": {
+"f": "i/cal-Wrathwing.png",
+"h": 62,
+"w": 64
+},
+"|Wreath": {
+"f": "i/tho-Wreath.png",
+"h": 38,
+"w": 42
+},
+"|Writhing Sheath": {
+"f": "i/tho-WrithingSheath.png",
+"h": 34,
+"w": 36
+},
+"|Wulfrum Battery": {
+"f": "i/cal-WulfrumBattery.png",
+"h": 28,
+"w": 20
+},
+"|Wulfrum Controller": {
+"f": "i/cal-WulfrumController.png",
+"h": 38,
+"w": 30
+},
+"|Wulfrum Megaphone": {
+"f": "i/cbh-WulfrumMegaphone.png",
+"h": 34,
+"w": 42
+},
+"|Wulfrum Weed Wacker": {
+"f": "i/cbh-WulfrumWeedWacker.png",
+"h": 64,
+"w": 41
+},
+"|Wulfrum armor": {
+"f": "i/cal-WulfrumHat.png",
+"h": 26,
+"w": 30
+},
+"|Xeno Staff": {
+"f": "i/v-XenoStaff.png",
+"h": 34,
+"w": 34
+},
+"|Xenopopper": {
+"f": "i/v-Xenopopper.png",
+"h": 22,
+"w": 42
+},
+"|Xylophone": {
+"f": "i/tho-Xylophone.png",
+"h": 18,
+"w": 40
+},
+"|Yarn Ball": {
+"f": "i/tho-YarnBall.png",
+"h": 24,
+"w": 36
+},
+"|Yew Wood Lute": {
+"f": "i/tho-YewWoodLute.png",
+"h": 46,
+"w": 50
+},
+"|Yew Wood armor": {
+"f": "i/tho-YewWoodHelmet.png",
+"h": 20,
+"w": 22
+},
+"|Yharim's Crystal": {
+"f": "i/cal-YharimsCrystal.png",
+"h": 46,
+"w": 54
+},
+"|Yharim's Gift": {
+"f": "i/cal-YharimsGift.png",
+"h": 64,
+"w": 57
+},
+"|Zephyr's Ruin": {
+"f": "i/trw-ZephyrsRuin.png",
+"h": 64,
+"w": 64
+},
+"|Zunpet": {
+"f": "i/tho-Zunpet.png",
+"h": 36,
+"w": 64
+}
+}

@@ -9,6 +9,7 @@ Stage-by-stage gear for all seven classes (Melee, Ranged, Magic, Summoner, Rogue
 
 - `content/` holds one Markdown file per page.
 - `python3 build.py` turns them into the static site in `docs/`, which GitHub Pages serves. No dependencies beyond Python 3.
+- `content/icons.json` and `content/bosses.json` map item and boss names to the sprites in `docs/assets/img/`.
 
 ## Where the lists come from
 
@@ -18,4 +19,4 @@ Stage-by-stage gear for all seven classes (Melee, Ranged, Magic, Summoner, Rogue
 - The [Calamity Mod wiki](https://calamitymod.wiki.gg/wiki/Guide:Class_setups) class setups for curated Ranged, Magic,
   Summoner and Rogue picks, and the [Thorium Mod wiki](https://thoriummod.wiki.gg/wiki/Guide:Class_setups).
 
-This is an unofficial fan guide. Terraria and every mod named here belong to their creators.
+This is an unofficial fan guide. Item and boss sprites come from Terraria and the mods named here; Terraria and every mod belong to their creators.
