@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+# local extraction pipeline and its 2.5 MB item dump; not needed to build the site
+tools/
+data/
